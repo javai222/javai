@@ -1,18 +1,18 @@
-Balanon, Ryan James 
-Cantela, Chris Nelson
-Casapao, Jasmin Ann
-Conel, Rahzel Heeroe R.
-De Leon, Lord Ulrick
-Dolormente, Henry II, S.
-Javier, Charles Justin
-Mance, John Roque R.
-Mercado, Dustin Elijah
-Plantilla, Jophel Mark P.
-Quimpan, Deither
-Saan, Kenneth
-Silva, Vinz Joseph R.
-Tismo, Yvette Germaine
-Torrefranca, Vincent Christopher P.
+1. Balanon, Ryan James
+2. Cantela, Chris Nelson
+3. Casapao, Jasmin Ann
+4. Conel, Rahzel Heeroe R.
+5. De Leon, Lord Ulrick
+6. Dolormente, Henry II, S.
+7. Javier, Charles Justin
+8. Mance, John Roque R.
+9. Mercado, Dustin Elijah
+10. Plantilla, Jophel Mark P.
+11. Quimpan, Deither
+12. Saan, Kenneth
+13. Silva, Vinz Joseph R.
+14. Tismo, Yvette Germaine
+15. Torrefranca, Vincent Christopher P.
 
 
 
