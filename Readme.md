@@ -1,4 +1,4 @@
-Balanon, Ryan James
+Balanon, Ryan James \n 
 Cantela, Chris Nelson
 Casapao, Jasmin Ann
 Conel, Rahzel Heeroe R.
