@@ -1,1 +1,0 @@
-Pogi ako
