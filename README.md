@@ -1,7 +1,9 @@
 <h1>Javai</h1>
 
-<i><b>Our course code is: CCOBJPGL and this is Object Oriented Programming Lecture</b></i>
-<i>Our professor is Ramon Leonardo C. Capunpon</i>
+<h2><i><b>Our course code is: CCOBJPGL and this is Object Oriented Programming Lecture</b></i></h2>
+<h3><i>Subject Professor: Ramon Leonardo C. Capunpon</i></h3>
+<h4><i>Section: BSCS251A</i></h4>
+<h4><i>Members:</i></h4>
 
 
 
@@ -21,4 +23,4 @@
 14. Tismo, Yvette Germaine
 15. Torrefranca, Vincent Christopher P.
 
-<h3>Join our Teams Channel: https://teams.microsoft.com/l/channel/19%3Aa119c3b9b5bc4ba08f3a147c41ff30ec%40thread.tacv2/BSCS251A?groupId=d43f4421-eaea-4f84-b2d0-b869a915d337&tenantId=1d981f77-3ca3-46ae-b0d4-e8044e6c7f84</h3
+<h3>📢📢📢Join our Teams Channel: https://teams.microsoft.com/l/channel/19%3Aa119c3b9b5bc4ba08f3a147c41ff30ec%40thread.tacv2/BSCS251A?groupId=d43f4421-eaea-4f84-b2d0-b869a915d337&tenantId=1d981f77-3ca3-46ae-b0d4-e8044e6c7f84</h3
