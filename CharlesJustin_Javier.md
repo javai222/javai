@@ -12,4 +12,4 @@
 
 ## 📘 Journals
 
-**\<03/05/2026\>** : I learned _______ in our lab and to improve, next time I will ________.
+**\<03/05/2026\>** : I learned fundamentals of object-oriented programming as well as its four pillars, their functions, and how to use them in our lab and to improve, next time I will do some research and practice using it in my next projects..
