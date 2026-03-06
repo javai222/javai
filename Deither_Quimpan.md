@@ -13,4 +13,4 @@
 
 ## 📘 Journals
 
-**\<03/06/2026\>** : I learned _______ in our lab and to improve, next time I will ________.
+**\<03/06/2026\>** : I learned about making a term project draft with my groupmates in our lab and to improve, next time I will mamage my time better.
