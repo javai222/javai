@@ -12,4 +12,4 @@
 
 ## 📘 Journals
 
-\<03/06/2026\> : I learned ___ in our lab and to improve, next time I will ____.
+\<03/06/2026\> : I learned the 4 pillars of Object-Oriented Programming in our lab and to improve, next time I will use it in the right field.
