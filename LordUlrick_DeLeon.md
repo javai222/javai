@@ -12,4 +12,4 @@
 
 ## 📘 Journals
 
-**\<03/05/2026\>** : I learned _______ in our lab and to improve, next time I will ________.
+**\<03/06/2026\>** : I learned about the importance of clear communication and cooperation in software development in our lab and to improve, next time I will try to be more attentive and participate more during our meetings.
