@@ -12,4 +12,4 @@
 
 ## 📘 Journals
 
-**\<03/05/2026\>** : I learned _______ in our lab and to improve, next time I will ________.
+**\<03/06/2026\>** : I learned the basic 4 concepts of OOP in our lab and to improve, next time I will practice and try implementing this concepts in coding.
