@@ -15,5 +15,5 @@ KennethSaan
 
 ## 📘 Journals
 
-**\<03/06/2026\>** : I learned _______ in our lab and to improve, next time I will _
-______.
+**\<03/06/2026\>** : I learned ___The core concept of Object oriented programming, and the 4 pillars of it, their functionalities and usage____ in our lab and to improve, next time I will _
+___do a research and practice to apply it in my future projects ___.
