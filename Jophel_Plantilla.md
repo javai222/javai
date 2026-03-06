@@ -12,4 +12,4 @@
 
 ## 📘 Journals
 
-**\<03/06/2026\>** : I learned _______ in our lab and to improve, next time I will ________.
+**\<03/06/2026\>** : I learned about the differences between classes and objects in object-oriented programming and the four principles of this course subject in our lab and to improve, next time I will do advance study to learn more about programming.
