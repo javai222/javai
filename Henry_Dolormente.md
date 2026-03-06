@@ -12,4 +12,5 @@
 
 ## 📘 Journals
 
-*\<03/06/2026\>* : I learned _____ in our lab and to improve, next time I will ______.
+*\<03/06/2026\>* : The main point of today's lesson on OOP is the 4 pillars of it. For the activity I noticed that communication is really the main point of teamwork
+without it, everything just jumps in to chaos because of multiple mics being active. Next time I will try to research more about github to make our team efficient.
