@@ -12,4 +12,4 @@
 
 ## 📘 Journals
 
-\<03/06/2026\> : I learned ___ in our lab and to improve, next time I will ____.
+\<03/06/2026\> : I learned the important parts of Object-oriented Programming as well as its benefits and roles in the real world in our lab and to improve, next time I will try harder to undestand every concept so that i can acquaire knowledge from it.
