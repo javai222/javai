@@ -15,5 +15,5 @@ KennethSaan
 
 ## 📘 Journals
 
-**\<03/06/2026\>** : I learned _______ in our lab and to improve, next time I will __s
+**\<03/06/2026\>** : I learned _______ in our lab and to improve, next time I will _
 ______.
