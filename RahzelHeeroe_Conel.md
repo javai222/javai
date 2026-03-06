@@ -12,4 +12,4 @@
 
 ## 📘 Journals
 
-**\<03/05/2026\>** : I learned _______ in our lab and to improve, next time I will ________.
+I learned th core concept of oop and its 4 pillars in our lab and to improve, next time I will participate more in recitations and attend more classes.
