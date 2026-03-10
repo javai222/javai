@@ -44,9 +44,9 @@ public class yarn {
         System.out.println("Buyer has updated the yarn color to " + color + ".");
     }
 
-    void updatePlysize(String newPlysize) {
+    void updatePlysize(int newPlysize) {
         plysize = newPlysize;
-        System.out.println("Buyer has updated the yarn color to " + color + ".");
+        System.out.println("Buyer has updated the yarn ply size to " + plysize + ".");
     }
 
     void updateGrams(int newGrams) {
