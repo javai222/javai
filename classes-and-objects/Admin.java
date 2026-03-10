@@ -1,3 +1,8 @@
+/*
+* This class represents an admin that has basic information and behavior
+* Created by Cantela, Chris Nelson B.
+*/
+
 public class Admin {
                                 //main attributes of admin class
     String adminID;
