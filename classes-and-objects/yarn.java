@@ -32,15 +32,15 @@ public class yarn {
     }
 
     public String getColor(){
-        this.color;
+        return this.color;
     }
 
     public int getPlysize(){
-        this.plysize;
+        return this.plysize;
     }
 
     public int getGrams(){
-        this.grams;
+        return this.grams;
     }
 
     // Behavior without parameters
