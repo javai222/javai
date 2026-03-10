@@ -1,0 +1,65 @@
+public class Badminton {
+    String racketName;              // Attributes
+    String racketBrand;              
+    String racketType;
+    String racketMaterial;              
+    String racketString;
+    int racketPrice;
+    double racketWeight;
+    
+    static int totalRackets = 0;  // Static attribute
+
+    Badminton() {                   // Default constructor
+        racketName = "Unknown";
+        racketBrand = "Unknown";
+        racketType = "Unknown";
+        racketMaterial = "Unknown";
+        racketString = "Unknown";
+        racketPrice = 0;
+        racketWeight = 0.0;
+        totalRackets++;
+    }
+                                    // Parameterized constructor
+    Badminton(String racketName, String racketBrand, String racketType, String racketMaterial,
+                String racketString, int racketPrice, double racketWeight) {
+        this.racketName = racketName;
+        this.racketBrand = racketBrand;
+        this.racketType = racketType;
+        this.racketMaterial = racketMaterial;
+        this.racketString = racketString;
+        this.racketPrice = racketPrice;
+        this.racketWeight = racketWeight;
+        totalRackets++;
+    }
+
+                                    // Overloaded constructor
+    Badminton(String racketName, String racketBrand, String racketType, String racketMaterial,
+                String racketString, int racketPrice, double racketWeight) {
+        this.racketName = racketName;
+        this.racketBrand = racketBrand;
+        this.racketType = "head heavy";
+        this.racketMaterial = "carbon";
+        this.racketString = racketString;
+        this.racketPrice = 12000;
+        this.racketWeight = 0.83;
+        totalRackets++;
+    }
+
+                                    // Behavior without parameters
+    introduceRacket() {
+        System.out.println("This racket is from " + racketBrand + " and is named " + racketName
+        + " its racket type is " + racketType + "." + " It is made of " + racketMaterial + " and has a " + racketString + " string to it, it weighs " + racketWeight 
+        + "g and costs " + racketPrice + " pesos.");
+    }
+
+                                    // Behavior with parameters
+    updateRacket(String newBrand) {
+        racketBrand = newBrand;
+        System.out.println(racketName + " is now updated to " + racketBrand);
+    }
+
+                                    // Static method
+    displayTotalRackets() {
+        System.out.println("Total Rackets: " + totalRackets);
+    }
+}
