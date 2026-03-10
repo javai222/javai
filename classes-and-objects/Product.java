@@ -1,5 +1,4 @@
 public class Product {
-
     // Attributes
     String name;
     double price;
