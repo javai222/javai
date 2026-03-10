@@ -1,5 +1,5 @@
-class product {
-    Static string shirt;
+public class product {
+    public static String shirt;
 
     String brand;
     String size;
@@ -11,5 +11,15 @@ class product {
         this.type = type;
     }
     product();
-        shirt = "H&M";
+        brand = "H&M";
+        size = "Medium";
+        type = "T-shirt";
+    product();
+        brand = "Oxgn";
+        size = "Large";
+        type = "Polo";
+    product();
+        brand = "Uniqlo";
+        size = "Small";
+        type = "Cropped Shirt";
 }
