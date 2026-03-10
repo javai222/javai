@@ -48,7 +48,7 @@ public class Badminton {
     void introduceRacket() {
         System.out.println("This racket is from " + racketBrand + " and is named " + racketName
         + " its racket type is " + racketType + "." + " It is made of " + racketMaterial + " and has a " + racketString + " string to it, it weighs " + racketWeight 
-        + "g and costs " + racketPrice + " pesos.");
+        + "g and costs " + racketPrice + " pesos.\n");
     }
 
                                     // Behavior with parameters
