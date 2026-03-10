@@ -33,8 +33,7 @@ public class Badminton {
     }
 
                                     // Overloaded constructor
-    Badminton(String racketName, String racketBrand, String racketType, String racketMaterial,
-                String racketString, int racketPrice, double racketWeight) {
+    Badminton(String racketName, String racketBrand, String racketString) {
         this.racketName = racketName;
         this.racketBrand = racketBrand;
         this.racketType = "head heavy";
@@ -46,20 +45,20 @@ public class Badminton {
     }
 
                                     // Behavior without parameters
-    introduceRacket() {
+    void introduceRacket() {
         System.out.println("This racket is from " + racketBrand + " and is named " + racketName
         + " its racket type is " + racketType + "." + " It is made of " + racketMaterial + " and has a " + racketString + " string to it, it weighs " + racketWeight 
         + "g and costs " + racketPrice + " pesos.");
     }
 
                                     // Behavior with parameters
-    updateRacket(String newBrand) {
+    void updateRacket(String newBrand) {
         racketBrand = newBrand;
         System.out.println(racketName + " is now updated to " + racketBrand);
     }
 
                                     // Static method
-    displayTotalRackets() {
+    static void displayTotalRackets() {
         System.out.println("Total Rackets: " + totalRackets);
     }
 }
