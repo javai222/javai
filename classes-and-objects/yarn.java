@@ -39,6 +39,16 @@ public class yarn {
     }
 
     // Behavior with parameters
+    void updateColor(String newColor) {
+        color = newColor;
+        System.out.println("Buyer has updated the yarn color to " + color + ".");
+    }
+
+    void updatePlysize(String newPlysize) {
+        plysize = newPlysize;
+        System.out.println("Buyer has updated the yarn color to " + color + ".");
+    }
+
     void updateGrams(int newGrams) {
         grams = newGrams;
         System.out.println("Buyer has updated the yarn grams to " + grams + ".");
