@@ -2,24 +2,24 @@ public class ObjectDetailsPrinter {
     public static void main(String[] args) {
         // This is the object instance created from the Student class
         // Object using default constructor
-        Badminton r1 = new Badminton();
+        Student s1 = new Student();
 
         // Object using parameterized constructor
-        Badminton r2 = new Badminton("Yonex Astrox 99", "Yonex", "head heavy", "Graphite",
-                                 "BG66 Ultimax", 15000, 85.0);
+        Student s2 = new Student("Maria", 20, "BSCS");
 
         // Object using overloaded constructor
-        Badminton r3 = new Badminton("Li-Ning N90 III", "Li-Ning","BG80 Power");
+        Student s3 = new Student("Carlos", "BSIT");
 
         // Print attributes and trigger behaviors
-        r1.introduceRacket();
-        r2.introduceRacket();
-        r3.introduceRacket();
+        s1.introduce();
+        s2.introduce();
+
         // Method with parameter
-        r2.updateRacket("Alpsport");
+        s2.updateCourse("BS Data Science");
 
         // Static method
-        Badminton.displayTotalRackets();
+        Student.displayTotalStudents();
+        
     }
 }
 
