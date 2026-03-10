@@ -34,8 +34,8 @@ void AccountDisplay(){
 }
 
 void AccountAdd (String AddedAccount){
-    Add = AddedAccount;
-    System.out.println("Your account " + Add +  "has been added ");
+    AccountName = AddedAccount;
+    System.out.println("Your account " + AccountName +  "has been added ");
 }
 
 static void displayTotalAccount(){
