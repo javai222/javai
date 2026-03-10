@@ -32,7 +32,7 @@ public class yarn {
         System.out.println("The grams should be " + grams + ".");
     }
 
-    void updateGrams(String newGrams) {
+    void updateGrams(int newGrams) {
         grams = newGrams;
         System.out.println("Buyer has updated the yarn grams to " + grams + ".");
     }
