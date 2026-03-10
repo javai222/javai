@@ -49,4 +49,4 @@ public class Item {
         static void displayTotalItems(){
             System.out.println("Total Items: " +totalItems);
         }
-}
+     }
