@@ -1,0 +1,15 @@
+class product {
+    Static string shirt;
+
+    String brand;
+    String size;
+    String type;
+
+    product(String brand, String size, String type) {
+        this.brand = brand;
+        this.size = size;
+        this.type = type;
+    }
+    product();
+        shirt = "H&M";
+}
