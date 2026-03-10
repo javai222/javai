@@ -49,4 +49,16 @@ public class Item {
         static void displayTotalItems(){
             System.out.println("Total Items: " +totalItems);
         }
-     }
+
+    public String getItemName () {                                    
+        return this.itemName;
+    }    
+
+    public String getSeller () {                                   
+        return this.seller;
+    }
+
+    public String getItemPrice () {                                  
+        return this.itemPrice;
+    }
+}
