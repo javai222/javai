@@ -32,15 +32,15 @@ public class Product {
     }
 
     public String getName () {
-    return name;
+        return this.name;
     }
 
     public String getPrice() {
-        return price;
+        return this.price;
     }
 
     public String getBrand() {
-        return brand;
+        return this.brand;
     }
 
     // Method without parameter
