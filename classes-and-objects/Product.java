@@ -31,6 +31,18 @@ public class Product {
         totalObjects++;
     }
 
+    public String getName () {
+    return name;
+    }
+
+    public String getPrice() {
+        return price;
+    }
+
+    public String getBrand() {
+        return brand;
+    }
+
     // Method without parameter
     void displayProduct() {
         System.out.println("Product Name: " + name);
