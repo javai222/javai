@@ -77,40 +77,4 @@ public Admin (String userName, String password) {   //Overloaded constructor
     }
 }
 
- class Main {
-    public static void main(String[] args) {
-
-        // Test default constructor
-        Admin admin1 = new Admin();
-        admin1.displayInfo();
-        admin1.login();
-
-        System.out.println();
-
-        // Test parameterized constructor
-        Admin admin2 = new Admin("Alice", "pass123", "alice@email.com", true);
-        admin2.displayInfo();
-        admin2.login();
-
-        System.out.println();
-
-        // Test setters
-        admin1.setUsername("Bob");
-        admin1.setPassword("newpass");
-
-        // Test getters
-        System.out.println("Updated Username: " + admin1.getUsername());
-        System.out.println("Admin ID: " + admin1.getAdminID());
-        System.out.println("Account Status: " + admin1.getStatus());
-
-        System.out.println();
-
-        // Display updated info
-        admin1.displayInfo();
-
-        System.out.println();
-
-        // Test static counter
-        Admin.printCounter();
-    }
-}
+ 
