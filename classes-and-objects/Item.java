@@ -9,7 +9,7 @@ public class Item {
    static int totalItems = 0;
 
    // Default constructor
-   Items() {
+   Item() {
         this.itemName = "Gaming Chair";
         this.seller = "Jophel";
         this.itemPrice = 2500;
@@ -17,7 +17,7 @@ public class Item {
    }
 
    // Parameterized constructor
-   Items(String itemName, String seller, int itemPrice) {
+   Item(String itemName, String seller, int itemPrice) {
         this.itemName = itemName;
         this.seller = seller;
         this.itemPrice = itemPrice;
@@ -25,7 +25,7 @@ public class Item {
    }
 
     // Overloaded constructor
-   Items(String itemName, String seller) {
+   Item(String itemName, String seller) {
         this.itemName = itemName;
         this.seller = seller;
         this.itemPrice = 2500; //default price
