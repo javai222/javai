@@ -40,3 +40,13 @@ I could have done better on utilizing the codespace, but I did not because I can
 <MM/DD/YYYY> : Comment by: <COMMENTER_NAME>; You did well in _____ and you can improve by _____
 
 
+
+
+
+
+
+
+
+# Peer Feedback
+
+**\<03/11/2026\>** : Comment by: Plantilla, Jophel Mark P. ; You did well in creating class and objects, and you also showed good collaboration using GitHub, and you can improve by practicing more in coding to become better in programming.
