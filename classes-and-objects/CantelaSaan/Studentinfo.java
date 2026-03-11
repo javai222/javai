@@ -1,3 +1,5 @@
+// Author: Saan
+// Created by Saan
 public class Studentinfo { 
 String studentName;           //Instance Variables
 int studentnum; 
@@ -51,3 +53,6 @@ public Studentinfo(){
    }
 
 }
+
+//end of Saan object instance
+
