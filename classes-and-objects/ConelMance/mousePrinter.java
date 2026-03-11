@@ -1,4 +1,4 @@
-public class Main {
+public class mousePrinter {
     public static void main(String[] args) {
 
         // Object using no parameters
