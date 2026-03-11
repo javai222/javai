@@ -1,4 +1,4 @@
-public class Car {
+public class Cars {
 
     // Attributes that describe a car
     String brand;
@@ -10,7 +10,7 @@ public class Car {
 
     // Default constructor (no parameters)
     // Sets default values when a car object is created
-    Car() {
+    Cars() {
         brand = "Unknown Brand";
         model = "Unknown Model";
         price = 0.0;
@@ -19,7 +19,7 @@ public class Car {
 
     // Parameterized constructor
     // Allows the user to set values when creating the object
-    Car(String brand, String model, double price) {
+    Cars(String brand, String model, double price) {
         this.brand = brand;
         this.model = model;
         this.price = price;
@@ -28,7 +28,7 @@ public class Car {
 
     // Overloaded constructor
     // Only the brand is provided
-    Car(String brand) {
+    Cars(String brand) {
         this.brand = brand;
         model = "Unknown Model";
         price = 0.0;
