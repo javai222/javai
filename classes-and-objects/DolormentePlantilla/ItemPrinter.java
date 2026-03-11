@@ -1,6 +1,6 @@
 // Object created by Dolormente, Class created by Plantilla
 
-public class ObjectDetailsPrinter {
+public class ItemPrinter {
     public static void main(String[] args) {
         // This is the object instance created from the Badminton class
         // Object using default constructor
