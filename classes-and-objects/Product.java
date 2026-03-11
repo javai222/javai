@@ -9,7 +9,7 @@ public class Product {
 
     static int totalProducts = 0;
 
-    private static String manufacturer = "NVIDIA";
+    public static String manufacturer = "NVIDIA";
 
     // Default constructor
     public Product() {
