@@ -1,4 +1,4 @@
-class keyboard {
+public class keyboard {
 
     String brand;
     String color;
@@ -11,7 +11,7 @@ class keyboard {
         this.color = "white";
         this.type = "mechanical";
 
-    keyboarSales++;
+    keyboardSales++;
     }
 
     public keyboard (String p, String e, String i) { // with parameters
@@ -19,7 +19,7 @@ class keyboard {
         this.color = e;
         this.type = i;
 
-    keyboarSales++;
+    keyboardSales++;
     }
 
     public keyboard (String e, String i) { // with parameters overload
@@ -27,7 +27,7 @@ class keyboard {
         this.color = e;
         this.type = i;
 
-    keyboarSales++;
+    keyboardSales++;
     }
 
    //Behavior without parameters
@@ -39,6 +39,6 @@ class keyboard {
 
    //Static method
         static void displayTotalSales(){
-            System.out.println("Total Items: " +keyboarSales);
+            System.out.println("Total Items: " +keyboardSales);
         }
 }
