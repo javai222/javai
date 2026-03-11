@@ -30,3 +30,8 @@ ___do a research and practice to apply it in my future projects ___.
 |------------|----------------|-------------|--------|--------------|
 | 03/10/2026 |    Ice breaker               | Quiz 1:OOP      | 5      | 5            |
 | —          | —              | —           | —      | —            |
+
+
+# Peer Feedback
+---
+**\<03/11/2026\>** : Comment by: <Cantela, Chris Nelson B.>; You did well in managing your team and implementing classes and object, and I see nothing to improve you did well, but you can still improve everyday by practicing and learning.
