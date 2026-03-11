@@ -1,42 +1,43 @@
 public class mouse {
 
-String brand;
-String color;
-String type;
+     String brand;
+     String color;
+     String type;
 
-public static int mouseSales = 0; 
+     public static int mouseSales = 0; 
 
-public mouse () { //no parameters
-this.brand = "razer";
-this.color = "black";
-this.type = "wireless";
+     public mouse () { //no parameters
+     this.brand = "razer";
+     this.color = "black";
+     this.type = "wireless";
 
-mouseSales++;
-}
+     mouseSales++;
+     }
 
-public mouse (String b, String c, String t) { //with parameters
-this.brand = b;
-this.color = c;
-this.type = t;
+     public mouse (String b, String c, String t) { //with parameters
+     this.brand = b;
+     this.color = c;
+     this.type = t;
 
-mouseSales++;
-}
-public mouse (String c, String t) { //with parameter overload
-this.brand = "razer";
-this.color = c;
-this.type = t;
+     mouseSales++;
+     }
+     public mouse (String c, String t) { //with parameter overload
+     this.brand = "razer";
+     this.color = c;
+     this.type = t;
 
-mouseSales++;
-}
-   //Behavior without parameters
-   void displayItems(){
-        System.out.println("Mouse Brand: " +brand);
-        System.out.println("Mouse Color: " +color);
-        System.out.println("Mouse Type: " +type);
-   }
+     mouseSales++;
+     }
+        //Behavior without parameters
+           void displayItems(){
+                   System.out.println("Mouse Brand: " +brand);
+                           System.out.println("Mouse Color: " +color);
+                                   System.out.println("Mouse Type: " +type);
+                                      }
 
-   //Static method
-        static void displayTotalSales(){
-            System.out.println("Total Items: " + mouseSales);
-        }
+                                         //Static method
+                                                 static void displayTotalSales(){
+                                                             System.out.println("Total Items: " + mouseSales);
+                                                                     }
+                                                                     }
 }
