@@ -60,7 +60,7 @@ public class Badminton {
                                     // Static method
     static void displayTotalRackets() {
         System.out.println("Total Rackets: " + totalRackets);
-
+    }
     public String getRacketName () {
         return this.racketName;
     }
