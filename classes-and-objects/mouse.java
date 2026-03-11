@@ -1,4 +1,4 @@
-class mouse {
+public class mouse {
 
 String brand;
 String color;
