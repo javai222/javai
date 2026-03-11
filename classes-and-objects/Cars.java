@@ -1,3 +1,9 @@
+/*
+ * This class represents a car with a brand, model, and price.
+ * It also keeps track of the total number of cars created.
+ * Created by Rj Balanon  
+ */
+
 public class Cars {
 
     // Attributes that describe a car
