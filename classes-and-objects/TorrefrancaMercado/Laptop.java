@@ -1,4 +1,6 @@
 public class Laptop {
+
+    //Class created by Torrefranca :)
     // laptop properties
     String brand; // brand name
     String model; // model name
