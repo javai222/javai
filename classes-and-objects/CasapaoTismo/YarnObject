@@ -1,0 +1,27 @@
+public class YarnObject {
+    public static void main(String[] args) {
+        // This is the object instance created from the Yarn Class
+        // Object created by Casapao, Class created by Tismo
+        
+        // Object using default constructor
+        Yarn y1 = new Yarn();
+
+        // Object using parameterized constructor
+        Yarn y2 = new Yarn("Red", 6, 50);
+
+        // Object using overloaded constructor
+        Yarn y3 = new Yarn("Blue", 8);
+
+        // Print attributes and trigger behaviors
+        y1.order();
+        y2.order();
+
+        // Methods with parameters (updating attributes)
+        y2.updateColor("Green");
+        y2.updatePlysize(4);
+        y2.updateGrams(40);
+
+        // Display total yarn orders
+        Yarn.displayTotalOrders();
+    }
+}
