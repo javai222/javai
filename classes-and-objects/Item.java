@@ -1,3 +1,8 @@
+/*
+* This class represents an item with name, price and seller.
+* Created by Jophel Mark Plantilla
+*/
+
 public class Item {
     
     // Attributes
@@ -49,7 +54,7 @@ public class Item {
         static void displayTotalItems(){
             System.out.println("Total Items: " +totalItems);
         }
-
+       
     public String getItemName () {                                    
         return this.itemName;
     }    
@@ -58,7 +63,7 @@ public class Item {
         return this.seller;
     }
 
-    public String getItemPrice () {                                  
+    public int getItemPrice () {                                  
         return this.itemPrice;
     }
 }
