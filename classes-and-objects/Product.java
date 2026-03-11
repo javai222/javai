@@ -1,3 +1,7 @@
+ /*
+ * this class represent the names, price and the brand for the product
+ * created by Jasmin Ann M. Casapao
+ */
 public class Product {
     // Attributes
     String name;
