@@ -13,3 +13,21 @@
 ## 📘 Journals
 
 **\<03/06/2026\>** : I learned the basic 4 concepts of OOP in our lab and to improve, next time I will practice and try implementing this concepts in coding.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<MM/DD/YYYY> : Comment by: Kenneth Saan ; You did well in constrcting a class and making objects and you can improve by studying and more practice
