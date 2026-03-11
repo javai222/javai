@@ -36,4 +36,4 @@ Casapao, Jasmin Ann M
 
 # Peer Feedback
 ---
-<MM/DD/YYYY> : Comment by: <COMMENTER_NAME>; You did well in _____ and you can improve by _____
+*\<03/11/2026\>* : Comment by: <Tismo, Yvette Germaine E.>; You did well in coding and collaborating, you made the activity a bit easier, and you can improve by learning more about github.
