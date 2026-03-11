@@ -1,4 +1,4 @@
-public class keyboard {
+public class Keyboard {
 
 // class craeated by Mance, John Roque R.
 // this class is for keyboardSales with basic attributes
