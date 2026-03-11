@@ -47,7 +47,7 @@ public class Fruit {
     // Behavior with parameters
     void updatePrice(double newPrice) {
         fruitPrice = newPrice;
-        System.out.println(fruitName +" price has been updated to "+ price);
+        System.out.println(fruitName +" price has been updated to "+ fruitPrice);
     }
 
     // Static method
@@ -59,11 +59,11 @@ public class Fruit {
         return this.fruitName;
     }
 
-    public String getFruitPrice() {
+    public double getFruitPrice() {
         return this.fruitPrice;
     }
 
-    public String getFruitQuantity() {
+    public int getFruitQuantity() {
         return this.quantity;
     }
 }
