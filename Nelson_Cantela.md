@@ -13,3 +13,8 @@
 ## 📘 Journals
 
 **\<03/06/2026\>** : I learned the basic 4 concepts of OOP in our lab and to improve, next time I will practice and try implementing this concepts in coding.
+
+
+
+
+<03/11/2026> : Comment by: <Saan, Kenneth R.>; You did well in helping your team implementing your learnings in this activity, and I see nothing to improve you can help and you advance your studies and keep that discipline.
