@@ -22,7 +22,6 @@ public class Product {
     public Product(String brand) {
         this(); 
         this.brand = brand;
-        totalProducts++;
     }
     
     // Parameterized constructor
@@ -35,14 +34,18 @@ public class Product {
     //Method without parameter
     public void displayDetails() {
         System.out.println("Product Details:");
-        System.out.println("Brand: " + this.brand);
-        System.out.println("Model: " + this.model);
+        System.out.println("Brand: " + brand);
+        System.out.println("Model: " + model);
         System.out.println("Manufacturer: " + manufacturer);
     }
 
     // Method with parameter
     public void setBrand(String brand){
         this.brand = brand;
+    }
+
+    public void setModel(String model){
+        this.model = model;
     }   
     static void displayTotalProducts() {
         System.out.println("Total Products Created: " + totalProducts);
