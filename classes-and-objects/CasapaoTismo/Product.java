@@ -1,3 +1,8 @@
+/*
+* This class represent the name, price, and the brand for the product
+* created by Jasmin Ann M. Casapao
+*/
+
 public class Product {
 
     // Attributes
@@ -30,6 +35,18 @@ public class Product {
         price = p;
         brand = b;
         totalObjects++;
+    }
+
+    public String getName () {
+        return this.name;
+    }
+
+    public double getPrice() {
+        return this.price;
+    }
+
+    public String getBrand() {
+        return this.brand;
     }
 
     // Method without parameter
