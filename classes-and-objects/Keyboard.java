@@ -8,7 +8,7 @@ public class Keyboard {
 
     public static int keyboardSales = 0;
 
-    public keyboard () {
+    public Keyboard () {
         this.brand = "Reddragon";
         this.color = "white";
         this.type = "mechanical";
@@ -16,7 +16,7 @@ public class Keyboard {
         keyboardSales++;
     }
 
-    public keyboard (String p, String e, String i) { // with parameters
+    public Keyboard (String p, String e, String i) { // with parameters
         this.brand = p;
         this.color = e;
         this.type = i;
@@ -24,7 +24,7 @@ public class Keyboard {
         keyboardSales++;
     }
 
-    public keyboard (String e, String i) { // with parameters overload
+    public Keyboard (String e, String i) { // with parameters overload
         this.brand = "Reddragon";
         this.color = e;
         this.type = i;
