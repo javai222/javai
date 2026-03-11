@@ -15,16 +15,16 @@ mouseSales++;
 }
 
 public mouse (String b, String c, String t) { //with parameters
-this.brand = b
-this.color = c
-this.typo = t
+this.brand = b;
+this.color = c;
+this.typo = t;
 
 mouseSales++;
 }
 public mouse (String c, String t) { //with parameter overload
 this.brand = "razer";
-this.color = c
-this.typo = t
+this.color = c;
+this.typo = t;
 
 mouseSales++;
 }
@@ -37,6 +37,6 @@ mouseSales++;
 
    //Static method
         static void displayTotalSales(){
-            System.out.println("Total Items: " mouseSales);
+            System.out.println("Total Items: " + mouseSales);
         }
 }
