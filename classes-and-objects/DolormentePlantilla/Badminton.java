@@ -1,3 +1,10 @@
+/*
+* This class represents an item with a name, brand, type, material, string, price, and racketWeight
+* Created by Henry S. Dolormente II
+*/
+
+
+
 public class Badminton {
     String racketName;              // Attributes
     String racketBrand;              
@@ -31,7 +38,6 @@ public class Badminton {
         this.racketWeight = racketWeight;
         totalRackets++;
     }
-
                                     // Overloaded constructor
     Badminton(String racketName, String racketBrand, String racketString) {
         this.racketName = racketName;
@@ -43,22 +49,46 @@ public class Badminton {
         this.racketWeight = 0.83;
         totalRackets++;
     }
-
                                     // Behavior without parameters
     void introduceRacket() {
         System.out.println("This racket is from " + racketBrand + " and is named " + racketName
         + " its racket type is " + racketType + "." + " It is made of " + racketMaterial + " and has a " + racketString + " string to it, it weighs " + racketWeight 
         + "g and costs " + racketPrice + " pesos.\n");
     }
-
                                     // Behavior with parameters
     void updateRacket(String newBrand) {
         racketBrand = newBrand;
         System.out.println(racketName + " is now updated to " + racketBrand);
     }
-
                                     // Static method
     static void displayTotalRackets() {
         System.out.println("Total Rackets: " + totalRackets);
+
+    public String getRacketName () {
+        return this.racketName;
+    }
+
+    public String getRacketBrand () {
+        return this.racketBrand;
+    }
+
+    public String getRacketType () {
+        return this.racketType;
+    }
+
+    public String getRacketMaterial () {
+        return this.racketMaterial;
+    }
+
+    public String getRacketString () {
+        return this.racketString;
+    }
+
+    public String getRacketPrice () {
+        return this.racketPrice;
+    }
+
+    public String getRacketWeight (){
+        return this.racketWeight;
     }
 }
