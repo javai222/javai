@@ -18,7 +18,8 @@ KennethSaan
 **\<03/06/2026\>** : I learned ___The core concept of Object oriented programming, and the 4 pillars of it, their functionalities and usage____ in our lab and to improve, next time I will _
 ___do a research and practice to apply it in my future projects ___.
 
-
+**\<03/011/2026\>** : I learned I learned the basics of git and github and how to manage a organization inside it and applying the oop to our activity about the instances, constructor and many more in our lab and to improve, next time I will _
+do a research and practice to apply it in my future projects.
 
 
 # Kenneth Saan R. 
@@ -30,3 +31,8 @@ ___do a research and practice to apply it in my future projects ___.
 |------------|----------------|-------------|--------|--------------|
 | 03/10/2026 |    Ice breaker               | Quiz 1:OOP      | 5      | 5            |
 | —          | —              | —           | —      | —            |
+
+
+# Peer Feedback
+---
+**\<03/11/2026\>** : Comment by: <Cantela, Chris Nelson B.>; You did well in managing your team and implementing classes and object, and I see nothing to improve you did well, but you can still improve everyday by practicing and learning.

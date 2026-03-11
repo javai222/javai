@@ -1,6 +1,6 @@
 //Object created by Plantilla, Class created by Dolormente
 
-public class BadmintonPrinterDolormentePlantilla {
+public class BadmintonObject {
     public static void main(String[] args) {
         
         // This is the object instance created from the Badminton class

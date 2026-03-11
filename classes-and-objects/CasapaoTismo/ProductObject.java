@@ -1,4 +1,4 @@
-//Object created by Tismo, Class created by casapao
+//Object created by Tismo, Class created by Casapao
 
 public class ProductObject {
     public static void main(String[] args) {
