@@ -1,3 +1,10 @@
+/*
+ * This class represents an admin with a username, password, and email.
+ * It also keeps track of the the status of the admin.
+ * Kenneth R. Saan
+ */
+Ilalagay to sa taas?
+
 public class AdminprinterSaanCantella {
      public static void main(String[] args) {
         // create an Admin using the constructor that sets all fields
