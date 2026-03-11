@@ -81,11 +81,11 @@ public class Badminton {
         return this.racketString;
     }
 
-    public String getRacketPrice () {
+    public int getRacketPrice () {
         return this.racketPrice;
     }
 
-    public String getRacketWeight (){
+    public double getRacketWeight (){
         return this.racketWeight;
     }
 }
