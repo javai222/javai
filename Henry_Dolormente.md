@@ -36,17 +36,5 @@ I could have done better on utilizing the codespace, but I did not because I can
 <03/11/2026> : I learned how to use codespace, to an extent where I can do coding and commiting changes, but I did not know how to run the code, and for that I will try my best to improve on it.
 
 # Peer Feedback
----
-<MM/DD/YYYY> : Comment by: <COMMENTER_NAME>; You did well in _____ and you can improve by _____
-
-
-
-
-
-
-
-
-
-# Peer Feedback
 
 **\<03/11/2026\>** : Comment by: Plantilla, Jophel Mark P. ; You did well in creating class and objects, and you also showed good collaboration using GitHub, and you can improve by practicing more in coding to become better in programming.
