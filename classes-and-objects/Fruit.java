@@ -1,4 +1,10 @@
+/*
+* This class represents a Fruit with a name, price, and quantity.
+* Created by Lord Ulrick A. De Leon
+*/
+
 public class Fruit {
+
     // Attributes
     String fruitName;
     double fruitPrice;
@@ -9,9 +15,9 @@ public class Fruit {
 
     // Default constructor
     Fruit() {
-        fruitName = "Unknown";
-        fruitPrice = 0.0;
-        quantity = 0;
+        this.fruitName = "Unknown";
+        this.fruitPrice = 0.0;
+        this.quantity = 0;
         totalFruits++;
     }
 
@@ -40,12 +46,24 @@ public class Fruit {
 
     // Behavior with parameters
     void updatePrice(double newPrice) {
-        price = newPrice;
+        fruitPrice = newPrice;
         System.out.println(fruitName +" price has been updated to "+ price);
     }
 
     // Static method
     static void displayTotalFruits() {
         System.out.println("Total Fruits: " +totalFruits);
+    }
+
+    public String getFruitName() {
+        return this.fruitName;
+    }
+
+    public String getFruitPrice() {
+        return this.fruitPrice;
+    }
+
+    public String getFruitQuantity() {
+        return this.quantity;
     }
 }
