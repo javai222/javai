@@ -9,7 +9,7 @@ public static int mouseSales = 0;
 public mouse () { //no parameters
 this.brand = "razer";
 this.color = "black";
-this.typo = "wireless";
+this.type = "wireless";
 
 mouseSales++;
 }
@@ -17,14 +17,14 @@ mouseSales++;
 public mouse (String b, String c, String t) { //with parameters
 this.brand = b;
 this.color = c;
-this.typo = t;
+this.type = t;
 
 mouseSales++;
 }
 public mouse (String c, String t) { //with parameter overload
 this.brand = "razer";
 this.color = c;
-this.typo = t;
+this.type = t;
 
 mouseSales++;
 }
