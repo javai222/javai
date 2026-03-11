@@ -36,7 +36,7 @@ public class Product {
         brand = b;
         totalObjects++;
     }
-    
+
     public String getName () {
         return this.name;
     }
@@ -47,6 +47,7 @@ public class Product {
 
     public String getBrand() {
         return this.brand;
+    }
 
     // Method without parameter
     void displayProduct() {
