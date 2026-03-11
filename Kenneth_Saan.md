@@ -30,3 +30,23 @@ ___do a research and practice to apply it in my future projects ___.
 |------------|----------------|-------------|--------|--------------|
 | 03/10/2026 |    Ice breaker               | Quiz 1:OOP      | 5      | 5            |
 | —          | —              | —           | —      | —            |
+
+
+
+
+# Kenneth Saan R. 
+---
+
+## 📊 Scores
+
+| Date       | Activity Type | Title       | Score | Total Points |
+|------------|----------------|-------------|--------|--------------|
+| 03/06/2026 | Quiz/Recitation           | Quiz 1:OOP      | 5      | 5            |
+| —          | —              | —           | —      | —            |
+
+---
+
+## 📘 Journals
+
+**\<03/06/2026\>** : I learned the basic use of github and in oop I learned the constructors and objects instances and etc in our lab and to improve, next time I will 
+I will listen and apply whatever my prof will say.
