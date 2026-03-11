@@ -6,10 +6,10 @@ public class ProductObject {
         // Object using default constructor
         Product p1 = new Product();
 
-        // Object using parameterized constructor
+        // Object using overloaded constructor
         Product p2 = new Product("Laptop", 50000);
 
-        // Object using overloaded constructor
+        // Object using parameterized constructor
         Product p3 = new Product("Phone", 20000, "Samsung");
 
         // Display product details
