@@ -3,7 +3,7 @@
 * This class represents a product with a model, brand and manufacturer.
 * Created by Dustin Elijah C. Mercado
 */
-public class Product {
+public class GPU {
     private String model;
     private String brand;
 
@@ -12,20 +12,20 @@ public class Product {
     public static String manufacturer = "NVIDIA";
 
     // Default constructor
-    public Product() {
+    public GPU() {
         this.model = "Unknown";
         this.brand = "Unknown";
         totalProducts++;
     }   
 
     // Overloaded constructor
-    public Product(String brand) {
+    public GPU(String brand) {
         this(); 
         this.brand = brand;
     }
     
     // Parameterized constructor
-    public Product(String brand, String model) {
+    public GPU(String brand, String model) {
         this.brand = brand;
         this.model = model;
         totalProducts++;
