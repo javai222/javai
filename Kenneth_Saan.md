@@ -30,3 +30,24 @@ ___do a research and practice to apply it in my future projects ___.
 |------------|----------------|-------------|--------|--------------|
 | 03/10/2026 |    Ice breaker               | Quiz 1:OOP      | 5      | 5            |
 | —          | —              | —           | —      | —            |
+
+
+
+KennethSaan
+
+
+# Kenneth Saan R. 
+---
+
+## 📊 Scores
+
+| Date       | Activity Type | Title       | Score | Total Points |
+|------------|----------------|-------------|--------|--------------|
+| 03/06/2026 | Activity            |      1:OOP      | 5      | 5            |
+| —          | —              | —           | —      | —            |
+
+---
+
+## 📘 Journals
+
+**\<03/06/2026\>** : I learned the basic of github about codespace and storing you code in cloud and also the instances, constructors and many more in our lab and to improve, next time I will do more project to improve my skills and use git hub more frequently 
