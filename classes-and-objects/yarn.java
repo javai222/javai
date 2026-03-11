@@ -31,6 +31,18 @@ public class yarn {
         totalYarn++;
     }
 
+    public String getColor(){
+        return this.color;
+    }
+
+    public int getPlysize(){
+        return this.plysize;
+    }
+
+    public int getGrams(){
+        return this.grams;
+    }
+
     // Behavior without parameters
     void order() {
         System.out.println("I would like the color " + color + ".");
