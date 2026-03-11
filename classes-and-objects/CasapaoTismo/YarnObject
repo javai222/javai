@@ -1,6 +1,8 @@
 public class YarnObject {
     public static void main(String[] args) {
-        // his is the object instance created from the Yarn Class
+        // This is the object instance created from the Yarn Class
+        // Object created by Casapao, Class created by Tismo
+        
         // Object using default constructor
         Yarn y1 = new Yarn();
 
