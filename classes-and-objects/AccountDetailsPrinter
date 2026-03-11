@@ -1,0 +1,30 @@
+public class AccountDetailsPrinter {
+    public static void main(String[] args) {
+        // Object created Javier, Class created Silva
+
+        // Create an account object with complete information
+        Accounts acc1 = new Accounts("Savings", "Juan", "Bank Account", true);
+        // Create an account object with only account name and owner
+        Accounts acc2 = new Accounts("Payroll", "Maria");
+        // Create an account object using the default constructor
+        Accounts acc3 = new Accounts();
+
+        // Test the login/access method for accounts
+        System.out.println("--- Testing Accounts ---");
+        acc1.login();
+        acc2.login();
+
+        // Display the information of each account
+        System.out.println("\n--- Account Information ---");
+        acc1.displayInfo();
+        acc2.displayInfo();
+        acc3.displayInfo();
+
+        // Display the total number of Accounts objects created
+        System.out.println("\n--- Total Accounts ---");
+        Accounts.printCounter();
+    }
+}
+
+// javac classes-and-objects-lab/Student.java classes-and-objects-lab/ObjectDetailsPrinter.java
+// java -cp classes-and-objects-lab ObjectDetailsPrinter

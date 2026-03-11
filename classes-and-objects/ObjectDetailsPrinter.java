@@ -1,5 +1,6 @@
 public class ObjectDetailsPrinter {
     public static void main(String[] args) {
+        // This is the object instance created from the Student class
       // This is the object instance created from the Student class
         // Object using default constructor
         Student s1 = new Student();
