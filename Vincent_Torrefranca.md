@@ -19,4 +19,4 @@
 ---
 
 ## 📘 Peer Feedback
-<MM/DD/YYYY> : Comment by: <COMMENTER_NAME>; You did well in _____ and you can improve by _____
+03/11/2026 : Comment by: **Mercado Dustin Elijah C.**; You did well in using and learning the github fuctions and you can improve by practicing and broaden your knowledge
