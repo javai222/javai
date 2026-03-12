@@ -15,7 +15,7 @@ public class marketplaceNotifications {
     static int totalNotificationsSent = 0;
 
     // Default constructor ( for new users)
-    MarketplaceNotification() {
+    marketplaceNotifications() {
         this.recipientUser = "New user";
         this.message = "Welcome to the Marketplace!";
         this.type = "System";
@@ -24,7 +24,7 @@ public class marketplaceNotifications {
     }
 
     // Parameterized constructor ( for full control)
-    MarketplaceNotification(String recipientUser, String message, String type) {
+    marketplaceNotifications(String recipientUser, String message, String type) {
         this.recipientUser = recipientUser;
         this.message = message;
         this.type = type;
@@ -33,7 +33,7 @@ public class marketplaceNotifications {
     }
 
     // Overloaded constructor ( for all users) 
-    MarketplaceNotification(String message) {
+    marketplaceNotifications(String message) {
         this.recipientUser = "All Users";
         this.message = message;
         this.type = "Broadcast";
