@@ -1,3 +1,5 @@
+//this class is created by kenneth Saan 
+
 public class Processor {
     String CPU;
     String Brand;
