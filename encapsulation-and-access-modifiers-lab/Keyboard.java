@@ -6,6 +6,7 @@
  * Created by John Roque R. Mance
  */
 
+package encapsulation.and.access.modifiers.lab;
 
 public class Keyboard {
 
