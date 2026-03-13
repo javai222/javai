@@ -24,7 +24,7 @@ public class Account {
     }
 
     // parameterized constructors
-    public Account(String AccountName, String AccountOwner, String AccountType, String AccountPassword) {
+    public Account(String AccountName, String AccountOwner, String AccountType, String AccountPassword, boolean isActive) {
         this.AccountName = AccountName;
         this.AccountOwner = AccountOwner;
         this.AccountType = AccountType;
@@ -89,10 +89,11 @@ public class Account {
     }
 
     public void setisActive(Boolean isActive) {
-        if (AccountPassword == "" && AccountName == ""){
+        if (AccountName != "Unknown" && AccountPassword != "Unkwown " && isActive == true ){
             this.isActive = true;
         } else {
             this.isActive = false;
+        }
         }
     }
     // static method
