@@ -1,6 +1,6 @@
 // Object created by Silva, Class made by Tismo
 
-public class main_silva {
+public class Main_Silva {
 	    public static void main(String[] args) {
 
 	        // Object with a default constructor
