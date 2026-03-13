@@ -1,3 +1,12 @@
+/*
+ * This class represents a Keyboard with a brand, color, type, and stock.
+ * It demonstrates encapsulation by keeping attributes private
+ * and allowing access through getters and setters with validation.
+ * It also tracks the number of keyboards created using a static counter.
+ * Created by John Roque R. Mance
+ */
+
+
 public class Keyboard {
 
     // Private attributes (Encapsulation)
