@@ -67,7 +67,12 @@ Random ran = new Random();
     }
 
     void setName (String name) {
-        this.name = name;
+        if (name == null || name.trim().isEmpty()) {
+            System.out.println("Invalid name. Name cannot be blank.");
+        } else {
+            this.name = name;
+            System.out.println("Name updated successfully.");
+        }
     }
 
     void setPin () {
