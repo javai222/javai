@@ -10,7 +10,7 @@ public class Producttt {
     public static int totalProducts = 0;
 
     // default product when no values are provided
-    Product() {
+    Producttt() {
         this.name = "Unknown";
         this.category = "Unknown";
         this.price = 0;
@@ -19,7 +19,7 @@ public class Producttt {
     }
 
     // product with initial values (validations applied)
-    Product(String name, String category, double price, int stock) {
+    Producttt(String name, String category, double price, int stock) {
         this.name = name;
         this.category = category;
         totalProducts++;
