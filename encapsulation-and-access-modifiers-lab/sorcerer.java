@@ -18,10 +18,12 @@ public class sorcerer {
     
     public static int getJujutsuStudents() {
        jujutsuStudents++;
+       return jujutsuStudents;
     }
 
     // Default Constructor
     public sorcerer() {
+        jujutsuStudents++;
         name = "Haru";
         cursedEnergy = 10;
         speed = 10;
@@ -32,6 +34,7 @@ public class sorcerer {
 
     // Parameterized Constructor
    public sorcerer(String name, int cursedEnergy, int speed, int durability, int iq) {
+    jujutsuStudents++;
     school = "Unknown";
     setName(name);
     setCursedEnergy(cursedEnergy);
@@ -131,4 +134,5 @@ public class sorcerer {
         System.out.println("IQ: " + iq);
         System.out.println("School: " + school);
     }
+
 }
