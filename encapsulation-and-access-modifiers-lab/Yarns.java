@@ -1,6 +1,6 @@
 public class Yarns {
     /*
-	*This class represents yarn orders with colors, ply size, and grams
+	*This class represents yarn orders with colors, yarn type, ply size, and grams
 	*Created by Yvette Germaine Tismo
 	*/
 	    
