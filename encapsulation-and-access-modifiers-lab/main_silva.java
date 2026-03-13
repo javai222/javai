@@ -1,18 +1,18 @@
 // Object created by Silva, Class made by Tismo
 
-public class yarntrial {
+public class main_silva {
 	    public static void main(String[] args) {
 
-	        // Object using default constructor
-	        Yarns yarn1 = new Yarn();
+	        // Object with a default constructor
+	        Yarns yarn1 = new Yarns();
 
-	        // Object using overloaded constructor
-	        Yarns yarn2 = new Yarn("Blue", "Cotton", 8);
+	        // Object with a overloaded constructor
+	        Yarns yarn2 = new Yarns("Blue", "Cotton", 8);
 
-	        // Object using parameterized constructor
-	        Yarns yarn3 = new Yarn("Red", "Wool", 12, 100);
+	        // Object with a parameterized constructor
+	        Yarns yarn3 = new Yarns("Red", "Wool", 12, 100);
 
-	        // Display information using getters
+	        // Information Display from the Getters
 	        System.out.println("Yarn 1");
 	        System.out.println("Color: " + yarn1.getColor());
 	        System.out.println("Type: " + yarn1.getYarnType());
@@ -35,7 +35,7 @@ public class yarntrial {
 	        System.out.println("Ply Size: " + yarn3.getPlysize());
 	        System.out.println("Grams: " + yarn3.getGrams());
 
-	        // Display total objects created
+	        // Display all the objects created 
 	        System.out.println("______________________________ \n");
 	        Yarn.displayTotalOrders();
 	 }
