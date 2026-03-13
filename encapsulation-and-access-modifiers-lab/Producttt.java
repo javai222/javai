@@ -1,4 +1,4 @@
-public class Product {
+public class Producttt {
 
     // product details (encapsulated fields)
     private String name;
