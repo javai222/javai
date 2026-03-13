@@ -1,4 +1,4 @@
-public class Yarn {
+public class Yarns {
     /*
 	*This class represents yarn orders with colors, ply size, and grams
 	*Created by Yvette Germaine Tismo
@@ -14,7 +14,7 @@ public class Yarn {
 	private static int totalYarn = 0;
 
 	// Default constructor
-    public Yarn(){
+    public Yarns(){
 	    color = "white";
 	    yarnType = "Acrylic";
 	    plySize = 4;
@@ -23,7 +23,7 @@ public class Yarn {
 	}
 
 	// Overloaded constructor
-    public Yarn(String color, String yarnType, int plySize) {
+    public Yarns(String color, String yarnType, int plySize) {
 	    this.color = color;
 	    this.yarnType = yarnType;
 	    this.plySize = plySize;
@@ -32,7 +32,7 @@ public class Yarn {
     }
 
 	// Parameterized constructor
-	public Yarn(String color, String yarnType, int plySize, int grams) {
+	public Yarns(String color, String yarnType, int plySize, int grams) {
 	    this.color = color;
 	    this.yarnType = yarnType;
 	    this.plySize = plySize;
