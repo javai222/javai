@@ -1,5 +1,6 @@
 public class Producttt {
 
+    // this class is created by Vincent Torrefranca
     // product details (encapsulated fields)
     private String name;
     private String category;
