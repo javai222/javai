@@ -2,7 +2,7 @@
 * 
 * Created by Dustin Elijah Mercado
 */
-class Main {
+public class Main {
     public static void main(String[] args) {
 
         // Create one Bank object
