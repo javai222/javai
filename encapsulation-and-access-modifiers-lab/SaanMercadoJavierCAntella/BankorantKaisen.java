@@ -2,7 +2,7 @@
 * 
 * Created by Dustin Elijah Mercado
 */
-public class Main {
+public class BangkorantKaisen {
     public static void main(String[] args) {
 
         // Create one Bank object
