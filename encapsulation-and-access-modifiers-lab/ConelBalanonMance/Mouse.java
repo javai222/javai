@@ -117,36 +117,4 @@ public class Mouse {
         System.out.println("Total Items Sold: " + mouseSales);
     }
     
-    public static void main(String[] args) {
-
-        // Creating objects
-        Mouse mouse1 = new Mouse();
-        Mouse mouse2 = new Mouse("Logitech", "White", "Wired");
-        Mouse mouse3 = new Mouse("Red", "Wireless");
-
-        // Display items
-        mouse1.displayItems();
-        System.out.println();
-
-        mouse2.displayItems();
-        System.out.println();
-
-        mouse3.displayItems();
-        System.out.println();
-
-        // Using setters (with validation)
-        mouse1.setBrand("SteelSeries");
-        mouse1.setColor("Blue");
-
-        System.out.println("Updated Mouse 1:");
-        mouse1.displayItems();
-        System.out.println();
-
-        // Testing invalid input
-        mouse2.setBrand("");   // invalid brand
-        mouse2.setColor("");   // invalid color
-
-        // Display total sales
-        Mouse.displayTotalSales();
-    }
 }
