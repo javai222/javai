@@ -4,7 +4,7 @@
 	 * Created by Vinz Silva 
 	 */
 
-public class Accounts {
+public class Account {
     // attributes
     private String AccountName;
     private String AccountOwner;
@@ -14,7 +14,7 @@ public class Accounts {
     static int TotalAccount = 0;
 
     // default constructor
-    public Accounts() {
+    public Account() {
         AccountName = "Unknown";
         AccountOwner = "Unknown";
         AccountType = "Unknown";
@@ -24,7 +24,7 @@ public class Accounts {
     }
 
     // parameterized constructors
-    public Accounts(String AccountName, String AccountOwner, String AccountType, String AccountPassword) {
+    public Account(String AccountName, String AccountOwner, String AccountType, String AccountPassword) {
         this.AccountName = AccountName;
         this.AccountOwner = AccountOwner;
         this.AccountType = AccountType;
@@ -34,7 +34,7 @@ public class Accounts {
     }
 
     // overloaded constructor
-    public Accounts(String AccountName, String AccountOwner, String AccountPassword){
+    public Account(String AccountName, String AccountOwner, String AccountPassword){
         this.AccountName = AccountName;
         this.AccountOwner = AccountOwner;
         this.AccountType = "NU Account";
