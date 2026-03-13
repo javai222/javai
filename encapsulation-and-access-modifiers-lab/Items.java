@@ -1,3 +1,9 @@
+/**
+ * This class represents an item with name, price, seller, stock and availability.
+ * This class encapsulates item details and enforces rules like stock availability.
+ * Created by Jophel Mark Plantilla
+ */
+
 package encapsulation.and.access.modifiers.lab;
 
 public class Items {
@@ -12,7 +18,7 @@ public class Items {
     // Static Class Behavior
    public static int totalItems = 0;
 
-   // Default Constructor
+   // Default Constructor for the Initial Value of the Attributes 
    public Items() {
         this.itemName = "Unknown Item";
         this.sellerName = "Unknown";
@@ -43,15 +49,15 @@ public class Items {
    }
    
     // Getter methods
-    public String getItemName () { return this.itemName; }   
+    public String getItemName () { return this.itemName; }   //Gets the name of the item
 
-    public String getSellerName () { return this.sellerName;}                                  
+    public String getSellerName () { return this.sellerName;}   //Gets the name of the seller                               
         
-    public double getItemPrice () { return this.itemPrice; }                                
+    public double getItemPrice () { return this.itemPrice; }    //Gets the price of the item
     
-    public int getItemStock () { return this.itemStock; }                              
+    public int getItemStock () { return this.itemStock; }   //Gets the stock of the item                              
         
-    public boolean isAvailable () { return this.isAvailable;}                                  
+    public boolean isAvailable () { return this.isAvailable;}   //Gets the availability of the item                                 
         
     
     // Setter methods with validation
