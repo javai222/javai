@@ -40,14 +40,21 @@ public class Yarn {
 	    totalYarn++;
     }
 
-	public String getColor() { return this.color; }
+	public String getColor() { 
+        return this.color; 
+        }
 
-	public String getYarnType() { return this.yarnType; }
+	public String getYarnType() { 
+        return this.yarnType; 
+        }
 
-	public int getPlysize(){ return this.plySize; }
+	public int getPlysize(){ 
+        return this.plySize; 
+        }
 
-	public int getGrams(){ return this.grams; }
-
+	public int getGrams(){ 
+        return this.grams; 
+        }
 	    
 	// Behavior with parameters
 	public void setColor(String color) {
