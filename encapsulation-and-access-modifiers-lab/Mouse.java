@@ -1,3 +1,10 @@
+/*
+ * This class represents a Mouse with attributes such as brand,
+ * color, and type. It demonstrates encapsulation by keeping the
+ * attributes private and accessing them through getters and setters.
+ * Created by Rahzel Heeroe R. Conel
+ */
+
 
 public class Mouse {
 
