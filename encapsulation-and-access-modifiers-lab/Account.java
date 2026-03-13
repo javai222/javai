@@ -95,13 +95,14 @@ public class Account {
             this.isActive = false;
         }
         }
-    }
+
     // static method
     public static void displayTotalAccount () {
         System.out.println("Total Accounts: " + TotalAccount);
     }
 
 }
+
 
 // This code is made with the help of AI
 
