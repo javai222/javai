@@ -14,16 +14,10 @@ public class sorcerer {
     private String school;
 
     // Static attribute shared by all
-    public static int jujutsuStudents = 0;
-    
-    public static int getJujutsuStudents() {
-       jujutsuStudents++;
-       return jujutsuStudents;
-    }
+    private static String jujutsuStudent;
 
     // Default Constructor
     public sorcerer() {
-        jujutsuStudents++;
         name = "Haru";
         cursedEnergy = 10;
         speed = 10;
@@ -33,18 +27,16 @@ public class sorcerer {
     }
 
     // Parameterized Constructor
-   public sorcerer(String name, int cursedEnergy, int speed, int durability, int iq) {
-    jujutsuStudents++;
-    school = "Unknown";
-    setName(name);
-    setCursedEnergy(cursedEnergy);
-    setSpeed(speed);
-    setDurability(durability);
-    setIq(iq);
-}
+    public sorcerer(String name, int cursedEnergy, int speed, int durability, int iq) {
+        school = "Unknown";
+        setName(name);
+        setCursedEnergy(cursedEnergy);
+        setSpeed(speed);
+        setDurability(durability);
+        setIq(iq);
+    }
 
-    // GETTERS (Readable attributes)
-
+    // GETTERS
     public String getName() {
         return name;
     }
@@ -69,8 +61,8 @@ public class sorcerer {
         return school;
     }
 
-    // SETTERS (only when modification is allowed)
-    // Validation Rule 1: Name cannot be empty
+    // SETTERS with validation
+
     public void setName(String name) {
         if (name == null || name.trim().isEmpty()) {
             System.out.println("Name cannot be empty.");
@@ -79,7 +71,6 @@ public class sorcerer {
         }
     }
 
-    // Validation Rule 2: cursed energy cannot be negative
     public void setCursedEnergy(int cursedEnergy) {
         if (cursedEnergy < 0) {
             System.out.println("Cursed Energy cannot be negative.");
@@ -88,7 +79,6 @@ public class sorcerer {
         }
     }
 
-    // Validation Rule 3: speed must be between 0 and 100
     public void setSpeed(int speed) {
         if (speed < 0 || speed > 100) {
             System.out.println("Speed must be between 0 and 100.");
@@ -97,7 +87,6 @@ public class sorcerer {
         }
     }
 
-    // Validation Rule 4: durability cannot be negative
     public void setDurability(int durability) {
         if (durability < 0) {
             System.out.println("Durability cannot be negative.");
@@ -106,7 +95,6 @@ public class sorcerer {
         }
     }
 
-    // Validation Rule 5: IQ must be between 0 and 200
     public void setIq(int iq) {
         if (iq < 0 || iq > 200) {
             System.out.println("IQ must be between 0 and 200.");
@@ -133,6 +121,21 @@ public class sorcerer {
         System.out.println("Durability: " + durability);
         System.out.println("IQ: " + iq);
         System.out.println("School: " + school);
+    }
+
+    public static void demo() {
+        // Create sorcerer object
+        sorcerer s1 = new sorcerer("Kozth", 120, 80, 90, 110);
+
+        // Update school
+        s1.updateSchool("Calamba Jujutsu High");
+
+        // Display stats
+        s1.displayStatus();
+
+        // Try validation
+        s1.setCursedEnergy(-50);   
+        s1.setSpeed(150);
     }
 
 }

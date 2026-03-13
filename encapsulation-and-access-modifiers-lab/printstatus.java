@@ -1,7 +1,6 @@
 public class printstatus {
     public static void main(String[] args) {
-
-        // Create sorcerer object
+       // Create sorcerer object
         sorcerer s1 = new sorcerer("Kozth", 120, 80, 90, 110);
 
         // Update school
@@ -12,6 +11,6 @@ public class printstatus {
 
         // Try validation
         s1.setCursedEnergy(-50);   
-        s1.setSpeed(150);          
+        s1.setSpeed(150);  
     }
 }
