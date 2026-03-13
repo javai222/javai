@@ -1,0 +1,31 @@
+public class ValorantPrint {
+    public static void main(String[] args) {
+       // Create a new ValorantAccount object with valid data
+       ValorantAccount account1 = new ValorantAccount("PlayerOne", "ID1234", "password123", 1000, 10, "Gold", true);
+
+        //prints the default values of the account1 object
+        System.out.println("Username: " + account1.getUserName());
+        System.out.println("Valorant ID: " + account1.getValorantID());
+        System.out.println("Valorant Points: " + account1.getValorantPoints());
+
+
+        //creates a new ValorantAccount with custom values
+        ValorantAccount newAccount = new ValorantAccount("PlayerTwo", "ID5678", "pass456", 500, 5, "Silver", true);
+        
+        //prints the username, valorant ID, and valorant points of the new account
+        System.out.println("Username: " + newAccount.getUserName());
+        System.out.println("Valorant ID: " + newAccount.getValorantID());
+        System.out.println("Valorant Points: " + newAccount.getValorantPoints());
+
+        // Update the password for the new account
+        newAccount.setPassWord("dustinkennethpogi");
+        system.out.println("Updated Password: " + newAccount.getPassWord());
+
+        // Prints the updated password and total accounts
+        system.out.println("password: " + newAccount.getPassWord());
+        system.out.println("Total Valorant Accounts Created: " + ValorantAccount.getAccountCount());
+        
+
+    }
+}
+
