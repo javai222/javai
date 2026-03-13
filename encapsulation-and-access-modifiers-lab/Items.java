@@ -102,3 +102,4 @@ public class Items {
             System.out.println("Total Items: " +totalItems);
         }
 }
+// This code is made with help of AI
