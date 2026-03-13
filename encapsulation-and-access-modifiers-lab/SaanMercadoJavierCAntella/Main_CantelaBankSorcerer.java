@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class bankSorcererObject {
+public class Main_CantelaBankSorcerer {
     public static void main (String[] args) {
 //This test or class is created by (Cantela), the bank object (Saan), Sorcerer object (Javier)         
 
