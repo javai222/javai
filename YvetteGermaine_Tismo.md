@@ -22,3 +22,4 @@
 # Peer Feedback
 ---
 **\<03/11/2026\>** : Comment by: <Casapao, Jasmin Ann M.>; You did well in coding and helping me in github, and you can improve by practicing and learning new in github.
+**\<03/14/2026\>** : Comment by: <Casapao, Jasmin Ann M.>; You did well in encapsulation activity and using github, and you can improve by learning more about oop and github.
