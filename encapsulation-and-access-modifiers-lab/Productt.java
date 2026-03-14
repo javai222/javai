@@ -15,7 +15,7 @@ public class Productt {
     private static int totalObjects = 0;
 
     // Default constructor
-    public Product() {
+    public Productt() {
         name = "Unknown";
         price = 0.0;
         brand = "No Brand";
@@ -24,7 +24,7 @@ public class Productt {
     }
 
     // Parameterized constructor
-    public Product(String n, double p) {
+    public Productt(String n, double p) {
         setName(n);
         setPrice(p);
         brand = "Generic";
@@ -33,7 +33,7 @@ public class Productt {
     }
 
     // Overloaded constructor
-    public Product(String n, double p, String b, int s) {
+    public Productt(String n, double p, String b, int s) {
         setName(n);
         setPrice(p);
         brand = b;
