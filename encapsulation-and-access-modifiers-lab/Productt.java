@@ -84,6 +84,14 @@ public class Productt {
         }
     }
 
+    public void setBrand(String brand) {
+        if(brand != null && !brand.isEmpty()){
+        this.brand = brand;
+    } else {
+        System.out.println("Brand cannot be empty.");
+    }
+    
+
     // Method without parameter (Behavior)
     public void displayProduct() {
         System.out.println("Product Name: " + name);
