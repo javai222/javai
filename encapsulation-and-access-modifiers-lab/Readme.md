@@ -160,8 +160,7 @@ Add your class to the repository.
 
 Commit message example:
 
-```
-Added encapsulated BankAccount class with validation and static counter
+`
 ```
 Push your branch to GitHub and create a Pull Request to main.
 
