@@ -4,53 +4,64 @@
 public class Main_Casapao {
     public static void main(String[] args) {
 
-         // Create Badminton object
-        Badmintons r1 = new Badmintons(
-            "Astrox 99",
-            "Yonex",
-            "Head Heavy",
-            "Graphite",
-            "BG66 Ultimax",
-            15000,
-            10,
-            83.0
+        //for badminton class
+
+        // Object using default constructor
+        Badmintons r1 = new Badmintons();
+
+        // Object using parameterized constructor
+        Badmintons r2 = new Badmintons(
+            "Astrox 99", "Yonex", "head heavy", "Graphite", "BG66 Ultimax", 15000, 5, 0.83
         );
 
-        // Use getters
-        System.out.println("Racket Name: " + r1.getRacketName());
-        System.out.println("Racket Brand: " + r1.getRacketBrand());
+        // Object using overloaded constructor
+        Badmintons r3 = new Badmintons("Nanoflare 800", "Yonex", "BG65", 10);
+
+        // getters
+        System.out.println("Racket 2 Brand: " + r2.getRacketBrand());
+        System.out.println("Racket 3 Name: " + r3.getRacketName());
+
+        // setters 
+        r1.setRacketName("Voltric Z-Force II");
+        r1.setRacketPrice(12000);
+
+        // invalid setter 
+        r2.setRacketPrice(-5000);
 
         // Call behaviors
         r1.introduceRacket();
-        r1.sellRacket(2);
+        r2.updateRacket("Victor");
+        r3.sellRacket(3);
 
-        // Use setter
-        r1.setRacketName("Astrox 100ZZ");
+        // Display static info
+        Badmintons.displayTotalRackets();
 
-        // Test invalid input
-        r1.setRacketPrice(-5000);
+        // for Yarn class
 
-        // Static method
-        Badmintons.printTotalRackets();
+        // Object using default constructor
+        Yarns y1 = new Yarns();
 
+        // Object using overloaded constructor
+        Yarns y2 = new Yarns("Red", "Cotton", 8);
 
+        // Object using parameterized constructor
+        Yarns y3 = new Yarns("Blue", "Acrylic", 12, 100);
 
-        // Create Yarn object
-        Yarns y1 = new Yarns("Red", "Cotton", 6, 100);
+        // getters
+        System.out.println("Yarn 2 Color: " + y2.getColor());
+        System.out.println("Yarn 3 Grams: " + y3.getGrams());
 
-        // Use getters
-        System.out.println("\nYarn Color: " + y1.getColor());
-        System.out.println("Yarn Type: " + y1.getYarnType());
+        // setters 
+        y1.setColor("Yellow");
+        y1.setGrams(50);
 
-        // Use setters
-        y1.setColor("Blue");
+        // invalid setter 
+        y2.setPlysize(20); // invalid, out of range
+        y3.setGrams(10);   // invalid, out of range
+
+        // Call behaviors
         y1.setYarnType("Wool");
+        y2.setColor("Green");
 
-        // Test invalid inputs
-        y1.setPlysize(20);
-        y1.setGrams(500);
-
-        // Static behavior
+        // Display static info
         Yarns.displayTotalOrders();
-    }
-}
