@@ -90,6 +90,7 @@ public class Productt {
     } else {
         System.out.println("Brand cannot be empty.");
     }
+ }
     
 
     // Method without parameter (Behavior)
