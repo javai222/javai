@@ -43,7 +43,7 @@ public class Main_Silva {
 
 // Object created by Silva, Class created by Casapao
 
-public class Main {
+public class Main_Silva {
     public static void main(String[] args) {
 
         // Object with a default constructor
