@@ -134,21 +134,21 @@ public class Badmintons {
 
     public void setRacketPrice(int racketPrice) {
         if(racketPrice >= 0)
-            racketPrice = newPrice;
+            racketPrice = racketPrice;
         else
             System.out.println("Price cannot be negative.");
     }
 
     public void setRacketStock(int racketStock) {
         if(racketStock >= 0)
-            racketStock = newStock;
+            racketStock = racketStock;
         else
             System.out.println("Stock cannot be negative.");
     }
 
     public void setRacketWeight(double racketWeight) {
         if(racketWeight >= 0)
-            racketWeight = newWeight;
+            racketWeight = racketWeight;
         else
             System.out.println("Weight cannot be negative.");
     }
