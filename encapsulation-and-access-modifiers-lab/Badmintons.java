@@ -2,7 +2,7 @@
 * This class represents an item with a name, brand, type, material, string, price, and racketWeight
 * Created by Henry S. Dolormente II
 */
-public class Badminton {
+public class Badmintons {
     String racketName;              // Attributes
     String racketBrand;              
     String racketType;
