@@ -19,11 +19,11 @@ public class Main_Dolormente {
                     + "\nAccount password: " + a1.getAccountPassword()
                     + "\nActivity status: " + a1.getisActive());
   System.out.println("\n= = = Updating a1 Account = = =\n");            // - - - - - > Trying the validations and invalid inputs
-                    a1.setAccountName("")
-                    a1.setAccountOwner("")
-                    a1.setAccountType("NUIS Account")
-                    a1.setAccountPassword("")
-                    a1.setisActive(true)
+                    a1.setAccountName("");
+                    a1.setAccountOwner("");
+                    a1.setAccountType("NUIS Account");
+                    a1.setAccountPassword("");
+                    a1.setisActive(true);
   System.out.println("\nAccount name: " + a1.getAccountName()
                     + "\nAccount owner: " + a1.getAccountOwner()
                     + "\nAccount type: " + a1.getAccountType()
@@ -37,11 +37,11 @@ public class Main_Dolormente {
                     + "\nAccount password: " + a2.getAccountPassword()
                     + "\nActivity status: " + a2.getisActive());
   System.out.println("\n= = = Updating a2 Account = = =\n");              // - - - - - > Trying the validations and invalid inputs
-                    a1.setAccountName("tismoye@students.nu-laguna.edu.ph")
-                    a1.setAccountOwner("Yvette Tismo")
-                    a1.setAccountType("Github account")
-                    a1.setAccountPassword("2029Baby")
-                    a1.setisActive(false)
+                    a1.setAccountName("tismoye@students.nu-laguna.edu.ph");
+                    a1.setAccountOwner("Yvette Tismo");
+                    a1.setAccountType("Github account");
+                    a1.setAccountPassword("2029Baby");
+                    a1.setisActive(false);
   System.out.println("\nAccount name: " + a1.getAccountName()
                     + "\nAccount owner: " + a1.getAccountOwner()
                     + "\nAccount type: " + a1.getAccountType()
@@ -55,11 +55,11 @@ public class Main_Dolormente {
                     + "\nAccount password: " + a3.getAccountPassword()
                     + "\nActivity status: " + a3.getisActive()
  System.out.println("\n= = = Updating a3 Account = = =\n");            // - - - - - > Trying the validations and invalid inputs
-                    a1.setAccountName("")
-                    a1.setAccountOwner("")
-                    a1.setAccountType("")
-                    a1.setAccountPassword("2029Baby")
-                    a1.setisActive(true)
+                    a1.setAccountName("");
+                    a1.setAccountOwner("");
+                    a1.setAccountType("");
+                    a1.setAccountPassword("2029Baby");
+                    a1.setisActive(true);
  System.out.println("\nAccount name: " + a1.getAccountName()
                     + "\nAccount owner: " + a1.getAccountOwner()
                     + "\nAccount type: " + a1.getAccountType()
