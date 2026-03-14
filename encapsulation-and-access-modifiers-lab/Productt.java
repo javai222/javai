@@ -10,6 +10,7 @@ public class Productt {
     private double price;
     private String brand;
     private int stock;
+    private int quality;
 
     // Static attribute
     private static int totalObjects = 0;
