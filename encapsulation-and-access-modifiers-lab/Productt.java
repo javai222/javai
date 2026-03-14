@@ -1,8 +1,9 @@
+/*
 * This class represent the name, price, brand, and stock for the product
 * created by Jasmin Ann M. Casapao
 */
 
-public class Product {
+public class Productt {
 
     // Private Attributes 
     private String name;
