@@ -1,51 +1,54 @@
-// this object created by Casapao, class created by Tismo
+// this object created by Casapao, class created by Dolormente(Badminton) and Tismo(Yarn)
 // This was created with a bit of help from AI
 
 public class Main_Casapao {
     public static void main(String[] args) {
 
-        // Create objects from teammate class
-        Yarns yarn1 = new Yarns();
-        Yarns yarn2 = new Yarns("Blue", "Cotton", 8, 100);
+         // Create Badminton object
+        Badmintons r1 = new Badmintons(
+            "Astrox 99",
+            "Yonex",
+            "Head Heavy",
+            "Graphite",
+            "BG66 Ultimax",
+            15000,
+            10,
+            83.0
+        );
 
-        // Display default yarn
-        System.out.println("Yarn 1 Details:");
-        System.out.println("Color: " + yarn1.getColor());
-        System.out.println("Type: " + yarn1.getYarnType());
-        System.out.println("Ply Size: " + yarn1.getPlysize());
-        System.out.println("Grams: " + yarn1.getGrams());
+        // Use getters
+        System.out.println("Racket Name: " + r1.getRacketName());
+        System.out.println("Racket Brand: " + r1.getRacketBrand());
 
-        System.out.println();
+        // Call behaviors
+        r1.introduceRacket();
+        r1.sellRacket(2);
 
-        // Display parameterized yarn
-        System.out.println("Yarn 2 Details:");
-        System.out.println("Color: " + yarn2.getColor());
-        System.out.println("Type: " + yarn2.getYarnType());
-        System.out.println("Ply Size: " + yarn2.getPlysize());
-        System.out.println("Grams: " + yarn2.getGrams());
+        // Use setter
+        r1.setRacketName("Astrox 100ZZ");
 
-        System.out.println();
+        // Test invalid input
+        r1.setRacketPrice(-5000);
 
-        // Use setters (behaviors)
-        yarn1.setColor("Red");
-        yarn1.setYarnType("Wool");
-        yarn1.setPlysize(10);
-        yarn1.setGrams(150);
+        // Static method
+        Badmintons.printTotalRackets();
 
-        System.out.println("Updated Yarn 1:");
-        System.out.println("Color: " + yarn1.getColor());
-        System.out.println("Type: " + yarn1.getYarnType());
-        System.out.println("Ply Size: " + yarn1.getPlysize());
-        System.out.println("Grams: " + yarn1.getGrams());
 
-        System.out.println();
 
-        // Test invalid inputs 
-        System.out.println("Testing invalid inputs:");
-        yarn1.setPlysize(20);   // invalid ply size
-        yarn1.setGrams(300);    // invalid grams
+        // Create Yarn object
+        Yarns y1 = new Yarns("Red", "Cotton", 6, 100);
 
-        System.out.println();
+        // Use getters
+        System.out.println("\nYarn Color: " + y1.getColor());
+        System.out.println("Yarn Type: " + y1.getYarnType());
+
+        // Use setters
+        y1.setColor("Blue");
+        y1.setYarnType("Wool");
+
+        // Test invalid inputs
+        y1.setPlysize(20);
+        y1.setGrams(500);
 
         // Static behavior
         Yarns.displayTotalOrders();
