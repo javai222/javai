@@ -80,7 +80,7 @@ public class Main_Dolormente {
   System.out.println("= = = Product p2 = = =");                       // - - - - - > Displays product 2
   p2.displayProduct();
 
-  System.out.println("= = = Product p3 = = =")                        // - - - - - > Displays product 3 and trying the sellProduct method
+  System.out.println("= = = Product p3 = = =");                        // - - - - - > Displays product 3 and trying the sellProduct method
   p3.displayProduct();
   p3.sellProduct(2);
 
