@@ -65,3 +65,5 @@ public class Main_Casapao {
 
         // Display static info
         Yarns.displayTotalOrders();
+    }
+}
