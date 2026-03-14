@@ -75,7 +75,7 @@ public class Main_Dolormente {
   Productt p3 = new Productt("Backpack", 200, "Jansport", 5);         // - - - - - > Parameterized constructor
 
   System.out.println("= = = Product p1 = = =");                       // - - - - - > Displays product 1
-  p1.displayProducttt();
+  p1.displayProduct();
   
   System.out.println("= = = Product p2 = = =");                       // - - - - - > Displays product 2
   p2.displayProduct();
@@ -84,12 +84,12 @@ public class Main_Dolormente {
   p3.displayProduct();
   p3.sellProduct(2);
 
-  System.out.println("= = = = = Updating Product 3 = = = = ="          // - - - - - > Trying the validations and invalid inputs
-                    + p3.setName("")
-                    + p3.setPrice(1)
-                    + p3.setBrand("")
-                    + p3.setStock(-1)
-                    + p3.sellProduct(7));
+  System.out.println("= = = = = Updating Product 3 = = = = =");          // - - - - - > Trying the validations and invalid inputs
+  p3.setName("");
+  p3.setPrice(1);
+  p3.setBrand("");
+  p3.setStock(-1);
+  p3.sellProduct(7);
   p3.displayProduct();
     
   System.out.println("__________________________________________");    // - - - - - > Display total # of objects created.
