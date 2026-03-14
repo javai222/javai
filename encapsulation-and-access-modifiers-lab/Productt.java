@@ -41,7 +41,7 @@ public class Productt {
         setPrice(p);
         setBrand(b);
         setStock(s);
-        setquality(q);
+        setQuality(q);
         totalObjects++;
     }
 
