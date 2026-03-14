@@ -13,7 +13,7 @@ public class Badmintons {
     
     static int totalRackets = 0;  // Static attribute
 
-    Badminton() {                   // Default constructor
+    Badmintons() {                   // Default constructor
         racketName = "Unknown";
         racketBrand = "Unknown";
         racketType = "Unknown";
@@ -24,7 +24,7 @@ public class Badmintons {
         totalRackets++;
     }
                                     // Parameterized constructor
-    Badminton(String racketName, String racketBrand, String racketType, String racketMaterial,
+    Badmintons(String racketName, String racketBrand, String racketType, String racketMaterial,
                 String racketString, int racketPrice, double racketWeight) {
         this.racketName = racketName;
         this.racketBrand = racketBrand;
@@ -36,7 +36,7 @@ public class Badmintons {
         totalRackets++;
     }
                                     // Overloaded constructor
-    Badminton(String racketName, String racketBrand, String racketString) {
+    Badmintons(String racketName, String racketBrand, String racketString) {
         this.racketName = racketName;
         this.racketBrand = racketBrand;
         this.racketType = "head heavy";
