@@ -10,6 +10,7 @@ public class Productt {
     private double price;
     private String brand;
     private int stock;
+    private int quality;
 
     // Static attribute
     private static int totalObjects = 0;
@@ -20,6 +21,7 @@ public class Productt {
         price = 0.0;
         brand = "No Brand";
         stock = 0;
+        quality = 0;
         totalObjects++;
     }
 
@@ -29,15 +31,17 @@ public class Productt {
         setPrice(p);
         brand = "Generic";
         stock = 0;
+        quality = 0;
         totalObjects++;
     }
 
     // Overloaded constructor
-    public Productt(String n, double p, String b, int s) {
+    public Productt(String n, double p, String b, int s, int q) {
         setName(n);
         setPrice(p);
-        brand = b;
+        setBrand(b);
         setStock(s);
+        setquality(q);
         totalObjects++;
     }
 
@@ -56,6 +60,10 @@ public class Productt {
 
     public int getStock() {
         return this.stock;
+    }
+
+    public int getQuality() {
+        return this.quality;
     }
 
     // Setters with Validation
