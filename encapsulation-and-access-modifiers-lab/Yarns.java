@@ -56,7 +56,7 @@ public class Yarns {
         return this.grams; 
         }
 	    
-	// Behavior with parameters
+	// Behavior with parameters and validation
 	public void setColor(String color) {
 	    //validation
 	    if (color != "")
@@ -84,8 +84,12 @@ public class Yarns {
 	    } else 
 	        System.out.println("Invalid Input.");
 	}
-	    
+
+	//behavior with validation    
 	public static void displayTotalOrders() {
-	    System.out.println("Total yarn orders: " + totalYarn);
+	    if (totalYarn != 0) 
+		    System.out.println("Total yarn orders: " + totalYarn);
+	    else 
+	    	System.out.println("No yarn ordered yet.");
 	}
 }

@@ -1,10 +1,11 @@
 public class Main_Tismo {
     public static void main(String[] args) {
         /*
-        Object created by Tismo, Class created by Silva
+        Object created by Tismo, Class created by Silva and Casapao
         This was created with a bit of help from AI
         */
 
+		System.out.println("============== S I L V A ' S  C L A S S ==============\n");
 		//object created using default constructor
 		Account acc1 = new Account();
 		//object created using overloaded constructor
@@ -22,7 +23,8 @@ public class Main_Tismo {
 		System.out.println("Password: " + acc1.getAccountPassword());
 		System.out.println("Active status: " + acc1.getisActive());
 		System.out.println();
-		//trying the validations and invalid inputs in account 1
+		//trying the validations and invalid inputs
+		System.out.println("**Updating Account 1**");
 		acc1.setAccountName("");
 		acc1.setAccountType("NU Account");
 		acc1.setAccountPassword("");
@@ -54,5 +56,45 @@ public class Main_Tismo {
 		//display total no. of accounts created
 		System.out.println("__________________________________________");
 		Account.displayTotalAccount();
+		
+		System.out.println();
+		System.out.println("============== C A S A P A O ' S  C L A S S ==============\n");
+		//object created using default constructor
+		Productt p1 = new Productt();
+		//object created using overloaded constructor
+		Productt p2 = new Productt("Tennis Ball", 100);
+		//object created using parameterized constructor
+		Productt p3 = new Productt("Backpack", 200, "Jansport", 5);
+		
+		//display product 1
+		System.out.println("***** Product 1 *****");
+		p1.displayProduct();
+		System.out.println();
+		
+		//display product 2
+		System.out.println("***** Product 2 *****");
+		p2.displayProduct();
+		System.out.println();
+		
+		//display product 3 and trying sellProduct method
+		System.out.println("***** Product 3 *****");
+		p3.displayProduct();
+		p3.sellProduct(2);
+		System.out.println();
+		
+		//trying the validations and invalid inputs
+		System.out.println("**Updating Product 3**");
+		p3.setName("");
+		p3.setPrice(1);
+		p3.setBrand("");
+		p3.setStock(-1);
+		p3.sellProduct(7);
+		System.out.println();
+		
+		p3.displayProduct();
+		
+		//display total no. of objects created
+		System.out.println("__________________________________________");
+		Productt.printTotalObjects();
 	}
 }
