@@ -53,7 +53,7 @@ public class Main_Dolormente {
                     + "\nAccount owner: " + a3.getAccountOwner()
                     + "\nAccount type: " + a3.getAccountType()
                     + "\nAccount password: " + a3.getAccountPassword()
-                    + "\nActivity status: " + a3.getisActive()
+                    + "\nActivity status: " + a3.getisActive());
  System.out.println("\n= = = Updating a3 Account = = =\n");            // - - - - - > Trying the validations and invalid inputs
                     a1.setAccountName("");
                     a1.setAccountOwner("");
