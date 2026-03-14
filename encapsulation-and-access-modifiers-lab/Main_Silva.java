@@ -38,40 +38,38 @@ public class Main_Silva {
 	        // Display all the objects created 
 	        System.out.println("______________________________ \n");
 	        Yarns.displayTotalOrders();
+
+			// Object created by Silva, Class created by Casapao
+
+        	// Object with a default constructor
+        	Productt p1 = new Productt();
+
+       		// Object with a parameterized constructor
+        	Productt p2 = new Productt("Shoes", 1500);
+
+        	// Object with a overloaded constructor
+        	Productt p3 = new Productt("Laptop", 35000, "Dell", 10);
+
+       		 // Display all the product details
+        	 p1.displayProduct();
+        	 System.out.println();
+
+        	 p2.displayProduct();
+       	     System.out.println();
+
+        	 p3.displayProduct();
+        	 System.out.println();
+
+        	 // Sell some of the products
+       		 p3.sellProduct(3);
+
+        	 // Display updated stock
+        	 System.out.println("Updated Stock: " + p3.getStock());
+
+        	// Show total objects created
+        	Productt.printTotalObjects();
 	 }
 }
 
-// Object created by Silva, Class created by Casapao
 
-public class Main_Silva {
-    public static void main(String[] args) {
-
-        // Object with a default constructor
-        Productt p1 = new Productt();
-
-        // Object with a parameterized constructor
-        Productt p2 = new Productt("Shoes", 1500);
-
-        // Object with a overloaded constructor
-        Productt p3 = new Productt("Laptop", 35000, "Dell", 10);
-
-        // Display all the product details
-        p1.displayProduct();
-        System.out.println();
-
-        p2.displayProduct();
-        System.out.println();
-
-        p3.displayProduct();
-        System.out.println();
-
-        // Sell some of the products
-        p3.sellProduct(3);
-
-        // Display updated stock
-        System.out.println("Updated Stock: " + p3.getStock());
-
-        // Show total objects created
-        Productt.printTotalObjects();
-    }
-}
+    
