@@ -45,4 +45,4 @@
 
 \<03/14/2026\> : I learned to collaborate with my teammates and use AI responsibly for coding, next time I will try to manage my time and skill in order to navigate the complexity of creating an object while navigating the features of GitHub.
 
-
+*\<03/14/2026\>* : Comment by: <Tismo, Yvette Germaine E.>; You did well in coding and collaborating, you made the activity easier, and you can improve by learning more about oop and github.
