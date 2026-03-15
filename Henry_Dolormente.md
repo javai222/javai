@@ -35,7 +35,7 @@ I learned how to analyze errors on pull requests and fixed it by my own without 
 
 <03/11/2026> : Comment by: <Plantilla, Jophel Mark P.> You did well in creating class and objects, and you also showed good collaboration using GitHub, and you can improve by practicing more in coding to become better in programming.
 
-<03/14/2026> : Comment by: <Casapao, Jasmin Ann M.>
+<03/14/2026> : Comment by: <Casapao, Jasmin Ann M.> You did well in encapsulation activity, and you can improve by learning more about oop and github.
 
 
 
