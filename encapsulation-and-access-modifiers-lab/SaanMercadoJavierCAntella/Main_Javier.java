@@ -1,7 +1,7 @@
 // This program is assisted with AI
 // This object is created by Javier, Charles Justin
 // Test class to test both ValorantAccount and bank
-public class testobjbank {
+public class Main_Javier {
 
     public static void main(String[] args) {
 
