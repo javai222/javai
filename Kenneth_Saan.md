@@ -36,3 +36,5 @@ do a research and practice to apply it in my future projects.
 # Peer Feedback
 ---
 **\<03/11/2026\>** : Comment by: <Cantela, Chris Nelson B.>; You did well in managing your team and implementing classes and object, and I see nothing to improve you did well, but you can still improve everyday by practicing and learning.
+
+**\<03/15/2026\>** : Comment by: <Javier, Charles Justin>; You did well in coding quickly and completing the encapsulation task efficiently, and I don’t see anything that needs improvement since you did a great job, but you can continue to get better each day by practicing and learning.
