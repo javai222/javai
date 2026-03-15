@@ -12,11 +12,15 @@
 
 ## 📘 Journals
 
-**\<03/06/2026\>** : I learned the meaning and concepts of Object-Oriented Programming (OOP) in our lab and to improve, next time I will pay more attention and take more notes of what's to come in this subject.
+**03/06/2026** : I learned the meaning and concepts of Object-Oriented Programming (OOP) in our lab and to improve, next time I will pay more attention and take more notes of what's to come in this subject.
 
-**\<03/10/2026\>** : I learned more about Github functions and it's Codespace in our lab and to improve, next time I will try to implement and explore more about Github functions since there is more to uncover.
+**03/10/2026** : I learned more about Github functions and it's Codespace in our lab and to improve, next time I will try to implement and explore more about Github functions since there is more to uncover.
+
+**03/14/2026** : I learned more about coding independently and I also learned more on creating objects for my partners' classes and to improve, next time I will try to practice more on coding without depending on AI to hone my skills and to be able to confidently deal with much complex tasks.
 
 ---
 
 ## 📘 Peer Feedback
-03/11/2026 : Comment by: **Mercado Dustin Elijah C.**; You did well in using and learning the github fuctions and you can improve by practicing and broaden your knowledge
+**03/11/2026** : Comment by: **Mercado Dustin Elijah C.**; You did well in using and learning the github fuctions and you can improve by practicing and broaden your knowledge.
+
+**03/14/2026** : Comment by: **Jophel Mark Plantilla**; You did well in creating your encapsulation class and organizing your code, and you can imporve by adding more validation in the setters.
