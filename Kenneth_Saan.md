@@ -21,6 +21,9 @@ ___do a research and practice to apply it in my future projects ___.
 **\<03/011/2026\>** : I learned I learned the basics of git and github and how to manage a organization inside it and applying the oop to our activity about the instances, constructor and many more in our lab and to improve, next time I will _
 do a research and practice to apply it in my future projects.
 
+03/14/2026> : I learned the basic concepts of protecting your data from anyris by hiding it and also the getter and setter methods for access modifiers, next time I will use it frequently to master the encapsulation.
+
+
 
 # Kenneth Saan R. 
 ---
@@ -38,3 +41,4 @@ do a research and practice to apply it in my future projects.
 **\<03/11/2026\>** : Comment by: <Cantela, Chris Nelson B.>; You did well in managing your team and implementing classes and object, and I see nothing to improve you did well, but you can still improve everyday by practicing and learning.
 
 **\<03/15/2026\>** : Comment by: <Javier, Charles Justin>; You did well in coding quickly and completing the encapsulation task efficiently, and I don’t see anything that needs improvement since you did a great job, but you can continue to get better each day by practicing and learning.
+
