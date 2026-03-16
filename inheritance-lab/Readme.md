@@ -90,7 +90,7 @@ Commit example:
 Added Animal parent class
 ```
 
-Push your branch.
+Push your branch and create PR to main.
 
 Your classmates will **extend your class later**.
 
