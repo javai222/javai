@@ -44,3 +44,6 @@
 <03/11/2026> : Comment by: <Silva, Vinz Joseph>; You did well in collaborating with me in order to finish our code, you can improve by being more technical in applying different functions in coding.
 
 <03/15/2026> : I learned how encapsulation works by keeping data private and accessing it through method to make the program more organized and secure. Next time, I will practice writing more classes using encapsulation so I can understand it better and avoid mistakes.
+
+<03/11/2026> : Comment by: <Saan, Kenneth>; you did great in completing this activity as soon as possible, you can improve by creating project related to this topic.
+
