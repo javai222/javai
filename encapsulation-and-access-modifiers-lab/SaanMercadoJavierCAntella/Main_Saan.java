@@ -4,7 +4,7 @@
  * This class is for testing Sorcerer and ValorantAccount
  */
 
-public class banosorcerertestprint {
+public class Main_Saan {
 
     public static void main(String[] args) {
 
