@@ -17,3 +17,6 @@
 **\<03/11/2026\>** : I learned how to create classes and objects using attributes, methods, and constructors, as well as the importance of teamwork in completing activities, and next time I will explore more features of GitHub to make it easier for me to use it.
 
 **\<03/14/2026\>** : I learned how to create a better class using encapsulation and implement objects with it, and next time I will practice more in coding without any help. In my review and retrospection, I learned how to fix errors in Codespace during compiling and the use of encapsulation to hide data.
+
+# Peer Feedback
+**\<03/14/2026\>** Comment by: **Torrefranca, Vincent Christopher**; You did well implementing encapsulation and organizing your Items class clearly. The code also looks clean. A possible improvement would be adding stronger validation for some setter methods.
