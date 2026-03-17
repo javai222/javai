@@ -22,3 +22,5 @@
 <03/11/2026> : Comment by: **Torrefranca Vincent**; You did well in learning more about Github functions and coding your program and you can improve by practicing and exploring more and honing your skills
 
 <03/15/2026> : Comment by: **Javier, Charles Justin**; You did well in coding quickly and completing the encapsulation task efficiently, and you can improve by organizing your code better and learning more about proper coding practices from others.
+
+<03/11/2026> : Comment by: <Saan, Kenneth>; you did great in completing this activity as soon as possible, you can improve by creating project related to this topic.
