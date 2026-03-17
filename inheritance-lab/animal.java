@@ -10,12 +10,12 @@ public class animal {
     }
 
     void play() {
-        System.out.print(name +" is playing.")
+        System.out.print(name +" is playing.");
     }
     void growl() {
-        System.out.print(name +" is growling.")
+        System.out.print(name +" is growling.");
     }
     void sick() {
-        System.out.print("Animal not feeling well.")
+        System.out.print("Animal not feeling well.");
     }
 }
