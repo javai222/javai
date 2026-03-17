@@ -28,6 +28,9 @@ I learned the core concept of oop and its 4 pillars in our lab and to improve, n
 
 ## 📘 Journals
 
+**\<03/17/2026>\** Commented by: Rj Balanon: You did well in finishing early on creating class and creating object in my class and you can improve by learning more effiecient code.
+
+
 I learned how to use instances and constructors and to improve, next time I will study hard and enhance my github and oop understanding.
 
 
