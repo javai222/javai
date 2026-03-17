@@ -1,12 +1,12 @@
 import java.util.*;
 /*
-* Created by Cantela, Chris Nelson B.
-* Sample subclasses Buyer/Seller
-* this class represents a system user, handling basic authentication
+ * Created by Cantela, Chris Nelson B.
+ * Sample subclasses Buyer/Seller
+ * this class represents a system user, handling basic authentication
  */
 
 public class User {
-    static Scanner in = new Scanner(System.in);
+    Scanner in = new Scanner(System.in);
     Random ran = new Random();
 
     // Important attributes for user
@@ -17,9 +17,27 @@ public class User {
     private boolean status;
     private String userType;
 
+    private static ArrayList<String> usedID = new ArrayList<>();  //Stores all the usedID
+
+    // Constructors
+    public User() {
+        // Keeps the original flow can still call register method to input fields.
+        this.status = false;
+    }
+
+    //If you don't want to use the register method, you can use this instead.
+    public User(String userName, String password, String email) {
+        this.userID = generateID();
+        this.userName = userName;
+        this.password = password;
+        this.email = email;
+        this.status = false;
+        verifyUser(email);
+    }
+
     //Getter Methods
     public String getUserName() {
-       return this.userName;
+        return this.userName;
     }
 
     public String getEmail() {
@@ -50,12 +68,12 @@ public class User {
 
     //Behavioral methods
     /*
-    * Handles account creattion, with password authentication
-    * email-based type verification
+     * Handles account creattion, with password authentication
+     * email-based type verification
      */
     public void register ()  {
         System.out.println("\nRegister Account");
-        userID = "USXR" + (ran.nextInt(1000) + 1);
+        userID = generateID();
 
         System.out.print("Enter username You would like to use: ");
         userName = in.nextLine();
@@ -93,13 +111,22 @@ public class User {
     }
 
     //logic methods
+    private String generateID () {
+        String ID;
+        do {
+            ID = "USXR" + (ran.nextInt(1000) + 1);
+        } while (usedID.contains(ID));
+        usedID.add(ID);
+        return ID;
+    }
+
     private boolean verifyEmail(String email) {
-       return email.contains("@");
+        return email.contains("@");
     }
 
     /*
-    *Gets the domain from the email to identify the user type
-    * student/staff/vendor
+     *Gets the domain from the email to identify the user type
+     * student/staff/vendor
      */
     private void verifyUser (String email) {
         String domain;
@@ -115,7 +142,6 @@ public class User {
         else
             userType = "Vendor";
 
-        System.out.println("User: " + userType);
     }
 
     //Behavioral Methods
@@ -155,13 +181,11 @@ public class User {
 
     public void showInfo () {             //can be overridden
         System.out.println("\nName: " + userName
-                        +  "\nUser ID: " + userID
-                        +  "\nUser Type: " + userType
-                        +  "\nStatus: " + (status ? "Active" : "Inactive")
-                        +  "\nRole: Buyer");
+                +  "\nUser ID: " + userID
+                +  "\nUser Type: " + userType
+                +  "\nStatus: " + (status ? "Active" : "Inactive")
+                +  "\nRole: Buyer");
     }
 
 
 }
-
-
