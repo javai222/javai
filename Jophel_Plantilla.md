@@ -19,4 +19,6 @@
 **\<03/14/2026\>** : I learned how to create a better class using encapsulation and implement objects with it, and next time I will practice more in coding without any help. In my review and retrospection, I learned how to fix errors in Codespace during compiling and the use of encapsulation to hide data.
 
 # Peer Feedback
+**\<03/11/2026\>** Comment by: **<Dolormente, Henry II, S.>** You did well on creating the class and the object, you also did good on collaborating with me! You can improve more by familarizing yourself with github.
+
 **\<03/14/2026\>** Comment by: **Torrefranca, Vincent Christopher**; You did well implementing encapsulation and organizing your Items class clearly. The code also looks clean. A possible improvement would be adding stronger validation for some setter methods.
