@@ -21,3 +21,5 @@
 ---
 
 **<03/11/2026>** : Comment by: <Saan, Kenneth R.>; You did well in helping your team implementing your learnings in this activity, and I see nothing to improve you can help and you advance your studies and keep that discipline.
+
+<03/11/2026> : Comment by: <Saan, Kenneth>; you did great in completing this activity as soon as possible, there will be always room for improvement so you can always get better by creating a project using this concept and overall you did great.
