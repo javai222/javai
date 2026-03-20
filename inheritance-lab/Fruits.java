@@ -3,7 +3,7 @@
  * created by Jasmin Ann M. Casapao
  */
 
-public class Fruit {
+public class Fruits {
 
     // Private attributes
     private String name;
