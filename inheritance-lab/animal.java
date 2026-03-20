@@ -10,17 +10,18 @@ public class animal {
     private String classification;
     private String type;
 
-    // Default Constructors
+    //Default Constructor
+    public animal() {
+        this.name = "Unknown";
+        this.classification = "Unknown";
+        this.type = "Unknown";
+    }
+
+    // Parameterized Constructors
     public animal(String name, String classification, String type) {
         this.name = name;              
         this.classification = classification; 
         this.type = type;               
-    }
-    // Parameterized Constructors
-     public animal(String name, String classification, String type) {
-        this.name = name;
-        this.classification = classification;
-        this.type = type;
     }
 
     //Getters
