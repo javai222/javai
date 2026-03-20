@@ -1,5 +1,5 @@
 //this class is created by Kenneth Saan
-public class Vehicle {
+public class vehicle {
 	// Basic vehicle details
      private String brand; 
      private String type; 
@@ -13,7 +13,7 @@ public class Vehicle {
      
      
 	// Default constructor with placeholder values
-	public Vehicle() { 
+	public vehicle() { 
     	 
     	 this.brand = "Unknown"; 
     	 this.type = "Unknown"; 
@@ -23,7 +23,7 @@ public class Vehicle {
      }
    
 	// Constructor for setting all core details at once
-	public Vehicle(String brand, String type, int wheels, int horsePower, double fuel) { 
+	public vehicle(String brand, String type, int wheels, int horsePower, double fuel) { 
     	 
     	 this.brand = brand; 
     	 this.type = type; 
