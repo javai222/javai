@@ -65,7 +65,7 @@ public class Vehicle {
     		 this.fuel = fuel;
     	 } 
     	 else { 
-    		 System.out.println("FUel cannot be negative");
+    		 System.out.println("Fuel cannot be negative");
     	 }
      }
      public void setSpeed(int speed) { 
