@@ -5,7 +5,7 @@
 public class MainInheritance_Tismo {
 	public static void main(String[] args) {
 
-		 //This line of code shows the IS-A relationship because Mango is a Fruit
+		//This line of code shows the IS-A relationship because Mango is a Fruit
         Fruits m = new Mango("Ripe Mango", "Yellow", "Medium");
 		//inherited from parent class
 		m.peel();
