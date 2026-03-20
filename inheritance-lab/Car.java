@@ -19,7 +19,7 @@ public Car() {
   this.carWheel = "Unknown";
   this.carEngine = "Unknown";
   this.carExhaust = "Unknown";
-  this.gasAmount = "";
+  this.gasAmount = "0";
   }
 // Parameterized Constructors 
 public Car(String carBrand, String carModel, String carWheel, String carEngine, String carExhaust, int gasAmount) {
