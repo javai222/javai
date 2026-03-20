@@ -1,4 +1,4 @@
- * What is the IS-A relationship in your program?
+ /* What is the IS-A relationship in your program?
  * // This line of code shows the IS-A relationship  because a MilkChocolate is a Chocolate
  * 
  * Which method was overridden?
@@ -15,7 +15,7 @@
  */
 
 
-public class Main_Casapao {
+public class MainInheritance_Casapao {
     public static void main(String[] args) {
 
         // This line of code shows the IS-A relationship  because a MilkChocolate is a Chocolate
