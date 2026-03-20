@@ -1,10 +1,10 @@
 /*
- * This class represents an car parent class
+ * This class represents a car parent class
  * Created by Dolormente, Henry II S.
  */
 
 public class Car {
-
+  // Attrivutes
   private String carBrand;
   private String carModel;
   private String carWheel;
@@ -12,8 +12,17 @@ public class Car {
   private String carExhaust;
   private int gasAmount; 
 
+// Default Constructors
+public Car() {
+  this.carBrand = "Unknown";
+  this.carModel = "Unknown";
+  this.carWheel = "Unknown";
+  this.carEngine = "Unknown";
+  this.carExhaust = "Unknown";
+  this.gasAmount = "Unknown";
+  }
+// Parameterized Constructors 
 public Car(String carBrand, String carModel, String carWheel, String carEngine, String carExhaust, int gasAmount) {
-
   this.carBrand = carBrand;
   this.carModel = carModel;
   this.carWheel = carWheel;
@@ -22,7 +31,7 @@ public Car(String carBrand, String carModel, String carWheel, String carEngine, 
   this.gasAmount = gasAmount;
 
   }
-
+// Getters for the attributes
 public String getCarBrand () {
   return carBrand;
   }
@@ -46,7 +55,7 @@ public String getCarExhaust () {
 public int getGasAmount () {
   return gasAmount;
   }
-
+// Methods to display and show the behavior of the car
 public void displayCarSpecs() {
   System.out.println("The brand of the car is " + carBrand 
                     + "\n. Model: " + carModel + "\n"
@@ -62,5 +71,9 @@ public void ignitionOn() {
 
 public void ignitionOff() {
   System.out.println("Car is turning off.");
+  }
+// This method can be overriden in child classes.
+public void car() {
+  System.out.println("The car is electric.");
   }
 }
