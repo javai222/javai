@@ -53,7 +53,7 @@ public class Fruits {
         return color;
     }
 
-    public double getSize() {
+    public String getSize() {
         return size;
     }
 }
