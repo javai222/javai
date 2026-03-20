@@ -7,7 +7,13 @@ public class Chocolate {
     private String flavor;
     private String type;
     private String shape;
-    
+
+    //default constructor
+    public Chocolate() {
+        this.flavor = "unknown";
+        this.type = "unknown";
+        this.shape = "unknown";
+    }
     
     //parameterized constructor
     public Chocolate(String flavor, String type, String shape) {
