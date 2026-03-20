@@ -43,7 +43,7 @@ public String getCarExhaust () {
   return carExhaust;
   }
 
-public String getGasAmount () {
+public int getGasAmount () {
   return gasAmount;
   }
 
