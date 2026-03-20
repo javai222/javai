@@ -10,11 +10,43 @@ public class animal {
     private String classification;
     private String type;
 
-    // Constructor - used to initialize the object when created
+    //Default Constructor
+    public animal() {
+        this.name = "Unknown";
+        this.classification = "Unknown";
+        this.type = "Unknown";
+    }
+
+    // Parameterized Constructors
     public animal(String name, String classification, String type) {
-        this.name = name;               // sets the animal's name
-        this.classification = classification; // sets classification (e.g., Mammal, Reptile)
-        this.type = type;               // sets type (e.g., Pet, Wild)
+        this.name = name;              
+        this.classification = classification; 
+        this.type = type;               
+    }
+
+    //Getters
+     public String getName() {
+        return name;
+    }
+    public String getClassification() {
+        return classification;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    //Setters
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setClassification(String classification) {
+        this.classification = classification;
+    }
+
+    public void setType(String type) {
+        this.type = type;
     }
 
     // Method that shows the animal playing
