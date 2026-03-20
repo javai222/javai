@@ -11,14 +11,14 @@ public class Fruits {
     private double weight;
 
     // Default constructor
-    public Fruit() {
+    public Fruits() {
         name = "Unknown Fruit";
         color = "Unknown Color";
         weight = 0.0;
     }
 
     // Parameterized constructor
-    public Fruit(String name, String color, double weight) {
+    public Fruits(String name, String color, double weight) {
         this.name = name;
         this.color = color;
         this.weight = weight;
