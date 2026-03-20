@@ -10,7 +10,7 @@ public class Car {
   private String carWheel;
   private String carEngine;
   private String carExhaust;
-  privte int gasAmount; 
+  private int gasAmount; 
 
 public Car(String carBrand, String carModel, String carWheel, String carEngine, String carExhaust, int gasAmount) {
 
