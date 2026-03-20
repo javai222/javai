@@ -1,5 +1,5 @@
 /*
- * This class represents an animal parent class
+ * This class represents an car parent class
  * Created by Dolormente, Henry II S.
  */
 
