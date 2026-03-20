@@ -8,20 +8,20 @@ public class Fruits {
     // Private attributes
     private String name;
     private String color;
-    private double weight;
+    private String size;
 
     // Default constructor
     public Fruits() {
         name = "Unknown Fruit";
         color = "Unknown Color";
-        weight = 0.0;
+        size = "Unknown size";
     }
 
     // Parameterized constructor
-    public Fruits(String name, String color, double weight) {
+    public Fruits(String name, String color, String size) {
         this.name = name;
         this.color = color;
-        this.weight = weight;
+        this.size = size;
     }
 
     // Behavior methods
@@ -32,7 +32,7 @@ public class Fruits {
     public void showDetails() {
         System.out.println("Fruit: " + name);
         System.out.println("Color: " + color);
-        System.out.println("Weight: " + weight + " kg");
+        System.out.println("Size: " + size);
     }
 
     public void peel() {
@@ -53,7 +53,7 @@ public class Fruits {
         return color;
     }
 
-    public double getWeight() {
-        return weight;
+    public double getSize() {
+        return size;
     }
 }
