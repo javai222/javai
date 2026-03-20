@@ -9,7 +9,7 @@ public class Vehicle {
 
 	// Runtime state values
      private int speed; 
-     boolean engine;
+     private boolean engine;
      
      
 	// Default constructor with placeholder values
