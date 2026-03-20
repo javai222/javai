@@ -38,8 +38,8 @@ public class Vehicle {
      public int getWheels() { return wheels; }
      public int getHorsePower() { return horsePower; }
      public double getFuel() { return fuel; }
-     public int Getspeed() { return speed;}
-     public boolean isengine() {return engine;} 
+     public int getSpeed() { return speed; }
+     public boolean isEngine() { return engine; } 
      
      // --- SETTERS (Mutators) ---
      public void setBrand(String brand) { 
