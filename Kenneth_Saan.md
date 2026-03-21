@@ -42,3 +42,4 @@ do a research and practice to apply it in my future projects.
 
 **\<03/15/2026\>** : Comment by: <Javier, Charles Justin>; You did well in coding quickly and completing the encapsulation task efficiently, and I don’t see anything that needs improvement since you did a great job, but you can continue to get better each day by practicing and learning.
 
+**\<03/21/2026\>** : Comment by: <Cantela, Chris Nelson B. [Encapsulation]>; You did great in implementing the different modifiers and applying encapsulation concepts, and to improve you have to pay attention to user input validation that'll cause error to your code.
