@@ -47,3 +47,5 @@
 
 <03/11/2026> : Comment by: <Saan, Kenneth>; you did great in completing this activity as soon as possible, you can improve by creating project related to this topic.
 
+
+**\<03/21/2026\>** : Comment by: <Cantela, Chris Nelson B. [Encapsulation]>; You did great in implementing the different modifiers and applying encapsulation concepts, and to improve you have to pay attention to user input validation that'll cause error to your code.
