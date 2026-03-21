@@ -1,3 +1,5 @@
+// This parent class is created by Ryan James M. Balanon
+
 public class Pet {
 
     // Private Attributes
