@@ -1,5 +1,5 @@
 /*
-* This class represents an animal parent class
+* This class represents a character parent class
 * Created by Vinz Joseph R. Silva
 */
 
