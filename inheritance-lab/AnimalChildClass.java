@@ -1,4 +1,9 @@
-
+/*
+*two child classes of the parent class animal. Cat and GermanShepherd class.
+*created by Cantela, Chris Nelson B. 3/21/26
+*/
+ 
+ 
  class Cat extends animal {
     private String breed;  //new attributes for Cat class
 
