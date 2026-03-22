@@ -24,10 +24,10 @@
     public void makeSound() {
         System.out.println(getName() + " roars loudly!");
     }
-
-  }
     // Additional behavior specific to Tiger
     @Override
     public void eat() {
         System.out.println(getName() + " is hunting in the " + habitat);
     }
+  }
+    
