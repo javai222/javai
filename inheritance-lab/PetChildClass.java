@@ -27,6 +27,7 @@
 
   }
     // Additional behavior specific to Tiger
+    @Override
     public void eat() {
         System.out.println(getName() + " is hunting in the " + habitat);
     }
