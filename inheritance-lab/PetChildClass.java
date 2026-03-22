@@ -30,4 +30,3 @@
     public void hunt() {
         System.out.println(getName() + " is hunting in the " + habitat);
     }
-}
