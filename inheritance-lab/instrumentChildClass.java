@@ -5,7 +5,7 @@
 class Guitar extends instrument {                                                             // This line of code shows the IS-A relationship because guitar is an instrument
                                                                    
   public Guitar(String name, String type, String material) {                                  // Getting needed attributes
-      super("ZVX Electric Guitar", "Electric guitar", "Hardwood");                          
+      super(name, type, material);                          
   }
 
   public static void playChord() {                                                            // New behavior created
@@ -21,7 +21,7 @@ class Guitar extends instrument {                                               
 class Violin extends instrument {                                                             // This line of code shows the IS-A relationship because violin is an instrument
 
   public Violin(String name, String type, String material) {                                  // Getting needed attributes
-      super("Vean Vio", "Modern Acoustic", "Tonewoods");
+      super(name, type, material);
   }
 
   public static void useBow() {                                                               // New behavior created
