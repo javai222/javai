@@ -2,7 +2,7 @@
 * Child class created by Dolormente, parent class created by De Leon
 */
 
-public class MainInhertiance_Dolormente {
+public class MainInheritance_Dolormente {
   public static void main(String[] args) {
     
     instrument gt = new Guitar("ZVX Electric Guitar", "Electric guitar", "Hardwood");  // This line of code shows the IS-A relationship because guitar is an instrument
