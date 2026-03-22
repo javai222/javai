@@ -2,29 +2,34 @@
 * Child class created by Dolormente, parent class created by De Leon
 */
 
-class Guitar extends instrument {
-
-  // Getting needed attributes
-  public Guitar(String name, String type, String material) {
-      super("ZVX Electric Guitar", "Electric guitar", "Hardwood");
+class Guitar extends instrument {                                                             // This line of code shows the IS-A relationship because guitar is an instrument
+                                                                   
+  public Guitar(String name, String type, String material) {                                  // Getting needed attributes
+      super("ZVX Electric Guitar", "Electric guitar", "Hardwood");                          
   }
 
-  // This method was overwritten
-  @Override
-  public void sound() {
+  public static voidplayChord() {
+      System.out.println("Strumming a chord on the guitar.");                                 // New behavior created
+}
+  
+  @Override                                                                                   // This method was overriden
+  public void sound() { 
       System.out.println("This electric guitar is the best out of the ones i've tried.");
   }
 }
 
-class Violin extends instrument {
+class Violin extends instrument {                                                             // This line of code shows the IS-A relationship because violin is an instrument
 
-  public Violin(String name, String type, String material) {
+  public Violin(String name, String type, String material) {                                  // Getting needed attributes
       super("Vean Vio", "Modern Acoustic", "Tonewoods");
   }
 
+  public static voiduseBow() {                                                                // New behavior created
+      System.out.println("Using the bow to play the violin smoothly.");
+}
+  
+  @Override                                                                                   // This method was overriden
   public void sound() {
       System.out.println("This violin produces exquisite tones unlike other violins.");
   }
 }
-
-
