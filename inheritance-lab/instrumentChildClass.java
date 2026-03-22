@@ -8,7 +8,7 @@ class Guitar extends instrument {                                               
       super("ZVX Electric Guitar", "Electric guitar", "Hardwood");                          
   }
 
-  public static voidplayChord() {
+  public static void playChord() {
       System.out.println("Strumming a chord on the guitar.");                                 // New behavior created
 }
   
@@ -24,7 +24,7 @@ class Violin extends instrument {                                               
       super("Vean Vio", "Modern Acoustic", "Tonewoods");
   }
 
-  public static voiduseBow() {                                                                // New behavior created
+  public static void useBow() {                                                                // New behavior created
       System.out.println("Using the bow to play the violin smoothly.");
 }
   
