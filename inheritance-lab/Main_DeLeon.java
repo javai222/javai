@@ -20,6 +20,7 @@ ANSWER: The child class introduced the new behavior chargeBattery()
 */
 
 // Inheritance Demo Program
+public class Main_DeLeon {
     public static void main(String[] args) {
         ElectricCar ec = new ElectricCar("Tesla", "Model 3", "Alloy Wheels", "Electric Motor", "Silent Exhaust", 100);
         ec.displayCarSpecs(); // Inherited from Car Parent Class
@@ -27,3 +28,4 @@ ANSWER: The child class introduced the new behavior chargeBattery()
         ec.car();             // Overridden in ElectricCar
         ec.chargeBattery();   // New behaviors
     }
+}
