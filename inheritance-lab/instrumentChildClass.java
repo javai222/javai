@@ -14,7 +14,7 @@ class Guitar extends instrument {                                               
   
   @Override                                                                                   // This method was overriden
   public void sound() { 
-      System.out.println("This electric guitar is the best out of the ones i've tried.");
+      System.out.println("This electric guitar is the best sounding one out of the ones i've tried.");
   }
 }
 
