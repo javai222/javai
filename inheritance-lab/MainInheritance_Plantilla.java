@@ -19,7 +19,7 @@ What new behavior did the subclass introduce?
 // Chiori introduced castSpell().
 */
 
-public class Main_Plantilla {
+public class MainInheritance_Plantilla {
     public static void main(String[] args) {
 
         // Dynamic Binding: Create an object of subclass 
