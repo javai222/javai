@@ -18,7 +18,7 @@
  * // The new behavior introduced by the subclass is hunt()
  */
 
-public class Main_Javier {
+public class MainInheritance_Javier {
     public static void main(String[] args) {
         Tiger tiger = new Tiger("Rajah", 5, "Mammal", "jungle");
 
