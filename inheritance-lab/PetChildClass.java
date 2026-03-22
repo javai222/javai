@@ -27,6 +27,6 @@
 
   }
     // Additional behavior specific to Tiger
-    public void hunt() {
+    public void eat() {
         System.out.println(getName() + " is hunting in the " + habitat);
     }
