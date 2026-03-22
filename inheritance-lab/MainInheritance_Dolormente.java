@@ -29,8 +29,8 @@ public class MainInhertiance_Dolormente {
     vl.clean();                                                                        // Inherited from parent class
     vl.useBow();                                                                       // Overriden method
 
-    
-    
+  }
+}
     
     
     
