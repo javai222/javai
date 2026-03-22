@@ -15,7 +15,7 @@ public class MainInheritance_Dolormente {
     gt.clean();
     gt.tune();
     gt.play();
-    gt.playChord();                                                                    // Overriden method
+    Guitar.playChord();                                                                    // Overriden method
 
     instrument vl = new Violin("Vean Vio", "Modern Acoustic", "Tonewoods");            // This line of code shows the IS-A relationship because violin is an instrument
     
@@ -27,7 +27,7 @@ public class MainInheritance_Dolormente {
     vl.play();                                                                         // Inherited from parent class
     vl.tune();                                                                         // Inherited from parent class
     vl.clean();                                                                        // Inherited from parent class
-    vl.useBow();                                                                       // Overriden method
+    Violin.useBow();                                                                       // Overriden method
 
   }
 }
