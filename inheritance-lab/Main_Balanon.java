@@ -58,3 +58,37 @@ class Motorcycle extends vehicle {
         System.out.println("Motorcycle honks: Meep meep!");
     }
 }
+
+public class Main_Balanon {
+    public static void main(String[] args) {
+        // Create a Motorcycle instance (IS-A relationship: Motorcycle IS-A vehicle)
+        Motorcycle moto1 = new Motorcycle("Harley-Davidson", "Cruiser", 2, 60, 5.0, false);
+        
+        // Test inherited methods from vehicle parent class
+        System.out.println("--- Testing Inherited Methods ---");
+        System.out.println("Brand: " + moto1.getBrand());
+        System.out.println("Type: " + moto1.getType());
+        System.out.println("Wheels: " + moto1.getWheels());
+        System.out.println("Horse Power: " + moto1.getHorsePower());
+        System.out.println("Fuel: " + moto1.getFuel());
+        
+        // Test overridden method
+        System.out.println("\n--- Testing Overridden Method ---");
+        moto1.honk();
+        
+        // Test new behavior
+        System.out.println("\n--- Testing New Behavior ---");
+        moto1.doWheelie();
+        
+        // Test getters/setters for new field
+        System.out.println("\n--- Testing New Field ---");
+        System.out.println("Has Sidecar: " + moto1.hasSidecar());
+        moto1.setSidecar(true);
+        System.out.println("Has Sidecar (after setting): " + moto1.hasSidecar());
+        
+        // Dynamic Binding demonstration
+        System.out.println("\n--- Dynamic Binding ---");
+        vehicle myVehicle = new Motorcycle("Honda", "Sport Bike", 2, 120, 4.5, false);
+        myVehicle.honk();  // Calls overridden method in Motorcycle at runtime
+    }
+}
