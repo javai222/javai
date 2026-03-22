@@ -5,7 +5,7 @@ public class Tiger extends Pet {
 
     // Constructor
     public Tiger(String name, int age, String type, String habitat) {
-        super(name, age, type); // Calls the parent constructor
+        super(name, age, "Mammal", type); // Calls the parent constructor
         this.habitat = habitat;
     }
 
