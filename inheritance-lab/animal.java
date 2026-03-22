@@ -9,6 +9,7 @@ public class animal {
     private String name;
     private String classification;
     private String type;
+    private int age;
 
     //Default Constructor
     public animal() {
@@ -24,6 +25,13 @@ public class animal {
         this.type = type;               
     }
 
+    public animal(String name, int age, String classification, String type) {
+        this.name = name;
+        this.age = age;
+        this.classification = classification;
+        this.type = type;
+    }
+
     //Getters
      public String getName() {
         return name;
@@ -34,6 +42,10 @@ public class animal {
 
     public String getType() {
         return type;
+    }
+
+    public int getAge() {
+        return age;
     }
 
     //Setters
@@ -48,6 +60,16 @@ public class animal {
     public void setType(String type) {
         this.type = type;
     }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    // Method that can be overridden
+    public void makeSound() {
+        System.out.println(name + " makes a sound");
+    }
+}
 
     // Method that shows the animal playing
     public void play() {
