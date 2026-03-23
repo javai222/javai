@@ -48,3 +48,5 @@
 *\<03/14/2026\>* : Comment by: <Tismo, Yvette Germaine E.>; You did well in coding and collaborating, you made the activity easier, and you can improve by learning more about oop and github.
 
 *\<03/17/2026\>* : Comment by: <Dolormente, Henry II S.>; Great job in collaborating! I suggest you make a display method so that the activity becomes more easier, you can improve by learning more about github.
+
+*\<03/23/2026\>* : I learned to create an inheritance type of code in order to connect the parent class and child class, next time I will try harder to make my code clearer and fix the structure before creating the pull request.
