@@ -19,10 +19,16 @@
 
 **\<03/14/2026\>** : I learned about how encapsulation works in coding and more about how to use proper modifiers and I also understood how to make objects way more than before, next time I would try to implement even more complex validators and object invariations to ensure the safety of data.
 
+**\<03/23/2026\>** : I learned how to create parent and child classes, the correct way to use said parent class as well as how to override certain methods, next time I would try to add more validations in may parent/child class and try a somewhat a little more complex code.
+
 # Peer Feedback
 ---
 **\<03/11/2026\>** : Comment by: <Casapao, Jasmin Ann M.>; You did well in coding and helping me in github, and you can improve by practicing and learning new in github.
+
 **\<03/14/2026\>** : Comment by: <Casapao, Jasmin Ann M.>; You did well in encapsulation activity and using github, and you can improve by learning more about oop and github.
+
 **\<03/14/2026\>** : Comment by: <De Leon, Lord Ulrick A.>; You did well in applying what you learned and performed well with the encapsulation task, and you can improve by practicing more.
+
 **\<03/15/2026\>** : Comment by: <Silva, Vinz Joseph R.>; You did well in creating a class of encapsulation and navigating the object , and you can improve by learning more efficient way to execute your code.
+
 **\<03/23/2026\>** : Comment by: <Casapao, Jasmin Ann M.>; You did well in inheritance activity. using github and helping me in github, and you can improve by learning more about inheritance and github.
