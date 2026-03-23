@@ -28,3 +28,10 @@
 ## 📘 Journals
 
 **\<03/06/2026\>** : I learned more about objects and classes and how to use the features of github in our lab and to improve, next time I will practice more to enhance my ability to use this in different situations.
+
+
+## 👥 Peer feedback
+
+<03/23/2026> : Comment by: <Dolormente, Henry II, S.> You did well in the inheritance topic, you made the parent class well and you can improve by practicing more of 
+                                                        the inheritance to further hone your skills in coding.
+
