@@ -22,3 +22,5 @@
 **\<03/11/2026\>** Comment by: **<Dolormente, Henry II, S.>** You did well on creating the class and the object, you also did good on collaborating with me! You can improve more by familarizing yourself with github.
 
 **\<03/14/2026\>** Comment by: **Torrefranca, Vincent Christopher**; You did well implementing encapsulation and organizing your Items class clearly. The code also looks clean. A possible improvement would be adding stronger validation for some setter methods.
+
+**\<03/23/2026\>** Comment by: **Silva, Vinz Joseph**; You did well in creating the structure for the parent and child class. You can improve by making your code more efficient in order for it to be clear and understandable.
