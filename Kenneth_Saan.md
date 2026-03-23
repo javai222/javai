@@ -14,8 +14,7 @@ KennethSaan
 ---
 
 ## 📘 Journals
-
-**\<03/06/2026\>** : I learned ___The core concept of Object oriented programming, and the 4 pillars of it, their functionalities and usage____ in our lab and to improve, next time I will _
+**\<03/023/2026\>** : I learned ___I learned thebasics of inheritance and what s the purpose of it and how should I apply it and resue codes and connecting classes to each other____ in our lab and to improve, next time I will _
 ___do a research and practice to apply it in my future projects ___.
 
 **\<03/011/2026\>** : I learned I learned the basics of git and github and how to manage a organization inside it and applying the oop to our activity about the instances, constructor and many more in our lab and to improve, next time I will _
@@ -23,6 +22,8 @@ do a research and practice to apply it in my future projects.
 
 03/14/2026> : I learned the basic concepts of protecting your data from anyris by hiding it and also the getter and setter methods for access modifiers, next time I will use it frequently to master the encapsulation.
 
+**\<03/06/2026\>** : I learned ___The core concept of Object oriented programming, and the 4 pillars of it, their functionalities and usage____ in our lab and to improve, next time I will _
+___do a research and practice to apply it in my future projects ___.
 
 
 # Kenneth Saan R. 
