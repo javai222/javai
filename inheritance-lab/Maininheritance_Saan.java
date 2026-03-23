@@ -17,8 +17,8 @@
   setPaymentMethod(), along with Buyer-specific fields (cart, balance, points).
  
   */
- public class Main_Saan {
-    public static void Main_Saan(String[] args) {
+ public class Maininheritance_Saan {
+    public static void Maininheritance_Saan(String[] args) {
         
         // 1. Create a generic User object (The Parent)
         // Using the manual constructor: User(username, password, email)
