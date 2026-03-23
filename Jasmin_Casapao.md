@@ -20,6 +20,8 @@ Casapao, Jasmin Ann M
 
 **\<03/14/2026\>** : I learned the concept of encapsulation in coding and to improve, next time I will study more about the encapsulation.
 
+**\<03/23/2026\>** : I learned the concept of inheritance in coding like having a parent class and child class and to improve, next time I will study more about the inheritance and reviewing before pr.
+
 
 # Peer Feedback
 ---
