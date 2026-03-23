@@ -21,7 +21,7 @@
 
 **\<03/14/2026\>** : I learned about Encapsulation and Access Modifiers in our lab and to improve, next time I will incorporate it more while coding.
 
-**\<03/17/2026\>** : I learned more about Inheritance in our lab and to improve, next time I will incorporate it more while coding.
+**\<03/23/2026\>** : I learned more about Inheritance in our lab and to improve, next time I will incorporate it more while coding.
 
 ---
 
