@@ -28,6 +28,9 @@ I learned how to analyze errors on pull requests and fixed it by my own without 
 
 <03/14/2026> : I learned the concept of encapsulation and how to do access modifiers, I will try to incorporate what I have learned to my codes.
 
+<03/23/2026> : I learned how inheritance works, how a parent class and child class works, how to override, and how to analyze a code properly. Next time I will try to improve the display of the
+                  information that needs to be shown and to use more complex structures of coding.
+
 ---
 
 
@@ -36,6 +39,7 @@ I learned how to analyze errors on pull requests and fixed it by my own without 
 <03/11/2026> : Comment by: <Plantilla, Jophel Mark P.> You did well in creating class and objects, and you also showed good collaboration using GitHub, and you can improve by practicing more in coding to become better in programming.
 
 <03/14/2026> : Comment by: <Casapao, Jasmin Ann M.> You did well in encapsulation activity, and you can improve by learning more about oop and github.
+
 
 
 
