@@ -24,7 +24,8 @@ public HDLotion() {
   this.lotionML = 0; 
 }
 
-public HDLotion(String lotionBrand, String lotionName, String lotionType, String lotionModel, String lotionScent, int lotionPrice, int moistureLevel, double lotionML) {
+public HDLotion(String lotionBrand, String lotionName, String lotionType, String lotionModel, 
+                String lotionScent, int lotionPrice, int moistureLevel, double lotionML) {
   setLotionBrand(lotionBrand);
   setLotionName(lotionName);
   setLotionType(lotionType);
@@ -35,8 +36,16 @@ public HDLotion(String lotionBrand, String lotionName, String lotionType, String
   setLotionML(lotionML);
 }
 
-public HDLotion(String lotionBrand, String lotionName, String lotionType, String lotionModel, String lotionScent, int lotionPrice, int moistureLevel, double lotionML) {
-
+public HDLotion(String lotionBrand, String lotionName, String lotionType, String lotionModel, 
+                String lotionScent, int lotionPrice, int moistureLevel, double lotionML) {
+  this.lotionBrand = lotionBrand;
+  this.lotionName = lotionName;
+  this.lotionType = lotionType;
+  this.lotionModel = lotionModel;
+  this.lotionScent = lotionScent;
+  this.lotionPrice = lotionPrice;
+  this.moistureLevel = moistureLevel;
+  this.lotionML = lotionML;
 }
 
 public String getLotionBrand() {
