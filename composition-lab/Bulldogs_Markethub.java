@@ -1,3 +1,9 @@
+/*
+* This class represents the Bulldogs Markethub class
+* Created by Charles Justin Javier
+*/
+
+
 public class Bulldogs_Markethub {
     //Markethub Attributes
     private int activeUsers;
