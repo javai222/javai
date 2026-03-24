@@ -1,3 +1,7 @@
+/*
+  Class created by Dolormente, Henry II, S.
+*/
+
 public class HDLotion {
 
   private String lotionBrand;
