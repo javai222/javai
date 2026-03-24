@@ -25,3 +25,5 @@ public class processorObject {
         // printing static attribute
         System.out.println("\n--- Total Processors ---");
         Processor.displayCoreCount();
+    }
+}
