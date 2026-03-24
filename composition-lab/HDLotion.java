@@ -26,14 +26,14 @@ public HDLotion() {
 
 public HDLotion(String lotionBrand, String lotionName, String lotionType, String lotionModel, 
                 String lotionScent, int lotionPrice, int moistureLevel, double lotionML) {
-  setLotionBrand(lotionBrand);
-  setLotionName(lotionName);
-  setLotionType(lotionType);
-  setLotionModel(lotionModel);
-  setLotionScent(lotionScent);
-  setLotionPrice(lotionPrice);
-  setMoistureLevel(moistureLevel);
-  setLotionML(lotionML);
+  setlotionBrand(lotionBrand);
+  setlotionName(lotionName);
+  setlotionType(lotionType);
+  setlotionModel(lotionModel);
+  setlotionScent(lotionScent);
+  setlotionPrice(lotionPrice);
+  setmoistureLevel(moistureLevel);
+  setlotionML(lotionML);
 }
 
 public HDLotion(String lotionBrand, String lotionName, String lotionType, String lotionModel, 
