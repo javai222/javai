@@ -9,13 +9,14 @@ public class compositionKeyboard {
     private String brand;
     private String color;
     private String type;
+    private boolean isConnect;
 
     // Default constructor sets unknown properties and disconnected state
     public compositionKeyboard() {
         this.brand = "Unknown";
         this.color = "Unknown";
         this.type = "Unknown";
-
+        this.isConnect = false;
     }
 
     // Parameterized constructor sets fields and ready state
@@ -23,6 +24,7 @@ public class compositionKeyboard {
         this.brand = brand;
         this.color = color;
         this.type = type;
+        this.isConnect = true;
     }
 
     //Getters
@@ -38,6 +40,10 @@ public class compositionKeyboard {
     }
 
     //Setters
+    public void setConnection(boolean status) {
+        this.isConnect = status;
+    }
+    
     public void setBrand(String brand) {
         this.brand = brand;
     }
@@ -52,25 +58,25 @@ public class compositionKeyboard {
 
     // Method to simulate keyboard typing (only if connected)
     public void Typing() {
-        if (isConnect)System.out.println(brand + " is typing.");
-        else {
-           System.out.println("Keyboard is not connected");
-        }
+        if (isConnect)
+            System.out.println(brand + " is typing.");
+        else
+            System.out.println("Keyboard is not connected");
     }
 
     // Method to simulate keyboard key press (only if connected)
     public void click() {
-       if (isConnect)System.out.println(brand + " is clicking.");
-       else {
-        System.out.println("Keyboard is not connected");
-       }
+        if (isConnect)
+            System.out.println(brand + " is clicking.");
+        else
+            System.out.println("Keyboard is not connected");
     }
 
     // Method to simulate keyboard RGB lighting (can override in subclass)
     public void RGB() {
-        if(isConnect)System.out.println("Keyboard has rgb.");
-        else {
+        if (isConnect)
+            System.out.println("Keyboard has rgb.");
+        else
             System.out.println("Keyboard is not connected");
-        }
     }
 }
