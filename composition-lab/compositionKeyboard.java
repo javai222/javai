@@ -11,7 +11,7 @@ public class compositionKeyboard {
     private String type;
 
     // Default constructor sets unknown properties and disconnected state
-    public InheritanceKeyboard() {
+    public compositionKeyboard() {
         this.brand = "Unknown";
         this.color = "Unknown";
         this.type = "Unknown";
@@ -19,7 +19,7 @@ public class compositionKeyboard {
     }
 
     // Parameterized constructor sets fields and ready state
-    public InheritanceKeyboard(String brand, String color, String type, int keys) {
+    public compositionKeyboard(String brand, String color, String type, int keys) {
         this.brand = brand;
         this.color = color;
         this.type = type;
