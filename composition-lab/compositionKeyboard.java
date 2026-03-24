@@ -52,7 +52,7 @@ public class compositionKeyboard {
 
     // Method to simulate keyboard typing (only if connected)
     public void Typing() {
-        if (isConnect){System.out.println(brand + " is typing.");}
+        if (isConnect)System.out.println(brand + " is typing.");
         else {
            System.out.println("Keyboard is not connected");
         }
@@ -60,7 +60,7 @@ public class compositionKeyboard {
 
     // Method to simulate keyboard key press (only if connected)
     public void click() {
-       if (isConnect){System.out.println(brand + " is clicking.");}
+       if (isConnect)System.out.println(brand + " is clicking.");
        else {
         System.out.println("Keyboard is not connected");
        }
@@ -68,7 +68,7 @@ public class compositionKeyboard {
 
     // Method to simulate keyboard RGB lighting (can override in subclass)
     public void RGB() {
-        if(isConnect){System.out.println("Keyboard has rgb.");}
+        if(isConnect)System.out.println("Keyboard has rgb.");
         else {
             System.out.println("Keyboard is not connected");
         }
