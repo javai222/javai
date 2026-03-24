@@ -6,15 +6,14 @@ public class razer extends inheritanceMouse {
     private int buttonCount;
 
     // Default constructor
-    public GamingMouse() {
+    public razer() {
         super(); // calls parent default constructor
         this.hasRGB = false;
         this.buttonCount = 0;
     }
 
     // Parameterized constructor
-    public GamingMouse(String brand, String color, String type, int dpi,
-                       boolean hasRGB, int buttonCount) {
+    public razer(String brand, String color, String type, int dpi, boolean hasRGB, int buttonCount) {
         super(brand, color, type, dpi); // calls parent constructor
         this.hasRGB = hasRGB;
         this.buttonCount = buttonCount;
