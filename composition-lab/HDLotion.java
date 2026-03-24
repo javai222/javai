@@ -83,11 +83,11 @@ public double getLotionML() {
 public void displayLotion() {
   System.out.println("= = = = = = = Lotion Details = = = = = = =");
   System.out.println("Brand: " + lotionBrand);
-  System.out.println("Name: " lotionName);
+  System.out.println("Name: " + lotionName);
   System.out.println("Type: " + lotionType);
-  System.out.println("Model: " lotionModel);
-  System.out.println("Scent: " lotionScent);
-  System.out.println("Price: " lotionPrice);
+  System.out.println("Model: " + lotionModel);
+  System.out.println("Scent: " + lotionScent);
+  System.out.println("Price: " + lotionPrice);
   System.out.println("Moisture Level: " + moistureLevel);
   System.out.println("Amount: " + lotionML);
   System.out.println("= = = = = = = = = = = = = = = = = = = = = = = =");
