@@ -37,8 +37,7 @@ public class Bulldogs_Markethub {
         this.activeUsers = activeUsers;
     } else {
         System.out.println("Active users cannot be negative!");
-    }
-    
+    } 
 
     public void setNumofProducts(int numOfProducts) {
         this.numOfProducts = numOfProducts;
@@ -55,4 +54,6 @@ public class Bulldogs_Markethub {
     public void displayProducts() {
         System.out.println("Available Item: " + numOfProducts);
     }
+   
+  }
 }
