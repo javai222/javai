@@ -19,7 +19,7 @@ public class compositionKeyboard {
     }
 
     // Parameterized constructor sets fields and ready state
-    public compositionKeyboard(String brand, String color, String type, int keys) {
+    public compositionKeyboard(String brand, String color, String type) {
         this.brand = brand;
         this.color = color;
         this.type = type;
