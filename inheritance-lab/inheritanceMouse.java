@@ -86,4 +86,16 @@ public class inheritanceMouse {
             System.out.println("Mouse is not connected");
         }
     }
+
+    // Method to connect the mouse
+    public void connect() {
+        isConnect = true;
+        System.out.println(brand + " mouse is connected.");
+    }
+
+    // Method to disconnect the mouse
+    public void disconnect() {
+        isConnect = false;
+        System.out.println(brand + " mouse is disconnected.");
+    }
 }
