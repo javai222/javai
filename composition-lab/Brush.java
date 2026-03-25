@@ -5,8 +5,8 @@
 
 public class Brush {
 
-    private String type; // e.g. "plastic", "fiber"
-    private String material; // e.g. "soft", "hard" 
+    private String type; // e.g. "soft", "hard"
+    private String material; // e.g. "plastic", "fiber"
     private int bristleStrength; // Scale from 1–10
     private boolean isNew;        
 
