@@ -24,3 +24,5 @@
 <03/15/2026> : Comment by: **Javier, Charles Justin**; You did well in coding quickly and completing the encapsulation task efficiently, and you can improve by organizing your code better and learning more about proper coding practices from others.
 
 <03/17/2026> : Comment by: <Saan, Kenneth>; you did great in completing this activity as soon as possible, you can improve by creating project related to this topic.
+
+<03/17/2026> : Comment by: <Mance, John Roque R.>; You did a great job completing this activity quickly, and you can improve further by developing projects related to this topic.
