@@ -21,8 +21,8 @@
 public class MainInheritance_Mance {
     public static void main(String[] args) {
 
-        razer mouse = new razer(
-            "Razer",
+        attackShark mouse = new attackShark(
+            "attackShark",
             "Black",
             "Wireless",
             16000,
@@ -33,12 +33,12 @@ public class MainInheritance_Mance {
         mouse.scroll();      // Overridden method
         mouse.connect();     // Inherited
         mouse.disconnect();  // Inherited
-        mouse.changeRGB();   // Razer-specific method
+        mouse.changeRGB();   // attackShark-specific method
     }
 }
 
 /* What is the IS-A relationship in your program?
- * // This line of code shows the IS-A relationship because a razer is a type of inheritanceMouse
+ * // This line of code shows the IS-A relationship because a attackShark is a type of inheritanceMouse
  * 
  * Which method was overridden?
  * // The scroll() method was overridden
