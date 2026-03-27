@@ -1,3 +1,7 @@
+/*
+* Child class created by Dolormente, parent class created by Conel, Rahzel Heeroe R.
+*/
+
 public class KeyboardChildClass extends InheritanceKeyboard {
 
     // Child-only attributes
