@@ -1,4 +1,4 @@
-public class InheritanceKeyboard {
+public class KeyboardChildClass {
     
     // Keyboard properties
     private String brand;
@@ -10,14 +10,14 @@ public class InheritanceKeyboard {
     private int pollingRate;
 
     // Default constructor
-    public GamingKeyboard() {
+    public KeyboardChildClass() {
         super(); // calls parent constructor
         this.hasRGB = false;
         this.pollingRate = 0;
     }
 
     // Parameterized constructor
-    public GamingKeyboard(String brand, String color, String type, int keys,
+    public KeyboardChildClass(String brand, String color, String type, int keys,
                           boolean hasRGB, int pollingRate) {
         super(brand, color, type, keys); // call parent constructor
         this.hasRGB = hasRGB;
