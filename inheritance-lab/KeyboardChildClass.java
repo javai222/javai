@@ -91,7 +91,7 @@ public class KeyboardChildClass {
     public void RGB() {
         if(isConnect){System.out.println("Keyboard has many light effects");}
         else {
-            System.out.println("Keyboard isn't connected");
+            System.out.println("Keyboard isn't connected to anything");
         }
     }
 }
