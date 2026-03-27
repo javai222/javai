@@ -1,11 +1,6 @@
-public class KeyboardChildClass {
-    
-    // Keyboard properties
-    private String brand;
-    private String color;
-    private String type;
-    private int keys;
-    private boolean isConnect;
+public class KeyboardChildClass extends InheritanceKeyboard {
+
+    // Child-only attributes
     private boolean hasRGB;
     private int pollingRate;
 
@@ -18,29 +13,13 @@ public class KeyboardChildClass {
 
     // Parameterized constructor
     public KeyboardChildClass(String brand, String color, String type, int keys,
-                          boolean hasRGB, int pollingRate) {
+                              boolean hasRGB, int pollingRate) {
         super(brand, color, type, keys); // call parent constructor
         this.hasRGB = hasRGB;
         this.pollingRate = pollingRate;
     }
 
-
-    //Getters
-     public String getBrand() {
-        return brand;
-    }
-    public String getColor() {
-        return color;
-    }
-
-    public String getType() {
-        return type;
-    }
-
-    public int getKeys() {
-        return keys;
-    }
-
+    // Getters
     public boolean getRGB() {
         return hasRGB;
     }
@@ -49,23 +28,7 @@ public class KeyboardChildClass {
         return pollingRate;
     }
 
-    //Setters
-    public void setBrand(String brand) {
-        this.brand = brand;
-    }
-
-    public void setColor(String color) {
-        this.color = color;
-    }
-
-    public void setType(String type) {
-        this.type = type;
-    }
-
-    public void setKeys(int keys) {
-        this.keys = keys;
-    }
-
+    // Setters
     public void setRGB(boolean hasRGB) {
         this.hasRGB = hasRGB;
     }
@@ -74,26 +37,24 @@ public class KeyboardChildClass {
         this.pollingRate = pollingRate;
     }
 
-    // Method to simulate keyboard typing (only if connected)
+    // Override Typing method
+    @Override
     public void Typing() {
-        if (isConnect){System.out.println(brand + "is getting pressed.");}
-        else {
-           System.out.println("Keyboard is not connected");
-        }
+        System.out.println(getBrand() + " keyboard is being used for gaming typing.");
     }
 
-    // New behavior gaming mode
+    // New behavior
     public void gamingMode() {
         System.out.println(getBrand() + " gaming mode activated!");
     }
 
-    // Method to simulate keyboard RGB lighting (can override in subclass)
+    // Override RGB method
+    @Override
     public void RGB() {
-        if(isConnect){System.out.println("Keyboard has many light effects");}
-        else {
-            System.out.println("Keyboard isn't connected to anything");
+        if (hasRGB) {
+            System.out.println(getBrand() + " has RGB lighting effects.");
+        } else {
+            System.out.println(getBrand() + " has no RGB.");
         }
     }
 }
-
-//pls work
