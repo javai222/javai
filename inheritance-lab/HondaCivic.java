@@ -29,17 +29,18 @@ public class HondaCivic extends vehicle {
     }
 
     // Override method
-    @Override
-    public void accelerate() {
-    if (isEngine()) {
-        if (sportMode) {
-            System.out.println("Honda Civic accelerates rapidly in SPORT MODE!");
-            setSpeed(getSpeed() + 20);
+        @Override
+        public void accelerate() {
+        if (isEngine()) {
+            if (sportMode) {
+                System.out.println("Honda Civic accelerates rapidly in SPORT MODE!");
+                setSpeed(getSpeed() + 20);
+            } else {
+                System.out.println("Honda Civic accelerates smoothly.");
+                setSpeed(getSpeed() + 10);
+            }
         } else {
-            System.out.println("Honda Civic accelerates smoothly.");
-            setSpeed(getSpeed() + 10);
+            System.out.println("Engine is off");
         }
-    } else {
-        System.out.println("Engine is off");
     }
 }
