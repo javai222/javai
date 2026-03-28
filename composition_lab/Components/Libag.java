@@ -1,3 +1,5 @@
+package composition_lab;
+
 public class Libag {
 
     private String location;   // e.g. "leeg", "batok", "kilikili"
