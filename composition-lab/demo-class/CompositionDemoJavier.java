@@ -1,5 +1,3 @@
-package composition_lab;
-
 public class CompositionDemoJavier {
     public static void main(String[] args) {
 

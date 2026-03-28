@@ -1,5 +1,3 @@
-package composition_lab;
-
 public class StorageItems {
     //Component classes
     private Brain brain;
