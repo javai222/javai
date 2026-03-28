@@ -2,7 +2,7 @@
   Class created by Dolormente, Henry II, S.
 */
 
-public class HDLotion {
+public class Lotion {
 
   private String lotionBrand;
   private String lotionName;
@@ -13,7 +13,7 @@ public class HDLotion {
   private int moistureLevel;
   private double lotionML;
   
-public HDLotion() {
+public Lotion() {
   this.lotionBrand = "Unknown";
   this.lotionName = "Unknown";
   this.lotionType = "Unknown";
@@ -24,7 +24,7 @@ public HDLotion() {
   this.lotionML = 0; 
 }
 
-public HDLotion(String lotionBrand, String lotionName, String lotionType, String lotionModel, 
+public Lotion(String lotionBrand, String lotionName, String lotionType, String lotionModel, 
                 String lotionScent, int lotionPrice, int moistureLevel, double lotionML) {
   this.lotionBrand = lotionBrand;
   this.lotionName = lotionName;
