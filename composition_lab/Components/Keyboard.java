@@ -3,7 +3,9 @@
 * Created by John Roque R. Mance
 */
 
-public class compositionKeyboard {
+package composition_lab;
+
+public class Keyboard {
     
     // Keyboard Attributes
     private String brand;
