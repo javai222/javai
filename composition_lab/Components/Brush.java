@@ -3,6 +3,8 @@
  * Created by De Leon, Lord Ulrick A.
  */
 
+package composition_lab;
+
 public class Brush {
 
     private String type; // e.g. "soft", "hard"
