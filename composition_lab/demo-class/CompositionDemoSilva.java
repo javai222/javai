@@ -1,3 +1,5 @@
+package composition_lab;
+
 public class CompositionDemoSilva {
     public static void main(String[] args) {
         // Instantiated teammate classes 

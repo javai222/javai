@@ -3,6 +3,7 @@
 * Created by Vinz Joseph R. Silva
 * Used classes of Capunpon (libag), Plaantilla (Water), Brush (De Leon)
 */
+package composition_lab;
 public class LibagKiller {
 
     // Attributes
