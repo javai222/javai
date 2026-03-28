@@ -22,6 +22,7 @@ Casapao, Jasmin Ann M
 
 **\<03/23/2026\>** : I learned the concept of inheritance in coding like having a parent class and child class and to improve, next time I will study more about the inheritance and reviewing before pr.
 
+**\<03/28/2026\>** : I learned the concept of composition in coding and connection in different class and to improve, next time I will study more about the composition and reviewing before pr.
 
 # Peer Feedback
 ---
