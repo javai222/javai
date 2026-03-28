@@ -52,4 +52,5 @@
 *\<03/17/2026\>* : Comment by: <Dolormente, Henry II S.>; Great job in collaborating! I suggest you make a display method so that the activity becomes more easier, you can improve by learning more about github.
 
 *\<03/23/2026\>* : Comment by: <Plantilla, Jophel Mark P.>; You did well in creating an organized parent class by using override methods and you can improve by doing advance reading on the topics and practice more in coding.
-*\<03/23/2026\>* : Comment by: <Casapao, Jasmin Ann M.>; You did well in creating composition class and you can improve by doing advance reading on the topics and learning more about github and coding.
+
+*\<03/28/2026\>* : Comment by: <Casapao, Jasmin Ann M.>; You did well in creating composition class and you can improve by doing advance reading on the topics and learning more about github and coding.
