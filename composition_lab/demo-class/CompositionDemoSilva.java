@@ -8,7 +8,7 @@ public class CompositionDemoSilva {
         Libag libagInvader = new Libag("Leeg", 10, true, "black" );
 
         // teammate classes passed to the composed class
-        KilltheLibag operation = new KilltheLibag (waterDestroyer, brushWiper, libagInvader);
+        LibagKiller operation = new LibagKiller (waterDestroyer, brushWiper, libagInvader);
 
         // Call all the methods used in KilltheLibag behavior
         System.out.println("===== INTRODUCTION =====");
