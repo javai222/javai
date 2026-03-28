@@ -1,10 +1,11 @@
 // Main method created by Vinz Joseph Silva
-public class Main {
+package composition-lab
+public class CompositionDemoSilva {
     public static void main(String[] args) {
         // Instantiated teammate classes 
-        Water waterDestroyer = new Water();
-        Brush brushWiper = new Brush();
-        Libag libagInvader = new Libag();
+        Water waterDestroyer = new Water(1.0, 25, true );
+        Brush brushWiper = new Brush("Soft", "Plastic", 5, true);
+        Libag libagInvader = new Libag("Leeg", 10, true, "black" );
 
         // teammate classes passed to the composed class
         KilltheLibag operation = new KilltheLibag (waterDestroyer, brushWiper, libagInvader);

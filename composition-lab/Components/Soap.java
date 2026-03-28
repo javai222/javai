@@ -2,7 +2,7 @@
 * This class represents main Soap class
 * Created by Vinz Joseph R. Silva
 */
-
+package composition-lab
 public class Soap {
     
     // Attributes

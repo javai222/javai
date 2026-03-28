@@ -3,10 +3,10 @@
 * Created by Vinz Joseph R. Silva
 * Used classes of Capunpon (libag), Plaantilla (Water), Brush (De Leon)
 */
-
+package composition-lab
 public class KilltheLibag {
 
-    // Attributes 
+    // Attributes
     private Water water;
     private Brush brush;
     private Libag libag;
@@ -17,8 +17,7 @@ public KilltheLibag (Water water, Brush brush, Libag libag){
     this.brush = brush;
     this.libag = libag;
 }
-
-    // Getter methods 
+    // Getter methods
 public Water getWater () {
     return water;
 }
@@ -45,7 +44,6 @@ public void setLibag (Libag libag){
 }
 
     // behaviors (actions)
-
 public void introduceParts () {
     water.display(); // will display the traits of water that will be used in fighting libag
     brush.describe(); // will showcase the capacity of the brush to obliterate any single libag
