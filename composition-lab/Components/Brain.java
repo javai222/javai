@@ -1,3 +1,4 @@
+package composition-lab.Components;
 // Created by Cantela, Chris Nelson B. 3/24/26
 // COmposed class for a brain. Example uses, Person HAS A Brain, Dog HAS A Brain
 
