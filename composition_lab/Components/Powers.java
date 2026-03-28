@@ -5,8 +5,6 @@
 
 package composition_lab;
 
-package composition_lab;
-
 public class Powers {
 
     private String powerType; //Physical Enhancement, Mental Enhancement or Manipulation
