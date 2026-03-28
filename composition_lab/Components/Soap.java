@@ -3,6 +3,8 @@
 * Created by Vinz Joseph R. Silva
 */
 
+package composition_lab;
+
 public class Soap {
     
     // Attributes
