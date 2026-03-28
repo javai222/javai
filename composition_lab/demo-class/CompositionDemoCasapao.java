@@ -13,7 +13,7 @@ public class CompositionDemoCasapao {
 
         // The system
         bath.startBathing();
-        bath.displayBathing();
+        bath.displayStatus();
 
         // Low Coupling
         Soap soap2 = new Soap("Bioderm", "Fresh", 9);
