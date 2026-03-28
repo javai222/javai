@@ -43,6 +43,8 @@
 | 03/06/2026 | Activity           | Quiz 1:OOP      | 5      | 5            |
 | —          | —              | —           | —      | —            |
 
+# Peer Feedback
+---
 \<03/14/2026\> : I learned to collaborate with my teammates and use AI responsibly for coding, next time I will try to manage my time and skill in order to navigate the complexity of creating an object while navigating the features of GitHub.
 
 *\<03/14/2026\>* : Comment by: <Tismo, Yvette Germaine E.>; You did well in coding and collaborating, you made the activity easier, and you can improve by learning more about oop and github.
@@ -50,3 +52,5 @@
 *\<03/17/2026\>* : Comment by: <Dolormente, Henry II S.>; Great job in collaborating! I suggest you make a display method so that the activity becomes more easier, you can improve by learning more about github.
 
 *\<03/23/2026\>* : Comment by: <Plantilla, Jophel Mark P.>; You did well in creating an organized parent class by using override methods and you can improve by doing advance reading on the topics and practice more in coding.
+
+*\<03/28/2026\>* : Comment by: <Casapao, Jasmin Ann M.>; You did well in creating composition class and you can improve by doing advance reading on the topics and learning more about github and coding.
