@@ -14,7 +14,7 @@ public class Keyboard {
     private boolean isConnect;
 
     // Default constructor sets unknown properties and disconnected state
-    public compositionKeyboard() {
+    public Keyboard() {
         this.brand = "Unknown";
         this.color = "Unknown";
         this.type = "Unknown";
@@ -22,7 +22,7 @@ public class Keyboard {
     }
 
     // Parameterized constructor sets fields and ready state
-    public compositionKeyboard(String brand, String color, String type) {
+    public Keyboard(String brand, String color, String type) {
         this.brand = brand;
         this.color = color;
         this.type = type;
