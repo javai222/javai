@@ -6,8 +6,7 @@
 | Date       | Activity Type | Title       | Score | Total Points |
 |------------|----------------|-------------|--------|--------------|
 | 03/06/2026 | Quiz/Recitation           | Quiz 1:OOP      | 5      | 5            |
-| 03/11/2026 | Activity        | —           | —      | —            |
-| 03/11/2026 | Recitation       | —          | 5      | 5            |
+| 03/11/2026 | Recitation       | —          | 5      | 10            |
 
 ---
 
@@ -20,6 +19,8 @@
 **\<03/14/2026\>** : I learned about how encapsulation works in coding and more about how to use proper modifiers and I also understood how to make objects way more than before, next time I would try to implement even more complex validators and object invariations to ensure the safety of data.
 
 **\<03/23/2026\>** : I learned how to create parent and child classes, the correct way to use said parent class as well as how to override certain methods, next time I would try to add more validations in may parent/child class and try a somewhat a little more complex code.
+
+**\<03/28/2026\>** : I learned how to use other peoples classes as the basis for the behavior of my composed class as well as how to properly print/display my composed class code, next time I would try to use composition in a more complex way, such as by trying to override the behaviors from the reused classes.
 
 # Peer Feedback
 ---
