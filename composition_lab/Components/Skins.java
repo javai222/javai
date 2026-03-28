@@ -2,6 +2,7 @@
  * This class represents the skin class
  * Created by Jasmin Ann M. Casapao
  */
+package composition_lab;
 
 public class Skins {
 
