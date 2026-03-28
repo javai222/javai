@@ -4,6 +4,8 @@
 * ex. Bottle HAS-A Water, Glass HAS-A Water
 */
 
+package composition_lab;
+
 public class Water {
     // Attributes
     private double volume;       // in liters
