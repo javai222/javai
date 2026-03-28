@@ -1,6 +1,8 @@
 //This class is created by Balanon
 //With the help of AI
 
+package composition_lab;
+
 public class Backpack {
 
     // Private attributes

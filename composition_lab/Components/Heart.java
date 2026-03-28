@@ -2,6 +2,9 @@
  * This class represents the heart component for the Bulldogs Markethub system
  * Created by Kenneth R. Saan
  */
+
+package composition_lab;
+
 public class Heart {
 
  // Core heart state fields

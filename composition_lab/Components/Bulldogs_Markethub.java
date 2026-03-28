@@ -3,6 +3,7 @@
 * Created by Charles Justin Javier
 */
 
+package composition_lab;
 
 public class Bulldogs_Markethub {
     //Markethub Attributes

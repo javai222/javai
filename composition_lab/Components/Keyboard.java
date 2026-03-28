@@ -3,7 +3,9 @@
 * Created by John Roque R. Mance
 */
 
-public class compositionKeyboard {
+package composition_lab;
+
+public class Keyboard {
     
     // Keyboard Attributes
     private String brand;
@@ -12,7 +14,7 @@ public class compositionKeyboard {
     private boolean isConnect;
 
     // Default constructor sets unknown properties and disconnected state
-    public compositionKeyboard() {
+    public Keyboard() {
         this.brand = "Unknown";
         this.color = "Unknown";
         this.type = "Unknown";
@@ -20,7 +22,7 @@ public class compositionKeyboard {
     }
 
     // Parameterized constructor sets fields and ready state
-    public compositionKeyboard(String brand, String color, String type) {
+    public Keyboard(String brand, String color, String type) {
         this.brand = brand;
         this.color = color;
         this.type = type;

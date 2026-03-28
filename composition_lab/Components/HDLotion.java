@@ -2,6 +2,8 @@
   Class created by Dolormente, Henry II, S.
 */
 
+package composition_lab;
+
 public class HDLotion {
 
   private String lotionBrand;

@@ -2,6 +2,7 @@
 *This class/component represents power attributes such as power type, power category, and range
 *Created by Yvette Germaine Tismo
 */
+
 package composition_lab;
 
 public class Powers {
