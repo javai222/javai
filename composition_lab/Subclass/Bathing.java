@@ -1,4 +1,4 @@
-//Composed class created by Casapao, component created by sir, plantilla, silva
+//Composed class created by Casapao, component created by Sir, Plantilla, Silva
 
 package composition_lab;
 
