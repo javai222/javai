@@ -23,17 +23,16 @@ public class Dogs {
     //Display Status
     public void showStatus(){
         System.out.println("===== STATUS OF " + name.toUpperCase() + " =====");
-
+        //Libag info
         libag.describe();
-
+        //Brain info
         System.out.println();
         System.out.println("Brain Info: ");
         System.out.println("Cortisol Level: " + brain.getCortisolLevel());
         System.out.println("IQ: " + brain.getIQ());
         System.out.println("Sleep Hours: " + brain.getSleepHours());
-
+        //Heart info
         heart.displayHeartStats();
-        
     }
 
     //Behavior Methods
@@ -48,13 +47,6 @@ public class Dogs {
         brain.setCortisolLevel(30);
 
         System.out.println(name + " is now relaxed ^-^");
-    }
-
-    public void drinkCoffee(int caffeine){
-        System.out.println(name + " drank coffee x-x");
-
-        heart.setcaffein(caffeine);
-        brain.setCortisolLevel(brain.getCortisolLevel() + 20);
     }
 
     public void think(){
