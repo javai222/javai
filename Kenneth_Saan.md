@@ -44,3 +44,5 @@ ___do a research and practice to apply it in my future projects ___.
 **\<03/15/2026\>** : Comment by: <Javier, Charles Justin>; You did well in coding quickly and completing the encapsulation task efficiently, and I don’t see anything that needs improvement since you did a great job, but you can continue to get better each day by practicing and learning.
 
 **\<03/21/2026\>** : Comment by: <Cantela, Chris Nelson B. [Encapsulation]>; You did great in implementing the different modifiers and applying encapsulation concepts, and to improve you have to pay attention to user input validation that'll cause error to your code.
+
+**<03/26/2026>** : Comment by: <Tismo, Yvette Germaine E.>; You did a great job creating your component class and using validators, and you can improve by always double checking your code for wrong spellings and comments. You can also improve by learning more about oop and composition for further projects.
