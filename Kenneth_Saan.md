@@ -9,11 +9,15 @@ KennethSaan
 | Date       | Activity Type | Title       | Score | Total Points |
 |------------|----------------|-------------|--------|--------------|
 | 03/06/2026 | Quiz/Recitation           | Quiz 1:OOP      | 5      | 5            |
-| —          | —              | —           | —      | —            |
-
+| 03/10/2026 |    Ice breaker               | Quiz 1:OOP      | 5      | 5            |
 ---
 
 ## 📘 Journals
+
+**\<03/29/2026\>** : I learned ___I learned the fundamentals of low coupling and high cohesion and the difference between has A and is A__ in our lab and to improve, next time I will _
+___do a research and practice to apply it in my future projects ___.
+
+
 **\<03/023/2026\>** : I learned ___I learned thebasics of inheritance and what s the purpose of it and how should I apply it and resue codes and connecting classes to each other____ in our lab and to improve, next time I will _
 ___do a research and practice to apply it in my future projects ___.
 
@@ -24,17 +28,6 @@ do a research and practice to apply it in my future projects.
 
 **\<03/06/2026\>** : I learned ___The core concept of Object oriented programming, and the 4 pillars of it, their functionalities and usage____ in our lab and to improve, next time I will _
 ___do a research and practice to apply it in my future projects ___.
-
-
-# Kenneth Saan R. 
----
-
-## 📊 Scores
-
-| Date       | Activity Type | Title       | Score | Total Points |
-|------------|----------------|-------------|--------|--------------|
-| 03/10/2026 |    Ice breaker               | Quiz 1:OOP      | 5      | 5            |
-| —          | —              | —           | —      | —            |
 
 
 # Peer Feedback
