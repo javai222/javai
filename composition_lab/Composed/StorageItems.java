@@ -3,11 +3,11 @@ package composition_lab;
 public class StorageItems {
     //Component classes
     private Brain brain;
-    private compositionKeyboard keyboard;
+    private Keyboard keyboard;
     private Libag libag;
 
     //Constructor Injection
-    public StorageItems(Brain brain, compositionKeyboard keyboard, Libag libag) {
+    public StorageItems(Brain brain, Keyboard keyboard, Libag libag) {
         this.brain = brain;
         this.keyboard = keyboard;
         this.libag = libag;
