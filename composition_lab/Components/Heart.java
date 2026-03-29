@@ -90,13 +90,8 @@ public class Heart {
 	        return isHeartbeat;
 	    }
 	    
-	    // Compact status string for quick logs/debugging
-	    public String toString() {
-	        return String.format("Heart Status: [BPM: %d, Health: %s, Active: %b]", 
-	                             bpm, heartHealth, isHeartbeat);
-	    }
 	    
-	    /**
+	    /*
 	     * Prints a formatted dashboard of the heart's current state.
 	     */
 	    public void displayHeartStats() {
