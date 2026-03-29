@@ -2,17 +2,13 @@ package composition_lab;
 
 public class CompositionDemoSaan {
     public static void main(String[] args) {
-        // Shared address for both humans
-        Address address = new Address("123 Main St", "Anytown", "USA");
-
         // Create Human objects
-        Human human = new Human("Kenneth", 30, address, 50, 95, 8, "leeg", 7, true, "brown");
-        Human human2 = new Human("Alesandra", 28, address, 30, 110, 7, "batok", 4, false, "white");
+        Human human = new Human("Kenneth", 30, 50, 95, 8, "leeg", 7, true, "brown");
+        Human human2 = new Human("Alesandra", 28, 30, 110, 7, "batok", 4, false, "white");
 
         // Show first human's initial data
         System.out.println("\n=== " + human.getName() + " (Initial) ===");
         System.out.println("Age: " + human.getAge());
-        System.out.println("Address: " + human.getAddress().getStreet() + ", " + human.getAddress().getCity() + ", " + human.getAddress().getCountry());
         System.out.println("\nBrain Info:");
         human.displayBrainInfo();
         System.out.println("\nLibag Info:");
@@ -39,7 +35,6 @@ public class CompositionDemoSaan {
         // Show second human data
         System.out.println("\n=== " + human2.getName() + " ===");
         System.out.println("Age: " + human2.getAge());
-        System.out.println("Address: " + human2.getAddress().getStreet() + ", " + human2.getAddress().getCity() + ", " + human2.getAddress().getCountry());
         System.out.println("\nBrain Info:");
         human2.displayBrainInfo();
         System.out.println("\nLibag Info:");

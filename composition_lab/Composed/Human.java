@@ -5,17 +5,16 @@ public class Human {
     // Basic human data
     private String name;
     private int age;
-    private Address address;
+   
 
     // Composed objects
     private Brain brain;
     private Libag libag;
 
 
-    public Human(String name, int age, Address address, int cortisol, int iq, int sleepHours, String libagLocation, int libagThickness, boolean libagMatigas, String libagColor) {
+    public Human(String name, int age, int cortisol, int iq, int sleepHours, String libagLocation, int libagThickness, boolean libagMatigas, String libagColor) {
         this.name = name;
         this.age = age;
-        this.address = address;
         this.brain = new Brain(cortisol, iq, sleepHours);
         this.libag = new Libag(libagLocation, libagThickness, libagMatigas, libagColor);
     }
@@ -27,10 +26,6 @@ public class Human {
 
     public int getAge() {
         return age;
-    }
-
-    public Address getAddress() {
-        return address;
     }
 
     public Brain getBrain() {
