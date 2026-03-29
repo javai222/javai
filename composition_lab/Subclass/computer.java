@@ -19,17 +19,16 @@ public class computer {
     public void useComputer() {
         System.out.println("=== Computer is running ===");
 
-        brain.process();
-        water.cool();
-        libag.accumulate();
+        brain.think();
+        water.display();
 
-        libag.brushOff();
+        libag.kuskos();
         System.out.println("Computer is shutting down.");
     }
     public void displayComputerStatus() {
         System.out.println("=== Computer System Status ===");
 
-        water.displayTemperature();
+        water.display();
         libag.describe();
     }
     // Setters
