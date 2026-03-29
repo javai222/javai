@@ -6,7 +6,7 @@
 
 package composition_lab;
 
-public class CompositionDemoDeleon { 
+public class CompositionDemoDeLeon { 
 
     public static void main(String[] args) {
 
