@@ -57,4 +57,4 @@ public class CompositionDemoSaan {
 -the composition reduces coupling since the human class does not control the code inside thebrain and libag class instead the human has them not Is A relationship
 - Each class has a specific responsibility, where the Human class is responsible for the overall human data and behaviors, the Brain class is responsible for brain-related attributes and behaviors. while the libag is responsible for libag related things.
 - Cohesion is maintained through the use of encapsulation and methods, where each class has its own set of attributes and methods that are related to its specific responsibility.
-- inheritance is not appropiate because human is not a brain or libag like car is not an engine, instead the human has A libag and a brain
+- inheritance is not appropiate because human is not a brain or libag like car is not an engine, instead the human has A libag and a brain */

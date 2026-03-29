@@ -31,7 +31,7 @@ class HikingBackpack extends Backpack {
     // Setter for material
     public void setMaterial(String material) {
         this.material = material;
-
+    }
         public void addItem(double weight) {
             double newLoad = getLoad() + weight;
             if (newLoad <= getCapacity()) {
@@ -40,15 +40,15 @@ class HikingBackpack extends Backpack {
             } else {
                 System.out.println("Cannot add item. bag might be full.");
             }
-            public void removeItem(double weight) {
-                double newLoad = getLoad() - weight;
-                if (newLoad >= 0) {
-                    setLoad(newLoad);
+        }
+        public void removeItem(double weight) {
+            double newLoad = getLoad() - weight;
+            if (newLoad >= 0) {
+                setLoad(newLoad);
                     System.out.println("Item removed. Current load: " + getLoad());
                 } else {
                     System.out.println("Cannot remove item. the item is not inside the bag.");
                 }
             }
         }
-    }
-}
+    
