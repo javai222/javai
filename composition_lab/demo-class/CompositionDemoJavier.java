@@ -4,7 +4,7 @@ public class CompositionDemoJavier {
     public static void main(String[] args) {
 
         Brain brain = new Brain(10, 120, 8);
-        compositionKeyboard keyboard = new compositionKeyboard("Logitech", "Black", "Mechanical");
+        Keyboard keyboard = new Keyboard("Logitech", "Black", "Mechanical");
         Libag libag = new Libag("leeg", 7, true, "brown");
 
         StorageItems storage = new StorageItems(brain, keyboard, libag);
