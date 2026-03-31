@@ -1,4 +1,37 @@
 # 📊 Team Changelog
+
+Ryan James M. Balanon	2025-1028936	03/17/2026	Inheritance Completed!
+
+Chris Nelson B. Cantela	2025-1020643	03/17/2026	Inheritance Completed!
+
+Jasmin Ann M. Casapao	2025-1020028	03/17/2026	Inheritance Completed!
+
+Rahzel Heeroe R. Conel	2025-1025122	03/17/2026	Inheritance Completed!
+
+Lord Ulrick A. De Leon	2025-1025177	03/17/2026	Inheritance Completed!
+
+Henry S. Dolormente II	2025-1023364	03/17/2026	Inheritance Completed!
+
+Charles Justin D. Javier	2025-1023752	03/17/2026	Inheritance Completed!
+
+John Roque R. Mance	2025-1024907	03/17/2026	Inheritance Completed!
+
+Dustin Elijah C. Mercado	2025-1020414	03/17/2026	Inheritance Completed!
+
+Jophel Mark P. Plantilla	2025-1026473	03/17/2026	Inheritance Completed!
+
+Deither Quimpan	2025-1022010	03/17/2026	Inheritance Did not participate!
+
+Kenneth R. Saan	2025-1022880	03/17/2026	Inheritance Completed!
+
+Vinz Joseph R. Silva	2025-1025218	03/17/2026	Inheritance Completed!
+
+Yvette Germaine E. Tismo	2025-1027104	03/17/2026	Inheritance Completed!
+
+Vincent Christopher P. Torrefranca	2025-1029269	03/17/2026	Inheritance Completed!
+
+____________________________________________________________________________________
+
 1. Ryan James M. Balanon	2025-1028936	03/17/2026	Encapsulation and Access Modifiers Completed!
 
 2. Chris Nelson B. Cantela	2025-1020643	03/17/2026	Encapsulation and Access Modifiers Completed!
