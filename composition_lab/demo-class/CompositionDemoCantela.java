@@ -23,7 +23,7 @@
  * A: Hilod is not a type of Brush, Skins, or libag. it uses them to the job
  */
 
-package composition_lab.demo_class;
+package composition_lab;
 
 //import the composed class and component classes
 import composition_lab.Composed.HilodService;
