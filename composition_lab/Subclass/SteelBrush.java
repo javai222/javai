@@ -34,7 +34,7 @@ public class SteelBrush extends Brush {
     // Override describe method to show steel brush specific details
     @Override
     public void describe() {
-        System.out.println("=== PREMIUM STEEL BRUSH ===");
+        System.out.println("=== STEEL BRUSH ===");
         super.describe();
         System.out.println("Steel Type: " + steelType);
     }
@@ -42,6 +42,6 @@ public class SteelBrush extends Brush {
     // Custom method for steel brush
     public void strengthenBristles() {
         System.out.println("Strengthening " + steelType + " bristles...");
-        this.setBristleStrength(this.getBristleStrength() + 1);
+        this.setBristleStrength(getBristleStrength() + 1);
     }
 }
