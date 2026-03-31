@@ -8,9 +8,9 @@
 
 package composition_lab.Composed;
 
-import composition_lab.Components.Brush;
-import composition_lab.Components.Skins;
-import composition_lab.Components.Libag;
+import composition_lab.Brush;
+import composition_lab.Skins;
+import composition_lab.Libag;
 
 
 public class HilodService {

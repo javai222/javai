@@ -27,9 +27,9 @@ package composition_lab.demo_class;
 
 //import the composed class and component classes
 import composition_lab.Composed.HilodService;
-import composition_lab.Components.Brush;
-import composition_lab.Components.Libag;
-import composition_lab.Components.Skins;
+import composition_lab.Brush;
+import composition_lab.Libag;
+import composition_lab.Skins;
 
 import java.util.Scanner;
 
