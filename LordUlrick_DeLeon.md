@@ -29,3 +29,4 @@
 
 <03/23/2026> : Comment by: <Dolormente, Henry II, S.> You did well in the inheritance topic, you made the parent class well and you can improve by practicing more of the inheritance to further hone your skills in coding.
 
+<03/31/2026> : Comment by: <Cantela, Chris Nelson B.> You did well in the Compostition topic, your component class is well. You can improve by diving deeper into this topic and practicing everyday.

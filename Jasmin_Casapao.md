@@ -36,3 +36,4 @@ Casapao, Jasmin Ann M
 
 *\<03/23/2026\>* : Comment by: <Tismo, Yvette Germaine E.>; You did a great job creating your parent class, and you can improve by always double checking your code before pushing to the main branch.
 
+<03/31/2026> : Comment by: <Cantela, Chris Nelson B.> You did well in the Compostition topic, your component class is well. You can improve by diving deeper into this topic and practicing everyday.
