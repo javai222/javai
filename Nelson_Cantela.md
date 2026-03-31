@@ -29,3 +29,5 @@
 **<03/11/2026>** : Comment by: <Saan, Kenneth>; you did well you really focues on buildng somethng that is related to our project, there will be always room for improvement so you can always get better by creating a project using this concept and overall you did great.
 
 **<03/26/2026>** : Comment by: <Tismo, Yvette Germaine E.>; You did a really great job in creating your Brain component class and using validators, and you can improve by learning more about oop and composition for future projects.
+
+**<03/29/2026>** : Comment by: <Javier, Charles Justin D.>; You did well in organizing your code and applying composition properly, and you can improve by adding more validation and clearer method names to make your code easier to understand.
