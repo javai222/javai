@@ -8,6 +8,7 @@
 | 03/06/2026 | Quiz/Recitation           | Quiz 1:OOP      | 5      | 5            |
 | 03/10/2026 | Quiz/Recitation           | Quiz 1:OOP      | 5      | 5            |
 | 03/13/2026 | Quiz/Recitation           | Quiz 1:OOP      | 5      | 5            |
+| 03/312026 | Quiz/Recitation           | Quiz 1:OOP      | 5      | 5            |
 ---
 
 ## 📘 Journals
@@ -17,6 +18,12 @@
 **\<03/11/2026\>** : I learned how to use codespace, extend my knowledge in using git bash, and classes & objects, and next time I will practice and learn more about the codespace and bash commands.
 
 **\<03/13/2026\>** : I learned about the access modifiers and we dig deeper in encapsulation, and next time I will try to implement these modifiers more in my code.
+
+**\<03/31/2026\>** : I learned about the inheritance and we dig deeper in overriding and dynamic binding, and next time I will try to implement these concepts in my future personal projects.
+
+**\<03/31/2026\>** : I learned about the composition and how it is better than inheritance, and next time I will use this concept more often.
+
+**\<03/31/2026\>** : I learned about the abstraction and polymorphism and what is the difference between interface and abstract, and I will try to improve my code using these concepts.
 
 ---
 
