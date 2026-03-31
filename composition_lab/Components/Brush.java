@@ -3,7 +3,7 @@
  * Created by De Leon, Lord Ulrick A.
  */
 
-package composition_lab;
+package composition_lab.Components;
 
 public class Brush {
 

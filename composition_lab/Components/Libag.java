@@ -1,4 +1,4 @@
-package composition_lab;
+package composition_lab.Components;
 
 public class Libag {
 
