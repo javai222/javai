@@ -1,4 +1,4 @@
-# Dolormente, Henry II, S.
+<img width="200" height="406" alt="image" src="https://github.com/user-attachments/assets/2c29d9df-3d5e-4945-a6de-1889c8ac0f98" /><img width="751" height="431" alt="image" src="https://github.com/user-attachments/assets/e92296a1-b2e4-4f87-bfc6-69fa0abd68ec" /># Dolormente, Henry II, S.
 ---
 
 ## 📊 Scores
@@ -41,5 +41,57 @@ I learned how to analyze errors on pull requests and fixed it by my own without 
 <03/14/2026> : Comment by: <Casapao, Jasmin Ann M.> You did well in encapsulation activity, and you can improve by learning more about oop and github.
 
 
+## ➕ Plus Points
 
+<March 20, 2026>: commented and approved on Casapao's inheritance fruit class pr: **2 points** - #391                    - - - - - Total: 2 points
 
+<March 22, 2026>: commented and approved on Balanon's inheritance child class pr: **2 points** - #413
+                  commented and approved on Balanon's inheritance child class pr: **2 points** - #414
+                  commented and approved on De Leon's inheritance child class pr: **2 points** - #415
+                  commented and approved on Plantilla's inheritance child class pr: **2 points** - #419
+                  commented and approved on Javier's inheritance child class pr: **2 points** - #421
+                  commented and approved on Javier's inheritance main class pr: **2 points** - #425                      - - - - - Total: 12 points
+
+<March 23, 2026>: commented and approved on De Leon's inheritance main class pr: **2 points** - #430
+                  commented and approved on Mance's inheritance classes pr: **2 points** - #431
+                  commented and approved on Javier's md file pr: **2 points** - #432
+                  commented and approved on Javier's feedback on Balanon's md file pr: **2 points** - #433
+                  commented and approved on Casapao's journal pr: **2 points** - #434
+                  commented and approved on Casapao's feedback on Tismo's md file pr: **2 points** - #437
+                  commented and approved on De Leon's journal pr: **2 points** - #438
+                  commented and approved on Silva's md file pr: **2 points** - #439
+                  commented and approved on Plantilla's md file pr: **2 points** - #440
+                  commented and approved on Silva's feedback on Plantilla's md file pr: **2 points** - #441
+                  commented and approved on Plantilla's feedback on Silva's md file pr: **2 points** - #445
+                  commented and approved on Tismo's md file pr: **2 points** - #446
+                  commented and approved on Tismo's feedback on Casapao's md file pr: **2 points** - #447
+                  commented and approved on Saan's completed inheritance classes pr: **2 points** - #448                - - - - - Total: 28 points
+
+<March 24, 2026>: commented and approved on Sir's Libag class pr: **2 points** - #450                                   - - - - - Total: 2 points
+
+<March 25, 2026>: commented and approved on Tismo's component power class pr: **2 points** - #465                       - - - - - Total: 2 points
+
+<March 26, 2026>: commented and approved on Casapao's component skin class pr: **2 points** - #464
+                  commented and approved on Silva's component soap class pr: **2 points** - #468
+                  commented and approved on Plantilla's component water class pr: **2 points** - #469
+                  commented and approved on De Leon's component brush class pr: **2 points** - #470                     - - - - - Total: 8 points
+
+<March 27, 2026>: commented and approved on Sir's read me md file pr: **2 points** - #465                               - - - - - Total: 2 points
+
+<March 28, 2026>: commented and approved on Casapao's adding of package pr: ****2 points**** - #510
+                  commented and approved on Tismo's adding of package pr: **2 points** - #512
+                  commented and approved on Casapao's composed class and demo class pr: **2 points** - #517
+                  commented and approved on Tismo's sub class and demo class pr: **2 points** - #518
+                  commented and approved on Casapao's md file pr: **2 points** - #519
+                  commented and approved on Casapao's feedback on Silva's md file pr: **2 points** - #521
+                  commented and approved on Casapao's feedback on Plantilla's md file pr: **2 points** - #522           - - - - - Total: 14 points
+                  
+<March 29, 2026>: commented and approved on Javier's composed class and demo class pr: **2 points** - #507              - - - - - Total: 2 points
+
+<March 30, 2026>: commented and approved on Torrefranca's gadget class pr: **2 points** - #463
+                  commented and approved on Javier's demo class pr: **2 points** - #533                                 - - - - - Total: 4 points
+
+## Overall total points = 76
+                  
+                    
+                  
