@@ -23,6 +23,8 @@
 
 **\<03/23/2026\>** : I learned more about Inheritance in our lab and to improve, next time I will incorporate it more while coding.
 
+**\<03/29/2026\>** : I learned more about Composition and composed classes in our lab and to improve, next time I will try harder to understand its concept and practice it.
+
 ---
 
 ## 👥 Peer feedback
@@ -30,3 +32,32 @@
 <03/23/2026> : Comment by: <Dolormente, Henry II, S.> You did well in the inheritance topic, you made the parent class well and you can improve by practicing more of the inheritance to further hone your skills in coding.
 
 <03/31/2026> : Comment by: <Cantela, Chris Nelson B.> You did well in the Compostition topic, your component class is well. You can improve by diving deeper into this topic and practicing everyday.
+
+---
+
+## ➕ Plus Points 
+
+**<03/22/2026>**
+
+Commented and approved Javier's Inheritance Tiger Child Class pull request: **2 points** - #421
+
+Total = **2 points**
+## 
+
+**<03/23/2026>**
+
+Commented and approved Tismo's Journal Entry about Learning Inheritance pull request: **2 points** - #446
+
+Commented and approved Tismo's Teammate Feedback pull request: **2 points** - #446
+
+Total = **4 points**
+##
+
+**<03/24/2026>**
+
+Commented and approved Dolormente's Composition HDLotion Component Class pull request: **2 points** - #460
+
+Total = **2 points**
+## 
+
+---
