@@ -8,8 +8,8 @@
 | 03/06/2026 | Quiz/Recitation    | Quiz 1:OOP      | 5      | 5    |
 | 03/11/2026 | Activity           | Quiz 1:OOP      | 5      | 5    |
 | 03/06/2026 | Activity           | Quiz 1:OOP      | 5      | 5    |
-| 03/06/2026 | Recitation         | Quiz 1:OOP      | 10     | 10   |
-| 03/06/2026 | Recitation         | Quiz 1:OOP      | 10     | 10   |
+| 03/27/2026 | Recitation         | Quiz 1:OOP      | 10     | 10   |
+| 03/27/2026 | Recitation         | Quiz 1:OOP      | 5      | 5    |
 
 ---
 
