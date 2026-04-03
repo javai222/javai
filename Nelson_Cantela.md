@@ -8,7 +8,7 @@
 | 03/06/2026 | Quiz/Recitation           | Quiz 1:OOP      | 5      | 5            |
 | 03/10/2026 | Quiz/Recitation           | Quiz 1:OOP      | 5      | 5            |
 | 03/13/2026 | Quiz/Recitation           | Quiz 1:OOP      | 5      | 5            |
-| 03/312026 | Quiz/Recitation           | Quiz 1:OOP      | 5      | 5            |
+| 03/312026 | Quiz/Recitation           | Quiz 1:OOP      | 10      | 10            |
 ---
 
 ## 📘 Journals
