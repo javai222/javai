@@ -6,19 +6,18 @@
 package subclass;
 
 public class Aura extends Rizz implements Sigma {
-     // Constructor
+
     public Aura(String name, int auraLevel) {
         super(name, auraLevel);
     }
 
-    // ✅ Method Overriding 
+    // ✅ Overriding
     @Override
     public void showRizz() {
-        System.out.println(getName() + " shows unmatched sigma rizz 😎");
+        System.out.println(getName() + " has elite aura 🔥");
     }
 
-    // ✅ Method Overriding 
-     @Override
+    @Override
     public void greet() {
         System.out.println(getName() + ": Yo 😎");
     }
@@ -28,7 +27,7 @@ public class Aura extends Rizz implements Sigma {
         System.out.println(getName() + " flexes: " + msg);
     }
 
-    // ✅ Method Overloading
+    // ✅ Overloading
     public void flex() {
         System.out.println(getName() + " flexes silently 🗿");
     }
