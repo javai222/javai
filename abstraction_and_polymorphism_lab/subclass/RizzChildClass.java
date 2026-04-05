@@ -3,24 +3,20 @@
 *This class provides the child class of Rizz
 */
 
-/*
-*Created by Javier, Charles Justin D.
-*This class provides the child class of Rizz
-*/
-
 public abstract class Aura extends Rizz implements Sigma {
-
-    // Constructor
+     // Constructor
     public Aura(String name, int auraLevel) {
         super(name, auraLevel);
     }
+}
 
-    // ✅ Method Overriding
+    //  Method Overriding 
     @Override
-    public void showRizz() {
+    public asbtract void showRizz() {
         System.out.println(getName() + " shows unmatched sigma rizz 😎");
     }
 
+    //  Method Overriding 
     @Override
     public void greet() {
         System.out.println(getName() + " says: Hey there 😉");
@@ -31,7 +27,7 @@ public abstract class Aura extends Rizz implements Sigma {
         System.out.println(getName() + " says: " + msg);
     }
 
-    // ✅ Method Overloading
+    //  Method Overloading 
     public void compliment() {
         System.out.println(getName() + " says: You're amazing ✨");
     }
@@ -41,4 +37,3 @@ public abstract class Aura extends Rizz implements Sigma {
             System.out.println(getName() + " says: " + msg);
         }
     }
-}
