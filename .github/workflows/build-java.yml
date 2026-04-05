@@ -2,9 +2,9 @@ name: Build Java Files
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main,develop-* ]
   pull_request:
-    branches: [ main ]
+    branches: [ main, develop-* ]
 
 jobs:
   build:
@@ -21,6 +21,4 @@ jobs:
           java-version: '21'
 
       - name: Compile All Java Files
-        run: |
-          mkdir -p bin
-          javac -d bin $(find . -name "*.java")
+        run: javac $(find . -name "*.java")
