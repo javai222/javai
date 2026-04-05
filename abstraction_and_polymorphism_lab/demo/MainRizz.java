@@ -1,35 +1,26 @@
 // Main created by Javier, Charles Justin
-package demo;
+package abstraction;
 
-public class Main {
+public class MainRizz {
     public static void main(String[] args) {
 
-        // Polymorphism (parent reference)
-        Rizz a = new Aura("Charles", 90);
-        Rizz c = new Chad("Justin", 85);
+        SigmaRizz rizzler = new SigmaRizz("Charles", 80);
 
-        System.out.println("=== AURA ===");
-        a.displayInfo();
-        a.showRizz(); // overridden
+        rizzler.displayInfo();
 
         System.out.println();
 
-        System.out.println("=== CHAD ===");
-        c.displayInfo();
-        c.showRizz(); // overridden
+        // Overridden method
+        rizzler.showRizz();
+
+        // Interface methods
+        rizzler.greet();
+        rizzler.compliment("You have great vibes!");
 
         System.out.println();
 
-        // Interface + Overloading Demo
-        Aura auraObj = new Aura("Charles", 95);
-
-        auraObj.greet();
-        auraObj.flex("Too much aura");
-
-        System.out.println();
-
-        // ✅ Overloading
-        auraObj.flex();
-        auraObj.flex("Unstoppable", 2);
+        // Overloaded methods
+        rizzler.compliment();
+        rizzler.compliment("Stay confident!", 2);
     }
 }

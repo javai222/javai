@@ -3,38 +3,39 @@
 *This class provides the child class of Rizz
 */
 
-package subclass;
+package abstraction;
 
-public class Aura extends Rizz implements Sigma {
-
-    public Aura(String name, int auraLevel) {
+public abstract Aura extends Rizz implements Sigma {
+     // Constructor
+    public SigmaRizz(String name, int auraLevel) {
         super(name, auraLevel);
     }
 
-    // ✅ Overriding
+    //  Method Overriding 
     @Override
     public void showRizz() {
-        System.out.println(getName() + " has elite aura 🔥");
+        System.out.println(getName() + " shows unmatched sigma rizz 😎");
     }
 
+    //  Method Overriding 
     @Override
     public void greet() {
-        System.out.println(getName() + ": Yo 😎");
+        System.out.println(getName() + " says: Hey there 😉");
     }
 
     @Override
-    public void flex(String msg) {
-        System.out.println(getName() + " flexes: " + msg);
+    public void compliment(String msg) {
+        System.out.println(getName() + " says: " + msg);
     }
 
-    // ✅ Overloading
-    public void flex() {
-        System.out.println(getName() + " flexes silently 🗿");
+    //  Method Overloading 
+    public void compliment() {
+        System.out.println(getName() + " says: You're amazing ✨");
     }
 
-    public void flex(String msg, int times) {
-        for (int i = 0; i < times; i++) {
-            System.out.println(getName() + ": " + msg);
+    public void compliment(String msg, int repeat) {
+        for (int i = 0; i < repeat; i++) {
+            System.out.println(getName() + " says: " + msg);
         }
     }
 }

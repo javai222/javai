@@ -1,7 +1,8 @@
 // interface created by Javier, Charles Justin
-package interfacePkg;
+
+package abstraction;
 
 public interface Sigma {
-    void greet();
-    void flex(String msg);
+    void greet();              
+    void compliment(String msg);
 }
