@@ -22,5 +22,7 @@ jobs:
 
       - name: Compile All Java Files
         run: |
+          set -e
           mkdir -p bin
-          javac -d bin $(find . -name "*.java")
+          find . -name "*.java" > sources.txt
+          javac -d bin -cp bin @sources.txt
