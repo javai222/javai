@@ -1,5 +1,5 @@
 // Interface representing a connectable laptop, and created by Balanon, Ryan James M.
-package abstraction;
+package interfacePkg;
 
 public interface ConnectableLaptop {
 
