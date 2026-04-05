@@ -3,11 +3,11 @@
 *This class provides the child class of Rizz
 */
 
-package abstraction;
+package subclass;
 
-public abstract Aura extends Rizz implements Sigma {
+public class Aura extends Rizz implements Sigma {
      // Constructor
-    public SigmaRizz(String name, int auraLevel) {
+    public Aura(String name, int auraLevel) {
         super(name, auraLevel);
     }
 

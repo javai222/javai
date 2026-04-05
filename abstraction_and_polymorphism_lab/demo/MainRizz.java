@@ -1,5 +1,5 @@
 // Main created by Javier, Charles Justin
-package abstraction;
+package demo;
 
 public class Main {
     public static void main(String[] args) {
