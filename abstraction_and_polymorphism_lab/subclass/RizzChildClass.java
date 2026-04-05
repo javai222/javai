@@ -3,12 +3,12 @@
 *This class provides the child class of Rizz
 */
 
-package subclass;
-public abstract Aura extends Rizz implements Sigma {
+public abstract class Aura extends Rizz implements Sigma {
      // Constructor
     public Aura(String name, int auraLevel) {
         super(name, auraLevel);
     }
+}
 
     //  Method Overriding 
     @Override
@@ -37,4 +37,3 @@ public abstract Aura extends Rizz implements Sigma {
             System.out.println(getName() + " says: " + msg);
         }
     }
-}
