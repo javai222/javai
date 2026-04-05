@@ -111,3 +111,18 @@ commented and approved on Javier's (personal.md file) pr: 2 points - #537
 
 commented and approved on Javier's (personal.md file) pr: 2 points - #543
 
+---
+
+**<4/03/2026>**
+commented and approved on Javier's (Abstraction and interface class) pr: 2 pts - #551
+
+commented and approved on Silva's (personal md file) pr: 2 pts - #550
+
+commented and approved on Silva's (personal md file) pr: 2 pts - #553
+
+commented and approved on Silva's (personal md file) pr: 2 pts - #555
+
+commented and approved on De Leon's (personal md file) pr: 2 pts - #554
+
+commented and approved on Mercado's (Inheritance files) pr: 2 pts - #502
+
