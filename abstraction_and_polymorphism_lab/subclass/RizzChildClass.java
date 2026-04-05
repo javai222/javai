@@ -18,24 +18,24 @@ public abstract Aura extends Rizz implements Sigma {
     }
 
     // ✅ Method Overriding 
-    @Override
+     @Override
     public void greet() {
-        System.out.println(getName() + " says: Hey there 😉");
+        System.out.println(getName() + ": Yo 😎");
     }
 
     @Override
-    public void compliment(String msg) {
-        System.out.println(getName() + " says: " + msg);
+    public void flex(String msg) {
+        System.out.println(getName() + " flexes: " + msg);
     }
 
-    // ✅ Method Overloading 
-    public void compliment() {
-        System.out.println(getName() + " says: You're amazing ✨");
+    // ✅ Method Overloading
+    public void flex() {
+        System.out.println(getName() + " flexes silently 🗿");
     }
 
-    public void compliment(String msg, int repeat) {
-        for (int i = 0; i < repeat; i++) {
-            System.out.println(getName() + " says: " + msg);
+    public void flex(String msg, int times) {
+        for (int i = 0; i < times; i++) {
+            System.out.println(getName() + ": " + msg);
         }
     }
 }

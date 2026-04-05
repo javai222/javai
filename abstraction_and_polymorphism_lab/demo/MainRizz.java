@@ -1,26 +1,26 @@
 // Main created by Javier, Charles Justin
 package abstraction;
 
-public class MainRizz {
+public class Main {
     public static void main(String[] args) {
 
-        SigmaRizz rizzler = new SigmaRizz("Charles", 80);
+        Aura a = new Aura("Charles", 90);
 
-        rizzler.displayInfo();
+        a.displayInfo();
 
         System.out.println();
 
-        // Overridden method
-        rizzler.showRizz();
+        // Overriding
+        a.showRizz();
 
         // Interface methods
-        rizzler.greet();
-        rizzler.compliment("You have great vibes!");
+        a.greet();
+        a.flex("Too much aura");
 
         System.out.println();
 
-        // Overloaded methods
-        rizzler.compliment();
-        rizzler.compliment("Stay confident!", 2);
+        // Overloading
+        a.flex();
+        a.flex("Unstoppable", 2);
     }
 }
