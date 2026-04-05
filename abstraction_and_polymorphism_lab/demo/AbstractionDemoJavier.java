@@ -1,7 +1,6 @@
-// Main created by Javier, Charles Justin
-package abstraction;
+package demo;
 
-public class MainRizz {
+public class AbstractionDemoJavier {
     public static void main(String[] args) {
 
         SigmaRizz rizzler = new SigmaRizz("Charles", 80);

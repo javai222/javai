@@ -1,6 +1,6 @@
 // interface created by Javier, Charles Justin
 
-package abstraction;
+package interfacePkg;
 
 public interface Sigma {
     void greet();              
