@@ -8,7 +8,7 @@ public abstract class Glass {
     private String glassType; //Tableware, Drinkware, Container, Household Essentials, or Personal Items
     private String glassTransparency; //Clear, Frosted, or Tinted
 
-    //Constructor
+    //Overloaded Constructor
     public Glass (String glassType, String glassTransparency) {
         this.glassType = glassType;
         this.glassTransparency = glassTransparency;
