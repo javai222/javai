@@ -20,7 +20,7 @@ public class TechAccesories {
 
         // Display backpack details
         System.out.println("\nBackpack Information:");
-        backpack.showBackpackInfo(); 
+        System.out.println("Capacity: " + backpack.getCapacity());
         
         // Display keyboard details
         System.out.println("\nKeyboard Details:");
