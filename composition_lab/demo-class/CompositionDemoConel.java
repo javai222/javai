@@ -3,26 +3,22 @@ package composition_lab;
 public class CompositionDemoConel {
     public static void main(String[] args) {
 
-        // Fixed components
-        Backpack bag = new Backpack(120, 50, 8);
-        Libag sideBag = new Libag("Armpit", 6, true, "black");
+        // Instantiate component classes
+        Backpack bag = new Backpack(120.0, 50, 8);
+        Keyboard keyboard = new Keyboard("AttackShark", "Black", "Magnetic");
+        Libag libag = new Libag("Armpit", 6, true, "black");
 
-        // Initial keyboard
-        Keyboard kb1 = new Keyboard("AttackShark", "Black", "Magnetic");
+        // Inject into composed class
+        TechAccesories system = new TechAccesories(bag, keyboard, libag);
 
-        // System setup
-        TechAccesories system = new TechAccesories(bag, kb1, sideBag);
-        
-        // The system
-        system.useTech();
+        // Use the system
         system.displayTechAccesories();
 
-        // Low Coupling: change keyboard
-        Keyboard kb2 = new Keyboard("Logitech", "White", "Wired");
-        system.setKeyboard(kb2);
-
-        System.out.println("===== After Changing Keyboard =====");
-        system.useTech();
+        // Direct access (same style as your classmate)
+        System.out.println("\n=== Direct Access ===");
+        bag.display();
+        System.out.println(keyboard.getBrand());
+        libag.describe();
     }
 }
 
