@@ -28,14 +28,14 @@ public abstract class Leather {
         if (leatherType != null)
             this.leatherType = leatherType;
         else 
-            System.out.println("Invalid Leather Type!")
+            System.out.println("Invalid Leather Type!");
     }
 
     public void setleatherTexture(String leatherTexture) {
         if (leatherTexture != null)
             this.leatherTexture = leatherTexture;
         else
-            System.out.println("Invalid Leather Texture!")
+            System.out.println("Invalid Leather Texture!");
     }
     //Abstract method 
     public abstract void describe();
