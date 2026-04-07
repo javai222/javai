@@ -9,7 +9,7 @@ interface Wearable {
 
     //default method
     default void showUsage() {
-        Sytem.out.println("This item can be worn for fashion or protection.")
+        Sytem.out.println("This item can be worn for fashion or protection.");
     }
 }
    
