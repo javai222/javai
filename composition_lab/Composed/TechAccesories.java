@@ -1,3 +1,4 @@
+//Composed class created by Conel, component created by Sir, Mance, Balanon
 package composition_lab;
 
 public class TechAccesories {
