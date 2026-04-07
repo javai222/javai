@@ -1,34 +1,50 @@
-//Composed class created by Conel, component created by Sir, Mance, Balanon
+// Composed class created by Conel, component created by Sir, Mance, Balanon
+
 package composition_lab;
 
 public class TechAccesories {
-    
-    // Component objects that make up the PC (HAS-A relationship / composition)
+
+    // component classes
     private Backpack backpack;
     private Keyboard keyboard;
     private Libag libag;
 
-    // Constructor: initializes the TechAccesories with its components (constructor injection)
+    // Constructor Injection
     public TechAccesories(Backpack backpack, Keyboard keyboard, Libag libag) {
         this.backpack = backpack;
         this.keyboard = keyboard;
         this.libag = libag;
     }
 
-    // Method to display all information about the PC and its components
+    // Behavior Method
+    public void useTech() {
+        System.out.println("=== Tech Accessories System Running ===");
+
+        backpack.display();
+        System.out.println("Using Keyboard: " + keyboard.getBrand());
+
+        libag.kuskos();
+        System.out.println("System operation finished.");
+    }
+
     public void displayTechAccesories() {
-        System.out.println("=== Tech Accesories ===");
+        System.out.println("=== Tech Accessories Status ===");
 
-        // Display backpack details
-        System.out.println("\nBackpack Information:");
-        System.out.println("Capacity: " + backpack.getCapacity());
-        
-        // Display keyboard details
-        System.out.println("\nKeyboard Details:");
-        System.out.println("Brand: " + keyboard.getBrand());
+        System.out.println("Backpack Capacity: " + backpack.getCapacity());
+        System.out.println("Keyboard Brand: " + keyboard.getBrand());
+        libag.describe();
+    }
 
-        // Display libag details
-        System.out.println("\nLibag Information:");
-        libag.describe(); 
+    // Setters (for low coupling)
+    public void setBackpack(Backpack backpack) {
+        this.backpack = backpack;
+    }
+
+    public void setKeyboard(Keyboard keyboard) {
+        this.keyboard = keyboard;
+    }
+
+    public void setLibag(Libag libag) {
+        this.libag = libag;
     }
 }
