@@ -42,7 +42,7 @@ public abstract class Glass {
     public abstract void useGlass();
     public abstract void cleanGlass();
 
-    //Abstract method to get the purpose of the glass (Vary depending on subclass)
+    
     public abstract String getGlassPurpose(); //Ex. Ventilation, Storage, Drinking, Eating, Eye Protection, etc.
 
     //Concrete method
@@ -52,4 +52,4 @@ public abstract class Glass {
         System.out.println("Transparency: " + glassTransparency);
         System.out.println("Purpose: " + getGlassPurpose());
     }
-}
+}//Abstract method to get the purpose of the glass (Vary depending on subclass)
