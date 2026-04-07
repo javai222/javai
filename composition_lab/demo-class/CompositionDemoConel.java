@@ -4,7 +4,7 @@ public class CompositionDemoConel {
     public static void main(String[] args) {
 
         // Instantiate component classes
-        Backpack bag = new Backpack(120.0, 50, 8);
+        Backpack bag = new Backpack(120.0, 50);
         Keyboard keyboard = new Keyboard("AttackShark", "Black", "Magnetic");
         Libag libag = new Libag("Armpit", 6, true, "black");
 
