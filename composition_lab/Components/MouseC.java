@@ -23,9 +23,9 @@ public class MouseC {
 
     // Parameterized constructor: sets mouse details and automatically connects it
     public MouseC(String brand, String color, String type) {
-        this.brand = brand;
-        this.color = color;
-        this.type = type;
+        setBrand(brand);
+        setColor(color);
+        setType(type);
         this.isConnect = true;
     }
 
@@ -42,27 +42,59 @@ public class MouseC {
         return type;
     }
 
-    // Setters (used to modify private attributes)
+    public boolean isConnected() {
+        return isConnect;
+    }
+
+    // Setters with validation
+
+    // Setter for connection
     public void setConnection(boolean status) {
         this.isConnect = status;
     }
-    
+
+    // Setter for brand (must not be null or empty)
     public void setBrand(String brand) {
-        this.brand = brand;
+        if (brand == null || brand.trim().isEmpty()) {
+            System.out.println("Invalid brand. Setting to 'Unknown'.");
+            this.brand = "Unknown";
+        } else {
+            this.brand = brand;
+        }
     }
 
+    // Setter for color (must not be null or empty)
     public void setColor(String color) {
-        this.color = color;
+        if (color == null || color.trim().isEmpty()) {
+            System.out.println("Invalid color. Setting to 'Unknown'.");
+            this.color = "Unknown";
+        } else {
+            this.color = color;
+        }
     }
 
+    // Setter for type (must be wired or wireless)
     public void setType(String type) {
-        this.type = type;
+        if (type == null || type.trim().isEmpty()) {
+            System.out.println("Invalid type. Setting to 'Unknown'.");
+            this.type = "Unknown";
+            return;
+        }
+
+        type = type.toLowerCase();
+
+        if (type.equals("wired") || type.equals("wireless")) {
+            this.type = type;
+        } else {
+            System.out.println("Invalid type. Must be 'wired' or 'wireless'. Setting to 'Unknown'.");
+            this.type = "Unknown";
+        }
     }
 
     // Method to simulate mouse movement (only works if connected)
     public void typing() {
         if (isConnect)
-            System.out.println(brand + " is moving.");
+            System.out.println(brand + " mouse is moving.");
         else
             System.out.println("Mouse is not connected");
     }
@@ -70,7 +102,7 @@ public class MouseC {
     // Method to simulate mouse clicking (only works if connected)
     public void click() {
         if (isConnect)
-            System.out.println(brand + " is clicking.");
+            System.out.println(brand + " mouse is clicking.");
         else
             System.out.println("Mouse is not connected");
     }
