@@ -29,6 +29,7 @@
 **<03/23/2026>** : I learned how inheritance works by creating parent and child classes, allowing me to reuse code and organize my program more efficiently. By using a parent class as a base and extending it with child classes, I was able to understand how shared attributes and methods can be inherited and customized. Next time, I will practice creating more parent and child classes to improve my understanding of inheritance and avoid mistakes.
 
 **<03/29/2026>** : I learned how composition uses “has-a” relationships to organize classes. Next time, I will practice building more composed classes to improve my coding skills.
+**<04/07/2026>** : I learned how abstraction and polymorphism was used in coding and next time I will practice a better dynamic binding on my code and also practice high cohesion, low coupling on every code I make.
 
 ## Peer Evaluation
 **<03/11/2026>** : Comment by: <Silva, Vinz Joseph>; You did well in collaborating with me in order to finish our code, you can improve by being more technical in applying different functions in coding.
