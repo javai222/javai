@@ -1,5 +1,7 @@
 package composition_lab;
 
+import composition_lab.Battery;  
+
 public class PC {
     
     // Component objects that make up the PC (HAS-A relationship / composition)
