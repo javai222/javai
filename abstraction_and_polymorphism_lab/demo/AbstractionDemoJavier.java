@@ -1,9 +1,10 @@
 package demo;
+import subclass.RizzChildClass;
 
 public class AbstractionDemoJavier {
     public static void main(String[] args) {
 
-        SigmaRizz rizzler = new SigmaRizz("Charles", 80);
+        RizzChildClass rizzler = new RizzChildClass("Charles", 80);
 
         rizzler.displayInfo();
 
