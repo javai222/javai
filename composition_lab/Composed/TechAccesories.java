@@ -2,27 +2,27 @@ package composition_lab;
 
 import composition_lab.Battery;  
 
-public class PC {
+public class TechAccesories {
     
     // Component objects that make up the PC (HAS-A relationship / composition)
-    private Battery battery;
+    private Backpack backpack;
     private Keyboard keyboard;
     private Libag libag;
 
-    // Constructor: initializes the PC with its components (constructor injection)
-    public PC(Battery battery, Keyboard keyboard, Libag libag) {
-        this.battery = battery;
+    // Constructor: initializes the TechAccesories with its components (constructor injection)
+    public TechAccesories(Backpack backpack, Keyboard keyboard, Libag libag) {
+        this.backpack = backpack;
         this.keyboard = keyboard;
         this.libag = libag;
     }
 
     // Method to display all information about the PC and its components
     public void displayPCSetup() {
-        System.out.println("=== PC Setup ===");
+        System.out.println("=== Tech Accesories ===");
 
-        // Display battery details
-        System.out.println("\nBattery Information:");
-        battery.showBatteryInfo(); 
+        // Display backpack details
+        System.out.println("\nBackpack Information:");
+        backpack.showBackpackInfo(); 
         
         // Display keyboard details
         System.out.println("\nKeyboard Details:");
