@@ -1,7 +1,5 @@
 package composition_lab;
 
-import composition_lab.Battery;  
-
 public class TechAccesories {
     
     // Component objects that make up the PC (HAS-A relationship / composition)
@@ -17,7 +15,7 @@ public class TechAccesories {
     }
 
     // Method to display all information about the PC and its components
-    public void displayPCSetup() {
+    public void displayTechAccesories() {
         System.out.println("=== Tech Accesories ===");
 
         // Display backpack details
