@@ -26,13 +26,13 @@ public abstract class Cellphone {
     // Setters with validation
     public void setBrandName(String brandName) {
         if (brandName != null)
-            this.brandName;
+            this.brandName = brandName;
         else
             System.out.println("Invalid Brand Name.");
     }
     public void setPhoneModel(String phoneModel) {
         if (phoneModel != null)
-            this.phoneModel;
+            this.phoneModel = phoneModel;
         else
             System.out.println("Invalid Phone Model.");
     }
