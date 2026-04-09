@@ -42,6 +42,8 @@
 
 **<03/29/2026>** : Comment by: <Javier, Charles Justin D.>; You did well in organizing your code and applying composition properly, and you can improve by adding more validation and clearer method names to make your code easier to understand.
 
+**<04/09/2026>** : Comment by: <Mance, John Roque R.>; You did well in Arranging your code effectively and using composition correctly, and you can improve by strengthen your code by checking inputs properly and choosing simple, descriptive method names.
+
 ---
 
 ## Pull Request Pts
