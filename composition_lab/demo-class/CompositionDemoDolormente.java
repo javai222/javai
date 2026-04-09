@@ -22,7 +22,7 @@ public class CompositionDemoDolormente {
 
         // Testing low coupling
         Powers newPowers = new Powers("Manipulation", "Defensive", "Long Range");;
-        hero.setPowers(newPower);
+        hero.setPowers(newPowers);
 
         System.out.println("\nAfter changing powers: ");
         hero.activateAll();
