@@ -40,3 +40,5 @@
 *\<03/23/2026\>* : Comment by: <Plantilla, Jophel Mark P.>; You did well in creating an organized parent class by using override methods and you can improve by doing advance reading on the topics and practice more in coding.
 
 *\<03/28/2026\>* : Comment by: <Casapao, Jasmin Ann M.>; You did well in creating composition class and you can improve by doing advance reading on the topics and learning more about github and coding.
+
+*\<04/07/2026\>* : Comment by: <Javier, Charles justin D.>; You did well in making your abstract class and interface and you can improve by making a less complicated class next time.
