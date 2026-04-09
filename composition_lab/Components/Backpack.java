@@ -59,6 +59,14 @@ public class Backpack {
         }
     }
 
+    // Display current backpack details
+    public void display() {
+        System.out.println("Backpack Details:");
+        System.out.println("Capacity: " + capacity);
+        System.out.println("Load: " + load);
+        System.out.println("Compartments: " + compartments);
+    }
+
     // Method 1: add item
     public void addItem(double weight) {
         if (load + weight <= capacity) {
