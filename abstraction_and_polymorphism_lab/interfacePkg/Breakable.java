@@ -2,9 +2,9 @@
 
 package interfacePkg;
 
-interface Breakable {
+public interface Breakable {
     //Abstract method
-    public void breakGlass();
+    void breakGlass();
 
     //Default method
     default void handleWithCare() {
