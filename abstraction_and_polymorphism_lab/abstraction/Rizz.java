@@ -1,3 +1,8 @@
+/*
+*Created by Silva, Vinz Joseph R.
+*This class provides a template for for Rizz with the attributes of name and aura level
+*/
+
 package abstraction;
 
 // Abstract class
