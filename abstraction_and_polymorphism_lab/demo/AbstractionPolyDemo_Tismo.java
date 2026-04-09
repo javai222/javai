@@ -28,6 +28,9 @@ public class AbstractionPolyDemo_Tismo {
 
         System.out.println("\n=== Usage ===");
         jacket.showUsage();
+
+        System.out.println("\n=== Display Info ===");
+        jacket.displayInfo();
     }
 }
 
