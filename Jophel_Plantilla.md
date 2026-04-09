@@ -33,6 +33,8 @@
 
 *\<03/28/2026\>* : Comment by: <**Casapao, Jasmin Ann M.**>; You did well in creating composition class and you can improve by learning more about github and coding.
 
+**<04/09/2026>** : Comment by: <Mance, John Roque R.>; You did well in coding your file named water, and you can improve by validating inputs and using clearer method names.
+
 
 ## ➕ Plus Points
 
