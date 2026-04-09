@@ -2,7 +2,7 @@
 
 package interfacePkg;
 
-interface Wearable {
+public interface Wearable {
 
     //Abstract method
     public void wear();
