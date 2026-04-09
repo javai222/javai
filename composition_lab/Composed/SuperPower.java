@@ -55,7 +55,7 @@ public class SuperPower {
 
     // Behavior that displays all the details
     public void displayAll() {
-        System.out.println("\n===Full Details ===")
+        System.out.println("\n===Full Details ===");
 
         powers.displayDetails();
         skins.displaySkinInfo();
