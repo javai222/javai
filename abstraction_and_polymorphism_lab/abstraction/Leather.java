@@ -13,7 +13,7 @@ public abstract class Leather {
     // Overload Constructor 
     public Leather(String leatherType, String leatherTexture) {
         this.leatherType = leatherType;
-        this.leatherTexture = leatherType;
+        this.leatherTexture = leatherTexture;
     }
 
     // Getter
