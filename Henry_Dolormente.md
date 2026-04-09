@@ -29,17 +29,13 @@ improve the display of the information that needs to be shown and to use more co
 
 <04/09/2026> : I learned how to make use of my groupmates component classes as the basis for my composed class. Next time I'll try to use it in a more harder way and maximizing the reusage of codes.
 
-
-
 ---
-
 
 ## Peer Feedback
 
 <03/11/2026> : Comment by: <Plantilla, Jophel Mark P.> You did well in creating class and objects, and you also showed good collaboration using GitHub, and you can improve by practicing more in coding to become better in programming.
 
 <03/14/2026> : Comment by: <Casapao, Jasmin Ann M.> You did well in encapsulation activity, and you can improve by learning more about oop and github.
-
 
 ## ➕ Plus Points
 
@@ -112,6 +108,3 @@ commented and approved on Javier's demo class pr: **2 points** - #533\
 **Total: 4 points**
 
 ## Overall total points = 76
-                  
-                    
-                  
