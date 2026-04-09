@@ -33,7 +33,7 @@ public class SuperPower {
 
     // Setters
     public void setLibag(Libag libag) {
-        this.lotion = lotion;
+        this.libag = libag;
     }
 
     public void setPowers(Powers powers) {
