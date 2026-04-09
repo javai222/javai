@@ -21,7 +21,7 @@ public class CompositionDemoDolormente {
         hero.displayAll();
 
         // Testing low coupling
-        Powers newPowers = new Powers();
+        Powers new Powers = new Powers();
         hero.setPowers(newPower);
 
         System.out.println("\nAfter changing powers: ");
