@@ -5,7 +5,7 @@
 package demo;
 
 import abstraction.Glass;
-import subclass.DrinkwareGlass;
+import subclass.DrinkingGlass;
 import subclass.WindowGlass;
 
 
@@ -17,7 +17,7 @@ public class AbstractionDemoCasapao {
          * DYNAMIC BINDING + POLYMORPHISM
          * Using abstract reference
          */
-        Glass glass1 = new DrinkwareGlass("Drinkware", "Clear");
+        Glass glass1 = new DrinkingGlass("Drinkware", "Clear");
         Glass glass2 = new WindowGlass("Household", "Tinted");
 
         // Dynamic binding occurs here
@@ -32,7 +32,7 @@ public class AbstractionDemoCasapao {
         /*
          * METHOD OVERLOADING demonstration
          */
-        DrinkwareGlass drink = new DrinkwareGlass("Drinkware", "Clear");
+        DrinkingGlass drink = new DrinkwareGlass("Drinkware", "Clear");
         drink.fillGlass();
         drink.fillGlass("Juice");
 
