@@ -74,4 +74,4 @@ public class AbstractionPolyDemo_Casapao {
 * 
 * How does your design achieve high cohesion?
 * It is high cohesion because each class only handles its own job, like window actions or door actions.
-/**
+**/
