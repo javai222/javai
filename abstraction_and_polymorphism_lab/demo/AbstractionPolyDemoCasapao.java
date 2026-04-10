@@ -51,27 +51,27 @@ public class AbstractionPolyDemo_Casapao {
 }
 
 /**
-What abstract class did you create?
-I created Glass, which is a base class for all glass types.
+* What abstract class did you create?
+* I created Glass, which is a base class for all glass types.
+* 
+* What interface did you create?
+* I created Breakable, which is used for things that can break.
+* 
+* What methods did you override?
+* I changed the methods useGlass(), cleanGlass(), getGlassPurpose(), and breakGlass() in the child classes.
+* 
+* What methods did you overload?
+* I overloaded openDoor() in GlassDoor and openWindow() in WindowGlass by using different inputs.
+* 
+* Where does dynamic binding occur in your code?
+* It happens when a Glass or Breakable variable runs methods from GlassDoor or WindowGlass during the program.
 
-What interface did you create?
-I created Breakable, which is used for things that can break.
-
-What methods did you override?
-I changed the methods useGlass(), cleanGlass(), getGlassPurpose(), and breakGlass() in the child classes.
-
-What methods did you overload?
-I overloaded openDoor() in GlassDoor and openWindow() in WindowGlass by using different inputs.
-
-Where does dynamic binding occur in your code?
-It happens when a Glass or Breakable variable runs methods from GlassDoor or WindowGlass during the program.
-
-Which part shows polymorphism?
-It is shown when one Glass type variable works with different objects like doors and windows but gives different results.
-
-How does your design achieve low coupling?
-It is low coupling because the classes use abstract classes and interfaces instead of depending directly on each other.
-
-How does your design achieve high cohesion?
-It is high cohesion because each class only handles its own job, like window actions or door actions.
+* Which part shows polymorphism?
+* It is shown when one Glass type variable works with different objects like doors and windows but gives different results.
+* 
+* How does your design achieve low coupling?
+* It is low coupling because the classes use abstract classes and interfaces instead of depending directly on each other.
+* 
+* How does your design achieve high cohesion?
+* It is high cohesion because each class only handles its own job, like window actions or door actions.
 /**
