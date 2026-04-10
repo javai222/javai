@@ -9,10 +9,10 @@ import abstraction.Glass;
 import interfacePkg.Breakable;
 
 
-public class DrinkwareGlass extends Glass implements Breakable {
+public class DrinkingGlass extends Glass implements Breakable {
 
     // Constructor
-    public DrinkwareGlass(String type, String transparency) {
+    public DrinkingGlass(String type, String transparency) {
         super(type, transparency);
     }
 
