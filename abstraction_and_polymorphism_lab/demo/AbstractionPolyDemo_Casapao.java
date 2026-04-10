@@ -1,5 +1,5 @@
 /*
-*Subclass created by Casapao, Abstraction and Interface Class created by Tismo
+* Demo created by Casapao, Abstraction and Interface Class created by Tismo
 */
 
 package demo;
