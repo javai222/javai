@@ -6,7 +6,8 @@
 | Date       | Activity Type | Title       | Score | Total Points |
 |------------|----------------|-------------|--------|--------------|
 | 03/06/2026 | Quiz/Recitation           | Quiz 1:OOP      | 5      | 5            |
-| 03/11/2026 | Recitation       | —          | 5      | 10            |
+| 03/11/2026 | Recitation       | MVC          | 5      | 10            |
+| 03/31/2026 | Ice Breaker      | Fav Movie         | 10      | 20            |
 
 ---
 
@@ -22,6 +23,8 @@
 
 **\<03/28/2026\>** : I learned how to use other peoples classes as the basis for the behavior of my composed class as well as how to properly print/display my composed class code, next time I would try to use composition in a more complex way, such as by trying to override the behaviors from the reused classes.
 
+**\<04/10/2026\>** : I learned how to create and use abstract classes as well as interfaces properly, I also learned more about polymorphism and how it works in terms of coding, next time I would try to add more variables that can be used in my subclasses/implementations and expand my knowledge about it.
+
 # Peer Feedback
 ---
 **\<03/11/2026\>** : Comment by: <Casapao, Jasmin Ann M.>; You did well in coding and helping me in github, and you can improve by practicing and learning new in github.
@@ -35,3 +38,36 @@
 **\<03/23/2026\>** : Comment by: <Casapao, Jasmin Ann M.>; You did well in inheritance activity. using github and helping me in github, and you can improve by learning more about inheritance and github.
 
 **\<03/23/2026\>** : Comment by: <Dolormente, Henry II, S.>; You did great on making your component class in the composition activity, you can improve more by learning more on the topic of composition.
+
+## Plus Points
+---
+| Date       | Comment                                              | PR Title                                                         | Type                   | Points |
+|------------|------------------------------------------------------|------------------------------------------------------------------|------------------------|--------|
+| 2026-03-24 | Approved                                             | Create readme.md (#457)                                          | ✅ Approve             | 2      |
+| 2026-03-28 | Changes viewed and approved                          | Rename composition-lab/HDLotion.java to composition-lab/Components/HD… (#509)      | ✅ Approve             | 2      |
+| 2026-03-28 | Changes acknowledged and approved                    | Adding package (#510)                                            | ✅ Approve             | 2      |
+| 2026-03-28 | Approved                                             | Delete composition-lab/component-class directory (#513)          | ✅ Approve             | 2      |
+| 2026-03-28 | Very good and efficient, approved                    | Add package (#514)                                               | ✅ Approve             | 2      |
+| 2026-03-28 | Nicely done! Your work was viewed and acknowledged. Approved              | Added composed class and demo class - Casapao (#517)      | ✅ Approve                 | 1      |
+| 2026-03-28 | I confirm that Casapao completed this lab!           | Update Jasmin_Casapao.md (#519)                                  | ✅ Approve             | 2      |
+| 2026-03-28 | I confirm that Casapao completed this lab!           | Peer feedback for Silva (#521)                                   | ✅ Approve             | 2      |
+| 2026-03-28 | I confirm that Casapao completed this lab!           | Peer feedback for Plantilla (#522)                               | ✅ Approve             | 2      |
+| 2026-03-28 | You did a great job! The changes are viewed and acknowledged. Approved       | Created Subclass and Democlass (#527)    | ✅ Approve             | 2      |
+| 2026-03-29 | Updates viewed and acknowledged. Approved            | Update CharlesJustin_Javier.md (#537)                            | ✅ Approve             | 2      |
+| 2026-04-09 | Good reflection/takeaway                             | Add entry on composition and future learning goals (#571)        | ✅ Approve             | 2      |
+| 2026-04-09 | Nice takeaway/reflection                             | Update Journal and Add Plus Points (#573)                        | ✅ Approve             | 2      |
+| 2026-04-09 | Fix the variable in your abstraction class line 16 *this.leatherTexture = leatherTexture; Add the public modifier for your interface so other's can use/access it for the subclass. *public interface wearable {}      | Added Abstraction Class and Interface(#575)      | 🔴 Changes Requested   | 3      |
+| 2026-04-09 | Good job! Code files viewed, acknowledged and approved. | Added Abstraction Class and Interface (#575)                  | ✅ Approve             | 2      |
+| 2026-04-09 | Very good reflections/takeaways                         | Update Rj_Balanon (#577)                                      | ✅ Approve             | 2      |
+| 2026-04-09 | May nagalaw ka sa Glass.java file, paki ayos muna po    | AbstractMance (#578)                                          | 💬 Comment             | 1      |
+| 2026-04-09 | Make your interface public so other teammates can use it in the subclass folder. *public interface UpdateOS {}          | AbstractMance (#578)   | 🔴 Changes Requested   | 3      |
+| 2026-04-10 | Changes approved                                        | AbstractMance (#578)                                          | ✅ Approve             | 2      |
+| 2026-04-09 | Nice work! Code files acknowledged and approved         | Created Abstract Class and Interface (#584)                   | ✅ Approve             | 2      |
+| 2026-04-09 | Approved                                                | Update CharlesJustin_Javier.md (#585)                         | ✅ Approve             | 2      |
+| 2026-04-09 | Comments added are acknowledged and approved.           | Added abstract class and interface (#586)                     | ✅ Approve             | 2      |
+| 2026-04-09 | Good feedback                                           | composition fb (#589)                                         | ✅ Approve             | 2      |
+| 2026-04-09 | teammate feedback approved                              | composition fb 2 (#590)                                       | ✅ Approve             | 2      |
+| 2026-04-09 | Nice work! Reviewed, acknowledged ad approved           | Completion of Composition lab (#592)                          | ✅ Approve             | 2      |
+| 2026-04-09 | Feedback approved                                       | Peer feedback comment on Casapao (#593)                       | ✅ Approve             | 2      |
+| 2026-04-09 | Teammate feedback approved                              | Peer feedback comment on Tismo (#594)                         | ✅ Approve             | 2      |
+| 2026-04-09 | Nice takeaways/reflections                              | Update on personal md file. (#595)                            | ✅ Approve             | 2      |
