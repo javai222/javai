@@ -32,7 +32,7 @@ public class AbstractionDemoCasapao {
         /*
          * METHOD OVERLOADING demonstration
          */
-        DrinkingGlass drink = new DrinkwareGlass("Drinkware", "Clear");
+        DrinkingGlass drink = new DrinkingGlass("Drinkware", "Clear");
         drink.fillGlass();
         drink.fillGlass("Juice");
 
