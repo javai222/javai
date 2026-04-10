@@ -74,4 +74,4 @@ It is low coupling because the classes use abstract classes and interfaces inste
 
 How does your design achieve high cohesion?
 It is high cohesion because each class only handles its own job, like window actions or door actions.
-/*
+/**
