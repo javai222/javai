@@ -1,5 +1,5 @@
 /*
-*Subclass created by Casapao, Abstraction and Interface Class created by Tismo
+* Implementation created by Casapao, Abstraction and Interface Class created by Tismo
 *Created with the help of AI
 */
 
