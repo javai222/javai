@@ -48,7 +48,7 @@
 | 2026-03-28 | Changes acknowledged and approved                    | Adding package (#510)                                            | ✅ Approve             | 2      |
 | 2026-03-28 | Approved                                             | Delete composition-lab/component-class directory (#513)          | ✅ Approve             | 2      |
 | 2026-03-28 | Very good and efficient, approved                    | Add package (#514)                                               | ✅ Approve             | 2      |
-| 2026-03-28 | Nicely done! Your work was viewed and acknowledged. Approved              | Added composed class and demo class - Casapao (#517)      | ✅ Approve                 | 1      |
+| 2026-03-28 | Nicely done! Your work was viewed and acknowledged. Approved              | Added composed class and demo class - Casapao (#517)      | ✅ Approve                 | 2      |
 | 2026-03-28 | I confirm that Casapao completed this lab!           | Update Jasmin_Casapao.md (#519)                                  | ✅ Approve             | 2      |
 | 2026-03-28 | I confirm that Casapao completed this lab!           | Peer feedback for Silva (#521)                                   | ✅ Approve             | 2      |
 | 2026-03-28 | I confirm that Casapao completed this lab!           | Peer feedback for Plantilla (#522)                               | ✅ Approve             | 2      |
