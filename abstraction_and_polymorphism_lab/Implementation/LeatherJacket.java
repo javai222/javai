@@ -2,7 +2,7 @@
 *Subclass created by Tismo, Abstraction and Interface Class created by Casapao
 *Created with the help of AI
 */
-package subclass;
+package Implementation;
 
 import abstraction.Leather;
 import interfacePkg.Wearable;

@@ -3,34 +3,48 @@
 */
 package demo;
 
-import subclass.LeatherJacket;
+import Implementation.LeatherJacket;
+import Implementation.LeatherBag
 
 public class AbstractionPolyDemo_Tismo {
     public static void main(String[] args) {
         // Create object
-        LeatherJacket jacket = new LeatherJacket("Full-Grain Leather", "Smooth");
+      LeatherJacket jacket = new LeatherJacket("Full-Grain Leather", "Smooth");
+      LeatherBag bag = new LeatherBag("Top-Grain Leather", "Flat Grain");
         
         // Basic describe
-        System.out.println("=== Basic Description ===");
-        jacket.describe();
+      System.out.println("=== Basic Description ===");
+      jacket.describe();
+      System.out.println();
+      bag.describe();
 
-        // Overloaded method
-        System.out.println("\n=== Detailed Description ===");
-        jacket.describe(" Biker Jacket", true);
+      // Overloaded method
+      System.out.println("\n=== Detailed Description ===");
+      jacket.describe(" Biker Jacket", true);
+      System.out.println();
+      bag.describe(" Backpack", true);
 
-        // Overloaded method
-        System.out.println("\n=== Simple Description ===");
-        jacket.describe(" Biker Jacket", false);
+      // Overloaded method
+      System.out.println("\n=== Simple Description ===");
+      jacket.describe(" Biker Jacket", false);
+      System.out.println();
+      bag.describe(" Backpack", false);
 
-        // Interface methods
-        System.out.println("\n=== Wearing Jacket ===");
-        jacket.wear();
+      // Interface methods
+      System.out.println("\n=== Wearing Jacket ===");
+      jacket.wear();
+      System.out.println();
+      bag.wear();
 
-        System.out.println("\n=== Usage ===");
-        jacket.showUsage();
+      System.out.println("\n=== Usage ===");
+      jacket.showUsage();
+      System.out.println();
+      bag.showUsage();
 
-        System.out.println("\n=== Display Info ===");
-        jacket.displayInfo();
+      System.out.println("\n=== Display Info ===");
+      jacket.displayInfo();
+      System.out.println();
+      bag.displayInfo();
     }
 }
 
