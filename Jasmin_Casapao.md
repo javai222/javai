@@ -26,14 +26,17 @@ Casapao, Jasmin Ann M
 
 # Peer Feedback
 ---
-*\<03/11/2026\>* : Comment by: <Tismo, Yvette Germaine E.>; You did well in coding and collaborating, you made the activity a bit easier, and you can improve by learning more about github.
+**\<03/11/2026\>** : Comment by: <Tismo, Yvette Germaine E.>; You did well in coding and collaborating, you made the activity a bit easier, and you can improve by learning more about github.
 
-*\<03/14/2026\>* : Comment by: <Tismo, Yvette Germaine E.>; You did a very good job and you are a reliable teammate, and you can improve by learning more about oop and github.
+**\<03/14/2026\>** : Comment by: <Tismo, Yvette Germaine E.>; You did a very good job and you are a reliable teammate, and you can improve by learning more about oop and github.
 
-*\<03/14/2026\>* : Comment by: <De Leon, Lord Ulrick A.>; You did well in using your knowledge in encapsulation and performed well with the task, and you can improve by practicing more.
+**\<03/14/2026\>** : Comment by: <De Leon, Lord Ulrick A.>; You did well in using your knowledge in encapsulation and performed well with the task, and you can improve by practicing more.
 
 **\<03/15/2026\>** : Comment by: <Silva, Vinz Joseph R.>; You did well in participating in our activity, and you can improve by learning more about the structure and function of github.
 
-*\<03/23/2026\>* : Comment by: <Tismo, Yvette Germaine E.>; You did a great job creating your parent class, and you can improve by always double checking your code before pushing to the main branch.
+**\<03/23/2026\>** : Comment by: <Tismo, Yvette Germaine E.>; You did a great job creating your parent class, and you can improve by always double checking your code before pushing to the main branch.
 
-<03/31/2026> : Comment by: <Cantela, Chris Nelson B.> You did well in the Compostition topic, your component class is well. You can improve by diving deeper into this topic and practicing everyday.
+**\<03/31/2026>\** : Comment by: <Cantela, Chris Nelson B.>; You did well in the Compostition topic, your component class is well. You can improve by diving deeper into this topic and practicing everyday.
+
+**\<04/09/2026>\** : Comment by: <Dolormente, Henry II, S.>; You did a great job in making your component class. You can improve by learning more about this topic.
+
