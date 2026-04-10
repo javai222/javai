@@ -2,7 +2,7 @@
 
 package interfacePkg;
 
-interface UpdateOS {
+public interface UpdateOS {
     //Abstract method
     public void outdated();
 
