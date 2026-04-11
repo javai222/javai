@@ -24,6 +24,8 @@ Casapao, Jasmin Ann M
 
 **\<03/28/2026\>** : I learned the concept of composition in coding and connection in different class and to improve, next time I will study more about the composition and reviewing before pr.
 
+**\<04/10/2026\>** : I learned the concept of abstraction in coding is creating a abstract class and interface class  and to improve, next time I will study more about the abstraction and reviewing my code.
+
 # Peer Feedback
 ---
 **\<03/11/2026\>** : Comment by: <Tismo, Yvette Germaine E.>; You did well in coding and collaborating, you made the activity a bit easier, and you can improve by learning more about github.
@@ -39,4 +41,28 @@ Casapao, Jasmin Ann M
 **\<03/31/2026>\** : Comment by: <Cantela, Chris Nelson B.>; You did well in the Compostition topic, your component class is well. You can improve by diving deeper into this topic and practicing everyday.
 
 **\<04/09/2026>\** : Comment by: <Dolormente, Henry II, S.>; You did a great job in making your component class. You can improve by learning more about this topic.
+
+## ➕ Plus Points
+---
+<March 28, 2026>:\
+commented and approved on Dolormente's Rename composition-lab/HDLotion.java to composition-lab/Components/HD pr: **2 points** - #509\
+
+commented and approved on Tismo Added package pr: **2 points** - #512\
+
+commented on Dolormente's Delete composition-lab/component-class directory pr: **1 points** - #513\
+
+commented and approved on Dolormente's Added package pr: **2 points** - #514\
+
+commented and approved on Tismo's Created Dogs subclass and CompositionDemo pr: **2 points** - #518\
+
+commented and approved on Silva's Created Subclass and Democlass pr: **2 points** - #527\
+
+commented and approved on Tismo's Update personal md pr: **2 points** - #520\
+
+commented and approved on Tismo's Peer Feedback pr: **2 points** - #525\
+
+commented and approved on Silva's Created Subclass and Democlass pr: **2 points** - #527\
+
+**Total: 17 points**
+
 
