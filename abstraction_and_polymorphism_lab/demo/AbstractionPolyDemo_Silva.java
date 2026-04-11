@@ -9,7 +9,7 @@ import interfacePkg.Breakable;
 import implementation.DrinkingGlass;
 import implementation.PhoneGlass;
 
-public class AbstractionDemoSilva {
+public class AbstractionPolyDemo_Silva {
     public static void main(String[] args) {
 
         DrinkingGlass drink = new DrinkingGlass ("Drinkware", "Clear");
