@@ -4,8 +4,8 @@
 */
 
 package demo;
-import abstraction.Glass
-import interfacePkg.Breakable
+import abstraction.Glass;
+import interfacePkg.Breakable;
 import implementation.DrinkingGlass;
 import implementation.PhoneGlass;
 
