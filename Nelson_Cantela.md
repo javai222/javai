@@ -145,3 +145,6 @@ Approved on Sir Mon's (bin directory) pr: 1 pt - #561
 
 Request change on Balanon's (Abstraction and interface class) pr: 2 pts - #563
 
+**<4/14/26>**
+
+commented and approved on Silva's (Abstract activity files) pr: 2 pts - #606
