@@ -78,13 +78,18 @@ public class AndroidPhone extends Cellphone implements UpdateOS {
     public void outdated() {
         if (AndroidVersion < 16)
             System.out.println("Android Version " + AndroidVersion + " may be outdated consider updating.");
+        else if (AndroidVersion == 16)
+            System.out.println("Android Version " + AndroidVersion + " is up to date");
+
+
     }
 
     @Override
     public void updatePhone() {
         if (AndroidVersion < 16){
             AndroidVersion = 16;
-            System.out.println("Your Android Version is now up to date!");
+            System.out.println("UPDATING... " +
+                               "\nYour Android Version is now up to date!");
         }
     }
 

@@ -78,13 +78,16 @@ public class Iphone extends Cellphone implements UpdateOS {
     public void outdated() {
         if (IOSVersion < 26)
             System.out.println("IOS Version " + IOSVersion + " may be outdated consider updating.");
+        else if (IOSVersion == 26)
+            System.out.println("IOS Version " + IOSVersion + " is up to date");
     }
 
     @Override
     public void updatePhone() {
         if (IOSVersion < 26){
             IOSVersion = 26.4;
-            System.out.println("Your IOS Version is now up to date!");
+            System.out.println("UPDATING..." +
+                               "\nYour IOS Version is now up to date!");
         }
     }
 
@@ -93,7 +96,7 @@ public class Iphone extends Cellphone implements UpdateOS {
         System.out.println("Sending message to: " + recipient + ": " + message);
     }
 
-    //overloaded method of send message 
+    //overloaded method of send message
     public void sendMessage (String recipient, String message, String time) {
         System.out.println("[" + time + "] Sending message to: " + recipient + ": " + message);
     }

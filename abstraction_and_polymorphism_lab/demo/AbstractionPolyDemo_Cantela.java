@@ -6,7 +6,7 @@ What abstract class did you create?
 What interface did you create?
 - Discountable interface
 What methods did you override?
-- useCellphone(), chargeCellphone(), getPhoneColor, 
+- useCellphone(), chargeCellphone(), getPhoneColor,
 displayCellphoneInfo(), outdated(), and updatePhone(), in both Iphone and AndroidPhone classes
 What methods did you overload?
 - sendMessage() in both Iphone and AndroidPhone classes
@@ -24,6 +24,7 @@ package demo;
 import Implementation.Iphone;
 import Implementation.AndroidPhone;
 import abstraction.Cellphone;
+import interfacePkg.UpdateOS;
 import java.util.Scanner;
 
 
@@ -42,7 +43,7 @@ public class AbstractionPolyDemo_Cantela {
 
         //asks user which brand to use
         System.out.print("WELCOME"
-                    +    "\nWhat Brand do you want to use (1 - Iphone 2 - Android)? ");
+                +    "\nWhat Brand do you want to use (1 - Iphone 2 - Android)? ");
         choice = in.nextInt();
 
         //if user chooses iphone
@@ -64,6 +65,11 @@ public class AbstractionPolyDemo_Cantela {
             cellphone.useCellphone();           //Call overridden methods then show info
             cellphone.chargeCellphone();
             cellphone.displayCellphoneInfo();
+
+            UpdateOS os = new Iphone("Iphone", model, color, version);
+            System.out.println();
+            os.outdated();
+            os.updatePhone();
 
             in.nextLine();
             System.out.print("\nEnter message you want to send: ");
@@ -98,6 +104,12 @@ public class AbstractionPolyDemo_Cantela {
             cellphone.useCellphone();           //Call overridden methods then show info
             cellphone.chargeCellphone();
             cellphone.displayCellphoneInfo();
+
+            UpdateOS os = new AndroidPhone("Android", model, color, version);
+            System.out.println();
+            os.outdated();
+            os.updatePhone();
+
 
             in.nextLine();
             System.out.print("\nEnter message you want to send: ");
