@@ -1,7 +1,7 @@
 //created by Cantela, Chris Nelson B.
 package interfacePkg;
 
-interface Discountable {
+    public interface Discountable {
     //Abstract method to apply a discount to the amount
     public double applyDiscount(double amount);
 
