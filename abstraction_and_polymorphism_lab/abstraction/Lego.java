@@ -21,7 +21,7 @@ public abstract class Lego {
         return legoSetName;
     }
 
-    public String setlegoSetName(String legoSetName) {
+    public void setlegoSetName(String legoSetName) {
         if(legoSetName != null) {
             this.legoSetName = legoSetName;
         } else {
@@ -33,7 +33,7 @@ public abstract class Lego {
         return legoPiecesQuantity;
     }
 
-    public int setlegoPiecesQuantity(int legoPiecesQuantity) {
+    public void setlegoPiecesQuantity(int legoPiecesQuantity) {
         if(legoPiecesQuantity > 0) {
             this.legoPiecesQuantity = legoPiecesQuantity;
         } else {
@@ -45,7 +45,7 @@ public abstract class Lego {
         return legoSetPrice;
     }
 
-    public double setlegoSetPrice(double legoSetPrice) {
+    public void setlegoSetPrice(double legoSetPrice) {
         if(legoSetPrice >= 0.0) {
             this.legoSetPrice = legoSetPrice;
         } else {
