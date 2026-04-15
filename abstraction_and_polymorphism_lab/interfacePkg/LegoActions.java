@@ -9,6 +9,6 @@ public interface LegoActions {
 
     // Default Method
     default void cleanUpLego() {
-        System.out.println("Cleaning up the lego pieces after playing.")
+        System.out.println("Cleaning up the lego pieces after playing.");
     }
 }

@@ -6,13 +6,13 @@ public abstract class Lego {
 
     // Attributes
     private String legoSetName;     // Name of the lego set
-    private int legoPiecesQuantity  // Number of lego pieces in the set
+    private int legoPiecesQuantity; // Number of lego pieces in the set
     private double legoSetPrice;    // Price of the lego set
 
     // Constructor
     public Lego(String legoSetName, int legoPiecesQuantity, double legoSetPrice) {
         this.legoSetName = legoSetName;
-        this.legoPiecesQuantity = legoPiecesQuantity
+        this.legoPiecesQuantity = legoPiecesQuantity;
         this.legoSetPrice = legoSetPrice;
     }
 
@@ -35,7 +35,7 @@ public abstract class Lego {
 
     public int setlegoPiecesQuantity(int legoPiecesQuantity) {
         if(legoPiecesQuantity > 0) {
-            this.legoPiecesQuantity = legoPiecesQuantity
+            this.legoPiecesQuantity = legoPiecesQuantity;
         } else {
             System.out.println("Number of pieces should not be 0 or below");
         }
