@@ -1,10 +1,10 @@
 //This class is created by Cantela, Chris Nelson B.
 package Implementation;
 import abstraction.Cellphone;
-import interfacePkg.UpdateOS;
+import interfacePkg.Updatable;
 
 
-public class AndroidPhone extends Cellphone implements UpdateOS {
+public class AndroidPhone extends Cellphone implements Updatable {
     //two additional attributes
     private String color;
     private double AndroidVersion;
@@ -73,7 +73,7 @@ public class AndroidPhone extends Cellphone implements UpdateOS {
         System.out.println("Android Version: " + AndroidVersion);
     }
 
-    //OVERRIDED METHODS FROM INTERFACE: UPDATEOS
+    //OVERRIDED METHODS FROM INTERFACE: UPDATABLE
     @Override
     public void outdated() {
         if (AndroidVersion < 16)

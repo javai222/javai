@@ -1,10 +1,10 @@
 //This class is created by Cantela, Chris Nelson B.
 package Implementation;
 import abstraction.Cellphone;
-import interfacePkg.UpdateOS;
+import interfacePkg.Updatable;
 
 
-public class Iphone extends Cellphone implements UpdateOS {
+public class Iphone extends Cellphone implements Updatable {
     //two additional attributes
     private String color;
     private double IOSVersion;
@@ -73,7 +73,7 @@ public class Iphone extends Cellphone implements UpdateOS {
         System.out.println("IOS Version: " + IOSVersion);
     }
 
-    //OVERRIDED METHODS FROM INTERFACE: UPDATEOS
+    //OVERRIDED METHODS FROM INTERFACE: UPDATABLE
     @Override
     public void outdated() {
         if (IOSVersion < 26)
