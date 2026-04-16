@@ -1,3 +1,5 @@
+package ConelMance;
+
 public class Keyboard {
 
 // class craeated by Mance, John Roque R.

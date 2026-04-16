@@ -1,5 +1,7 @@
 /*This object created by Balanon for Mance class*/
 
+package ConelBalanonMance;
+
 public class Main_BalanonKeyboard {
     public static void main(String[] args) {
 

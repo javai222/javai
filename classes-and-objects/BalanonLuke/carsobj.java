@@ -1,5 +1,7 @@
 // This object is created by De Leon and class by Balanon
 
+package BalanonLuke;
+
 public class carsobj {
     public static void main(String[] args) {
 
@@ -7,10 +9,10 @@ public class carsobj {
         Cars car1 = new Cars();
 
         // Object using the parameterized constructor
-        Cars car2 = new Cars("Toyota", "Corolla", 1500000, 0);
+        Cars car2 = new Cars("Toyota", "Corolla", 1500000);
 
         // Object using the overloaded constructor (brand only)
-        Cars car3 = new Cars("Honda", null, 0, 0);
+        Cars car3 = new Cars("Honda");
 
         // Display car details
         car1.displayCar();
@@ -23,9 +25,9 @@ public class carsobj {
         System.out.println();
 
         // Update price of a car
-        car3.setCarPrice(1200000);
+        car3.setPrice(1200000);
 
         // Print total number of cars created
-        Cars.displayTotalCars();
+        Cars.printTotalCars();
     }
 }

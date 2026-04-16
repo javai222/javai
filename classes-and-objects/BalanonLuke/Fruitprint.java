@@ -1,5 +1,7 @@
 //Object created by Balanon, Class created by De Leon
 
+package BalanonLuke;
+
 public class Fruitprint {
 
     public static void main(String[] args) {

@@ -1,4 +1,6 @@
 // this object is created by Conel and Class created by Mance
+package ConelMance;
+
 public class KeyboardOBJ {
     public static void main(String[] args) {
 
@@ -9,7 +11,7 @@ public class KeyboardOBJ {
         System.out.println();
 
         // Object using constructor with 3 parameters
-        Keyboard k2 = new Keyboard("Razer", "Black", "Mechanical", 0);
+        Keyboard k2 = new Keyboard("Razer", "Black", "Mechanical");
         k2.displayItems();
 
         System.out.println();
