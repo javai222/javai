@@ -22,7 +22,7 @@
 
 **\<03/31/2026\>** : I learned that composition focuses on object relationships and flexibility, and next time I will use it more since it is easier to modify and better design.
 
-
+**\<04/15/2026\>** : I learned that abstraction helps organize code and make it easier to reuse, also learned how dynamic binding works when using different objects, and next time I will practice more so I can understand it quickly.
 
 ## Peer Feedback
 **\<03/11/2026\>** Comment by: **<Dolormente, Henry II, S.>** You did well on creating the class and the object, you also did good on collaborating with me! You can improve more by familarizing yourself with github.
@@ -40,20 +40,27 @@
 
 | Date | PR # | Title | Status | Comment | Points |
 |------|------|-------|--------|---------|--------|
-| April 7, 2026 at 9:08:20 AM | #569 | Update Kenneth_Saan.md | ✅ APPROVED | "Approved" | 2 |
-| April 2, 2026 at 9:51:25 AM | #539 | Update Johnroque_Mance | ✅ APPROVED | "Good and helpful feedback" | 2 |
-| March 31, 2026 at 10:02:18 AM | #538 | Update Nelson_Cantela.md | ✅ APPROVED | "It is good and helpful feedback." | 2 |
-| March 31, 2026 at 10:55:17 AM | #543 | Update CharlesJustin_Javier.md | ✅ APPROVED | "good reflection" | 2 |
-| March 31, 2026 at 9:53:17 AM | #540 | Created Composed Class and Demo Class | ✅ APPROVED | "nice and simple composed and demo class" | 2 |
-| March 27, 2026 at 12:25:05 PM | #496 | Heart | ✅ APPROVED | "Nice class, it is easy to read and organized" | 2 |
-| March 24, 2026 at 10:50:11 AM | #456 | Cantela composition 1 | ✅ APPROVED | "Very Good! It includes good validation to prevent invalid attribute values." | 2 |
-| March 24, 2026 at 9:29:31 AM | #450 | Created Libag class | ✅ APPROVED | (no comment) | 1 |
-| March 24, 2026 at 9:11:20 AM | #448 | Inheritance Saan | ✅ APPROVED | "Very Good! Approved" | 2 |
-| March 23, 2026 at 10:12:53 PM | #444 | Fixed the date for Inheritance learning entry | ✅ APPROVED | (no comment) | 1 |
-| March 23, 2026 at 10:12:34 PM | #443 | Add peer feedback comment from De Leon | ✅ APPROVED | (no comment) | 1 |
-| March 23, 2026 at 10:12:15 PM | #442 | Add feedback comment from De Leon, Lord Ulrick A. | ✅ APPROVED | (no comment) | 1 |
-| March 23, 2026 at 9:55:41 PM | #441 | Add peer feedback comments for code improvements | ✅ APPROVED | (no comment) | 1 |
-| March 23, 2026 at 9:53:33 PM | #439 | Update Vinz_Silva.md with personal learning reflection | ✅ APPROVED | (no comment) | 1 |
-| March 23, 2026 at 9:54:52 PM | #438 | Update journal entries | ✅ APPROVED | (no comment) | 1 |
-| March 23, 2026 at 9:54:26 PM | #437 | peer feedback for tismo | ✅ APPROVED | (no comment) | 1 |
+| April 16, 2026 at 11:34:24 AM | #611 | Abstraction and polymorphism | APPROVED | "Approved" | 2 |
+| April 16, 2026 at 11:35:22 AM | #610 | Calculator files APPROVE PLS ;) | APPROVED | "Approved" | 2 |
+| April 16, 2026 at 11:33:42 AM | #612 | AbstractionANDPolymorphism_Mance | APPROVED | "Approved" | 2 |
+| April 10, 2026 at 10:48:24 AM | #594 | Peer feedback comment on Tismo | APPROVED | "Good and helpful feedback!" | 2 |
+| April 10, 2026 at 10:47:37 AM | #593 | Peer feedback comment on Casapao | APPROVED | "Good and helpful feedback!" | 2 |
+| April 9, 2026 at 8:01:01 AM | #582 | Update Vinz_Silva.md | APPROVED | "It is good and helpful feedback" | 2 |
+| April 7, 2026 at 9:08:20 AM | #569 | Update Kenneth_Saan.md | APPROVED | "Approved" | 2 |
+| April 2, 2026 at 9:51:25 AM | #539 | Update Johnroque_Mance | APPROVED | "Good and helpful feedback" | 2 |
+| March 31, 2026 at 10:02:18 AM | #538 | Update Nelson_Cantela.md | APPROVED | "It is good and helpful feedback." | 2 |
+| March 31, 2026 at 10:55:17 AM | #543 | Update CharlesJustin_Javier.md | APPROVED | "good reflection" | 2 |
+| March 31, 2026 at 9:53:17 AM | #540 | Created Composed Class and Demo Class | APPROVED | "nice and simple composed and demo class" | 2 |
+| March 27, 2026 at 12:25:05 PM | #496 | Heart | APPROVED | "Nice class, it is easy to read and organized" | 2 |
+| March 24, 2026 at 10:50:11 AM | #456 | Cantela composition 1 | APPROVED | "Very Good! It includes good validation to prevent invalid attribute values." | 2 |
+| March 24, 2026 at 9:29:31 AM | #450 | Created Libag class | APPROVED | (no comment) | 1 |
+| March 24, 2026 at 9:11:20 AM | #448 | Inheritance Saan | APPROVED | "Very Good! Approved" | 2 |
+| March 23, 2026 at 10:12:53 PM | #444 | Fixed the date for Inheritance learning entry | APPROVED | (no comment) | 1 |
+| March 23, 2026 at 10:12:34 PM | #443 | Add peer feedback comment from De Leon | APPROVED | (no comment) | 1 |
+| March 23, 2026 at 10:12:15 PM | #442 | Add feedback comment from De Leon, Lord Ulrick A. | APPROVED | (no comment) | 1 |
+| March 23, 2026 at 9:55:41 PM | #441 | Add peer feedback comments for code improvements | APPROVED | (no comment) | 1 |
+| March 23, 2026 at 9:53:33 PM | #439 | Update Vinz_Silva.md with personal learning reflection | APPROVED | (no comment) | 1 |
+| March 23, 2026 at 9:54:52 PM | #438 | Update journal entries | APPROVED | (no comment) | 1 |
+| March 23, 2026 at 9:54:26 PM | #437 | peer feedback for tismo | APPROVED | (no comment) | 1 |
 
+**Total Points: 36**
