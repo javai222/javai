@@ -21,11 +21,12 @@ How does your design achieve high cohesion?
 */
 
 package demo;
-import Implementation.Iphone;
-import Implementation.AndroidPhone;
 import abstraction.Cellphone;
 import interfacePkg.UpdateOS;
 import java.util.Scanner;
+
+import Implementation1.AndroidPhone;
+import Implementation1.Iphone;
 
 
 public class AbstractionPolyDemo_Cantela {

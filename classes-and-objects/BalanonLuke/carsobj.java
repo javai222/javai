@@ -7,10 +7,10 @@ public class carsobj {
         Cars car1 = new Cars();
 
         // Object using the parameterized constructor
-        Cars car2 = new Cars("Toyota", "Corolla", 1500000);
+        Cars car2 = new Cars("Toyota", "Corolla", 1500000, 0);
 
         // Object using the overloaded constructor (brand only)
-        Cars car3 = new Cars("Honda");
+        Cars car3 = new Cars("Honda", null, 0, 0);
 
         // Display car details
         car1.displayCar();
@@ -23,9 +23,9 @@ public class carsobj {
         System.out.println();
 
         // Update price of a car
-        car3.setPrice(1200000);
+        car3.setCarPrice(1200000);
 
         // Print total number of cars created
-        Cars.printTotalCars();
+        Cars.displayTotalCars();
     }
 }

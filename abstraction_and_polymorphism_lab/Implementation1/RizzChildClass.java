@@ -3,7 +3,7 @@
 *This class provides the child class of Rizz
 */
 
-package subclass;
+package Implementation1;
 
 import abstraction.Rizz;
 import interfacePkg.Sigma;

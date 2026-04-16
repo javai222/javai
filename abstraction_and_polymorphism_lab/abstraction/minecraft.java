@@ -7,14 +7,22 @@ package abstraction;
 public abstract class minecraft {
     private String player;
     private String block;
+    private int health;
+    private int hunger;
 
-    public minecraft(String player, String block) {
+    public minecraft(String player, String block, int health, int hunger) {
         setPlayer(player);
         setBlock(block);
+        setHealth(health);
+        setHunger(hunger);
     }
 
     // ABSTRACT METHOD 
     public abstract void performAction();
+    public abstract void healthStatus();
+    public abstract void hungerStatus();
+    public abstract void destroy(String string);
+    public abstract void build(String string);
 
     // CONCRETE METHOD 
     public void displayInfo() {
@@ -29,6 +37,14 @@ public abstract class minecraft {
 
     public String getBlock() {
         return block;
+    }
+
+    public int getHealth() {
+        return health;
+    }
+
+    public int getHunger() {
+        return hunger;
     }
 
     // Setters with validation
@@ -49,4 +65,33 @@ public abstract class minecraft {
             this.block = block;
         }
     }
+
+    public void setHealth(int health) {
+        if(health < 1 || health > 5) {
+            System.out.println("Low health detected.");
+            this.health = health;
+        } else if(health > 5 && health <= 10) {
+            this.health = health;
+        }
+        else { 
+            System.out.println("High health detected.");
+            this.health = health;
+        }
+        }
+
+    public void setHunger(int hunger) {
+        if(hunger < 1 || hunger > 5) {
+            System.out.println("Need to eat soon.");
+            this.hunger = hunger;
+     }  else if(hunger > 5 && hunger <= 10) {
+            this.hunger = hunger; 
+            System.out.println("Hunger level is moderate."); }
+        else {
+            System.out.println("Stomach is full");
+            this.hunger = hunger;
+        }
 }
+
+  
+}
+   

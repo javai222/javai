@@ -6,8 +6,8 @@
 package demo;
 import abstraction.Glass;
 import interfacePkg.Breakable;
-import implementation.DrinkingGlass;
-import implementation.PhoneGlass;
+import Implementation1.DrinkingGlass;
+import Implementation1.PhoneGlass;
 
 public class AbstractionPolyDemo_Silva {
     public static void main(String[] args) {

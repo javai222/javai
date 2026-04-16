@@ -9,7 +9,7 @@ public class KeyboardOBJ {
         System.out.println();
 
         // Object using constructor with 3 parameters
-        Keyboard k2 = new Keyboard("Razer", "Black", "Mechanical");
+        Keyboard k2 = new Keyboard("Razer", "Black", "Mechanical", 0);
         k2.displayItems();
 
         System.out.println();
