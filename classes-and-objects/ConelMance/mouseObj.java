@@ -1,5 +1,5 @@
 // this object is created by Mance and class created by Conel
-package ConelMance;
+
 
 public class mouseObj {
     public static void main(String[] args) {

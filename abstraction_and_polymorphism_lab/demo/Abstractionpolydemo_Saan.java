@@ -29,12 +29,16 @@ public class Abstractionpolydemo_Saan {
         int hungerPoints = in.nextInt();
         in.nextLine();
 
+        // ABSTRACTION: Use abstract class type minecraft as reference
         minecraft character;
+        // POLYMORPHISM & DYNAMIC BINDING: Assign Steve or Alex at runtime
         switch (characterOption) {
             case 1:
+                // Actual type is Steve
                 character = new Steve(playerName, blockType, healthPoints, hungerPoints);
                 break;
             case 2:
+                // Actual type is Alex
                 character = new Alex(playerName, blockType, healthPoints, hungerPoints);
                 break;
             default:
@@ -60,25 +64,31 @@ public class Abstractionpolydemo_Saan {
 
             switch (option) {
                 case 1:
+                    // DYNAMIC BINDING: Calls correct overridden method at runtime
                     character.displayInfo();
                     break;
                 case 2:
+                    // Method overridden differently in Steve vs Alex
                     character.healthStatus();
                     break;
                 case 3:
+                    // Method overridden differently in Steve vs Alex
                     character.hungerStatus();
                     break;
                 case 4:
+                    // OVERRIDING: Both Steve and Alex override this abstract method
                     character.performAction();
                     break;
                 case 5:
                     System.out.print("Enter the type of block to build: ");
                     String buildBlock = in.nextLine();
+                    // OVERLOADING: build() with 1 parameter
                     character.build(buildBlock);
                     break;
                 case 6:
                     System.out.print("Enter the type of block to build: ");
                     String structureBlock = in.nextLine();
+                    // OVERLOADING: build() with 2 parameters (overloaded version)
                     if (character instanceof Steve) {
                         ((Steve) character).build(structureBlock, "house");
                     } else if (character instanceof Alex) {
@@ -88,6 +98,7 @@ public class Abstractionpolydemo_Saan {
                 case 7:
                     System.out.print("Enter the type of block to destroy: ");
                     String destroyBlock = in.nextLine();
+                    // DYNAMIC BINDING: Calls Steve's or Alex's destroy() implementation
                     character.destroy(destroyBlock);
                     break;
                 case 0:
@@ -97,9 +108,6 @@ public class Abstractionpolydemo_Saan {
                     System.out.println("Invalid option. Please try again.");
             }
         }
-
-        System.out.println("Exiting demo. Goodbye!");
-        in.close();
     }
 }
     
