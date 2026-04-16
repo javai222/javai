@@ -27,6 +27,8 @@
 
 **\<03/31/2026\>** : I learned about the UML different relationship types and diagrams, and I will dig deeper in this lesson to get it much more.
 
+**\<04/16/2026\>** : I learned how to handle exceptions and how to create my custom exceptions, and I will integrate this knowledge more in my projects.
+
 ---
 ## Peer Feedback
 
@@ -148,3 +150,9 @@ Request change on Balanon's (Abstraction and interface class) pr: 2 pts - #563
 **<4/14/26>**
 
 commented and approved on Silva's (Abstract activity files) pr: 2 pts - #606
+
+**<4/16/26>**
+
+commented and approved on Plantilla's (implementation and demo class) pr: 2 pts - #609
+
+commented and approved on De Leon's (Abstract Class and Interface) pr: 2 pts - #608
