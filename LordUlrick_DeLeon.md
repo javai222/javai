@@ -25,6 +25,8 @@
 
 **\<03/29/2026\>** : I learned more about Composition and composed classes in our lab and to improve, next time I will try harder to understand its concept and practice it.
 
+**\<04/16/2026\>** : I learned more about Abstraction and Polymorphism in our lab and to improve, next time I will study more to create and understand better code.
+
 ---
 
 ## 👥 Peer feedback
@@ -48,7 +50,7 @@ Total = **2 points**
 
 Commented and approved Tismo's Journal Entry about Learning Inheritance pull request: **2 points** - #446
 
-Commented and approved Tismo's Teammate Feedback pull request: **2 points** - #446
+Commented and approved Tismo's Teammate Feedback pull request: **2 points** - #447
 
 Total = **4 points**
 ##
@@ -56,6 +58,13 @@ Total = **4 points**
 **<03/24/2026>**
 
 Commented and approved Dolormente's Composition HDLotion Component Class pull request: **2 points** - #460
+
+Total = **2 points**
+## 
+
+**<04/06/2026>**
+
+Commented and approved Saan's Update Kenneth_Saan.md pull request: **2 points** - #565
 
 Total = **2 points**
 ## 
