@@ -24,7 +24,7 @@ package demo;
 import Implementation.Iphone;
 import Implementation.AndroidPhone;
 import abstraction.Cellphone;
-import interfacePkg.UpdateOS;
+import interfacePkg.Updatable;
 import java.util.Scanner;
 
 
@@ -66,7 +66,7 @@ public class AbstractionPolyDemo_Cantela {
             cellphone.chargeCellphone();
             cellphone.displayCellphoneInfo();
 
-            UpdateOS os = new Iphone("Iphone", model, color, version);
+            Updatable os = new Iphone("Iphone", model, color, version);
             System.out.println();
             os.outdated();
             os.updatePhone();
@@ -105,7 +105,7 @@ public class AbstractionPolyDemo_Cantela {
             cellphone.chargeCellphone();
             cellphone.displayCellphoneInfo();
 
-            UpdateOS os = new AndroidPhone("Android", model, color, version);
+            Updatable os = new AndroidPhone("Android", model, color, version);
             System.out.println();
             os.outdated();
             os.updatePhone();
