@@ -10,8 +10,10 @@ import exceptions.DivisionByZeroException;
 import exceptions.InvalidInputException;
 import exceptions.NegativeNumberException;
 
+// Calculator class inherits abstract methods from OperatorAbs
 public class Calculator extends OperatorAbs {
 
+  // For Addition
   @Override
   public int add(int a, int b) {
     return a + b;
@@ -21,7 +23,7 @@ public class Calculator extends OperatorAbs {
   public double add(double a, double b) {
     return a + b;
   }
-
+  // For Subtraction
   @Override
   public int subtract(int a, int b) {
     return a - b;
@@ -31,7 +33,7 @@ public class Calculator extends OperatorAbs {
   public double subtract(double a, double b) {
     return a - b;
   }  
-
+  // For Multiplication
   @Override
   public int multiply(int a, int b) {
     return a * b;
@@ -41,19 +43,19 @@ public class Calculator extends OperatorAbs {
   public double multiply(double a, double b) {
     return a * b;
   }  
-
+  // For divison by Zero
   @Override
   public double division(int a, int b) throwsInvalidException {
     if (b == 0)
         throw new InvalidException("Error: Division by 0 is not possible.");
     return (double) a / b;
   }
-
+  // Checking if the value is a negative number
   public void checkNegative(double value) {
     if (value < 0) 
         throw new NegativeNumberException("Error: Negative values are not allowed.");
   }
-
+  // Converts string input to double
   public double getValidNumber(String input) throws InvalidInputException {
     try {
         return Double.parseDouble(input);
