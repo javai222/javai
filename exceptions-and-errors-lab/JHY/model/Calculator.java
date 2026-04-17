@@ -1,7 +1,7 @@
 /* 
-* Created by Dolormente, Henry II, S.
+* Created by Casapao, Jasmin Ann M. | Dolormente, Henry II S. | Tismo, Yvette Germaine E.
+* Calculator class -
 * 
-*
 */
 
 package models;
