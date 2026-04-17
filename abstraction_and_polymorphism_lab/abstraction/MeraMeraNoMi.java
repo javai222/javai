@@ -7,22 +7,22 @@ import interfacePkg.Attack;
 
 public class MeraMeraNoMi extends Devilfruit_Saan implements Attack {
 
-    MeraMeraNoMi() {
+    public MeraMeraNoMi() {
         super("Mera Mera no Mi", "Logia", "Legendary", 5);
     }
 
     @Override
-    String getDescription() {
+    public String getDescription() {
         return "Allows the user to create and control fire.";
     }
 
     @Override
-    String useAbility(String target) {
+    public String useAbility(String target) {
         return "Burning flames engulf " + target + "!";
     }
 
     @Override
-    String getWeakness() {
+    public String getWeakness() {
         return "Weak against water and stronger elements.";
     }
 
