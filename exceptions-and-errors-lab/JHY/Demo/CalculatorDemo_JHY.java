@@ -1,13 +1,18 @@
 /* 
 * Created by Casapao, Jasmin Ann M. | Dolormente, Henry II S. | Tismo, Yvette Germaine E.
-* 
-* 
+
 * What exceptions did you create?
+    - DivisionByZeroException, InvalidInputException, and NegativeNumberException
 * Which are checked vs unchecked?
+    - DivisionByZeroException and NegativeNumberException are unchecked exceptions, while InvalidInputException is a checked exception
 * Where are exceptions thrown?
+    -
 * Where are they handled?
+    -
 * Where does propagation occur?
+    -
 * How did you apply OOP concepts?
+    - Abstraction through the use of abstract class, Encapsulation through the use of access modifiers, Inheritance through ----- , and Polymorphism through ----
 */
 
 package Demo;
