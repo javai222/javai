@@ -1,3 +1,7 @@
+/*This is created by Balanon, Ryan James M.
+*Created with the help of AI.
+*/
+
 package demo;
 
 import Implementation.OnlineReceipt;
