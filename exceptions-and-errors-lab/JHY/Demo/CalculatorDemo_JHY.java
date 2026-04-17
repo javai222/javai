@@ -1,3 +1,7 @@
+/* 
+* Created by Casapao, Jasmin Ann M. | Dolormente, Henry II S. | Tismo, Yvette Germaine E.
+*/
+
 package Demo;
 
 import exceptions.DivisionByZeroException;
@@ -7,7 +11,7 @@ import model.Calculator;
 
 public class CalculatorDemo_JHY {
     public static void main (String [] args){
-        Calculator cal = new Calculator();
+        Calculator cal = new Calculator();// initialization of calculator
 
         System.out.println("=== CALCULATOR DEMO ===\n");
         // adding valid inputs
@@ -16,13 +20,61 @@ public class CalculatorDemo_JHY {
             double num2 = cal.getValidNumber ("67");
 
             double result = cal.add(num1,num2);
-            System.out.println("Addition Result: " + result);
+            System.out.println("Sum: " + result);
             
         } catch (InvalidInputException invinp) {
             System.out.println("Checked Exception: " + invinp.getMessage());
             
         } finally {
             System.out.println("Addition operation attempted.");
+        }
+
+        // subtracting valid inputs
+        try {
+            double num1 = cal.getValidNumber ("6.8");
+            double num2 = cal.getValidNumber ("2.5");
+
+            double result = cal.subtract(num1,num2);
+            System.out.println("Difference: " + result);
+            
+        } catch (InvalidInputException invinp) {
+            System.out.println("Checked Exception: " + invinp.getMessage());
+            
+        } finally {
+            System.out.println("Subtraction operation attempted.");
+        }
+
+        // multiplying valid inputs
+        try {
+            double num1 = cal.getValidNumber ("11");
+            double num2 = cal.getValidNumber ("2");
+
+            double result = cal.multiply(num1,num2);
+            System.out.println("Product: " + result);
+            
+        } catch (InvalidInputException invinp) {
+            System.out.println("Checked Exception: " + invinp.getMessage());
+            
+        } finally {
+            System.out.println("Multiplication operation attempted.");
+        }
+
+        System.out.println();
+        // dividing valid inputs
+        try {
+            double num1 = cal.getValidNumber("25");
+            double num2 = cal.getValidNumber("10");
+
+            double result = cal.divide(num1, num2); // triggers exception
+            System.out.println("Quotient: " + result);
+
+        } catch (DivisionByZeroException divzero) {
+            System.out.println("Unchecked Exception: " + divzero.getMessage());
+        } catch (InvalidInputException invinp) {
+            System.out.println("Checked Exception: " + invinp.getMessage());
+        }    
+        finally {
+            System.out.println("Division operation attempted.");
         }
 
         System.out.println();
@@ -50,16 +102,16 @@ public class CalculatorDemo_JHY {
         System.out.println();
         // testing division by 0
         try {
-            double num1 = calc.getValidNumber("10");
-            double num2 = calc.getValidNumber("0");
+            double num1 = cal.getValidNumber("10");
+            double num2 = cal.getValidNumber("0");
 
-            double result = calc.divide(num1, num2); // triggers exception
-            System.out.println("Division Result: " + result);
+            double result = cal.divide(num1, num2); // triggers exception
+            System.out.println("Quotient: " + result);
 
-        } catch (DivisionByZeroException e) {
-            System.out.println("Unchecked Exception: " + e.getMessage());
-        } catch (InvalidInputException e) {
-            System.out.println("Checked Exception: " + e.getMessage());
+        } catch (DivisionByZeroException divzero) {
+            System.out.println("Unchecked Exception: " + divzero.getMessage());
+        } catch (InvalidInputException invinp) {
+            System.out.println("Checked Exception: " + invinp.getMessage());
         }    
         finally {
             System.out.println("Division operation attempted.");
