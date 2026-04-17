@@ -45,13 +45,11 @@ public class Calculator {
     return (double) a / b;
   }
 
-  @Override
   public void checkNegative(double value) {
     if (value < 0) 
         throw new NegativeNumberException("Error: Negative values are not allowed.");
   }
 
-  @Override
   public double getValidNumber(String input) throws InvalidInputException {
     try {
         return Double.parseDouble(input);
