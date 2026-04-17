@@ -42,3 +42,23 @@
 *\<03/28/2026\>* : Comment by: <Casapao, Jasmin Ann M.>; You did well in creating composition class and you can improve by doing advance reading on the topics and learning more about github and coding.
 
 *\<04/07/2026\>* : Comment by: <Javier, Charles justin D.>; You did well in making your abstract class and interface and you can improve by making a less complicated class next time.
+
+➕ Plus Points
+
+| Date       | Activity Type   |         Title         |                | Score |
+| 04/17/2026 | PR Approval | Abstraction Peer feedback                  |   1   |
+| 04/17/2026 | PR Approval | Abspoly conel                              |   1   |
+| 04/16/2026 | PR Approval | AbstractionANDPolymorphism_Mance           |   1   |
+| 04/16/2026 | PR Approval | Abstraction and polymorphism               |   1   |
+| 04/16/2026 | PR Approval | Calculator files APPROVE PLS ;)            |   1   |
+| 04/14/2026 | PR Approval | Added implementation and demo class        |   1   |
+| 04/10/2026 | PR Approval | abstraction and polymorphism               |   1   |     
+| 04/10/2026 | PR Approval | Update on personal md file.                |   1   |
+| 04/10/2026 | PR Approval | Peer feedback comment on Tismo             |   1   |
+| 04/10/2026 | PR Approval | Peer feedback comment on Casapao           |   1   |
+| 04/04/2026 | PR Approval | Added abstract and interface class         |   1   | 
+| 03/28/2026 | PR Approval | Created Subclass and Democlass             |   1   | 
+| 03/27/2026 | PR Approval | Create HDLotion.java                       |   1   | 
+| 03/20/2026 | PR Approval | Created Chocolate parent class             |   1   | 
+| 03/14/2026 | PR Approval | Main_Conel                                 |   1   | 
+
