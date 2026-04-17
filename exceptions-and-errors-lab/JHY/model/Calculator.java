@@ -1,7 +1,7 @@
 /* 
 * Created by Casapao, Jasmin Ann M. | Dolormente, Henry II S. | Tismo, Yvette Germaine E.
 * Calculator class -
-* 
+* Throws custom exceptions for invalid input, division by zero, negative numbers
 */
 
 package models;
