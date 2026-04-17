@@ -38,6 +38,9 @@ public class Calculator {
     return (double) a / b;
   }
 
+  public void checkNegative(double value) {
+    if (value < 0) 
+        throw new NegativeNumberException("Error: Negative values are not allowed.");
   }
 
 }
