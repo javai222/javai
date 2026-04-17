@@ -17,7 +17,7 @@ public class Calculator {
   }
 
   public int subtract(int a, int b) {
-    return a + b;
+    return a - b;
   }
 
   public double subtract(double a, double b) {
@@ -41,6 +41,14 @@ public class Calculator {
   public void checkNegative(double value) {
     if (value < 0) 
         throw new NegativeNumberException("Error: Negative values are not allowed.");
+  }
+
+  public double getValidNumber(String input) throws InvalidInputException {
+    try {
+        return Double.parseDouble(input);
+    } catch (NumberFormatException inv) {
+        throw new InvalidInputException("Invalid input! Only numbers are allowed.");
+    }
   }
 
 }
