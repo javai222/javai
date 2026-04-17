@@ -37,17 +37,29 @@ public class animal {
     }
 
     //Setters
-    public void setName(String name) {
+public void setName(String name) {
+    if (name != null && !name.trim().isEmpty()) {
         this.name = name;
+    } else {
+        System.out.println("Invalid name. It cannot be empty.");
     }
+}
 
-    public void setClassification(String classification) {
+public void setClassification(String classification) {
+    if (classification != null && !classification.trim().isEmpty()) {
         this.classification = classification;
+    } else {
+        System.out.println("Invalid classification.");
     }
+}
 
-    public void setType(String type) {
+public void setType(String type) {
+    if (type != null && !type.trim().isEmpty()) {
         this.type = type;
+    } else {
+        System.out.println("Invalid type.");
     }
+}
 
     // Method that shows the animal playing
     public void play() {
