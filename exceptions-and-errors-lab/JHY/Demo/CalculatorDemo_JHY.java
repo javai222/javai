@@ -1,5 +1,13 @@
 /* 
 * Created by Casapao, Jasmin Ann M. | Dolormente, Henry II S. | Tismo, Yvette Germaine E.
+* 
+* 
+* What exceptions did you create?
+* Which are checked vs unchecked?
+* Where are exceptions thrown?
+* Where are they handled?
+* Where does propagation occur?
+* How did you apply OOP concepts?
 */
 
 package Demo;
