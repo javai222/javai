@@ -1,6 +1,6 @@
 // This subclass was created by De Leon, Lord Ulrick A.
 
-package implementation;
+package Implementation1;
 
 import abstraction.Receipt;
 import interfacePkg.Printable;
