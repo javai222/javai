@@ -45,9 +45,9 @@ public class Calculator extends OperatorAbs {
   }  
   // For divison by Zero
   @Override
-  public double division(int a, int b) throwsInvalidException {
+  public double division(int a, int b) throws DivisionByZeroException {
     if (b == 0)
-        throw new InvalidException("Error: Division by 0 is not possible.");
+        throw new InvalidException("Division by 0 is not possible.");
     return (double) a / b;
   }
   // Checking if the value is a negative number
