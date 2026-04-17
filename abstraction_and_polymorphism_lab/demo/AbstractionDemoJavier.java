@@ -1,5 +1,5 @@
 package demo;
-import subclass.RizzChildClass;
+import Implementation1.RizzChildClass;
 
 public class AbstractionDemoJavier {
     public static void main(String[] args) {

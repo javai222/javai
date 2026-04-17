@@ -1,3 +1,5 @@
+package ConelMance;
+
 public class mouse {
 
 String brand;

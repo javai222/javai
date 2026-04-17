@@ -4,7 +4,7 @@
  * Created by Jophel Mark Plantilla
  */
 
-package encapsulation.and.access.modifiers.lab;
+
 
 public class Items {
     

@@ -3,6 +3,8 @@
 * Created by Lord Ulrick A. De Leon
 */
 
+package BalanonLuke;
+
 public class Fruit {
 
     // Attributes

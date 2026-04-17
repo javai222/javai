@@ -1,6 +1,6 @@
 /*This object created by Balanon for Mance class*/
 
-package encapsulation.and.access.modifiers.lab;
+package ConelBalanonMance;
 
 public class Main_BalanonKeyboard {
     public static void main(String[] args) {

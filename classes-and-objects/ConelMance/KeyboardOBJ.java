@@ -1,4 +1,6 @@
 // this object is created by Conel and Class created by Mance
+package ConelMance;
+
 public class KeyboardOBJ {
     public static void main(String[] args) {
 
