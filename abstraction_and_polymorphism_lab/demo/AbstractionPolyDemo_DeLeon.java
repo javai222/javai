@@ -4,8 +4,8 @@ package demo;
 
 import abstraction.Receipt;
 import interfacePkg.Printable;
-import implementation.StoreReceipt;
-import implementation.RestaurantReceipt;
+import Implementation1.StoreReceipt;
+import Implementation1.RestaurantReceipt;
 
 public class AbstractionPolyDemo_DeLeon {
 
