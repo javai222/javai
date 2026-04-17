@@ -1,4 +1,4 @@
-// This subclass was created by De Leon, Lord Ulrick A.
+// This subclass was created by De Leon, Lord Ulrick A. with the help of AI
 
 package Implementation1;
 
