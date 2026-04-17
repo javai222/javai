@@ -45,7 +45,7 @@ public class Calculator extends OperatorAbs {
   }  
   // For divison by Zero
   @Override
-  public double division(double a, double b) throws DivisionByZeroException {
+  public double divide(double a, double b) throws DivisionByZeroException {
     if (b == 0)
         throw new DivisionByZeroException("Division by 0 is not possible.");
     return (double) a / b;
