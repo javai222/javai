@@ -53,7 +53,7 @@ public class Calculator extends OperatorAbs {
   // Checking if the value is a negative number
   public void checkNegative(double value) {
     if (value < 0) 
-        throw new NegativeNumberException("Error: Negative values are not allowed.");
+        throw new NegativeNumberException("Negative values are not allowed.");
   }
   // Converts string input to double
   public double getValidNumber(String input) throws InvalidInputException {
