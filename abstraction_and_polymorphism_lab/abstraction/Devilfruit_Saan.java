@@ -66,12 +66,12 @@ void setUnlockLevel(int unlockLevel) {
 }
 
 // Abstract methods that each specific devil fruit class must implement.
-abstract String getDescription();
-abstract String useAbility(String target);
-abstract String getWeakness();
+public abstract String getDescription();
+public abstract String useAbility(String target);
+public abstract String getWeakness();
 
 // Displays all devil fruit information.
-void DisplayDevilfruitInfo() {
+public void DisplayDevilfruitInfo() {
     System.out.println("\nDEVILFRUIT INFORMATION");
     System.out.println("Name: " + name);
     System.out.println("Type: " + type);
