@@ -10,14 +10,14 @@ public abstract class AnimeChar {
     private int powerLevel;
 
     // default constructor
-    public AnimeCharacter() {
+    public AnimeChar() {
         this.name = "Unknown";
         this.anime = "Unknown";
         this.powerLevel = 0;
     }
 
     // parameterized constructor
-    public AnimeCharacter(String name, String anime, int powerLevel) {
+    public AnimeChar(String name, String anime, int powerLevel) {
         setName(name);
         setAnime(anime);
         setPowerLevel(powerLevel);
