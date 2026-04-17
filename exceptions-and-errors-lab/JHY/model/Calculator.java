@@ -6,6 +6,10 @@
 
 package models;
 
+import exceptions.DivisionByZeroException;
+import exceptions.InvalidInputException;
+import exceptions.NegativeNumberException;
+
 public class Calculator extends OperatorAbs {
 
   @Override
