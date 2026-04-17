@@ -64,15 +64,4 @@ public int getCash() {
     return this.cash;
 }
 
-
-
-
-
-
-
-
-
-
-
-
 }

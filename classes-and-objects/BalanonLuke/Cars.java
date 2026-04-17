@@ -4,6 +4,8 @@
  * Created by Rj Balanon  
  */
 
+package BalanonLuke;
+
 public class Cars {
 
     // Attributes that describe a car

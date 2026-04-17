@@ -1,7 +1,7 @@
 /*
 *Subclass created by Tismo, Abstraction and Interface Class created by Casapao
 */
-package Implementation;
+package Implementation1;
 
 import abstraction.Leather;
 import interfacePkg.Wearable;

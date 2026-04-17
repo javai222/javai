@@ -6,8 +6,8 @@ package demo;
 
 import abstraction.Glass;
 import interfacePkg.Breakable;
-import implementation.WindowGlass;
-import implementation.GlassDoor;
+import Implementation1.WindowGlass;
+import Implementation1.GlassDoor;
 
 public class AbstractionPolyDemo_Casapao {
 

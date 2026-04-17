@@ -3,7 +3,7 @@
 *Created with the help of AI
 */
 
-package implementation;
+package Implementation1;
 
 import abstraction.Glass;
 import interfacePkg.Breakable;

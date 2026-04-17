@@ -3,8 +3,8 @@
 */
 package demo;
 
-import Implementation.LeatherJacket;
-import Implementation.LeatherBag;
+import Implementation1.LeatherBag;
+import Implementation1.LeatherJacket;
 
 public class AbstractionPolyDemo_Tismo {
     public static void main(String[] args) {

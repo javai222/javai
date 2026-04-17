@@ -1,7 +1,8 @@
 // This object is created by Conel and these classes are created by Balanon and Mance.
 
 
-package encapsulation.and.access.modifiers.lab;
+package ConelBalanonMance;
+
 
 public class Main_Conel {
 
