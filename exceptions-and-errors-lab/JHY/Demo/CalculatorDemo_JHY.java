@@ -28,7 +28,8 @@ public class CalculatorDemo_JHY {
         } finally {
             System.out.println("Addition operation attempted.");
         }
-
+        
+         System.out.println();
         // subtracting valid inputs
         try {
             double num1 = cal.getValidNumber ("6.8");
@@ -44,6 +45,7 @@ public class CalculatorDemo_JHY {
             System.out.println("Subtraction operation attempted.");
         }
 
+         System.out.println();
         // multiplying valid inputs
         try {
             double num1 = cal.getValidNumber ("11");
@@ -91,7 +93,7 @@ public class CalculatorDemo_JHY {
         //testing negative number (unchecked exception)
         try {
             double num = cal.getValidNumber("-5");
-            calc.checkNegative(num);
+            cal.checkNegative(num);
 
         } catch (NegativeNumberException negnum) {
             System.out.println("Unchecked Exception: " + negnum.getMessage());
