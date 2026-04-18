@@ -93,7 +93,7 @@ public class Calculator extends Operators {
         return a * factorial(a - 1);
     }
 
-    @Override
+    @Override   //Throws NegativeNumberException if input is negative
     protected double logarithm(double a) {
        if (a <= 0)
            throw new NegativeNumberException("Logarithm is only for positive numbers");
@@ -101,8 +101,8 @@ public class Calculator extends Operators {
         return Math.log(a);
     }
 
-    @Override
-    protected double sine(double a) {
+    @Override   //For sin and cosine no exceptions needed since they are defined for all real numbers
+    protected double sine(double a) {       
         return Math.sin(a);
     }
 
@@ -111,7 +111,7 @@ public class Calculator extends Operators {
         return Math.cos(a);
     }
 
-    @Override
+    @Override   //Throws UndefinedPointsException if cos(a) ≈ 0 (odd multiples of π/2 radians, e.g., 90°, 270°)
     protected double tangent(double a) {
         if (Math.abs(Math.cos(a)) < 1e-12)
             throw new UndefinedPointsException("Tangent is undefined when cos(a) = 0 (odd multiples of 90° or π/2).");
@@ -119,7 +119,7 @@ public class Calculator extends Operators {
         return Math.tan(a);
     }
 
-    //Overloaded methods for int paremeters
+    //Overloaded methods for int parameters - provide integer-specific operations
     protected double add (int a, int b) {
         return a + b;
     }
@@ -139,6 +139,7 @@ public class Calculator extends Operators {
         return (double) a / b;
     }
 
+        //Parses and executes unary operations, throws InvalidInputException for invalid format or operator
     public double unaryOperation (String input) throws InvalidInputException {
         String[] expression = input.trim().split("\\s+");                                                                                                                                   if (expression.length != 2)
             throw new InvalidInputException("Invalid expression format, please follow the said format");

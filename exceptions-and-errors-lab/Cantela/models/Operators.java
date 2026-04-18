@@ -18,5 +18,5 @@ public abstract class Operators {
     protected abstract double logarithm (double a); // log(a), can throw NegativeNumberException
     protected abstract double sine (double a); // sin(a)
     protected abstract double cosine (double a); // cos(a)
-    protected abstract double tangent (double a); // tan(a), can throw UndefinedTangentException
+    protected abstract double tangent (double a); // tan(a), can throw UndefinedPointsException
 }

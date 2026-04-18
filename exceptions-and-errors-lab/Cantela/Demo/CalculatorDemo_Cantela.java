@@ -1,21 +1,20 @@
 /*Created by Cantela, Chris Nelson B.
 
 *What exceptions did you create?
-- I created 4 exceptions DivisionByZero, Factorial, InvalidInput, and NegativeNumberException
+- I created 5 exceptions: DivisionByZero, Factorial, InvalidInput, NegativeNumber, and UndefinedPointsException
 *Which are checked vs unchecked?
-- FactorialException, DivisionByZeroException,
-  and NegativeNumberException are all unchecked exception, and InvalidInputException
-  is a checked exception
+- FactorialException, DivisionByZeroException, NegativeNumberException, and UndefinedPointsException are all unchecked exceptions, and InvalidInputException is a checked exception
 *Where are exceptions thrown?
 - division(), modulo() → DivisionByZeroException when divisor is 0
 - squareRoot() → NegativeNumberException when input < 0
 - factorial() → NegativeNumberException (negative), FactorialException (>170 or non-integer)
 - parseExpression() → InvalidInputException when input cannot be parsed as double
 - operation(), factorialExpression(), squareRootExpression() → InvalidInputException for invalid format
+- tangent() → UndefinedPointsException when cos(a) ≈ 0 (odd multiples of π/2 radians)
 *Where are they handled?
 - All exceptions are handled in main() method with try-catch-finally block (lines 61-95)
 - InvalidInputException caught at line 76, DivisionByZeroException at 78, NegativeNumberException at 80
-- FactorialException at 82, generic Exception at 84, finally block at 86
+- FactorialException at 82, UndefinedPointsException at 84, generic Exception at 86, finally block at 88
 *Where does propagation occur?
 - Exceptions propagate: Calculator method → operation/factorialExpression/squareRootExpression → main try block
 - Caught by respective catch blocks in main, stopping propagation and displaying error message
@@ -77,7 +76,7 @@ public class CalculatorDemo_Cantela {
                     System.out.print("-> ");
                      input = in.nextLine();
 
-                     result = calculator.unaryOperation(input);
+                     result = calculator.unaryOperation(input); // Perform unary operation (sqrt, fact, sin, etc.)
                     System.out.printf("Result %.4f\n", result);
                     continue;
                 }
