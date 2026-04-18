@@ -3,20 +3,24 @@
 
 * What exceptions did you create?
     - We created 3 exceptions DivisionByZeroException, InvalidInputException, and NegativeNumberException
+    
 * Which are checked vs unchecked?
     - DivisionByZeroException and NegativeNumberException are unchecked exceptions, while InvalidInputException is a checked exception
+    
 * Where are exceptions thrown?
-    -
+    - 
+    
 * Where are they handled?
-    -
+    - Exceptions are handled in the CalculatorDemo_JHY.java (main class) using try catch blocks.
+    
 * Where does propagation occur?
-    -
+    - 
     
 * How did you apply OOP concepts?
     - Abstraction: through the use of abstract class that we named as OperatorsAbs.
     - Encapsulation: Usage of access modifiers 
     - Inheritance: The Calculator.java extends the abstract class OperatorsAbs.java
-    - Polymorphism: through 
+    - Polymorphism: We overloaded the methods by using int and double for add, subtract, multiplication, and division.
 */
 
 package Demo;
