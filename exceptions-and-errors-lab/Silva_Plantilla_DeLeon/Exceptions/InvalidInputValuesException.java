@@ -5,9 +5,9 @@ input an invalid number to use for operations*/
 public class InvalidInputException extends Exception {
 
     // Constructor without message
-    public InvalidInputException ()
+    public InvalidInputException () {
         super();
-
+    }
     // Constructor with message
     public InvalidInputException (String message){
         super (message);
