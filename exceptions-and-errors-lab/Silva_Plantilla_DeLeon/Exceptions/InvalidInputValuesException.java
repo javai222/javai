@@ -2,14 +2,14 @@ package Exceptions;
 
 /* This exception is checked, the system will throw an exception if the user
 input an invalid number to use for operations*/
-public class InvalidInputException extends Exception {
+public class InvalidInputValuesException extends Exception {
 
     // Constructor without message
-    public InvalidInputException () {
+    public InvalidInputValuesException () {
         super();
     }
     // Constructor with message
-    public InvalidInputException (String message){
+    public InvalidInputValuesException (String message){
         super (message);
     }
 }
