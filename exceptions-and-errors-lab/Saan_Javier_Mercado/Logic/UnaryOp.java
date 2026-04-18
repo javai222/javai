@@ -1,4 +1,7 @@
-public class UnaryOp extends function {
+package Logic;
+import Contract.unaryOp;
+
+public class UnaryOp extends unaryOp {
     
 
 
