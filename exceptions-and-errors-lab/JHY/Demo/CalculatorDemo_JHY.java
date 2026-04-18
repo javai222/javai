@@ -8,7 +8,7 @@
     - DivisionByZeroException and NegativeNumberException are unchecked exceptions, while InvalidInputException is a checked exception
     
 * Where are exceptions thrown?
-    - 
+    - Exceptions are thrown inside the calculator class methods.
     
 * Where are they handled?
     - Exceptions are handled in the CalculatorDemo_JHY.java (main class) using try catch blocks.
