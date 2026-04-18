@@ -2,7 +2,7 @@
 * Created by Casapao, Jasmin Ann M. | Dolormente, Henry II S. | Tismo, Yvette Germaine E.
 
 * What exceptions did you create?
-    - DivisionByZeroException, InvalidInputException, and NegativeNumberException
+    - We created 3 exceptions DivisionByZeroException, InvalidInputException, and NegativeNumberException
 * Which are checked vs unchecked?
     - DivisionByZeroException and NegativeNumberException are unchecked exceptions, while InvalidInputException is a checked exception
 * Where are exceptions thrown?
@@ -11,8 +11,12 @@
     -
 * Where does propagation occur?
     -
+    
 * How did you apply OOP concepts?
-    - Abstraction through the use of abstract class, Encapsulation through the use of access modifiers, Inheritance through ----- , and Polymorphism through ----
+    - Abstraction: through the use of abstract class that we named as OperatorsAbs.
+    - Encapsulation: Usage of access modifiers 
+    - Inheritance: The Calculator.java extends the abstract class OperatorsAbs.java
+    - Polymorphism: through 
 */
 
 package Demo;
@@ -24,10 +28,10 @@ import model.Calculator;
 
 public class CalculatorDemo_JHY {
     public static void main (String [] args){
-        Calculator cal = new Calculator();// initialization of calculator
+        Calculator cal = new Calculator();// Initialization of calculator
 
         System.out.println("=== CALCULATOR DEMO ===\n");
-        // adding valid inputs
+        // Adding valid inputs
         try {
             double num1 = cal.getValidNumber ("16");
             double num2 = cal.getValidNumber ("67");
@@ -43,7 +47,7 @@ public class CalculatorDemo_JHY {
         }
         
          System.out.println();
-        // subtracting valid inputs
+        // Subtracting valid inputs
         try {
             double num1 = cal.getValidNumber ("6.8");
             double num2 = cal.getValidNumber ("2.5");
@@ -75,12 +79,12 @@ public class CalculatorDemo_JHY {
         }
 
         System.out.println();
-        // dividing valid inputs
+        // Dividing valid inputs
         try {
             double num1 = cal.getValidNumber("25");
             double num2 = cal.getValidNumber("10");
 
-            double result = cal.divide(num1, num2); // triggers exception
+            double result = cal.divide(num1, num2);
             System.out.println("Quotient: " + result);
 
         } catch (DivisionByZeroException divzero) {
@@ -93,9 +97,9 @@ public class CalculatorDemo_JHY {
         }
 
         System.out.println();
-        // testing invalid input (checked exception)
+        // Testing invalid input (checked exception)
         try {
-            double num = cal.getValidNumber("abc"); // invalid
+            double num = cal.getValidNumber("abc"); // Invalid
             System.out.println("Parsed number: " + num);
 
         } catch (InvalidInputException invinp) {
