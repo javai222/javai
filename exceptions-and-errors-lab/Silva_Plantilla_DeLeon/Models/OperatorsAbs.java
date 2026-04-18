@@ -4,15 +4,19 @@ package Models;
 public abstract class OperatorsAbs {
 
 // abstract class for addition
-public abstract double add (int a, int b);
+protected abstract int add(int a, int b);
+protected abstract double add (double a, double b);
 
 // abstract class for subtraction
-public abstract double subtract (int a, int b);
+protected abstract int subtract(int a, int b);
+protected abstract double subtract (double a, double b);
 
 // abstract class for multiplication
-public abstract double multiply (int a, int b);
+protected abstract int multiply(int a, int b);
+protected abstract double multiply (double a, double b);
 
 // abstract class for division
-public abstract double divide (int a, int b);
+protected abstract int divide(int a, int b);
+protected abstract double divide (double a, double b);
 
 }
