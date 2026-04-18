@@ -1,6 +1,6 @@
 /* 
 * Created by Casapao, Jasmin Ann M. | Dolormente, Henry II S. | Tismo, Yvette Germaine E.
-* Calculator class -
+* Calculator class 
 * Throws custom exceptions for invalid input, division by zero, negative numbers
 */
 
@@ -15,37 +15,37 @@ public class Calculator extends OperatorAbs {
 
   // For Addition
   @Override
-  public int add(int a, int b) {
+  protected int add(int a, int b) {
     return a + b;
   }
 
   @Override
-  public double add(double a, double b) {
+  protected double add(double a, double b) {
     return a + b;
   }
   // For Subtraction
   @Override
-  public int subtract(int a, int b) {
+  protected int subtract(int a, int b) {
     return a - b;
   }
 
   @Override
-  public double subtract(double a, double b) {
+  protected double subtract(double a, double b) {
     return a - b;
   }  
   // For Multiplication
   @Override
-  public int multiply(int a, int b) {
+  protected int multiply(int a, int b) {
     return a * b;
   }
 
   @Override
-  public double multiply(double a, double b) {
+  protected double multiply(double a, double b) {
     return a * b;
   }  
   // For divison by Zero
   @Override
-  public double divide(double a, double b) throws DivisionByZeroException {
+  protected double divide(double a, double b) throws DivisionByZeroException {
     if (b == 0)
         throw new DivisionByZeroException("Division by 0 is not possible.");
     return (double) a / b;
