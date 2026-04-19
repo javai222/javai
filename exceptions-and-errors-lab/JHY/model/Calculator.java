@@ -15,37 +15,37 @@ public class Calculator extends OperatorAbs {
 
   // For Addition
   @Override
-  protected int add(int a, int b) {
+  public int add(int a, int b) {
     return a + b;
   }
 
   @Override
-  protected double add(double a, double b) {
+  public double add(double a, double b) {
     return a + b;
   }
   // For Subtraction
   @Override
-  protected int subtract(int a, int b) {
+  public int subtract(int a, int b) {
     return a - b;
   }
 
   @Override
-  protected double subtract(double a, double b) {
+  public double subtract(double a, double b) {
     return a - b;
   }  
   // For Multiplication
   @Override
-  protected int multiply(int a, int b) {
+  public int multiply(int a, int b) {
     return a * b;
   }
 
   @Override
-  protected double multiply(double a, double b) {
+  public double multiply(double a, double b) {
     return a * b;
   }  
   // For divison by Zero
   @Override
-  protected double divide(double a, double b) throws DivisionByZeroException {
+  public double divide(double a, double b) throws DivisionByZeroException {
     if (b == 0)
         throw new DivisionByZeroException("Division by 0 is not possible.");
     return (double) a / b;
