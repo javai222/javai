@@ -31,9 +31,9 @@
 
 package Demo;
 
-import exceptions.DivisionByZeroException;
-import exceptions.InvalidInputException;
-import exceptions.NegativeNumberException;
+import exceptions.DivisionByZeroExceptions;
+import exceptions.InvalidInputExceptions;
+import exceptions.NegativeNumberExceptions;
 import model.Calculator;
 
 public class CalculatorDemo_JHY {
@@ -49,7 +49,7 @@ public class CalculatorDemo_JHY {
             double result = cal.add(num1,num2);
             System.out.println("Sum: " + result);
             
-        } catch (InvalidInputException invinp) {
+        } catch (InvalidInputExceptions invinp) {
             System.out.println("Checked Exception: " + invinp.getMessage());
             
         } finally {
@@ -65,7 +65,7 @@ public class CalculatorDemo_JHY {
             double result = cal.subtract(num1,num2);
             System.out.println("Difference: " + result);
             
-        } catch (InvalidInputException invinp) {
+        } catch (InvalidInputExceptions invinp) {
             System.out.println("Checked Exception: " + invinp.getMessage());
             
         } finally {
@@ -81,7 +81,7 @@ public class CalculatorDemo_JHY {
             double result = cal.multiply(num1,num2);
             System.out.println("Product: " + result);
             
-        } catch (InvalidInputException invinp) {
+        } catch (InvalidInputExceptions invinp) {
             System.out.println("Checked Exception: " + invinp.getMessage());
             
         } finally {
@@ -97,9 +97,9 @@ public class CalculatorDemo_JHY {
             double result = cal.divide(num1, num2);
             System.out.println("Quotient: " + result);
 
-        } catch (DivisionByZeroException divzero) {
+        } catch (DivisionByZeroExceptions divzero) {
             System.out.println("Unchecked Exception: " + divzero.getMessage());
-        } catch (InvalidInputException invinp) {
+        } catch (InvalidInputExceptions invinp) {
             System.out.println("Checked Exception: " + invinp.getMessage());
         }    
         finally {
@@ -112,7 +112,7 @@ public class CalculatorDemo_JHY {
             double num = cal.getValidNumber("abc"); // Invalid
             System.out.println("Parsed number: " + num);
 
-        } catch (InvalidInputException invinp) {
+        } catch (InvalidInputExceptions invinp) {
             System.out.println("Checked Exception: " + invinp.getMessage());
         }
 
@@ -122,9 +122,9 @@ public class CalculatorDemo_JHY {
             double num = cal.getValidNumber("-5");
             cal.checkNegative(num);
 
-        } catch (NegativeNumberException negnum) {
+        } catch (NegativeNumberExceptions negnum) {
             System.out.println("Unchecked Exception: " + negnum.getMessage());
-        } catch (InvalidInputException invinp) {
+        } catch (InvalidInputExceptions invinp) {
             System.out.println("Checked Exception: " + invinp.getMessage());
         }
         
@@ -137,9 +137,9 @@ public class CalculatorDemo_JHY {
             double result = cal.divide(num1, num2); // triggers exception
             System.out.println("Quotient: " + result);
 
-        } catch (DivisionByZeroException divzero) {
+        } catch (DivisionByZeroExceptions divzero) {
             System.out.println("Unchecked Exception: " + divzero.getMessage());
-        } catch (InvalidInputException invinp) {
+        } catch (InvalidInputExceptions invinp) {
             System.out.println("Checked Exception: " + invinp.getMessage());
         }    
         finally {
