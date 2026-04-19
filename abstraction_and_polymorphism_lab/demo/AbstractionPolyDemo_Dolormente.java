@@ -4,6 +4,10 @@
 
 package demo;
 
+import abstraction.Lego;
+import abstraction.Rizz;
+import interfacePkg.LegoActions;
+import interfacePkg.Mogger;
 import Implementation1.CityLegoSet;
 import Implementation1.SigmaRizz;
 
