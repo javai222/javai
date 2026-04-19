@@ -4,7 +4,7 @@
 * Throws custom exceptions for invalid input, division by zero, negative numbers
 */
 
-package models;
+package model;
 
 import exceptions.DivisionByZeroException;
 import exceptions.InvalidInputException;
