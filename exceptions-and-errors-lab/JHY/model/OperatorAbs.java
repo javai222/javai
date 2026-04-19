@@ -1,7 +1,7 @@
 // created by Casapao, Dolormente, and Tismo
 package model;
 
-import exceptions.InvalidInputException;
+import exceptions.DivisionByZeroException;
 
 public abstract class OperatorAbs {
     // abstract method for addition
@@ -17,5 +17,5 @@ public abstract class OperatorAbs {
     protected abstract double multiply(double a, double b);
 
     // abstract method for division and to handle the invalid input
-    protected abstract double divide(double a, double b) throws InvalidInputException;
+    protected abstract double divide(double a, double b) throws DivisionByZeroException;
 }
