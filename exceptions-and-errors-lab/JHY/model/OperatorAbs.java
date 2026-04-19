@@ -15,5 +15,5 @@ public abstract class OperatorAbs {
     protected abstract double multiply(double a, double b);
 
     // abstract method for division and to handle the invalid input
-    protected abstract double divide(double a, double b) throws InvalInputException;
+    protected abstract double divide(double a, double b) throws InvalInputExceptions;
 }
