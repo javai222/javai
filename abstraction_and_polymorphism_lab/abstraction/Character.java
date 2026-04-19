@@ -1,5 +1,5 @@
 /*
- * Created by Henry Dolormente II
+ * Abstraction class created by Dolormente, Henry II S.
  * This class provides a template for different character types and roles
  */
 
