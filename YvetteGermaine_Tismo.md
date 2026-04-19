@@ -39,6 +39,8 @@
 
 **\<03/23/2026\>** : Comment by: <Dolormente, Henry II, S.>; You did great on making your component class in the composition activity, you can improve more by learning more on the topic of composition.
 
+**\<04/19/2026\>** : Comment by: <Mance, John Roque R.>; You did well in making your class abstraction, and you can improve by making it more clean.
+
 ## Plus Points
 ---
 | Date       | Comment                                              | PR Title                                                         | Type                   | Points |
