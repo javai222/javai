@@ -31,10 +31,10 @@
 
 package Demo;
 
-import createdexceptions.DivisionByZeroException;
-import createdexceptions.InvalidInputException;
-import createdexceptions.NegativeNumberException;
-import models.Calculator;
+import exceptions.DivisionByZeroException;
+import exceptions.InvalidInputException;
+import exceptions.NegativeNumberException;
+import model.Calculator;
 
 public class CalculatorDemo_JHY {
     public static void main (String [] args){
