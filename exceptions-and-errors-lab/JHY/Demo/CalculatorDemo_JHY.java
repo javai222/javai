@@ -34,11 +34,11 @@ package Demo;
 import exceptions.DivisionByZeroExceptions;
 import exceptions.InvalidInputExceptions;
 import exceptions.NegativeNumberExceptions;
-import model.Calculator;
+import model.CalculatorJHY;
 
 public class CalculatorDemo_JHY {
     public static void main (String [] args){
-        Calculator cal = new Calculator();// Initialization of calculator
+        CalculatorJHY cal = new CalculatorJHY();// Initialization of calculator
 
         System.out.println("=== CALCULATOR DEMO ===\n");
         // Adding valid inputs
