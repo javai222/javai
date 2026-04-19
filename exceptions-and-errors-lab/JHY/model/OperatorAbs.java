@@ -1,6 +1,8 @@
 // created by Casapao, Dolormente, and Tismo
 package model;
 
+import exceptions.InvalidInputException;
+
 public abstract class OperatorAbs {
     // abstract method for addition
     protected abstract int add(int a, int b);
