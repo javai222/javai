@@ -31,9 +31,9 @@
 
 package Demo;
 
-import exceptions.DivisionByZeroException;
-import exceptions.InvalidInputException;
-import exceptions.NegativeNumberException;
+import exceptions.DivisByZeroException;
+import exceptions.InvalInputException;
+import exceptions.NegatNumberException;
 import model.Calculator;
 
 public class CalculatorDemo_JHY {
