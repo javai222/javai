@@ -2,8 +2,8 @@
 package exceptions;
 
 // Unchecked exception
-public class DivisByZeroException extends RuntimeException {
-  public DivisByZeroException(String message) {
+public class DivisionByZeroException extends RuntimeException {
+  public DivisionByZeroException(String message) {
     super(message);
   }
 }
