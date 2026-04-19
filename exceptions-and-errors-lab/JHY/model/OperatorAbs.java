@@ -1,5 +1,5 @@
 // created by Casapao, Dolormente, and Tismo
-package calculator;
+package model;
 
 public abstract class OperatorAbs {
     // abstract method for addition
