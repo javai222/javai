@@ -3,7 +3,7 @@ package exceptions;
 
 // Checked Exception
 public class InvalidInputException extends Exception {
-  public InvalidInputExecption(String message) {
+  public InvalidInputException(String message) {
     super(message);
   }
 }
