@@ -2,7 +2,7 @@
 package exceptions;
 
 // Checked Exception
-public class InvalidInputException extends RunTimeException {
+public class InvalidInputException extends RuntimeException {
   public InvalidInputExecption(String message) {
     super(message);
   }
