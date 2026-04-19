@@ -1,5 +1,5 @@
 // Created by Casapao, Dolormente, and Tismo
-package exceptions;
+package createdexceptions;
 
 // Unchecked Exception
 public class NegativeNumberException extends RuntimeException {

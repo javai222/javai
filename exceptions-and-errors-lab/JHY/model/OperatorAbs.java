@@ -1,7 +1,7 @@
 // created by Casapao, Dolormente, and Tismo
 package model;
 
-import exceptions.DivisionByZeroException;
+import createdexceptions.DivisionByZeroException;
 
 public abstract class OperatorAbs {
     // abstract method for addition

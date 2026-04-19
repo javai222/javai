@@ -1,5 +1,5 @@
 // created by Casapao, Dolormente, and Tismo
-package exceptions;
+package createdexceptions;
 
 // Unchecked exception
 public class DivisionByZeroException extends RuntimeException {

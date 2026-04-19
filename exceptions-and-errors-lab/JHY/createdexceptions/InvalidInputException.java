@@ -1,5 +1,5 @@
 // Created by Casapao, Dolormente, and Tismo
-package exceptions;
+package createdexceptions;
 
 // Checked Exception
 public class InvalidInputException extends Exception {
