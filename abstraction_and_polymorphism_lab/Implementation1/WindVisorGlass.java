@@ -1,6 +1,6 @@
 // Implementation created by Mance, John Roque R.
 
-package implementation;
+package implementation1;
 
 import abstraction.Glass;
 import interfacePkg.Breakable;
