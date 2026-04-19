@@ -2,8 +2,8 @@
 package exceptions;
 
 // Unchecked Exception
-public class NegativeNumberException extends exceptions {
-  public NegativeNumberException(String message) {
+public class NegativeNumberExceptions extends exceptions {
+  public NegativeNumberExceptions(String message) {
     super(message);
   }
 }
