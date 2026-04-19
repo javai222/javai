@@ -1,5 +1,26 @@
 // Demo Class created by De Leon, Plantilla, and Silva
 
+/*
+1. What exceptions did you create?
+
+
+2. Which are checked vs unchecked?
+
+
+3. Where are exceptions thrown?
+The exceptions are thrown inside the Calculator class methods whenever invalid inputs like zero division or negative numbers are detected.
+
+4. Where are they handled?
+They are handled in the CalculatorDemo_Silva_Plantilla_DeLeon class using separate try-catch blocks for each scenario.
+
+5. Where does propagation occur?
+
+
+6. How did you apply OOP concepts?
+
+
+*/
+
 package Demo;
 
 import java.util.Scanner;
