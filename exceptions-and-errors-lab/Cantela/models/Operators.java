@@ -15,4 +15,8 @@ public abstract class Operators {
     // Unary operations
     protected abstract double squareRoot (double a); // sqrt(a), can throw NegativeNumberException
     protected abstract double factorial (double a); // a!, can throw NegativeNumberException or FactorialException
+    protected abstract double logarithm (double a); // log(a), can throw NegativeNumberException
+    protected abstract double sine (double a); // sin(a)
+    protected abstract double cosine (double a); // cos(a)
+    protected abstract double tangent (double a); // tan(a), can throw UndefinedPointsException
 }

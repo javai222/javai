@@ -6,18 +6,18 @@
 
 package models;
 
-import exceptions.DivisionByZeroException;
-import exceptions.InvalidInputException;
-import exceptions.FactorialException;
-import exceptions.NegativeNumberException;
+import exceptions.*;
 
 // Concrete implementation of Operators - provides all arithmetic operations
 public class Calculator extends Operators {
+    static boolean isParsing = false;
 
     // Parses string to double, throws InvalidInputException if parsing fails
     public double parseExpression (String input) throws InvalidInputException{
         try {
-            return Double.parseDouble(input);
+            double parseValue = Double.parseDouble(input);
+                isParsing = true;
+            return parseValue;
         } catch (NumberFormatException nfe) {
             // Catch NumberFormatException and throw our custom checked exception
             throw new InvalidInputException("Invalid input, enter a numeric digit");
@@ -45,7 +45,7 @@ public class Calculator extends Operators {
     @Override
     protected double division(double a, double b) {
         if (b == 0)
-            throw new DivisionByZeroException("Cannot divide by 0");
+            throw new DivisionByZerosException("Cannot divide by 0");
         return a / b;
     }
 
@@ -53,7 +53,7 @@ public class Calculator extends Operators {
     @Override
     protected double modulo(double a, double b) {
         if (b == 0)
-            throw new DivisionByZeroException("Cannot modulo by zero");
+            throw new DivisionByZerosException("Cannot modulo by zero");
         return a % b;
     }
 
@@ -93,7 +93,33 @@ public class Calculator extends Operators {
         return a * factorial(a - 1);
     }
 
-    //Overloaded methods for int paremeters
+    @Override   //Throws NegativeNumberException if input is negative
+    protected double logarithm(double a) {
+       if (a <= 0)
+           throw new NegativeNumberException("Logarithm is only for positive numbers");
+
+        return Math.log(a);
+    }
+
+    @Override   //For sin and cosine no exceptions needed since they are defined for all real numbers
+    protected double sine(double a) {       
+        return Math.sin(a);
+    }
+
+    @Override
+    protected double cosine(double a) {
+        return Math.cos(a);
+    }
+
+    @Override   //Throws UndefinedPointsException if cos(a) ≈ 0 (odd multiples of π/2 radians, e.g., 90°, 270°)
+    protected double tangent(double a) {
+        if (Math.abs(Math.cos(a)) < 1e-12)
+            throw new UndefinedPointsException("Tangent is undefined when cos(a) = 0 (odd multiples of 90° or π/2).");
+
+        return Math.tan(a);
+    }
+
+    //Overloaded methods for int parameters - provide integer-specific operations
     protected double add (int a, int b) {
         return a + b;
     }
@@ -108,46 +134,43 @@ public class Calculator extends Operators {
 
     protected double division (int a, int b) {
         if (b == 0)
-            throw new DivisionByZeroException("Cannot divide by 0");
+            throw new DivisionByZerosException("Cannot divide by 0");
 
         return (double) a / b;
     }
 
-    // Parse and validate square root expression format, throws InvalidInputException if invalid
-    public double squareRootExpression (String input) throws InvalidInputException {
-        String[] expression = input.trim().split("\\s+");
-        // Expected format: "sqr NUMBER"
-        if (expression.length != 2)
+        //Parses and executes unary operations, throws InvalidInputException for invalid format or operator
+    public double unaryOperation (String input) throws InvalidInputException {
+        String[] expression = input.trim().split("\\s+");                                                                                                                                   if (expression.length != 2)
             throw new InvalidInputException("Invalid expression format, please follow the said format");
 
+        // Check if the format is factorial: number !
+        if (expression[1].equalsIgnoreCase("!")) {
+            double number = parseExpression(expression[0]);
+            return factorial(number);
+        }
+
+        // Otherwise, treat as prefix operator: operator number
         String operator = expression[0];
-        double number = parseExpression(expression[1]); // Can throw InvalidInputException
+        double right = parseExpression(expression[1]);
 
-        // Check if operator is valid
-        if (operator.trim().equalsIgnoreCase("sqr") ||
-                operator.trim().equalsIgnoreCase("sqrt") ||
-                operator.trim().equalsIgnoreCase("√"))
-            return squareRoot(number); // Can throw NegativeNumberException
-        else
-            throw new InvalidInputException("Invalid operator, try again");
+        switch (operator.toLowerCase()) {
+            case "sqrt", "sqr":
+                return squareRoot(right);
+            case "log":
+                return logarithm(right);
+            case "sin", "sine":
+                return sine(right);
+            case "cos", "cosine":
+                return cosine(right);
+            case "tan":
+                return tangent(right);
+            default:
+                throw new InvalidInputException("Invalid unary operator");
+        }
     }
 
-    // Parse and validate factorial expression format, throws InvalidInputException if invalid
-    public double factorialExpression (String input) throws InvalidInputException {
-        String[] expression = input.trim().split("\\s+");
-        // Expected format: "NUMBER !"
-        if (expression.length != 2)
-            throw new InvalidInputException("Invalid expression format, please follow the said format");
 
-        double number = parseExpression(expression[0]); // Can throw InvalidInputException
-        String operator = expression[1];
-
-        // Check if operator is valid
-        if (operator.trim().equalsIgnoreCase("!"))
-            return factorial(number); // Can throw NegativeNumberException or FactorialException
-        else
-            throw new InvalidInputException("Invalid operator, try again");
-    }
 
     // Parse and execute binary operations, throws InvalidInputException or DivisionByZeroException
     public double operation (String input) throws InvalidInputException {
