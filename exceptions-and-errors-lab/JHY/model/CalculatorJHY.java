@@ -11,7 +11,7 @@ import exceptions.InvalInputException;
 import exceptions.NegatNumberException;
 
 // Calculator class inherits abstract methods from OperatorAbs
-public class Calculator extends OperatorAbs {
+public class CalculatorJHY extends OperatorAbs {
 
   // For Addition
   @Override
@@ -45,22 +45,22 @@ public class Calculator extends OperatorAbs {
   }  
   // For divison by Zero
   @Override
-  protected double divide(double a, double b) throws DivisionByZeroException {
+  protected double divide(double a, double b) throws DivisByZeroException {
     if (b == 0)
-        throw new DivisionByZeroException("Division by 0 is not possible.");
+        throw new DivisByZeroException("Division by 0 is not possible.");
     return (double) a / b;
   }
   // Checking if the value is a negative number
   public void checkNegative(double value) {
     if (value < 0) 
-        throw new NegativeNumberException("Negative values are not allowed.");
+        throw new NegatNumberException("Negative values are not allowed.");
   }
   // Converts string input to double
-  public double getValidNumber(String input) throws InvalidInputException {
+  public double getValidNumber(String input) throws InvalInputException {
     try {
         return Double.parseDouble(input);
     } catch (NumberFormatException inv) {
-        throw new InvalidInputException("Invalid input! Only numbers are allowed.");
+        throw new InvalInputException("Invalid input! Only numbers are allowed.");
     }
   }
 
