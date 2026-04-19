@@ -1,5 +1,5 @@
 // created by Casapao, Dolormente, and Tismo
-package calculatorjhy;
+package calculator;
 
 public abstract class OperatorAbs {
     // abstract method for addition
@@ -15,5 +15,5 @@ public abstract class OperatorAbs {
     protected abstract double multiply(double a, double b);
 
     // abstract method for division and to handle the invalid input
-    protected abstract double divide(double a, double b) throws InvalidInputExceptions;
+    protected abstract double divide(double a, double b) throws InvalidInputException;
 }
