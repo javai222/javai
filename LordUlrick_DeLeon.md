@@ -27,6 +27,8 @@
 
 **\<04/16/2026\>** : I learned more about Abstraction and Polymorphism in our lab and to improve, next time I will study more to create and understand better code.
 
+**\<04/19/2026\>** : I learned more about Exceptions and Errors and Java Packages in our lab and to improve, next time I will analyze the code betterto determine the causes of errors better and to deepen my understaning of OOP.
+
 ---
 
 ## 👥 Peer feedback
@@ -68,5 +70,28 @@ Commented and approved Saan's Update Kenneth_Saan.md pull request: **2 points** 
 
 Total = **2 points**
 ## 
+
+**<04/17/2026>**
+
+Commented and approved Silva's Add Plus Points pull request: **2 points** - #624
+
+Total = **2 points**
+##
+
+**<04/18/2026>**
+
+Commented and approved Plantilla's Added Calculator File pull request: **2 points** - #633
+
+Commented and approved Silva's Completed Calculator File pull request: **2 points** - #635
+
+Total = **4 points**
+##
+
+**<04/19/2026>**
+
+Commented and approved Silva's Add Comments pull request: **2 points** - #624
+
+Total = **2 points**
+##
 
 ---
