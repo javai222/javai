@@ -4,8 +4,8 @@ package demo;
 
 import abstraction.Glass;
 import interfacePkg.Breakable;
-import implementation.WineGlass;
-import implementation.WindVisorGlass;
+import implementation1.WineGlass;
+import implementation1.WindVisorGlass;
 
 public class AbstractionPolyDemo_Mance {
     public static void main(String[] args) {
