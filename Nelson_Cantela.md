@@ -156,3 +156,16 @@ commented and approved on Silva's (Abstract activity files) pr: 2 pts - #606
 commented and approved on Plantilla's (implementation and demo class) pr: 2 pts - #609
 
 commented and approved on De Leon's (Abstract Class and Interface) pr: 2 pts - #608
+
+commented and approved on Mance's (Abstract Class and Interface) pr: 2 pts - #612
+
+commented and approved on Mance's (Abstraction and Polymorphism) pr: 2 pts - #611
+
+**<4/17/26>**
+
+commented and approved on Silvas's (Personal.md plus pt section) pr: 2 pts - #624
+
+commented and approved on Tismo's (Abstraction peer feedback) pr: 2 pts - #622
+
+commented and approved on Conel's (Abstraction activity files) pr: 2 pts - #621
+
