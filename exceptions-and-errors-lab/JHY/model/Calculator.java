@@ -6,9 +6,9 @@
 
 package models;
 
-import exceptions.DivisionByZeroException;
-import exceptions.InvalidInputException;
-import exceptions.NegativeNumberException;
+import exceptions.DivisByZeroException;
+import exceptions.InvalInputException;
+import exceptions.NegatNumberException;
 
 // Calculator class inherits abstract methods from OperatorAbs
 public class Calculator extends OperatorAbs {
