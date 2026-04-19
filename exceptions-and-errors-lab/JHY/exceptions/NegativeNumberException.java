@@ -2,8 +2,8 @@
 package exceptions;
 
 // Unchecked Exception
-public class NegatNumberException extends RuntimeException {
-  public NegatNumberException(String message) {
+public class NegativeNumberException extends RuntimeException {
+  public NegativeNumberException(String message) {
     super(message);
   }
 }
