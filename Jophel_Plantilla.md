@@ -1,4 +1,4 @@
-# Jophel Mark Plantilla
+# Plantilla, Jophel Mark P.
 ---
 
 ## 📊 Scores
@@ -24,6 +24,8 @@
 
 **\<04/15/2026\>** : I learned that abstraction helps organize code and make it easier to reuse, also learned how dynamic binding works when using different objects, and next time I will practice more so I can understand it quickly.
 
+**\<04/18/2026\>** : I learned how to properly use checked and unchecked exceptions, and next time I will improve my planning of class design before building the code to my implementation better.
+
 ## Peer Feedback
 **\<03/11/2026\>** Comment by: **<Dolormente, Henry II, S.>** You did well on creating the class and the object, you also did good on collaborating with me! You can improve more by familarizing yourself with github.
 
@@ -31,15 +33,17 @@
 
 **\<03/23/2026\>** Comment by: **Silva, Vinz Joseph**; You did well in creating the structure for the parent and child class. You can improve by making your code more efficient in order for it to be clear and understandable.
 
-*\<03/28/2026\>* : Comment by: <**Casapao, Jasmin Ann M.**>; You did well in creating composition class and you can improve by learning more about github and coding.
+**\<03/28/2026\>** : Comment by: **Casapao, Jasmin Ann M.**; You did well in creating composition class and you can improve by learning more about github and coding.
 
-**<04/09/2026>** : Comment by: <Mance, John Roque R.>; You did well in coding your file named water, and you can improve by validating inputs and using clearer method names.
+**<04/09/2026>** : Comment by: **Mance, John Roque R.**; You did well in coding your file named water, and you can improve by validating inputs and using clearer method names.
 
 
 ## ➕ Plus Points
 
 | Date | PR # | Title | Status | Comment | Points |
 |------|------|-------|--------|---------|--------|
+| April 19, 2026 at 07:01:26 AM | #639 | Updated Journal Entry and Plus Points from Pull Requests | APPROVED | "Approved" | 2 |
+| April 19, 2026 at 07:00:45 AM | #638 | Added Comments | APPROVED | "Approved" | 2 |
 | April 16, 2026 at 11:34:24 AM | #611 | Abstraction and polymorphism | APPROVED | "Approved" | 2 |
 | April 16, 2026 at 11:35:22 AM | #610 | Calculator files APPROVE PLS ;) | APPROVED | "Approved" | 2 |
 | April 16, 2026 at 11:33:42 AM | #612 | AbstractionANDPolymorphism_Mance | APPROVED | "Approved" | 2 |
@@ -63,4 +67,4 @@
 | March 23, 2026 at 9:54:52 PM | #438 | Update journal entries | APPROVED | (no comment) | 1 |
 | March 23, 2026 at 9:54:26 PM | #437 | peer feedback for tismo | APPROVED | (no comment) | 1 |
 
-**Total Points: 36**
+**Total Points: 40**
