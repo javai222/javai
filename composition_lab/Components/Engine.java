@@ -1,3 +1,5 @@
+package composition_lab;
+
 public class Engine {
     private int horsepower;
     private String type;

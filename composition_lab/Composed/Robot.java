@@ -1,5 +1,8 @@
 package composition_lab;
 
+import composition_lab.Battery;
+import composition_lab.Brain;
+import composition_lab.Engine;
 public class Robot {
 
     private Brain brain;      // HAS-A Brain
