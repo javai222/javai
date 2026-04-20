@@ -1,5 +1,5 @@
 package Implementation1;
-
+//made by Torrefranca :D
 import abstraction.Devilfruit_Saan;
 import interfacePkg.Attack;
 
@@ -15,8 +15,8 @@ public class OpeOpe extends Devilfruit_Saan implements Attack {
     }
 
     @Override
-    public String useAbility() {
-        return "Performs Shambles on target";
+    public String useAbility(String target) {
+        return "Performs Shambles on " + target;
     }
 
     @Override
