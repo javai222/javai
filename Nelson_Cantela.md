@@ -46,6 +46,7 @@
 
 **<04/09/2026>** : Comment by: <Mance, John Roque R.>; You did well in Arranging your code effectively and using composition correctly, and you can improve by strengthen your code by checking inputs properly and choosing simple, descriptive method names.
 
+<MM/DD/YYYY> : Comment by: <COMMENTER’s name>; You did well in designing your abstract class PaymentMethod and interface Discountable , and you can improve by exploring more about abstraction.
 ---
 
 ## Pull Request Pts

@@ -37,6 +37,8 @@
 
 <03/31/2026> : Comment by: <Cantela, Chris Nelson B.> You did well in the Compostition topic, your component class is well. You can improve by diving deeper into this topic and practicing everyday.
 
+<03/31/2026> :Comment by: <Plantilla, Jophel Mark P.>; You did well in creating a composition class named Brush using encapsulation with clear attributes and useful behaviors, and you can improve by adding stronger input validation in setters.
+
 ---
 
 ## ➕ Plus Points 
