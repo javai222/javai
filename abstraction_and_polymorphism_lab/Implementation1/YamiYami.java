@@ -1,5 +1,5 @@
-package Implementation1;
-
+package Implementation;
+//made by Torrefranca :D
 import abstraction.Devilfruit_Saan;
 import interfacePkg.Attack;
 
@@ -15,8 +15,8 @@ public class YamiYami extends Devilfruit_Saan implements Attack {
     }
 
     @Override
-    public String useAbility() {
-        return "Pulls target into darkness.";
+    public String useAbility(String target) {
+        return "Pulls " + target + " into darkness.";
     }
 
     @Override
