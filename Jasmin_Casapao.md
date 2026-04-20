@@ -26,6 +26,8 @@ Casapao, Jasmin Ann M
 
 **\<04/10/2026\>** : I learned the concept of abstraction in coding is creating a abstract class and interface class  and to improve, next time I will study more about the abstraction and reviewing my code.
 
+**\<04/20/2026\>** : I learned the concept of exeptions and errors when we are doing the calculator and to improve, next time I will study more about the exeptions and errors so i can use it in the future.
+
 # Peer Feedback
 ---
 **\<03/11/2026\>** : Comment by: <Tismo, Yvette Germaine E.>; You did well in coding and collaborating, you made the activity a bit easier, and you can improve by learning more about github.
