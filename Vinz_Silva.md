@@ -41,6 +41,8 @@
 
 *\<03/28/2026\>* : Comment by: <Casapao, Jasmin Ann M.>; You did well in creating composition class and you can improve by doing advance reading on the topics and learning more about github and coding.
 
+*\<03/31/2026\>* :Comment by: <Plantilla, Jophel Mark P.>; You did well in creating a composition class named Soap using encapsulation with clear attributes and useful behaviors, and you can improve by adding stronger input validation in setters.
+
 *\<04/07/2026\>* : Comment by: <Javier, Charles justin D.>; You did well in making your abstract class and interface and you can improve by making a less complicated class next time.
 
 ➕ Plus Points
