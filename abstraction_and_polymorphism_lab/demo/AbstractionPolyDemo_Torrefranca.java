@@ -1,8 +1,8 @@
 package demo;
 
 import abstraction.Devilfruit_Saan;
-import Implementation.OpeOpe;
-import Implementation.YamiYami;
+import Implementation1.OpeOpe;
+import Implementation1.YamiYami;
 
 public class AbstractionPolyDemo_Torrefranca {
 
