@@ -37,6 +37,7 @@
 
 **<04/09/2026>** : Comment by: **Mance, John Roque R.**; You did well in coding your file named water, and you can improve by validating inputs and using clearer method names.
 
+**<04/21/2026>** : Comment by: **Silva Vinz Joseph R.**; You did well in coding yfor the calculator, and you can improve by having a deep understanding about the logics and functions of the code.
 
 ## ➕ Plus Points
 
