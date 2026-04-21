@@ -4,7 +4,7 @@ import exceptions.ZeroDivisionException;
 import exceptions.InvalidNumberFormatException;
 import exceptions.NegativeValueException;
 
-public class Calculator extends OperatorsAbs {
+public class Calculator extends Operations {
 
     // Converts a string input into a double value.
     // Throws an exception if the input is not a valid number format.
