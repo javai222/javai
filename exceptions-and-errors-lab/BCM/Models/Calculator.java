@@ -1,4 +1,4 @@
-package models;
+package Models;
 
 import exceptions.ZeroDivisionException;
 import exceptions.InvalidNumberFormatException;
@@ -6,7 +6,8 @@ import exceptions.NegativeValueException;
 
 public class Calculator extends OperatorsAbs {
 
-    // VALIDATION: convert string safely (optional use for demo input)
+    // Converts a string input into a double value.
+    // Throws an exception if the input is not a valid number format.
     public double parseInput(String input) throws InvalidNumberFormatException {
         try {
             return Double.parseDouble(input);
@@ -15,14 +16,15 @@ public class Calculator extends OperatorsAbs {
         }
     }
 
-    // CHECK NEGATIVE NUMBERS
+    // Validates that both inputs are not negative.
+    // Used before performing any arithmetic operation.
     private void checkNegative(double a, double b) {
         if (a < 0 || b < 0) {
             throw new NegativeValueException("Negative values are not allowed.");
         }
     }
 
-    // ADD
+    // Performs addition after validation
     @Override
     public int add(int a, int b) {
         checkNegative(a, b);
@@ -35,7 +37,7 @@ public class Calculator extends OperatorsAbs {
         return a + b;
     }
 
-    // SUBTRACT
+    // Performs subtraction after validation
     @Override
     public int subtract(int a, int b) {
         checkNegative(a, b);
@@ -48,7 +50,7 @@ public class Calculator extends OperatorsAbs {
         return a - b;
     }
 
-    // MULTIPLY
+    // Performs multiplication after validation
     @Override
     public int multiply(int a, int b) {
         checkNegative(a, b);
@@ -61,7 +63,8 @@ public class Calculator extends OperatorsAbs {
         return a * b;
     }
 
-    // DIVIDE
+    // Performs division with safety checks
+    // Ensures divisor is not zero and inputs are not negative
     @Override
     public int divide(int a, int b) throws ZeroDivisionException {
         if (b == 0) {
