@@ -96,4 +96,24 @@ Commented and approved Silva's Add Comments pull request: **2 points** - #624
 Total = **2 points**
 ##
 
+**<04/20/2026>**
+
+Commented and approved Casapao's Updating Journal pull request: **2 points** - #650
+
+Commented and approved Tismo's Peer Feedback pull request: **2 points** - #654
+
+Commented and approved Plantilla's Update peerfeedback pull request: **2 points** - #655
+
+Total = **6 points**
+##
+
+**<04/21/2026>**
+
+Commented and approved Mercado's Add abstract class and interface pull request: **2 points** - #656
+
+Commented and approved Mercado's Add comments pull request: **2 points** - #657
+
+Total = **4 points**
+##
+
 ---
