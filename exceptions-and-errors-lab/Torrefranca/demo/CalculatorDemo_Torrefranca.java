@@ -2,9 +2,9 @@ package demo;
 
 import java.util.Scanner;
 
-import exceptions.DivisionByZeroException;
-import exceptions.InvalidInputException;
-import exceptions.NegativeNumberException;
+import exceptions.InputInvaliddException;
+import exceptions.DiviByZero;
+import exceptions.NegativeNum;
 import model.Calculator;
 
 public class CalculatorDemo_Torrefranca {
@@ -15,6 +15,7 @@ public class CalculatorDemo_Torrefranca {
         Scanner scanner = new Scanner(System.in);
 
         try {
+
             System.out.print("Enter first number: ");
             double a = calc.parseInput(scanner.nextLine());
 
@@ -23,31 +24,35 @@ public class CalculatorDemo_Torrefranca {
 
             System.out.println("\n=== RESULTS ===");
 
+            // ADD
             try {
                 System.out.println("Add: " + calc.add(a, b));
-            } catch (NegativeNumberException e) {
+            } catch (NegativeNum e) {
                 System.out.println("Add Error: " + e.getMessage());
             }
 
+            // SUBTRACT
             try {
                 System.out.println("Subtract: " + calc.subtract(a, b));
-            } catch (NegativeNumberException e) {
+            } catch (NegativeNum e) {
                 System.out.println("Subtract Error: " + e.getMessage());
             }
 
+            // MULTIPLY
             try {
                 System.out.println("Multiply: " + calc.multiply(a, b));
-            } catch (NegativeNumberException e) {
+            } catch (NegativeNum e) {
                 System.out.println("Multiply Error: " + e.getMessage());
             }
 
+            // DIVIDE
             try {
                 System.out.println("Divide: " + calc.divide(a, b));
-            } catch (DivisionByZeroException e) {
+            } catch (DiviByZero e) {
                 System.out.println("Divide Error: " + e.getMessage());
             }
 
-        } catch (InvalidInputException e) {
+        } catch (InputInvaliddException e) {
             System.out.println("Input Error: " + e.getMessage());
 
         } catch (Exception e) {
