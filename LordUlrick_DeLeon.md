@@ -39,6 +39,9 @@
 
 <03/31/2026> :Comment by: <Plantilla, Jophel Mark P.>; You did well in creating a composition class named Brush using encapsulation with clear attributes and useful behaviors, and you can improve by adding stronger input validation in setters.
 
+<04/21/2026> :Comment by: <Silva, Vinz Joseph.>; You did well in creating the demo file for calculator, you can improve by learning how to debug effectively.
+
+
 ---
 
 ## ➕ Plus Points 
