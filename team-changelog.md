@@ -28,7 +28,7 @@ Vinz Joseph R. Silva	2025-1025218	04/18/2026	Exceptions	Completed!
 
 Yvette Germaine E. Tismo	2025-1027104	04/19/2026	Exceptions	Completed!
 
-Vincent Christopher P. Torrefranca	2025-1029269	04/21/2026	Exceptions	Completed!
+Vincent Christopher P. Torrefranca	2025-1029269	04/21/2026	Exceptions	
 
 _________________________________________________________________________
 
