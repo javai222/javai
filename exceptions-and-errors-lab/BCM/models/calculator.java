@@ -1,13 +1,15 @@
-package Models;
+package models;
 
-import exceptions.ZeroDivisionException;
 import exceptions.InvalidNumberFormatException;
 import exceptions.NegativeValueException;
+import exceptions.ZeroDivisionException;
 
-public class Calculator extends Operations {
+// Calculator class that implements all abstract operations
+// and handles validation rules (negative numbers, invalid input, division by zero)
+public class calculator extends Operations {
 
-    // Converts a string input into a double value.
-    // Throws an exception if the input is not a valid number format.
+    // Converts string input into a numeric (double) value
+    // Throws exception if input is not a valid number
     public double parseInput(String input) throws InvalidNumberFormatException {
         try {
             return Double.parseDouble(input);
@@ -16,15 +18,15 @@ public class Calculator extends Operations {
         }
     }
 
-    // Validates that both inputs are not negative.
-    // Used before performing any arithmetic operation.
+    // Checks if inputs contain negative values
+    // Used before performing any arithmetic operation
     private void checkNegative(double a, double b) {
         if (a < 0 || b < 0) {
             throw new NegativeValueException("Negative values are not allowed.");
         }
     }
 
-    // Performs addition after validation
+    // ADDITION
     @Override
     public int add(int a, int b) {
         checkNegative(a, b);
@@ -37,7 +39,7 @@ public class Calculator extends Operations {
         return a + b;
     }
 
-    // Performs subtraction after validation
+    // SUBTRACTION
     @Override
     public int subtract(int a, int b) {
         checkNegative(a, b);
@@ -50,7 +52,7 @@ public class Calculator extends Operations {
         return a - b;
     }
 
-    // Performs multiplication after validation
+    // MULTIPLICATION
     @Override
     public int multiply(int a, int b) {
         checkNegative(a, b);
@@ -63,10 +65,10 @@ public class Calculator extends Operations {
         return a * b;
     }
 
-    // Performs division with safety checks
-    // Ensures divisor is not zero and inputs are not negative
+    // DIVISION (INT)
+    // Prevents division by zero and checks negative values
     @Override
-    public int divide(int a, int b) throws ZeroDivisionException {
+    public int divide(int a, int b) {
         if (b == 0) {
             throw new ZeroDivisionException("Cannot divide by zero.");
         }
@@ -74,8 +76,9 @@ public class Calculator extends Operations {
         return a / b;
     }
 
+    // DIVISION (DOUBLE)
     @Override
-    public double divide(double a, double b) throws ZeroDivisionException {
+    public double divide(double a, double b) {
         if (b == 0.0) {
             throw new ZeroDivisionException("Cannot divide by zero.");
         }
