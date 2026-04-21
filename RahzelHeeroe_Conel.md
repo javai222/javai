@@ -28,6 +28,8 @@
 
 ## Peer Feedback
 ---
+**\<04/21/2026\>** Commented by: Mance, John Roque R.: you did well in making exceptions and to improve you can lessen your comments to avoid confusion.
+
 **\<03/17/2026\>** Commented by: Rj Balanon: You did well in finishing early on creating class and creating object in my class and you can improve by learning more effiecient code.
 
 **\<03/17/2026\>** : Comment by: Mance, John Roque R.; You did well in coding your class file, and you can further improve by organizing and creating the objects in your class more efficiently.
