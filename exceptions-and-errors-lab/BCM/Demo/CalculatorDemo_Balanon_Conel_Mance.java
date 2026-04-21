@@ -55,6 +55,7 @@ public class CalculatorDemo_Balanon_Conel_Mance {
             } catch (ZeroDivisionException e) {
                 System.out.println("Divide Error: " + e.getMessage());
             }
+        }
 
         catch (InvalidNumberFormatException e) {
             System.out.println("Input Error: " + e.getMessage());
