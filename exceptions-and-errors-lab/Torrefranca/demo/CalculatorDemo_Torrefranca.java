@@ -2,16 +2,16 @@ package demo;
 
 import java.util.Scanner;
 
-import exceptions.InputInvaliddException;
 import exceptions.DiviByZero;
+import exceptions.InputInvaliddException;
 import exceptions.NegativeNum;
-import model.Calculator;
+import model.Calculatorrrr;
 
 public class CalculatorDemo_Torrefranca {
 
     public static void main(String[] args) {
 
-        Calculator calc = new Calculator();
+        Calculatorrrr calc = new Calculatorrrr();
         Scanner scanner = new Scanner(System.in);
 
         try {
@@ -24,28 +24,24 @@ public class CalculatorDemo_Torrefranca {
 
             System.out.println("\n=== RESULTS ===");
 
-            // ADD
             try {
                 System.out.println("Add: " + calc.add(a, b));
             } catch (NegativeNum e) {
                 System.out.println("Add Error: " + e.getMessage());
             }
 
-            // SUBTRACT
             try {
                 System.out.println("Subtract: " + calc.subtract(a, b));
             } catch (NegativeNum e) {
                 System.out.println("Subtract Error: " + e.getMessage());
             }
 
-            // MULTIPLY
             try {
                 System.out.println("Multiply: " + calc.multiply(a, b));
             } catch (NegativeNum e) {
                 System.out.println("Multiply Error: " + e.getMessage());
             }
 
-            // DIVIDE
             try {
                 System.out.println("Divide: " + calc.divide(a, b));
             } catch (DiviByZero e) {
@@ -55,16 +51,12 @@ public class CalculatorDemo_Torrefranca {
         } catch (InputInvaliddException e) {
             System.out.println("Input Error: " + e.getMessage());
 
-        } catch (Exception e) {
-            System.out.println("Unexpected Error: " + e.getMessage());
-
         } finally {
             scanner.close();
             System.out.println("\nProgram ended.");
         }
     }
 }
-
 /*
 1. EXCEPTIONS CREATED:
 - InvalidInputException
