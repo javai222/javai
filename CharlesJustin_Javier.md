@@ -6,14 +6,8 @@
 | Date       | Activity Type | Title       | Score | Total Points |
 |------------|----------------|-------------|--------|--------------|
 | 03/06/2026 | Quiz/Recitation           | Quiz 1:OOP      | 5      | 5            |
-| Date       | Activity Type | Title       | Score | Total Points |
-|------------|----------------|-------------|--------|--------------|
 | 03/10/2026 |  Ice breaker   | Quiz 1:OOP      | 5      | 5            |
-| —          | —              | —           | —      | —            |
-| Date       | Activity Type | Title       | Score | Total Points |
-|------------|----------------|-------------|--------|--------------|
 | 03/11/2026 | Activity                     | Quiz 1:OOP      | 5      | 5            |
-| —          | —              | —           | —      | —            |
 
 ---
 
@@ -30,6 +24,7 @@
 
 **<03/29/2026>** : I learned how composition uses “has-a” relationships to organize classes. Next time, I will practice building more composed classes to improve my coding skills.
 **<04/07/2026>** : I learned how abstraction and polymorphism was used in coding and next time I will practice a better dynamic binding on my code and also practice high cohesion, low coupling on every code I make.
+**<04/07/2026>** :I learned about exceptions and errors, and next time I will handle them properly to prevent program crashes.
 
 ## Peer Evaluation
 **<03/11/2026>** : Comment by: <Silva, Vinz Joseph>; You did well in collaborating with me in order to finish our code, you can improve by being more technical in applying different functions in coding.

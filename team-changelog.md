@@ -1,4 +1,69 @@
 # 📊 Team Changelog
+Abspoly
+Ryan James M. Balanon	2025-1028936	04/17/2026	Abspoly	Completed!
+
+Chris Nelson B. Cantela	2025-1020643	04/14/2026	Abspoly	Completed!
+
+Jasmin Ann M. Casapao	2025-1020028	04/10/2026	Abspoly	Completed!
+
+Rahzel Heeroe R. Conel	2025-1025122	04/19/2026	Abspoly	Completed!
+
+Lord Ulrick A. De Leon	2025-1025177	04/17/2026	Abspoly	Completed!
+
+Henry S. Dolormente II	2025-1023364	04/19/2026	Abspoly	Completed!
+
+Charles Justin D. Javier	2025-1023752	04/07/2026	Abspoly	Completed!
+
+John Roque R. Mance	2025-1024907	04/19/2026	Abspoly	Completed!
+
+Dustin Elijah C. Mercado	2025-1020414		Abspoly	Incomplete
+
+Jophel Mark P. Plantilla	2025-1026473	04/15/2026	Abspoly	Completed!
+
+Deither Quimpan	2025-1022010		Abspoly	Did not participate!
+
+Kenneth R. Saan	2025-1022880	04/16/2026	Abspoly	Completed!
+
+Vinz Joseph R. Silva	2025-1025218	04/14/2026	Abspoly	Completed!
+
+Yvette Germaine E. Tismo	2025-1027104	04/10/2026	Abspoly	Completed!
+
+Vincent Christopher P. Torrefranca	2025-1029269		Abspoly	Incomplete
+
+________________________________________________________________________________________________
+
+Composition				
+Ryan James M. Balanon	2025-1028936	03/28/2026	Composition	Completed!
+
+Chris Nelson B. Cantela	2025-1020643	03/28/2026	Composition	Completed!
+
+Jasmin Ann M. Casapao	2025-1020028	03/28/2026	Composition	Completed!
+
+Rahzel Heeroe R. Conel	2025-1025122	04/07/2026	Composition	Completed!
+
+Lord Ulrick A. De Leon	2025-1025177	03/28/2026	Composition	Completed!
+
+Henry S. Dolormente II	2025-1023364	03/28/2026	Composition	Completed!
+
+Charles Justin D. Javier	2025-1023752	03/28/2026	Composition	Completed!
+
+John Roque R. Mance	2025-1024907	03/28/2026	Composition	Completed!
+
+Dustin Elijah C. Mercado	2025-1020414	04/01/2026	Composition	Incomplete!
+
+Jophel Mark P. Plantilla	2025-1026473	03/28/2026	Composition	Completed!
+
+Deither Quimpan	2025-1022010		Composition	Did not participate!
+
+Kenneth R. Saan	2025-1022880	03/29/2026	Composition	Completed!
+
+Vinz Joseph R. Silva	2025-1025218	03/28/2026	Composition	Completed!
+
+Yvette Germaine E. Tismo	2025-1027104	03/28/2026	Composition	Completed!
+
+Vincent Christopher P. Torrefranca	2025-1029269	04/04/2026	Composition	Completed!
+
+________________________________________________________________________________________________
 
 Ryan James M. Balanon	2025-1028936	03/17/2026	Inheritance Completed!
 

@@ -37,6 +37,8 @@ improve the display of the information that needs to be shown and to use more co
 
 <03/14/2026> : Comment by: <Casapao, Jasmin Ann M.> You did well in encapsulation activity, and you can improve by learning more about oop and github.
 
+<04/20/2026> : Comment by: <Casapao, Jasmin Ann M.> You did well in creating the calculator using the exceptions and errors, and you can improve by learning more about the usage of the exceptions and errors.
+
 ## ➕ Plus Points
 
 <March 20, 2026>:\

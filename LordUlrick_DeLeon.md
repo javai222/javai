@@ -27,6 +27,8 @@
 
 **\<04/16/2026\>** : I learned more about Abstraction and Polymorphism in our lab and to improve, next time I will study more to create and understand better code.
 
+**\<04/19/2026\>** : I learned more about Exceptions and Errors and Java Packages in our lab and to improve, next time I will analyze the code betterto determine the causes of errors better and to deepen my understaning of OOP.
+
 ---
 
 ## 👥 Peer feedback
@@ -34,6 +36,8 @@
 <03/23/2026> : Comment by: <Dolormente, Henry II, S.> You did well in the inheritance topic, you made the parent class well and you can improve by practicing more of the inheritance to further hone your skills in coding.
 
 <03/31/2026> : Comment by: <Cantela, Chris Nelson B.> You did well in the Compostition topic, your component class is well. You can improve by diving deeper into this topic and practicing everyday.
+
+<03/31/2026> :Comment by: <Plantilla, Jophel Mark P.>; You did well in creating a composition class named Brush using encapsulation with clear attributes and useful behaviors, and you can improve by adding stronger input validation in setters.
 
 ---
 
@@ -68,5 +72,28 @@ Commented and approved Saan's Update Kenneth_Saan.md pull request: **2 points** 
 
 Total = **2 points**
 ## 
+
+**<04/17/2026>**
+
+Commented and approved Silva's Add Plus Points pull request: **2 points** - #624
+
+Total = **2 points**
+##
+
+**<04/18/2026>**
+
+Commented and approved Plantilla's Added Calculator File pull request: **2 points** - #633
+
+Commented and approved Silva's Completed Calculator File pull request: **2 points** - #635
+
+Total = **4 points**
+##
+
+**<04/19/2026>**
+
+Commented and approved Silva's Add Comments pull request: **2 points** - #624
+
+Total = **2 points**
+##
 
 ---

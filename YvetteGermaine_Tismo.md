@@ -35,11 +35,14 @@
 
 **\<03/15/2026\>** : Comment by: <Silva, Vinz Joseph R.>; You did well in creating a class of encapsulation and navigating the object , and you can improve by learning more efficient way to execute your code.
 
-**\<03/23/2026\>** : Comment by: <Casapao, Jasmin Ann M.>; You did well in inheritance activity. using github and helping me in github, and you can improve by learning more about inheritance and github.
+**\<03/23/2026\>** : Comment by: <Casapao, Jasmin Ann M.>; You did well in inheritance activity and using github and helping me in github, and you can improve by learning more about inheritance and github.
 
 **\<03/23/2026\>** : Comment by: <Dolormente, Henry II, S.>; You did great on making your component class in the composition activity, you can improve more by learning more on the topic of composition.
 
 **\<04/19/2026\>** : Comment by: <Mance, John Roque R.>; You did well in making your class abstraction, and you can improve by making it more clean.
+**\<04/10/2026\>** : Comment by: <Casapao, Jasmin Ann M.>; You did well in creating an abstract class and interface, and you can improve by learning more about abstraction and github.
+
+**\<04/20/2026\>** : Comment by: <Casapao, Jasmin Ann M.>; You did well in creating calculator and using the exception and errors in creating the calculator, and you can improve by learning more about exceptions and errors.
 
 ## Plus Points
 ---
