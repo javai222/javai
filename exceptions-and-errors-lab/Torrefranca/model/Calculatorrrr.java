@@ -1,10 +1,10 @@
 package model;
 
-import exceptions.InputInvaliddException;
 import exceptions.DiviByZero;
+import exceptions.InputInvaliddException;
 import exceptions.NegativeNum;
 
-public class Calculator extends Operations {
+public class Calculatorrrr extends Operations {
 
     // PARSE INPUT
     public double parseInput(String input) {
