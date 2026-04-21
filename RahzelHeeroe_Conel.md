@@ -33,3 +33,5 @@
 **\<03/17/2026\>** : Comment by: Mance, John Roque R.; You did well in coding your class file, and you can further improve by organizing and creating the objects in your class more efficiently.
 
 **\<03/25/2026\>** : Comment by: Mance, John Roque R.; You did a good job coding your class file and you can improve by focusing on writing the objects in your class more efficiently. you did a great job again but you can improve more.
+
+**\<04/21/2025\>** : Comment By Balanon, Ryan James M. : you did good on creating the exceptions on exceptions and errors lab laboratory, you can still improve.
