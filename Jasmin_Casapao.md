@@ -46,6 +46,8 @@ Casapao, Jasmin Ann M
 
 **\<04/10/2026\>** : Comment by: <Tismo, Yvette Germaine E.>; You did a great job creating your abstract class and interface it was easy to understand and create an object that implements the methods, and you can improve by learning more about abstraction and how to implement abstract classes and interfaces.
 
+**\<04/21/2026\>** : Comment by: <Tismo, Yvette Germaine E.>; You did a great job in helping the team make the calculator by learning how to create and handle exceptions, and you can improve by learning more about exceptions and by being a bit more observing in using semi-colons when coding.
+
 ## ➕ Plus Points
 ---
 <March 28, 2026>:\
