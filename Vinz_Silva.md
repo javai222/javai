@@ -50,6 +50,8 @@
 
 *\<04/07/2026\>* : Comment by: <Javier, Charles justin D.>; You did well in making your abstract class and interface and you can improve by making a less complicated class next time.
 
+*\<04/21/2026>\* : Comment by: <De Leon, Lord Ulrick A.> You did well in doing your part in the calcuator task and demonstrated good knowledge, and you can improve by studying more and applying the concepts
+
 ➕ Plus Points
 
 | Date       | Activity Type   |         Title         |                | Score |
