@@ -1,7 +1,7 @@
 package model;
 
 import exceptions.InvalidInputException;
-import exceptions.NegativeNumbertException;
+import exceptions.NegativeNumberException;
 import exceptions.DivisionByZeroException;
 
 public class Calculator extends Operations {
