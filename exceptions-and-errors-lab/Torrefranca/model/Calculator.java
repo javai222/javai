@@ -15,6 +15,14 @@ public class Calculator extends Operations {
         }
     }
 
+    public double parseInput(String input) throws InvalidInputException {
+    try {
+        return Double.parseDouble(input.trim());
+    } catch (NumberFormatException e) {
+        throw new InvalidInputException("Invalid input: " + input + " is not a valid number");
+        }
+    }    
+
     // VALIDATION: negative numbers
     private void checkNegative(double a, double b) {
         if (a < 0 || b < 0) {
