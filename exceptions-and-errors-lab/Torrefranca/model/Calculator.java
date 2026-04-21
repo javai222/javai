@@ -1,24 +1,24 @@
 package model;
 
-import exceptions.DivisionByZeroException;
-import exceptions.InvalidInputException;
-import exceptions.NegativeNumberException;
+import exceptions.InputInvaliddException;
+import exceptions.DiviByZero;
+import exceptions.NegativeNum;
 
 public class Calculator extends Operations {
 
-    // INPUT PARSER
+    // PARSE INPUT
     public double parseInput(String input) {
         try {
             return Double.parseDouble(input);
         } catch (NumberFormatException e) {
-            throw new InvalidInputException("Invalid number format.");
+            throw new InputInvaliddException("Invalid number format.");
         }
     }
 
     // VALIDATION
     private void validate(double a, double b) {
         if (a < 0 || b < 0) {
-            throw new NegativeNumberException("Negative numbers are not allowed.");
+            throw new NegativeNum("Negative numbers are not allowed.");
         }
     }
 
@@ -44,7 +44,7 @@ public class Calculator extends Operations {
     public double divide(double a, double b) {
 
         if (b == 0) {
-            throw new DivisionByZeroException("Cannot divide by zero.");
+            throw new DiviByZero("Cannot divide by zero.");
         }
 
         validate(a, b);
