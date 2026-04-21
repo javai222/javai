@@ -1,12 +1,12 @@
 # 📊 Team Changelog
 Calculator-Exceptions
-Ryan James M. Balanon	2025-1028936	04/21/2026	Exceptions	
+Ryan James M. Balanon	2025-1028936	04/21/2026	Exceptions	Completed!
 
 Chris Nelson B. Cantela	2025-1020643	04/18/2026	Exceptions	Completed!
 
 Jasmin Ann M. Casapao	2025-1020028	04/19/2026	Exceptions	Completed!
 
-Rahzel Heeroe R. Conel	2025-1025122	04/21/2026	Exceptions	
+Rahzel Heeroe R. Conel	2025-1025122	04/21/2026	Exceptions	Completed!
 
 Lord Ulrick A. De Leon	2025-1025177	04/20/2026	Exceptions	Completed!
 
@@ -14,7 +14,7 @@ Henry S. Dolormente II	2025-1023364	04/19/2026	Exceptions	Completed!
 
 Charles Justin D. Javier	2025-1023752	04/17/2026	Exceptions	Completed!
 
-John Roque R. Mance	2025-1024907	04/21/2026	Exceptions	
+John Roque R. Mance	2025-1024907	04/21/2026	Exceptions	Completed!
 
 Dustin Elijah C. Mercado	2025-1020414	04/17/2026	Exceptions	Completed!
 
