@@ -25,6 +25,8 @@
 
 **\<04/10/2026\>** : I learned how to create and use abstract classes as well as interfaces properly, I also learned more about polymorphism and how it works in terms of coding, next time I would try to add more variables that can be used in my subclasses/implementations and expand my knowledge about it.
 
+**\<04/21/2026\>** : I learned how to actually create and handle exceptions as well as how to create a basic calculator that implements the 4 core concepts of oop, next time I would try to learn more about the different exceptions so that I can create/handle more exceptions that may actually occur in certain real world scenarios.
+
 # Peer Feedback
 ---
 **\<03/11/2026\>** : Comment by: <Casapao, Jasmin Ann M.>; You did well in coding and helping me in github, and you can improve by practicing and learning new in github.
@@ -40,6 +42,7 @@
 **\<03/23/2026\>** : Comment by: <Dolormente, Henry II, S.>; You did great on making your component class in the composition activity, you can improve more by learning more on the topic of composition.
 
 **\<04/19/2026\>** : Comment by: <Mance, John Roque R.>; You did well in making your class abstraction, and you can improve by making it more clean.
+
 **\<04/10/2026\>** : Comment by: <Casapao, Jasmin Ann M.>; You did well in creating an abstract class and interface, and you can improve by learning more about abstraction and github.
 
 **\<04/20/2026\>** : Comment by: <Casapao, Jasmin Ann M.>; You did well in creating calculator and using the exception and errors in creating the calculator, and you can improve by learning more about exceptions and errors.
@@ -76,4 +79,7 @@
 | 2026-04-09 | Feedback approved                                       | Peer feedback comment on Casapao (#593)                       | ✅ Approve             | 2      |
 | 2026-04-09 | Teammate feedback approved                              | Peer feedback comment on Tismo (#594)                         | ✅ Approve             | 2      |
 | 2026-04-09 | Nice takeaways/reflections                              | Update on personal md file. (#595)                            | ✅ Approve             | 2      |
-|Total as of 2026-04-10                                                |                                                               |                         | 57     | 
+| 2026-04-20 | Nice reflection                                         | Updating journal (#650)                                       | ✅ Approve             | 2      |
+| 2026-04-20 | Goods                                                   | Peer feedback for Dolormente (#651)                           | ✅ Approve             | 2      |
+| 2026-04-20 | Nice                                                    | Update CharlesJustin_Javier.md (#652)                         | ✅ Approve             | 2      |
+| Total as of 2026-04-21  | -                                          | -                                                             | -                       | 63     |
