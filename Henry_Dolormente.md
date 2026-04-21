@@ -37,6 +37,10 @@ improve the display of the information that needs to be shown and to use more co
 
 <03/14/2026> : Comment by: <Casapao, Jasmin Ann M.> You did well in encapsulation activity, and you can improve by learning more about oop and github.
 
+<03/23/2026> : Comment by: <De Leon, Lord Ulrick A.> You did well in inheritance activity, and you can improve by studying and practicing more.
+
+<03/29/2026> : Comment by: <De Leon, Lord Ulrick A.> You did well in composition activity, and you can improve by deepening your understanding of the concepts.
+
 <04/20/2026> : Comment by: <Casapao, Jasmin Ann M.> You did well in creating the calculator using the exceptions and errors, and you can improve by learning more about the usage of the exceptions and errors.
 
 <04/21/2026> : Comment by: <Tismo, Yvette Germaine E.>; You did a great job in helping the team make the calculator by communicating your ideas/thoughts and fixing the errors, and you can improve by learning more about exceptions and how to handle them.
