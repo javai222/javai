@@ -1,3 +1,29 @@
+/*   Author: Saan, Kenneth | Justin Javier | Dustin Elijah Mercado
+    
+- What exceptions did you create?
+We created 5 exceptions which are DivisionbyZero, FactorialExceptions, LogarithmException,
+NegativeNumberException and undifinedTangentException
+
+- Which are checked vs unchecked?
+
+in java there is this two type of error which are checked, java forces you to take care of the error in compile and the unchecked error that does not appear on compile time bat appears on runtime
+for example the unchecked error is the division by zero, it does not appear on compile time but when you run the 
+program and you try to divide by zero it will throw an error, while the checked error is the factorial exception, 
+it will appear on compile time because you have to handle it in your code and the checked error is the logarithm exception, it will appear on compile time because you have to handle it in your code
+
+- Where are exceptions thrown?
+The exceptions are thrown in the logic classes, for example the division by zero exception is thrown in the BasicOp class when you try to divide by zero, while the factorial exception is thrown in the UnaryOp class when you try to take the factorial of a negative number or a non-integer, and the logarithm exception is thrown in the UnaryOp class when you try to take the logarithm of a non-positive number.
+
+- Where are they handled?
+The exceptions are handled in the main method of the CalculatorDemo_Saan_Javier_Mercado class, where we use try-catch blocks to catch the specific exceptions and print the error messages to the user.
+
+- Where does propagation occur?
+Propagation occurs when an exception is thrown and not caught in the method where it occurred, it propagates up the call stack until it is caught by a try-catch block or it reaches the main method and causes the program to terminate. For example, if you try to take the factorial of a negative number in the UnaryOp class, it will throw a FactorialExceptions which will propagate up to the main method where it will be caught and handled.
+
+- How did you apply OOP concepts?
+We applied OOP concepts by creating classes for the basic operations (BasicOp) and unary operations (UnaryOp), and we used inheritance to create a hierarchy of operations. We also created custom exceptions to handle specific error cases, which is an example of encapsulation. The main method in the CalculatorDemo_Saan_Javier_Mercado class serves as the entry point for the program and demonstrates how to use the classes and handle exceptions, which is an example of abstraction.
+
+*/
 
 package Demo;
 

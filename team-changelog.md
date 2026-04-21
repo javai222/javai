@@ -16,7 +16,7 @@ Charles Justin D. Javier	2025-1023752	04/07/2026	Abspoly	Completed!
 
 John Roque R. Mance	2025-1024907	04/19/2026	Abspoly	Completed!
 
-Dustin Elijah C. Mercado	2025-1020414		Abspoly	Incomplete
+Dustin Elijah C. Mercado	2025-1020414		Abspoly	Completed!
 
 Jophel Mark P. Plantilla	2025-1026473	04/15/2026	Abspoly	Completed!
 
@@ -137,9 +137,9 @@ _______________________
 
 2. Chris Nelson B. Cantela 2025-1020643 03/06/2026 TermProjectPlanningPart1 Completed!
 
-3. Jasmin Ann M. Casapao 2025_1020028 03/06/2026 TermProjectPlanningPart1 Completed!
+3. Jasmin Ann M. Casapao 2025_1020028 03/06/2026TermProjectPlanningPart1 Completed!
 
-4. Rahzel Heeroe R. Conel 2025-1025122 03/06/2026 TermProjectPlanningPart1 Completed!
+4. Rahzel Heeroe R. Conel 2025-1025122 03/06/2026TermProjectPlanningPart1 Completed!
 
 5. Lord Ulrick A. De Leon 2025-1025177 03/06/2026 TermProjectPlanningPart1 Completed!
 

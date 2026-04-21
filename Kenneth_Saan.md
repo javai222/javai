@@ -14,6 +14,13 @@ KennethSaan
 
 ## 📘 Journals
 
+**\<03/31/2026\>** : I learned ___ to build a calcu applying all the lessons that we did and no i want to improve my skills more and  __do a research and practice to apply it in my future projects ___.
+
+**\<03/29/2026\>** : I learned ___how to design a achritectural plan using UML hot do sign works__ in our lab and to improve, next time I will __do a research and practice to apply it in my future projects ___.
+
+**\<03/29/2026\>** : I learned ___I learned the fundamentals of abstract and polymorphism and hot to apply them also learned how to create interfaces __ in our lab and to improve, next time I will _
+___do a research and practice to apply it in my future projects ___.
+
 **\<03/29/2026\>** : I learned ___I learned the fundamentals of low coupling and high cohesion and the difference between has A and is A__ in our lab and to improve, next time I will _
 ___do a research and practice to apply it in my future projects ___.
 
