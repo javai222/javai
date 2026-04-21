@@ -5,11 +5,17 @@ import java.util.Scanner;
 
 import Logic.BasicOp;
 import Logic.UnaryOp;
-import Exceptions.*;
+import Exceptions.InvalidInputException;
+import Exception.Divisionbyzero;
+import Exception.FactorialExceptions;
+import Exception.LogarithmException;
+import Exception.UndefinedTangentException;
+import Exception.NegativeNumberException;
 
 public class CalculatorDemo_Saan_Javier_Mercado {
     public static void main(String[] args) {
 
+        // Initialize Scanner and operation classes
         Scanner sc = new Scanner(System.in);
         BasicOp basic = new BasicOp();
         UnaryOp unary = new UnaryOp();
@@ -25,28 +31,32 @@ public class CalculatorDemo_Saan_Javier_Mercado {
                 Enter 'exit' to terminate the program.
                 """);
 
+        // Main calculator loop - continues until user exits
         while (true) {
             
             System.out.print("-> ");
             String input = sc.nextLine().trim();
 
-            //Exit condition
+            // Check if user wants to exit
             if (input.equalsIgnoreCase("exit")) {
                 System.out.println("Exiting program, sayonara!");
                 break;
             }
 
             try {
+                // Parse input into parts (number, operator, number or operator, number)
                 String[] parts = input.trim().split("\\s+");
                 double result;
 
-                //Binary operations
+                // Handle binary operations (two operands with one operator)
                 if (parts.length == 3) {
 
+                    // Extract operands and operator
                     double a = Double.parseDouble(parts[0]);
                     String operator = parts[1].toLowerCase();
                     double b = Double.parseDouble(parts[2]);
 
+                    // Perform the appropriate binary operation
                     switch (operator) {
                         case "+" -> result = basic.add(a, b);
                         case "-" -> result = basic.subtract(a, b);
@@ -60,13 +70,14 @@ public class CalculatorDemo_Saan_Javier_Mercado {
                     System.out.printf("Result: %.4f%n", result);
                 }  
 
-
-                //Unary operations
+                // Handle unary operations (one operand with operator)
                 else if (parts.length == 2) {
 
+                    // Extract operator and operand
                     String operator = parts[0].toLowerCase();
                     double a = Double.parseDouble(parts[1]);
                     
+                    // Perform the appropriate unary operation
                     switch (operator) {
                         case "sqrt" -> result = unary.squareRoot(a);
                         case "fact" -> result = unary.factorial(a);
@@ -80,13 +91,12 @@ public class CalculatorDemo_Saan_Javier_Mercado {
                     System.out.printf("Result: %.4f%n", result);
                 }
 
-                //Invalid format
+                // Handle invalid input format
                 else {
                     throw new InvalidInputException("Invalid format. Use spaces between values");
                 }
 
-
-            //Exception handling
+            // Catch and handle specific exceptions
             } catch (Divisionbyzero e) {
                 System.out.println("Error: " + e.getMessage());
 
@@ -116,6 +126,7 @@ public class CalculatorDemo_Saan_Javier_Mercado {
             }
          }
 
+        // Close the Scanner resource
         sc.close();  
     }
 
