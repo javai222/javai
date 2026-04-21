@@ -1,4 +1,37 @@
 # 📊 Team Changelog
+Calculator-Exceptions
+Ryan James M. Balanon	2025-1028936	04/21/2026	Exceptions	
+
+Chris Nelson B. Cantela	2025-1020643	04/18/2026	Exceptions	Completed!
+
+Jasmin Ann M. Casapao	2025-1020028	04/19/2026	Exceptions	Completed!
+
+Rahzel Heeroe R. Conel	2025-1025122	04/21/2026	Exceptions	
+
+Lord Ulrick A. De Leon	2025-1025177	04/20/2026	Exceptions	Completed!
+
+Henry S. Dolormente II	2025-1023364	04/19/2026	Exceptions	Completed!
+
+Charles Justin D. Javier	2025-1023752	04/17/2026	Exceptions	Completed!
+
+John Roque R. Mance	2025-1024907	04/21/2026	Exceptions	
+
+Dustin Elijah C. Mercado	2025-1020414	04/17/2026	Exceptions	Completed!
+
+Jophel Mark P. Plantilla	2025-1026473	04/19/2026	Exceptions	Completed!
+
+Deither Quimpan	2025-1022010		Exceptions	Did not participate!
+
+Kenneth R. Saan	2025-1022880	04/17/2026	Exceptions	Completed!
+
+Vinz Joseph R. Silva	2025-1025218	04/18/2026	Exceptions	Completed!
+
+Yvette Germaine E. Tismo	2025-1027104	04/19/2026	Exceptions	Completed!
+
+Vincent Christopher P. Torrefranca	2025-1029269	04/21/2026	Exceptions	Completed!
+
+_________________________________________________________________________
+
 Abspoly
 Ryan James M. Balanon	2025-1028936	04/17/2026	Abspoly	Completed!
 
