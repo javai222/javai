@@ -25,7 +25,7 @@
 
 **\<04/10/2026\>** : I learned how to create and use abstract classes as well as interfaces properly, I also learned more about polymorphism and how it works in terms of coding, next time I would try to add more variables that can be used in my subclasses/implementations and expand my knowledge about it.
 
-**\<04/21/2026\>** : I learned how to actually create and handle exceptions as well as how to create a basic calculator that implements the 4 core concepts of oop, next time I would try to learn more about the different exceptions so that I can create/handle more exceptions that may actually occur in certain real world scenarios.
+**\<04/21/2026\>** : I learned how to actually create and handle exceptions as well as how to create a basic calculator that implements the 4 core concepts of oop, next time I would try to learn more about the different exceptions so that I can create/handle more exceptions that may actually occur in certain real world scenarios. I helped in creating our models, exceptions, and demo for the calculator
 
 # Peer Feedback
 ---
