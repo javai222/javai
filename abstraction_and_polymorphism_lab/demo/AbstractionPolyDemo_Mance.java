@@ -38,3 +38,25 @@ public class AbstractionPolyDemo_Mance {
 
     }
 }
+
+
+/*
+*This class is created by Cantela, Chris Nelson B.
+
+What abstract class did you create?
+- Glass abstract class
+What interface did you create?
+- UpdateOS interface
+What methods did you override?
+- useGlass(), cleanGlass(), getGlassPurpose,
+What methods did you overload?
+- useGlass in both WindVisorGlass and WineGlass
+Where does dynamic binding occur in your code?
+- When creating Glass objects at runtime
+Which part shows polymorphism?
+- The use of the Glass reference to call overridden methods
+How does your design achieve low coupling?
+- By using interfaces and abstract classes to define contracts without specifying implementation details
+How does your design achieve high cohesion?
+- Each class has a single responsibility and related methods grouped together
+*/
