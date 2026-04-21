@@ -6,15 +6,6 @@ import exceptions.DivisionByZeroException;
 
 public class Calculator extends Operations {
 
-    // Parse string input to number
-    public double parseInput(String input) throws InvalidNumberFormatException {
-        try {
-            return Double.parseDouble(input);
-        } catch (NumberFormatException e) {
-            throw new InvalidInputException("Input must be a valid number.");
-        }
-    }
-
     public double parseInput(String input) throws InvalidInputException {
     try {
         return Double.parseDouble(input.trim());
