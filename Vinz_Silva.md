@@ -25,6 +25,9 @@
 
 \<03/28/2026\> : I pick up a more comprehensive skill that enhances my coding abilities when it comes to making composition class, next time I will try to be a more competitive coder by nurturing my knowledge about this particular coding topic.
 
+\<04/10/2026\> : I understand the concept of abstraction and polymorphism as well as their functions, next time i will try to be more logical when it come sto creating a file of code.
+
+\<04/21/2026\> : Exceptions teaches me how to detect a specific anomaly in the code in order for it to not crush, next time i will try to understand it comprehensively for a better and clean exception hanndling outcome of my code.
 
 
 # Peer Feedback
@@ -63,4 +66,16 @@
 | 03/27/2026 | PR Approval | Create HDLotion.java                       |   1   | 
 | 03/20/2026 | PR Approval | Created Chocolate parent class             |   1   | 
 | 03/14/2026 | PR Approval | Main_Conel                                 |   1   | 
+| 04/17/2026 | PR approval | Add some feature and fix errors            |   1   |
+| 04/19/2026 | PR approval | Peer feedback for Tismo                    |   1   |        
+| 04/19/2026 | PR approval | Add some feature and fix errors            |   1   |
+| 04/21/2026 | PR approval | Update team changelog with project status  |   1   |
+| 04/21/2026 | PR approval | made df public                             |   1   |
+| 04/21/2026 | PR approval | Abspoly dolormente                         |   1   |
+| 04/21/2026 | PR approval | Exceptions Peer Feedback                   |   1   |
+| 04/21/2026 | PR approval | update Kenneth_Saan.md                     |   1   |
+total = 23
+       
+ 
+  
 
