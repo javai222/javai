@@ -37,7 +37,12 @@
 
 **<04/09/2026>** : Comment by: **Mance, John Roque R.**; You did well in coding your file named water, and you can improve by validating inputs and using clearer method names.
 
+**<04/17/2026>** : Comment by: **De Leon, Lord Ulrick A.** You did well in creating an abstract class and interface, and you can improve by practicing more.
+
 **<04/21/2026>** : Comment by: **Silva, Vinz Joseph R.**; You did well in coding for our calculator, you can improve by having a deep understanding about the code and its logic.
+
+**<04/21/2026>** : Comment by: **De Leon, Lord Ulrick A.** You did well in doing your part in the calcuator task and demonstrated good knowledge, and you can improve by studying more and applying the concepts.
+
 ## ➕ Plus Points
 
 | Date | PR # | Title | Status | Comment | Points |
