@@ -11,7 +11,7 @@ public abstract class Devilfruit_Saan {
     private int unlockLevel;
 
 // Constructor to initialize devil fruit data.
-Devilfruit_Saan(String name, String type, String rarity, int unlockLevel) {
+public Devilfruit_Saan(String name, String type, String rarity, int unlockLevel) {
     this.name = name;
     this.type = type;
     this.rarity = rarity;
