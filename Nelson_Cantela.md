@@ -169,3 +169,9 @@ commented and approved on Tismo's (Abstraction peer feedback) pr: 2 pts - #622
 
 commented and approved on Conel's (Abstraction activity files) pr: 2 pts - #621
 
+**<4/21/26>**
+commented and appproved on Mercado's (Implementation and demo class) pr 2 pts - #659
+
+commented and appproved on Saan's (comment and feedback) pr 2 pts - #660
+
+commented and appproved on De Leon's (personal.md file) pr 2 pts - #658
