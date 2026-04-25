@@ -23,6 +23,17 @@ Propagation occurs when an exception is thrown and not caught in the method wher
 - How did you apply OOP concepts?
 We applied OOP concepts by creating classes for the basic operations (BasicOp) and unary operations (UnaryOp), and we used inheritance to create a hierarchy of operations. We also created custom exceptions to handle specific error cases, which is an example of encapsulation. The main method in the CalculatorDemo_Saan_Javier_Mercado class serves as the entry point for the program and demonstrates how to use the classes and handle exceptions, which is an example of abstraction.
 
+
+- How did you organize your packages?
+I organized my packages by separating their functionalities.
+- Why did you separate your classes this way?
+to be more organized and to follow the single responsibility principle, for example the BasicOp class is responsible for handling basic operations while the UnaryOp class is responsible for handling unary operations, and the exceptions are separated into their own package to keep the code clean and organized.
+- How do packages improve encapsulation?
+Packages improve encapsulation by grouping related classes and interfaces together, which helps to hide the internal implementation details from other parts of the program. This allows for better modularity and separation of concerns, making it easier to maintain and update the code without affecting other parts of the program. For example, the exceptions are grouped together in their own package, which allows us to manage and handle them separately from the main logic of the calculator.
+- Where are your exceptions located?
+The exceptions are located in the "com.calculator.saan.exception" package, which is separate from the main logic of the calculator. This allows us to manage and handle the exceptions separately from the main logic of the calculator, and it also helps to keep the code organized and clean.
+- Why did you choose Maven or Gradle?
+I chose maven because the program is not that complicated so I used because it is easier unlike gradle that is complicated but capable of handling huge projects.
 */
 
 package com.calculator.saan.demo;
