@@ -7,12 +7,12 @@ import java.util.Scanner;
 import exceptions.InvalidNumberFormatException;
 import exceptions.NegativeValueException;
 import exceptions.ZeroDivisionException;
-import models.calculator;
+import models.CalculatorService;
 
 public class CalculatorDemo_Balanon_Conel_Mance {
     public static void main(String[] args) {
 
-        calculator calc = new calculator();
+        CalculatorService calc = new CalculatorService();
         Scanner scanner = new Scanner(System.in);
 
         try {
