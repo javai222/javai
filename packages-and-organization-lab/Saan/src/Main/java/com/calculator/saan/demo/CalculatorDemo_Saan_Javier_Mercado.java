@@ -138,7 +138,7 @@ public class CalculatorDemo_Saan_Javier_Mercado {
             } catch (divisionbyzero e) {
                 System.out.println("Error: " + e.getMessage());
 
-            } catch (factorialException e) {
+            } catch (factorialExceptions e) {
                 System.out.println("Error: " + e.getMessage());
 
             } catch (logarithmException e) {
