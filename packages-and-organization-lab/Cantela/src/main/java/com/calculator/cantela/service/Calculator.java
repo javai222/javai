@@ -6,7 +6,7 @@
 
 package com.calculator.cantela.service;
 
-import exceptions.*;
+import com.calculator.cantela.exceptions.*;
 
 // Concrete implementation of Operators - provides all arithmetic operations
 public class Calculator extends Operators {

@@ -24,12 +24,28 @@
 - Polymorphism: Method overloading (division, add, subtract, multiply with double and int parameters)
 - Encapsulation: Private/protected access modifiers, exception classes encapsulate error information
 - Custom exceptions: Each exception type handles specific error scenario enabling precise control flow
+ 
+*How did you organize your packages?
+- I organized packages under `com.calculator.cantela` and separated code into `main`, `service`, and `exceptions` folders.
+
+*Why did you separate your classes this way?
+- I separated classes by responsibility: `main` holds the demo runner, `service` contains calculator logic, and `exceptions` holds custom error types.
+
+*How do packages improve encapsulation?
+- Packages group related classes and hide implementation details, so only public APIs are exposed and internal classes stay isolated.
+
+*Where are your exceptions located?
+- The custom exceptions are located in `src/main/java/com/calculator/cantela/exceptions`.
+
+*Why did you choose Maven or Gradle?
+- I chose Maven because the lab asked for a build tool and I already set up a `pom.xml` in my personal project folder. Also because it's simple
+and easy.
  */
 
 package com.calculator.cantela.main;
 
-import exceptions.*;
-import models.Calculator;
+import com.calculator.cantela.exceptions.*;
+import com.calculator.cantela.service.Calculator;
 
 import java.util.Scanner;
 
