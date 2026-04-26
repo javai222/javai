@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'com.calculator'
+version = '1.0'
+
+application {
+    mainClass = 'com.calculator.balanon.main.CalculatorDemo_Balanon_Conel_Mance'
+}
+
+repositories {
+    mavenCentral()
+}

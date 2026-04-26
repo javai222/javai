@@ -6,7 +6,7 @@ import exceptions.ZeroDivisionException;
 
 // Calculator class that implements all abstract operations
 // and handles validation rules (negative numbers, invalid input, division by zero)
-public class calculator extends Operations {
+public class CalculatorService extends Operations {
 
     // Converts string input into a numeric (double) value
     // Throws exception if input is not a valid number
