@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/abstraction_and_polymorphism_lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classes-and-objects" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/encapsulation-and-access-modifiers-lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/inheritance-lab" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
