@@ -28,6 +28,8 @@ Casapao, Jasmin Ann M
 
 **\<04/20/2026\>** : I learned the concept of exceptions and errors when we are doing the calculator and to improve, next time I will study more about the exceptions and errors so i can use it in the future.
 
+**\<04/27/2026\>** : I learned the concept of building a tools and creating a packages and to improve, next time I will study more about creating a packages and build using a tool in marven and gradle.
+
 # Peer Feedback
 ---
 **\<03/11/2026\>** : Comment by: <Tismo, Yvette Germaine E.>; You did well in coding and collaborating, you made the activity a bit easier, and you can improve by learning more about github.
@@ -48,6 +50,8 @@ Casapao, Jasmin Ann M
 
 **\<04/21/2026\>** : Comment by: <Tismo, Yvette Germaine E.>; You did a great job in helping the team make the calculator by learning how to create and handle exceptions, and you can improve by learning more about exceptions and by being a bit more observing in using semi-colons when coding.
 
+
+
 ## ➕ Plus Points
 ---
 <March 28, 2026>:\
@@ -67,8 +71,18 @@ commented and approved on Tismo's Update personal md pr: **2 points** - #520\
 
 commented and approved on Tismo's Peer Feedback pr: **2 points** - #525\
 
-commented and approved on Silva's Created Subclass and Democlass pr: **2 points** - #527\
-
 **Total: 17 points**
 
+<April 7, 2026>
+commented and approved on Silva's Added abstract class and interface pr: **2 points** - #586\
+**Total: 2 points**
+
+<April 8, 2026>
+commented and approved on Tismo's Fix interface modifier md pr: **2 points** - #588\
+**Total: 2 points**
+
+<April 27, 2026>
+commented and approved on Tismo's Packages and build tools pr: **2 points** - #705\
+commented and approved on Saan's Update Kenneth_saan md pr: **2 points** - #713\
+**Total: 4 points**
 
