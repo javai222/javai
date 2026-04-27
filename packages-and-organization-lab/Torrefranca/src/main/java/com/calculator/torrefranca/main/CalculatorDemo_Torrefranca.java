@@ -1,4 +1,4 @@
-package demo;
+package com.calculator.torrefranca.exception;
 
 import java.util.Scanner;
 
