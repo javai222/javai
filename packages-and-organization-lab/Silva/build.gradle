@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'com.calculator.silva'
+version = '1.0'
+
+application {
+    mainClass = 'com.calculator.silva.main.CalculatorDemo_Silva'
+}
+
+repositories {
+    mavenCentral()
+}
