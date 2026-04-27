@@ -13,6 +13,7 @@ KennethSaan
 ---
 
 ## 📘 Journals
+**\<04/26/2026\>** : I learned ___ to apply the proper packages and organizing it and also the use of maven and gradle, next time I wil  __do a research and practice to apply it in my future projects ___.
 
 **\<04/21/2026\>** : I learned ___ to build a calcu applying all the lessons that we did and no i want to improve my skills more and  __do a research and practice to apply it in my future projects ___.
 
