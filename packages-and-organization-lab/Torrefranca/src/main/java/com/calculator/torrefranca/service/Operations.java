@@ -1,4 +1,4 @@
-package com.calculator.torrefranca.exception;
+package com.calculator.torrefranca.service;
 
 public class Operations {
 
