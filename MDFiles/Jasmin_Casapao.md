@@ -50,6 +50,8 @@ Casapao, Jasmin Ann M
 
 **\<04/21/2026\>** : Comment by: <Tismo, Yvette Germaine E.>; You did a great job in helping the team make the calculator by learning how to create and handle exceptions, and you can improve by learning more about exceptions and by being a bit more observing in using semi-colons when coding.
 
+**\<04/27/2026\>** : Comment by: <Tismo, Yvette Germaine E.>; You did well in using packages and using the gradle build tool, and you can improve by learning more about build tools and checking your code for errors.
+
 
 
 ## ➕ Plus Points
