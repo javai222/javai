@@ -25,7 +25,9 @@
 
 **\<04/10/2026\>** : I learned how to create and use abstract classes as well as interfaces properly, I also learned more about polymorphism and how it works in terms of coding, next time I would try to add more variables that can be used in my subclasses/implementations and expand my knowledge about it.
 
-**\<04/21/2026\>** : I learned how to actually create and handle exceptions as well as how to create a basic calculator that implements the 4 core concepts of oop, next time I would try to learn more about the different exceptions so that I can create/handle more exceptions that may actually occur in certain real world scenarios. I helped in creating our models, exceptions, and demo for the calculator
+**\<04/21/2026\>** : I learned how to actually create and handle exceptions as well as how to create a basic calculator that implements the 4 core concepts of oop, next time I would try to learn more about the different exceptions so that I can create/handle more exceptions that may actually occur in certain real world scenarios. I helped in creating our models, exceptions, and demo for the calculator.
+
+**\<04/27/2026\>** : I learned how to use the standard/basic Gradle build tool procedure and the correct use of packages, next time I would try to learn more about gradle so that I would be able to finish my work faster and more efficiently.
 
 # Peer Feedback
 ---
@@ -82,4 +84,23 @@
 | 2026-04-20 | Nice reflection                                         | Updating journal (#650)                                       | ✅ Approve             | 2      |
 | 2026-04-20 | Goods                                                   | Peer feedback for Dolormente (#651)                           | ✅ Approve             | 2      |
 | 2026-04-20 | Nice                                                    | Update CharlesJustin_Javier.md (#652)                         | ✅ Approve             | 2      |
-| Total as of 2026-04-21  | -                                          | -                                                             | -                       | 63     |
+| 2026-04-21 | Great job!                                              | aaa (#665)                                                    | ✅ Approve             | 2      |
+| 2026-04-21 | Good journal and helpful feedbacks                      | Update Kenneth_Saan.md (#667)                                 | ✅ Approve             | 2      |
+| 2026-04-21 | nice helpful feedback                                   | Add comment from Silva, Vinz Joseph R. (#668)                 | ✅ Approve             | 2      |
+| 2026-04-21 | good feedback                                           | Add feedback comments for calculator (#669)                   | ✅ Approve             | 2      |
+| 2026-04-21 | nice job helping other teammates                        | Update Nelson_Cantela.md (#670)                               | ✅ Approve             | 2      | 
+| 2026-04-21 | Very nice reflections/takeaways                         | Update Vinz_Silva.md (#671)                                   | ✅ Approve             | 2      |
+| 2026-04-21 | feedback approved                                       | Added Peer Feedback (#672)                                    | ✅ Approve             | 2      |
+| 2026-04-21 | great helpful feedback                                  | Added Peer Feedback (#673)                                    | ✅ Approve             | 2      |
+| 2026-04-21 | nice feedback                                           | Added Peer Feedback (#675)                                    | ✅ Approve             | 2      |
+| 2026-04-21 | approved                                                | Update team-changelog.md (#678)                               | ✅ Approve             | 2      |
+| 2026-04-21 | Nice reflections                                        | Update learning log with new concepts and feedback (#679)     | ✅ Approve             | 2      |
+| 2026-04-21 | Good takeaways                                          | Update learning log with new concepts and feedback (#680)     | ✅ Approve             | 2      |
+| 2026-04-27 | Good job organizing your code and using build tool!     | created packages and build tool (#704)                        | ✅ Approve             | 2      |
+| 2026-04-27 | change root name to your surname                        | packages-and-organization lab activity (#706)                 | 🔴 Changes Requested   | 3      |
+| 2026-04-27 | Great job using build tools and proper packaging        | packages-and-organization lab activity (#706)                 | ✅ Approve             | 2      |
+| 2026-04-27 | Good job reflecting                                     | Update Henry_Dolormente.md (#708)                             | ✅ Approve             | 2      |
+| 2026-04-27 | Nice job in using packages and using build tool         | Update Packages and build tools (#709)                        | ✅ Approve             | 2      |
+| Total as of 2026-04-27  | -                                          | -                                                             | -                       | 98     |
+
+
