@@ -26,6 +26,8 @@
 
 **\<04/21/2026\>** : I learned how to create and handle exceptions and build a simple calculator using the four OOP concepts. Next time, I want to learn more types of exceptions to handle real-world cases better. I also helped create the models, exceptions, and demo for the calculator.
 
+**\<04/27/2026\>** : I learned how to use gradle and next time I will try to use maven and practice it too.
+
 ## Peer Feedback
 ---
 **\<04/21/2026\>** Commented by: Mance, John Roque R.: you did well in making exceptions and to improve you can lessen your comments to avoid confusion.
