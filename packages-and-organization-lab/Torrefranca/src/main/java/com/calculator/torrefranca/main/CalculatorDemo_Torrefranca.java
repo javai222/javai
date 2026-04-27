@@ -5,7 +5,7 @@ import java.util.Scanner;
 import com.calculator.torrefranca.exception.DiviByZero;
 import com.calculator.torrefranca.exception.InputInvaliddException;
 import com.calculator.torrefranca.exception.NegativeNum;
-import com.calculator.torrefranca.service.Calculatorrrr;
+import com.calculator.torrefranca.Calculator;
 
 public class CalculatorDemo_Torrefranca {
 
