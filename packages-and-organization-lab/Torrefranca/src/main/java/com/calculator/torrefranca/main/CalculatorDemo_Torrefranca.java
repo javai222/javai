@@ -5,13 +5,13 @@ import java.util.Scanner;
 import com.calculator.torrefranca.exception.DiviByZero;
 import com.calculator.torrefranca.exception.InputInvaliddException;
 import com.calculator.torrefranca.exception.NegativeNum;
-import com.calculator.torrefranca.Calculator;
+import com.calculator.torrefranca.Calculatorrrr;
 
 public class CalculatorDemo_Torrefranca {
 
     public static void main(String[] args) {
 
-        Calculator calc = new Calculator();
+        Calculatorrrr calc = new Calculator();
         Scanner scanner = new Scanner(System.in);
 
         try {
