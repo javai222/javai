@@ -26,6 +26,8 @@
 
 **\<04/18/2026\>** : I learned how to properly use checked and unchecked exceptions, and next time I will improve my planning of class design before building the code to my implementation better.
 
+**\<04/27/2026\>** : I learned how to organize my codes using packages and how to use Gradle as a build tool, and next time I will explore more about build tools to easily use it.
+
 ## Peer Feedback
 **\<03/11/2026\>** Comment by: **<Dolormente, Henry II, S.>** You did well on creating the class and the object, you also did good on collaborating with me! You can improve more by familarizing yourself with github.
 
@@ -47,29 +49,32 @@
 
 | Date | PR # | Title | Status | Comment | Points |
 |------|------|-------|--------|---------|--------|
-| April 19, 2026 at 07:01:26 AM | #639 | Updated Journal Entry and Plus Points from Pull Requests | APPROVED | "Approved" | 2 |
-| April 19, 2026 at 07:00:45 AM | #638 | Added Comments | APPROVED | "Approved" | 2 |
-| April 16, 2026 at 11:34:24 AM | #611 | Abstraction and polymorphism | APPROVED | "Approved" | 2 |
-| April 16, 2026 at 11:35:22 AM | #610 | Calculator files APPROVE PLS ;) | APPROVED | "Approved" | 2 |
-| April 16, 2026 at 11:33:42 AM | #612 | AbstractionANDPolymorphism_Mance | APPROVED | "Approved" | 2 |
-| April 10, 2026 at 10:48:24 AM | #594 | Peer feedback comment on Tismo | APPROVED | "Good and helpful feedback!" | 2 |
-| April 10, 2026 at 10:47:37 AM | #593 | Peer feedback comment on Casapao | APPROVED | "Good and helpful feedback!" | 2 |
-| April 9, 2026 at 8:01:01 AM | #582 | Update Vinz_Silva.md | APPROVED | "It is good and helpful feedback" | 2 |
-| April 7, 2026 at 9:08:20 AM | #569 | Update Kenneth_Saan.md | APPROVED | "Approved" | 2 |
-| April 2, 2026 at 9:51:25 AM | #539 | Update Johnroque_Mance | APPROVED | "Good and helpful feedback" | 2 |
-| March 31, 2026 at 10:02:18 AM | #538 | Update Nelson_Cantela.md | APPROVED | "It is good and helpful feedback." | 2 |
-| March 31, 2026 at 10:55:17 AM | #543 | Update CharlesJustin_Javier.md | APPROVED | "good reflection" | 2 |
-| March 31, 2026 at 9:53:17 AM | #540 | Created Composed Class and Demo Class | APPROVED | "nice and simple composed and demo class" | 2 |
-| March 27, 2026 at 12:25:05 PM | #496 | Heart | APPROVED | "Nice class, it is easy to read and organized" | 2 |
-| March 24, 2026 at 10:50:11 AM | #456 | Cantela composition 1 | APPROVED | "Very Good! It includes good validation to prevent invalid attribute values." | 2 |
-| March 24, 2026 at 9:29:31 AM | #450 | Created Libag class | APPROVED | (no comment) | 1 |
-| March 24, 2026 at 9:11:20 AM | #448 | Inheritance Saan | APPROVED | "Very Good! Approved" | 2 |
-| March 23, 2026 at 10:12:53 PM | #444 | Fixed the date for Inheritance learning entry | APPROVED | (no comment) | 1 |
-| March 23, 2026 at 10:12:34 PM | #443 | Add peer feedback comment from De Leon | APPROVED | (no comment) | 1 |
-| March 23, 2026 at 10:12:15 PM | #442 | Add feedback comment from De Leon, Lord Ulrick A. | APPROVED | (no comment) | 1 |
-| March 23, 2026 at 9:55:41 PM | #441 | Add peer feedback comments for code improvements | APPROVED | (no comment) | 1 |
-| March 23, 2026 at 9:53:33 PM | #439 | Update Vinz_Silva.md with personal learning reflection | APPROVED | (no comment) | 1 |
-| March 23, 2026 at 9:54:52 PM | #438 | Update journal entries | APPROVED | (no comment) | 1 |
-| March 23, 2026 at 9:54:26 PM | #437 | peer feedback for tismo | APPROVED | (no comment) | 1 |
+| April 27, 2026  | #717 | Update Journal | APPROVED | Good Reflection! | 2 |
+| April 27, 2026  | #704 | Update Henry_Dolormente.md | APPROVED | Nice Reflection! | 2 |
+| April 27, 2026  | #704 | created packages and build tool | APPROVED | Nice work organizing your code with packages and build tools! | 2 |
+| April 19, 2026  | #639 | Updated Journal Entry and Plus Points from Pull Requests | APPROVED | "Approved" | 2 |
+| April 19, 2026  | #638 | Added Comments | APPROVED | "Approved" | 2 |
+| April 16, 2026  | #611 | Abstraction and polymorphism | APPROVED | "Approved" | 2 |
+| April 16, 2026  | #610 | Calculator files APPROVE PLS ;) | APPROVED | "Approved" | 2 |
+| April 16, 2026  | #612 | AbstractionANDPolymorphism_Mance | APPROVED | "Approved" | 2 |
+| April 10, 2026  | #594 | Peer feedback comment on Tismo | APPROVED | "Good and helpful feedback!" | 2 |
+| April 10, 2026  | #593 | Peer feedback comment on Casapao | APPROVED | "Good and helpful feedback!" | 2 |
+| April 9, 2026  | #582 | Update Vinz_Silva.md | APPROVED | "It is good and helpful feedback" | 2 |
+| April 7, 2026  | #569 | Update Kenneth_Saan.md | APPROVED | "Approved" | 2 |
+| April 2, 2026  | #539 | Update Johnroque_Mance | APPROVED | "Good and helpful feedback" | 2 |
+| March 31, 2026  | #538 | Update Nelson_Cantela.md | APPROVED | "It is good and helpful feedback." | 2 |
+| March 31, 2026  | #543 | Update CharlesJustin_Javier.md | APPROVED | "good reflection" | 2 |
+| March 31, 2026  | #540 | Created Composed Class and Demo Class | APPROVED | "nice and simple composed and demo class" | 2 |
+| March 27, 2026  | #496 | Heart | APPROVED | "Nice class, it is easy to read and organized" | 2 |
+| March 24, 2026  | #456 | Cantela composition 1 | APPROVED | "Very Good! It includes good validation to prevent invalid attribute values." | 2 |
+| March 24, 2026  | #450 | Created Libag class | APPROVED | (no comment) | 1 |
+| March 24, 2026  | #448 | Inheritance Saan | APPROVED | "Very Good! Approved" | 2 |
+| March 23, 2026  | #444 | Fixed the date for Inheritance learning entry | APPROVED | (no comment) | 1 |
+| March 23, 2026  | #443 | Add peer feedback comment from De Leon | APPROVED | (no comment) | 1 |
+| March 23, 2026  | #442 | Add feedback comment from De Leon, Lord Ulrick A. | APPROVED | (no comment) | 1 |
+| March 23, 2026  | #441 | Add peer feedback comments for code improvements | APPROVED | (no comment) | 1 |
+| March 23, 2026  | #439 | Update Vinz_Silva.md with personal learning reflection | APPROVED | (no comment) | 1 |
+| March 23, 2026  | #438 | Update journal entries | APPROVED | (no comment) | 1 |
+| March 23, 2026  | #437 | peer feedback for tismo | APPROVED | (no comment) | 1 |
 
-**Total Points: 40**
+**Total Points: **
