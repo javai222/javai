@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'com.calculator.casapao'
+version = '1.0'
+
+application {
+    mainClass = 'com.calculator.casapao.main.CalculatorDemo_Casapao'
+}
+
+repositories {
+    mavenCentral()
+}
