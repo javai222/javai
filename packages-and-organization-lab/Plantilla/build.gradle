@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'com.calculator'
+version = '1.0'
+
+application {
+    mainClass = 'com.calculator.plantilla.main.CalculatorDemo_Plantilla'
+}
+
+run {
+    standardInput = System.in
+}
