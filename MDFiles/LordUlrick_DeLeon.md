@@ -29,6 +29,8 @@
 
 **\<04/19/2026\>** : I learned more about Exceptions and Errors and Java Packages in our lab and to improve, next time I will analyze the code betterto determine the causes of errors better and to deepen my understaning of OOP.
 
+**\<04/27/2026\>** : I learned about how Java Packages makes things more organized in our lab and to improve, next time I will use what I learned and apply it.
+
 ---
 
 ## 👥 Peer feedback
