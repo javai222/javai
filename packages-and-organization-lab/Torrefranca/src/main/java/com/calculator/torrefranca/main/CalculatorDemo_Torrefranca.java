@@ -11,7 +11,7 @@ public class CalculatorDemo_Torrefranca {
 
     public static void main(String[] args) {
 
-        Calculatorrrr calc = new Calculator();
+        Calculatorrrr calc = new Calculatorrrr();
         Scanner scanner = new Scanner(System.in);
 
         try {
