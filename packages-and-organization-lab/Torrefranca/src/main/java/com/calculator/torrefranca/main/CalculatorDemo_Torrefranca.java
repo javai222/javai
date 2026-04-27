@@ -2,10 +2,10 @@ package com.calculator.torrefranca.exception;
 
 import java.util.Scanner;
 
-import exceptions.DiviByZero;
-import exceptions.InputInvaliddException;
-import exceptions.NegativeNum;
-import model.Calculatorrrr;
+import com.calculator.torrefranca.exception.DiviByZero;
+import com.calculator.torrefranca.exception.InputInvaliddException;
+import com.calculator.torrefranca.exception.NegativeNum;
+import com.calculator.torrefranca.service.Calculatorrrr;
 
 public class CalculatorDemo_Torrefranca {
 
