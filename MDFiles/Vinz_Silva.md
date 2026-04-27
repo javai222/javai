@@ -29,6 +29,8 @@
 
 \<04/21/2026\> : Exceptions teaches me how to detect a specific anomaly in the code in order for it to not crush, next time i will try to understand it comprehensively for a better and clean exception hanndling outcome of my code.
 
+\<04/27/2026\> : I have gained a new knowledge about creating packages and its function in your code, next tim I will try my best to master and understand the use of build tools (Maven and Gradle)
+
 
 # Peer Feedback
 ---
