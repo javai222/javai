@@ -1,5 +1,23 @@
 /*
-*Created by Tismo
+*Created by Tismo, Yvette Germaine E.
+
+* How did you organize your packages?
+    - I created 3 packages that have different responsibilities so that it is easier to find and it is more organized
+        - com.calculator.tismo.main → contains the main class (CalculatorDemo_JHY) that runs the program
+        - com.calculator.tismo.service → contains the Calculator class where all operations and logic are implemented
+        - com.calculator.tismo.exception → contains custom exception classes
+
+* Why did you separate your classes this way?
+    - So that it is easier to understand and find the files based on its responsibilities
+
+* How do packages improve encapsulation?
+    - Packages improve encapsulation by grouping related classes and controlling access through the use of access modifiers
+
+* Where are your exceptions located?
+    - My exceptions are located on the package named com.calculator.tismo.exceptions
+
+* Why did you choose Maven or Gradle?
+    - I choose Gradle because it seemed easier to use and understand. Also because it is faster and more flexible than Maven
 
 */
 
