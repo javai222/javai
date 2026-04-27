@@ -1,4 +1,4 @@
-package com.calculator.torrefranca.exception;
+package com.calculator.torrefranca.service;
 
 import com.calculator.torrefranca.exception.DiviByZero;
 import com.calculator.torrefranca.exception.InputInvaliddException;
