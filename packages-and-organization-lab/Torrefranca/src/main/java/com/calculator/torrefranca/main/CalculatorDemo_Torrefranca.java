@@ -1,4 +1,4 @@
-package com.calculator.torrefranca.exception;
+package com.calculator.torrefranca.main;
 
 import java.util.Scanner;
 
@@ -11,11 +11,10 @@ public class CalculatorDemo_Torrefranca {
 
     public static void main(String[] args) {
 
-        Calculatorrrr calc = new Calculatorrrr();
+        Calculator calc = new Calculator();
         Scanner scanner = new Scanner(System.in);
 
         try {
-
             System.out.print("Enter first number: ");
             double a = calc.parseInput(scanner.nextLine());
 
