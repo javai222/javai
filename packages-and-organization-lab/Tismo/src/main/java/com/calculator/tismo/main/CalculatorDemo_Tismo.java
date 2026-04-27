@@ -1,3 +1,8 @@
+/*
+*Created by Tismo
+
+*/
+
 package com.calculator.tismo.main;
 
 import com.calculator.tismo.exception.DivisionByZeroException;
@@ -5,7 +10,7 @@ import com.calculator.tismo.exception.InvalidInputException;
 import com.calculator.tismo.exception.NegativeNumberException;
 import com.calculator.tismo.service.Calculator;
 
-public class CalculatorDemo_JHY {
+public class CalculatorDemo_Tismo {
     public static void main (String [] args){
         Calculator cal = new Calculator();// Initialization of calculator
 
