@@ -1,4 +1,4 @@
-package com.calculator.silva.exceptions;;
+package com.calculator.silva.exceptions;
 
 /* This exception is checked, the system will throw an exception if the user
 input an invalid number to use for operations*/
