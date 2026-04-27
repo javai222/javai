@@ -1,4 +1,4 @@
-package model;
+package com.calculator.torrefranca.exception;
 
 public class Operations {
 
