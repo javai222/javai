@@ -1,8 +1,8 @@
 package com.calculator.torrefranca.exception;
 
-import exceptions.DiviByZero;
-import exceptions.InputInvaliddException;
-import exceptions.NegativeNum;
+import com.calculator.torrefranca.exception.DiviByZero;
+import com.calculator.torrefranca.exception.InputInvaliddException;
+import com.calculator.torrefranca.exception.NegativeNum;
 
 public class Calculatorrrr extends Operations {
 
