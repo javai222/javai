@@ -20,3 +20,25 @@ public class CalculatorDemo_Javier {
         }
     }
 }
+
+/*
+PACKAGE ORGANIZATION:
+I organized my project into separate packages such as service, exception, and main
+to clearly separate responsibilities of each class.
+
+REASON FOR SEPARATION:
+The service package handles the calculator logic, while the exception package
+contains custom errors. This improves readability and maintainability.
+
+ENCAPSULATION:
+Packages improve encapsulation by grouping related classes and limiting access
+using access modifiers like private and package-private.
+
+EXCEPTIONS LOCATION:
+All custom exceptions are placed in the exception package for better organization
+and reusability.
+
+BUILD TOOL:
+I chose Maven because it is simple to use and standard in Java projects. It helps
+manage dependencies and build the project efficiently.
+*/
