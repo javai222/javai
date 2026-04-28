@@ -41,6 +41,8 @@ so that I can maximize its usage for my next upcoming projects.
 
 <04/21/2026> : Comment by: <Tismo, Yvette Germaine E.>; You did a great job in helping the team make the calculator by communicating your ideas/thoughts and fixing the errors, and you can improve by learning more about exceptions and how to handle them.
 
+<04/27/2026> : Comment by: <Tismo, Yvette Germaine E.>; You did a good in helping teammates identify errors in their code for the package organization lab, and you can improve by learning more about build tools and double checking your code before pushing to main or closing github.
+
 ---
 
 ## 📊 Scores

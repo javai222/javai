@@ -43,6 +43,9 @@
 
 **<04/21/2026>** : Comment by: **De Leon, Lord Ulrick A.** You did well in doing your part in the calcuator task and demonstrated good knowledge, and you can improve by studying more and applying the concepts.
 
+**<04/27/2026>** : Comment by: **Tismo, Yvette Germaine E.** You did well in helping your other members understand a bit more about gradle and other concepts need for the packages organization lab, and you can improve by learning more about build tools and learning how to implement/use it in an advanced situation or project.
+
+
 ## ➕ Plus Points
 
 | Date | PR # | Title | Status | Comment | Points |

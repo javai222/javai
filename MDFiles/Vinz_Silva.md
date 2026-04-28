@@ -54,9 +54,12 @@
 
 *\<04/21/2026>\* : Comment by: <De Leon, Lord Ulrick A.> You did well in doing your part in the calcuator task and demonstrated good knowledge, and you can improve by studying more and applying the concepts
 
+*\<04/27/2026>\* : Comment by: <Tismo, Yvette Germaine E.> You did well in learning to use gradle and use proper packaging formats, and you can improve by learning more about the build tools ang how to implement it in more complex situations.
+
 ➕ Plus Points
 
 | Date       | Activity Type   |         Title         |                | Score |
+|------------|-----------------|-----------------------|----------------|-------|
 | 04/17/2026 | PR Approval | Abstraction Peer feedback                  |   1   |
 | 04/17/2026 | PR Approval | Abspoly conel                              |   1   |
 | 04/16/2026 | PR Approval | AbstractionANDPolymorphism_Mance           |   1   |
