@@ -32,13 +32,14 @@
 
 | Date       | PR # | Title                               | Status               | Comment                                   | Points |
 |------------|------|-------------------------------------|----------------------|-------------------------------------------|--------|
+| 04/28/2026 | #727 | Enhance documentation with code analysis and OOP details | Approved and Merged | Approved | 3pts |
 | 04/28/2026 | #722 | packagesMance                       | Approved and Merged  | Good                                      | 3pts   |
 | 04/28/2026 | #721 | Sana tapos na                      | Change Requested     | Questions on the task are not answered     | 2pts   |
 | 04/28/2026 | #724 | Add entry about learning Gradle     | Approved and Merged  | good                                      | 3pts   |
 | 04/28/2026 | #720 | Update my Journal and Add Plus Points | Approved           | good                                      | 2pts   |
 | 04/26/2026 | #699 | Packages build saan                | Approved             | Approved                                  | 2pts   |
 
-Total Points: 12pts
+Total Points: 15pts
 
 ## Peer Feedback
 **\<04/21/2026\>** : Comment by: <Mance, John Roque R.>; You did great in making model in calculator and you can improve by making your code more organized for more efficiency.
