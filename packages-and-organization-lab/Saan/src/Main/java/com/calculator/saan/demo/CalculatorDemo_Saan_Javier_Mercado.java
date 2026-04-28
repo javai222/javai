@@ -23,7 +23,7 @@ Propagation occurs when an exception is thrown and not caught in the method wher
 - How did you apply OOP concepts?
 We applied OOP concepts by creating classes for the basic operations (BasicOp) and unary operations (UnaryOp), and we used inheritance to create a hierarchy of operations. We also created custom exceptions to handle specific error cases, which is an example of encapsulation. The main method in the CalculatorDemo_Saan_Javier_Mercado class serves as the entry point for the program and demonstrates how to use the classes and handle exceptions, which is an example of abstraction.
 
-
+code analysis
 - How did you organize your packages?
 I organized my packages by separating their functionalities.
 - Why did you separate your classes this way?
