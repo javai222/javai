@@ -5,6 +5,19 @@
 
 | Date       | Activity Type   | Title                                                                                                          | Score | Total Points |
 |------------|-----------------|----------------------------------------------------------------------------------------------------------------|-------|--------------|
+| 04/28/2026 | PR Review       | commented and appproved on Saan's (Added code analysis) pr: #727                                               | 2     | 140          |
+| 04/28/2026 | PR Review       | commented and appproved on Javier's (package-build act) pr: #726                                               | 2     | 138          |
+| 04/28/2026 | PR Review       | commented and appproved on Balanon's (update personal.md) pr: #725                                               | 2     | 136          |
+| 04/28/2026 | PR Review       | commented and appproved on Conel's (package-build act) pr: #721                                               | 2     | 134          |
+| 04/28/2026 | PR Review       | commented and appproved on Plantilla's (Journal md file) pr: #720                                               | 2     | 132          |
+| 04/28/2026 | PR Review       | commented and appproved on De Leon's (Journal) pr: #719                                               | 2     | 130          |
+| 04/28/2026 | PR Review       | commented and appproved on Tismo's (Peer Feedback) pr: #718                                               | 2     | 128          |
+| 04/28/2026 | Quiz/Recitation       | recitation Springboot and database                                               | 5     | 126          |
+| 04/27/2026 | PR Review       | commented and appproved on Torrefranca's (packages-and-organization act) pr: #710                                               | 2     | 121          |
+| 04/27/2026 | PR Review       | commented and appproved on Casapao's (Peer feedback) pr: #716                                               | 2     | 119          |
+| 04/27/2026 | PR Review       | commented and appproved on Silva's (update journal) pr: #717                                               | 2     | 117          |
+| 04/26/2026 | PR Review       | commented and appproved on Balanon's (package build) pr: #701                                               | 2     | 115          |
+| 04/26/2026 | PR Review       | commented and appproved on Saan's (package build) pr: #699                                               | 2     | 113          |
 | 04/21/2026 | PR Review       | commented and appproved on De Leon's (personal.md file) pr: #658                                               | 2     | 111          |
 | 04/21/2026 | PR Review       | commented and appproved on Saan's (comment and feedback) pr: #660                                              | 2     | 109          |
 | 04/21/2026 | PR Review       | commented and appproved on Mercado's (Implementation and demo class) pr: #659                                  | 2     | 107          |
@@ -229,3 +242,33 @@ commented and appproved on Saan's (comment and feedback) pr 2 pts - #660
 commented and appproved on De Leon's (personal.md file) pr 2 pts - #658
 
 ## Pull Request pts: FINALS
+
+**<4/26/26>**
+
+commented and approved on Saan's (package build) pr: 2pts - #699
+
+commented and approved on Balanon's (package build) pr: 2pts - #701
+
+**<4/27/26>**
+
+commented and approved on Plantilla's (Journal) pr 2pt - #717
+
+commented and approved on Casapao's (Peer feedback) pr 2pt - #716
+
+commented and approved on Torrefranca's (packages-and-organization act) pr 2pt - #710
+
+**<4/28/26>**
+
+commented and approved on Tismo's (packages peer feedback) pr 2pt - #718
+
+commented and approved on De Leon's (journal) pr 2pt - #719
+
+commented and approved on Plantilla's (Journal) pr 2pt - #720
+
+commented and approved on Conel's (packages-and-organization act) pr 2pt - #721
+
+commented and approved on Balanon's (packages-and-organization act) pr 2pt - #725
+
+commented and approved on Javier's (packages-and-organization act) pr 2pt - #726
+
+commented and approved on Saan's (Added code analysis) pr 2pt - #727
