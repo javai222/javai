@@ -1,50 +1,34 @@
 name: Build Java Files
 
 on:
-    push:
-      branches: [ main, develop-* ]
-    pull_request:
-      branches: [ main, develop-* ]
+  push:
+    branches: [ main, develop-* ]
+  pull_request:
+    branches: [ main, develop-* ]
 
-  jobs:
-    build-labs:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout Repository
-          uses: actions/checkout@v4
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-        - name: Setup Java
-          uses: actions/setup-java@v4
-          with:
-            distribution: temurin
-            java-version: '21'
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-        - name: Compile Non-Maven Labs
-          run: |
-            set -e
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      - name: Detect and Build Project
+        run: |
+          if [ -f "pom.xml" ]; then
+            echo "Maven project detected"
+            mvn clean install -DskipTests
+          
+          else
+            echo "Plain Java project detected"
             mkdir -p bin
-            find . -name "*.java" ! -path "*/springboot-lab/*" > sources.txt
-            if [ -s sources.txt ]; then
-              javac -d bin -cp bin @sources.txt
-            fi
-
-    build-springboot:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout Repository
-          uses: actions/checkout@v4
-
-        - name: Setup Java
-          uses: actions/setup-java@v4
-          with:
-            distribution: temurin
-            java-version: '21'
-            cache: maven
-
-        - name: Build with Maven
-          run: |
-            if [ -f springboot-lab/pom.xml ]; then
-              cd springboot-lab && mvn -B package -DskipTests
-            elif [ -f pom.xml ]; then
-              mvn -B package -DskipTests
-            fi
+            find . -name "*.java" > sources.txt
+            javac -d bin -cp bin @sources.txt
+          fi
