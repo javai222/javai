@@ -1,7 +1,7 @@
 /* 
 Created by Yvette Tismo
 * How did you create your Spring Boot project?
-    - I created my project with the help of Spring Initializr, Intellij/codespace 
+    - I created my project with the help of Spring Initializr, Intellij/codespace, and AI
 
 * What is the purpose of the @RestController annotation?
     - It tells spring that HTTP requests and that the return values of its methods should be automatically converted into JSON and sent in the HTTP response body.
