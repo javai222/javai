@@ -93,6 +93,9 @@
 
 **\<04/28/2026\>** : I learned about Springboot and some basic APIs, and next I will deep dive in this topic cause I find it interesting and useful for my future projects
 
+**\<04/28/2026\>** : I changed the repo yml to properly detect and build all Maven projects across the repo. I did it by searching the repository for any pom.xml, once found the workflow 
+                      treats each package as a maven project and runs maven build command on it, so dependencies and structure are correctly resolved. 
+
 ---
 ## Peer Feedback
 
