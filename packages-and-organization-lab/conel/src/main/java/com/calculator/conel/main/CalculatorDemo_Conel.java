@@ -1,4 +1,22 @@
- // Class Created by Mance, John Roque R.
+  // Author: Conel, Rahzel Heeroe R.
+
+/*
+1. **How did you organize your packages?**
+   I organized my packages based on their purpose. The model package contains the abstract class, the service package handles the calculator functions, the exceptions package contains the custom exceptions, and the main package is for the user input and program execution.
+
+2. **Why did you separate your classes this way?**
+   I separated my classes so each one has its own responsibility. This makes the code more organized, easier to understand, and easier to maintain.
+
+3. **How do packages improve encapsulation?**
+   Packages improve encapsulation by grouping related classes together and controlling access to certain parts of the program. This helps keep the code secure and organized.
+
+4. **Where are your exceptions located?**
+   My custom exceptions are located in the `com.calculator.balanon.exceptions` package.
+
+5. **Why did you choose Maven or Gradle?**
+   I chose Gradle because it is easy to use, flexible, and helps make building and running the project faster and more efficient.
+
+*/
 
 package com.calculator.conel.main;
 
@@ -71,34 +89,3 @@ public class CalculatorDemo_Conel {
     }
 }
 
-/*
-1. EXCEPTIONS CREATED:
-- InvalidNumberFormatException
-- NegativeValueException
-- ZeroDivisionException
-
-2. CHECKED VS UNCHECKED:
-- Checked: InvalidNumberFormatException (extends Exception)
-- Unchecked: NegativeValueException, ZeroDivisionException (extends RuntimeException)
-
-3. WHERE EXCEPTIONS ARE THROWN:
-- InvalidNumberFormatException -> parseInput() when input is not a number
-- NegativeValueException -> checkNegative() when value is negative
-- ZeroDivisionException -> divide() when divisor is 0
-
-4. WHERE EXCEPTIONS ARE HANDLED:
-- CalculatorDemo (main class)
-  - InvalidNumberFormatException handled in outer try-catch
-  - NegativeValueException handled in each operation try-catch
-  - ZeroDivisionException handled in division try-catch
-
-5. WHERE PROPAGATION OCCURS:
-- Exceptions are thrown from Calculator class methods
-- They propagate to CalculatorDemo unless caught
-
-6. OOP CONCEPTS USED:
-- Encapsulation: validation methods inside Calculator class
-- Abstraction: Operations abstract class defines methods
-- Inheritance: Calculator extends Operations
-- Polymorphism: method overloading and overriding
-*/

@@ -7,7 +7,7 @@ group = 'com.calculator'
 version = '1.0'
 
 application {
-    mainClass = 'com.calculator.balanon.main.CalculatorDemo_Balanon_Conel_Mance'
+    mainClass = 'com.calculator.balanon.main.CalculatorDemo_Balanon'
 }
 
 repositories {
