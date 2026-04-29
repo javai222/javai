@@ -18,7 +18,7 @@
 ->Uses Jackson library to convert objects to JSON.
  */
 
-package com.cantela.springboot;
+package com.cantela.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
