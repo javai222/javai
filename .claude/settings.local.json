@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"oop-databases-lab/Cantela\")",
+      "Bash(cp -r \"springboot-lab/Cantela/api-demo\" \"oop-databases-lab/Cantela/\")",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(mvn clean *)"
+    ]
+  }
+}
