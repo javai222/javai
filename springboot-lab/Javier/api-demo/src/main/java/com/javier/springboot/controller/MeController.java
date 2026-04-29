@@ -1,4 +1,4 @@
-package com.javier.springboot.controller;
+package com.javier.springboot.controller.MeController;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
