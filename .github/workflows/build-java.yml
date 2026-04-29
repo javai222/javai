@@ -1,28 +1,50 @@
 name: Build Java Files
 
 on:
-  push:
-    branches: [ main,develop-* ]
-  pull_request:
-    branches: [ main, develop-* ]
+    push:
+      branches: [ main, develop-* ]
+    pull_request:
+      branches: [ main, develop-* ]
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+  jobs:
+    build-labs:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout Repository
+          uses: actions/checkout@v4
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+        - name: Setup Java
+          uses: actions/setup-java@v4
+          with:
+            distribution: temurin
+            java-version: '21'
 
-      - name: Setup Java
-        uses: actions/setup-java@v4
-        with:
-          distribution: temurin
-          java-version: '21'
+        - name: Compile Non-Maven Labs
+          run: |
+            set -e
+            mkdir -p bin
+            find . -name "*.java" ! -path "*/springboot-lab/*" > sources.txt
+            if [ -s sources.txt ]; then
+              javac -d bin -cp bin @sources.txt
+            fi
 
-      - name: Compile All Java Files
-        run: |
-          set -e
-          mkdir -p bin
-          find . -name "*.java" > sources.txt
-          javac -d bin -cp bin @sources.txt
+    build-springboot:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout Repository
+          uses: actions/checkout@v4
+
+        - name: Setup Java
+          uses: actions/setup-java@v4
+          with:
+            distribution: temurin
+            java-version: '21'
+            cache: maven
+
+        - name: Build with Maven
+          run: |
+            if [ -f springboot-lab/pom.xml ]; then
+              cd springboot-lab && mvn -B package -DskipTests
+            elif [ -f pom.xml ]; then
+              mvn -B package -DskipTests
+            fi
