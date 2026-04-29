@@ -22,10 +22,20 @@ jobs:
 
       - name: Detect and Build Project
         run: |
-          if [ -f "pom.xml" ]; then
+          if find . -name "pom.xml" | grep -q .; then
             echo "Maven project detected"
-            mvn clean install -DskipTests
-          
+            
+            for pom in $(find . -name "pom.xml"); do
+              dir=$(dirname "$pom")
+              echo "-----------------------------------"
+              echo "Building Maven project in: $dir"
+              cd "$dir"
+              
+              mvn clean install -DskipTests
+              
+              cd -
+            done
+
           else
             echo "Plain Java project detected"
             mkdir -p bin
