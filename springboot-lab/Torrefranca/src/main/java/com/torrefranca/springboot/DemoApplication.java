@@ -1,4 +1,4 @@
-package com.torrefranca.demo;
+package com.torrefranca.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
