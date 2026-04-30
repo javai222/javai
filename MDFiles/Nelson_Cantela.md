@@ -97,6 +97,9 @@
 **\<04/28/2026\>** : I changed the repo yml to properly detect and build all Maven projects across the repo. I did it by searching the repository for any pom.xml, once found the workflow 
                       treats each package as a maven project and runs maven build command on it, so dependencies and structure are correctly resolved. 
 
+**\<04/30/2026\>** : I learned about springboot, how to use it, and how to integrate it with databases, and next I will try to create a project using springboot and database to get more experience in this topic. 
+                        Also this is the hardest activity for me to do.
+
 ---
 ## Peer Feedback
 
