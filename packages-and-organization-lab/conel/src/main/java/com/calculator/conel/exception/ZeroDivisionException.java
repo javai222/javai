@@ -1,0 +1,14 @@
+package com.calculator.conel.exceptions;
+
+/*
+ * Custom UNCHECKED exception made by Conel
+ * This is thrown when the user tries to divide a number by zero.
+ * Extends RuntimeException so it is not required to be handled using try-catch.
+ */
+public class ZeroDivisionException extends RuntimeException {
+
+    // Constructor to pass custom error message
+    public ZeroDivisionException(String message) {
+        super(message);
+    }
+}
