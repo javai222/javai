@@ -29,6 +29,10 @@
 
 **\<04/27/2026\>** : I learned how to use the standard/basic Gradle build tool procedure and the correct use of packages, next time I would try to learn more about gradle so that I would be able to finish my work faster and more efficiently.
 
+**\<04/29/2026\>** : I learned how to use the spring initializr to generate my project as well as how to use request mapping, next time I would try to learn more about how to create api's and other projects.
+
+**\<04/30/2026\>** : I learned how to use sql and h2 console as well as how to use postman and other dependencies in coding, next time I would try to learn more about what dependencies to use and try to code more efficiently and learn about sql in general.
+
 # Peer Feedback
 ---
 **\<03/11/2026\>** : Comment by: <Casapao, Jasmin Ann M.>; You did well in coding and helping me in github, and you can improve by practicing and learning new in github.
