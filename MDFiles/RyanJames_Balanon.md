@@ -32,6 +32,8 @@
 
 | Date       | PR # | Title                               | Status               | Comment                                   | Points |
 |------------|------|-------------------------------------|----------------------|-------------------------------------------|--------|
+| 05/02/2026 | #752 | databaseee | Approved | Ws paturo | 2pts | 
+| 05/02/2026 | #748 | pro | Approved and Merged | Good | 3pts |
 | 05/02/2026 | #747 | Added Springboot api | Approved and Merged | Approved | 3pts | 
 | 04/30/2026 | #742 | hello pls approve :D                | Approved and Merged | Goodwork | 3pts | 
 | 04/28/2026 | #727 | Enhance documentation with code analysis and OOP details | Approved and Merged | Approved |  3pts |
@@ -41,7 +43,7 @@
 | 04/28/2026 | #720 | Update my Journal and Add Plus Points | Approved           | good                                      | 2pts   |
 | 04/26/2026 | #699 | Packages build saan                | Approved             | Approved                                  | 2pts   |
 
-Total Points: 22pts
+Total Points: 27pts
 
 ## Peer Feedback
 **\<04/21/2026\>** : Comment by: Conel, Rahzel Heeroe R. ; U DID A GOOD GOOD AT MAKING A CALCULATOR
