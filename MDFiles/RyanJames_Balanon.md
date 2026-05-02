@@ -32,7 +32,9 @@
 
 | Date       | PR # | Title                               | Status               | Comment                                   | Points |
 |------------|------|-------------------------------------|----------------------|-------------------------------------------|--------|
-| 04/28/2026 | #727 | Enhance documentation with code analysis and OOP details | Approved and Merged | Approved | 3pts |
+| 05/02/2026 | #747 | Added Springboot api | Approved and Merged | Approved | 3pts | 
+| 04/30/2026 | #742 | hello pls approve :D                | Approved and Merged | Goodwork | 3pts | 
+| 04/28/2026 | #727 | Enhance documentation with code analysis and OOP details | Approved and Merged | Approved |  3pts |
 | 04/28/2026 | #722 | packagesMance                       | Approved and Merged  | Good                                      | 3pts   |
 | 04/28/2026 | #721 | Sana tapos na                      | Change Requested     | Questions on the task are not answered     | 2pts   |
 | 04/28/2026 | #724 | Add entry about learning Gradle     | Approved and Merged  | good                                      | 3pts   |
