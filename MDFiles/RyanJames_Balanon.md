@@ -41,7 +41,7 @@
 | 04/28/2026 | #720 | Update my Journal and Add Plus Points | Approved           | good                                      | 2pts   |
 | 04/26/2026 | #699 | Packages build saan                | Approved             | Approved                                  | 2pts   |
 
-Total Points: 15pts
+Total Points: 22pts
 
 ## Peer Feedback
 **\<04/21/2026\>** : Comment by: <Mance, John Roque R.>; You did great in making model in calculator and you can improve by making your code more organized for more efficiency.
