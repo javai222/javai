@@ -233,6 +233,14 @@ You must clearly identify:
 - [ ] Custom exception handling
 - [ ] Integration tests (optional)
 - [ ] Multiple polymorphic implementations
+- [ ] Code Coverage using Jacoco; at least 90% code coverage
+---
+Optional but will get you high points:
+1. Add Jacoco to pom.xml
+2. Run Unit Tests with coverage (mvn clean test)
+3. Open coverage report (target/site/jacoco/index.html)
+4. Really optional: Add enforcement of minimum code coverage to pom.xml via <executions>
+
 
 ---
 
