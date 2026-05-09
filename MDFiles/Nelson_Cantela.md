@@ -3,70 +3,71 @@
 
 ## 📊 Scores
 
-| Date       | Activity Type   | Title                                                                                                          | Score | Total Points |
-|------------|-----------------|----------------------------------------------------------------------------------------------------------------|-------|--------------|
-| 04/28/2026 | PR Review       | commented and appproved on Saan's (Added code analysis) pr: #727                                               | 2     | 140          |
-| 04/28/2026 | PR Review       | commented and appproved on Javier's (package-build act) pr: #726                                               | 2     | 138          |
-| 04/28/2026 | PR Review       | commented and appproved on Balanon's (update personal.md) pr: #725                                               | 2     | 136          |
-| 04/28/2026 | PR Review       | commented and appproved on Conel's (package-build act) pr: #721                                               | 2     | 134          |
-| 04/28/2026 | PR Review       | commented and appproved on Plantilla's (Journal md file) pr: #720                                               | 2     | 132          |
-| 04/28/2026 | PR Review       | commented and appproved on De Leon's (Journal) pr: #719                                               | 2     | 130          |
-| 04/28/2026 | PR Review       | commented and appproved on Tismo's (Peer Feedback) pr: #718                                               | 2     | 128          |
-| 04/28/2026 | Quiz/Recitation       | recitation Springboot and database                                               | 5     | 126          |
-| 04/27/2026 | PR Review       | commented and appproved on Torrefranca's (packages-and-organization act) pr: #710                                               | 2     | 121          |
-| 04/27/2026 | PR Review       | commented and appproved on Casapao's (Peer feedback) pr: #716                                               | 2     | 119          |
-| 04/27/2026 | PR Review       | commented and appproved on Silva's (update journal) pr: #717                                               | 2     | 117          |
-| 04/26/2026 | PR Review       | commented and appproved on Balanon's (package build) pr: #701                                               | 2     | 115          |
-| 04/26/2026 | PR Review       | commented and appproved on Saan's (package build) pr: #699                                               | 2     | 113          |
-| 04/21/2026 | PR Review       | commented and appproved on De Leon's (personal.md file) pr: #658                                               | 2     | 111          |
-| 04/21/2026 | PR Review       | commented and appproved on Saan's (comment and feedback) pr: #660                                              | 2     | 109          |
-| 04/21/2026 | PR Review       | commented and appproved on Mercado's (Implementation and demo class) pr: #659                                  | 2     | 107          |
-| 04/17/2026 | PR Review       | commented and approved on Conel's (Abstraction activity files) pr: #621                                        | 2     | 105          |
-| 04/17/2026 | PR Review       | commented and approved on Tismo's (Abstraction peer feedback) pr: #622                                         | 2     | 103          |
-| 04/17/2026 | PR Review       | commented and approved on Silvas's (Personal.md plus pt section) pr: #624                                      | 2     | 101          |
-| 04/16/2026 | PR Review       | commented and approved on Mance's (Abstraction and Polymorphism) pr: #611                                      | 2     | 99           |
-| 04/16/2026 | PR Review       | commented and approved on Mance's (Abstract Class and Interface) pr: #612                                      | 2     | 97           |
-| 04/16/2026 | PR Review       | commented and approved on De Leon's (Abstract Class and Interface) pr:  #608                                   | 2     | 95           |
-| 04/16/2026 | PR Review       | commented and approved on Plantilla's (implementation and demo class) pr:  #609                                | 2     | 93           |
-| 04/14/2026 | PR Review       | commented and approved on Silva's (Abstract activity files) pr:  #606                                          | 2     | 91           |
-| 04/05/2026 | PR Review       | Request change on Balanon's (Abstraction and interface class) pr:  #563                                        | 2     | 89           |
-| 04/05/2026 | PR Review       | Approved on Sir Mon's (bin directory) pr:  #561                                                                | 1     | 87           |
-| 04/04/2026 | PR Review       | commented and approved on Silva's (personal md file) pr:  #558                                                 | 2     | 86           |
-| 04/04/2026 | PR Review       | commented and approved on Conel's (Inheritance files) pr:  #557                                                | 2     | 84           |
-| 04/03/2026 | PR Review       | commented and approved on Mercado's (Inheritance files) pr:  #502                                              | 2     | 82           |
-| 04/03/2026 | PR Review       | commented and approved on De Leon's (personal md file) pr: #554                                                | 2     | 80           |
-| 04/03/2026 | PR Review       | commented and approved on Silva's (personal md file) pr: #555                                                  | 2     | 78           |
-| 04/03/2026 | PR Review       | commented and approved on Silva's (personal md file) pr:  #553                                                 | 2     | 76           |
-| 04/03/2026 | PR Review       | commented and approved on Silva's (personal md file) pr: #550                                                  | 2     | 74           |
-| 04/03/2026 | PR Review       | commented and approved on Javier's (Abstraction and interface class) pr: #551                                  | 2     | 72           |
-| 03/31/2026 | PR Review       | commented and approved on Javier's (personal.md file) pr: #543                                                 | 2     | 70           |
-| 03/31/2026 | PR Review       | commented and approved on Javier's (personal.md file) pr: #537                                                 | 2     | 68           |
-| 03/31/2026 | PR Review       | commented and approved on Javier's (team feedback file) pr: #538                                               | 2     | 66           |
-| 03/31/2026 | PR Review       | comment and approved on Saan's (changelog file) pr: #541                                                       | 2     | 64           |
-| 03/31/2026 | PR Review       | commented and approved on Plantilla's (Composed and demo class) pr: #540                                       | 2     | 62           |
-| 03/31/2026 | Quiz/Recitation | Quiz 1:OOP                                                                                                     | 10    | 60           |
-| 03/29/2026 | PR Review       | approved on Plantilla's (composed and demo class) pr: #528                                                     | 1     | 50           |
-| 03/29/2026 | PR Review       | commented and approved on Javier's (storageItems.java) pr: #534                                                | 2     | 49           |
-| 03/29/2026 | PR Review       | approved on De Leon's (composed and demo class) pr: #535                                                       | 1     | 47           |
-| 03/29/2026 | PR Review       | commented and approved on Saan's (composition: 4 files including the personal file and peer feedback) pr: #536 | 2     | 46           |
-| 03/29/2026 | PR Review       | commented and approved on Mance's (composition demo class) pr: #532                                            | 2     | 44           |
-| 03/28/2026 | PR Review       | commented on Saan's (file add) pr: #497                                                                        | 1     | 42           |
-| 03/27/2026 | PR Review       | requested change, comment, and approve Torrefranca's (parent class) pr:  #463                                  | 4     | 41           |
-| 03/27/2026 | PR Review       | commented and approved on Balanon's (component class) pr: #494                                                 | 2     | 37           |
-| 03/27/2026 | PR Review       | approved on Saan's (Folder add) pr:  #495                                                                      | 1     | 35           |
-| 03/27/2026 | PR Review       | commented and approved on Saan's (component class) pr: #496                                                    | 2     | 34           |
-| 03/24/2026 | PR Review       | approved Saan's (inheritance file): #448                                                                       | 1     | 32           |
-| 03/24/2026 | PR Review       | approved Sir Mon's (readme.md) pr: #449                                                                        | 1     | 31           |
-| 03/24/2026 | PR Review       | approved Sir Mon's (libag.java class) pr: #450                                                                 | 1     | 30           |
-| 03/24/2026 | PR Review       | request change, comment, and approve Javier's (encapsulation file) pr: #452                                    | 4     | 29           |
-| 03/24/2026 | PR Review       | request change, comment, and approve Quimpan's (update processor.java file) pr: #453                           | 4     | 25           |
-| 03/24/2026 | PR Review       | approve on Dolormente's (readme.md file creation) pr: #458                                                     | 1     | 21           |
-| 03/24/2026 | PR Review       | approve on Dolormente's (readme.md file creation) pr:  #459                                                    | 1     | 20           |
-| 03/24/2026 | PR Review       | comment and approve on Quimpan's (Objects class) pr:  #462                                                     | 2     | 19           |
-| 03/24/2026 | PR Review       | request change on Quimpan's object class pr: #454                                                              | 2     | 17           |
-| 03/13/2026 | Quiz/Recitation | Quiz 1:OOP                                                                                                     | 5     | 15           |
-| 03/10/2026 | Quiz/Recitation | Quiz 1:OOP                                                                                                     | 5     | 10           |
-| 03/06/2026 | Quiz/Recitation | Quiz 1:OOP                                                                                                     | 5     | 5            |
+| Date       | Activity Type     | Title                                                                                                          | Score | Total Points |
+|------------|-------------------|----------------------------------------------------------------------------------------------------------------|-------|--------------|
+| 04/28/2026 | YML configuration | change the yml file to detect maven projects and build it properly                                             | --    | 140          |
+| 04/28/2026 | PR Review         | commented and appproved on Saan's (Added code analysis) pr: #727                                               | 2     | 140          |
+| 04/28/2026 | PR Review         | commented and appproved on Javier's (package-build act) pr: #726                                               | 2     | 138          |
+| 04/28/2026 | PR Review         | commented and appproved on Balanon's (update personal.md) pr: #725                                             | 2     | 136          |
+| 04/28/2026 | PR Review         | commented and appproved on Conel's (package-build act) pr: #721                                                | 2     | 134          |
+| 04/28/2026 | PR Review         | commented and appproved on Plantilla's (Journal md file) pr: #720                                              | 2     | 132          |
+| 04/28/2026 | PR Review         | commented and appproved on De Leon's (Journal) pr: #719                                                        | 2     | 130          |
+| 04/28/2026 | PR Review         | commented and appproved on Tismo's (Peer Feedback) pr: #718                                                    | 2     | 128          |
+| 04/28/2026 | Quiz/Recitation   | recitation Springboot and database                                                                             | 5     | 126          |
+| 04/27/2026 | PR Review         | commented and appproved on Torrefranca's (packages-and-organization act) pr: #710                              | 2     | 121          |
+| 04/27/2026 | PR Review         | commented and appproved on Casapao's (Peer feedback) pr: #716                                                  | 2     | 119          |
+| 04/27/2026 | PR Review         | commented and appproved on Silva's (update journal) pr: #717                                                   | 2     | 117          |
+| 04/26/2026 | PR Review         | commented and appproved on Balanon's (package build) pr: #701                                                  | 2     | 115          |
+| 04/26/2026 | PR Review         | commented and appproved on Saan's (package build) pr: #699                                                     | 2     | 113          |
+| 04/21/2026 | PR Review         | commented and appproved on De Leon's (personal.md file) pr: #658                                               | 2     | 111          |
+| 04/21/2026 | PR Review         | commented and appproved on Saan's (comment and feedback) pr: #660                                              | 2     | 109          |
+| 04/21/2026 | PR Review         | commented and appproved on Mercado's (Implementation and demo class) pr: #659                                  | 2     | 107          |
+| 04/17/2026 | PR Review         | commented and approved on Conel's (Abstraction activity files) pr: #621                                        | 2     | 105          |
+| 04/17/2026 | PR Review         | commented and approved on Tismo's (Abstraction peer feedback) pr: #622                                         | 2     | 103          |
+| 04/17/2026 | PR Review         | commented and approved on Silvas's (Personal.md plus pt section) pr: #624                                      | 2     | 101          |
+| 04/16/2026 | PR Review         | commented and approved on Mance's (Abstraction and Polymorphism) pr: #611                                      | 2     | 99           |
+| 04/16/2026 | PR Review         | commented and approved on Mance's (Abstract Class and Interface) pr: #612                                      | 2     | 97           |
+| 04/16/2026 | PR Review         | commented and approved on De Leon's (Abstract Class and Interface) pr:  #608                                   | 2     | 95           |
+| 04/16/2026 | PR Review         | commented and approved on Plantilla's (implementation and demo class) pr:  #609                                | 2     | 93           |
+| 04/14/2026 | PR Review         | commented and approved on Silva's (Abstract activity files) pr:  #606                                          | 2     | 91           |
+| 04/05/2026 | PR Review         | Request change on Balanon's (Abstraction and interface class) pr:  #563                                        | 2     | 89           |
+| 04/05/2026 | PR Review         | Approved on Sir Mon's (bin directory) pr:  #561                                                                | 1     | 87           |
+| 04/04/2026 | PR Review         | commented and approved on Silva's (personal md file) pr:  #558                                                 | 2     | 86           |
+| 04/04/2026 | PR Review         | commented and approved on Conel's (Inheritance files) pr:  #557                                                | 2     | 84           |
+| 04/03/2026 | PR Review         | commented and approved on Mercado's (Inheritance files) pr:  #502                                              | 2     | 82           |
+| 04/03/2026 | PR Review         | commented and approved on De Leon's (personal md file) pr: #554                                                | 2     | 80           |
+| 04/03/2026 | PR Review         | commented and approved on Silva's (personal md file) pr: #555                                                  | 2     | 78           |
+| 04/03/2026 | PR Review         | commented and approved on Silva's (personal md file) pr:  #553                                                 | 2     | 76           |
+| 04/03/2026 | PR Review         | commented and approved on Silva's (personal md file) pr: #550                                                  | 2     | 74           |
+| 04/03/2026 | PR Review         | commented and approved on Javier's (Abstraction and interface class) pr: #551                                  | 2     | 72           |
+| 03/31/2026 | PR Review         | commented and approved on Javier's (personal.md file) pr: #543                                                 | 2     | 70           |
+| 03/31/2026 | PR Review         | commented and approved on Javier's (personal.md file) pr: #537                                                 | 2     | 68           |
+| 03/31/2026 | PR Review         | commented and approved on Javier's (team feedback file) pr: #538                                               | 2     | 66           |
+| 03/31/2026 | PR Review         | comment and approved on Saan's (changelog file) pr: #541                                                       | 2     | 64           |
+| 03/31/2026 | PR Review         | commented and approved on Plantilla's (Composed and demo class) pr: #540                                       | 2     | 62           |
+| 03/31/2026 | Quiz/Recitation   | Quiz 1:OOP                                                                                                     | 10    | 60           |
+| 03/29/2026 | PR Review         | approved on Plantilla's (composed and demo class) pr: #528                                                     | 1     | 50           |
+| 03/29/2026 | PR Review         | commented and approved on Javier's (storageItems.java) pr: #534                                                | 2     | 49           |
+| 03/29/2026 | PR Review         | approved on De Leon's (composed and demo class) pr: #535                                                       | 1     | 47           |
+| 03/29/2026 | PR Review         | commented and approved on Saan's (composition: 4 files including the personal file and peer feedback) pr: #536 | 2     | 46           |
+| 03/29/2026 | PR Review         | commented and approved on Mance's (composition demo class) pr: #532                                            | 2     | 44           |
+| 03/28/2026 | PR Review         | commented on Saan's (file add) pr: #497                                                                        | 1     | 42           |
+| 03/27/2026 | PR Review         | requested change, comment, and approve Torrefranca's (parent class) pr:  #463                                  | 4     | 41           |
+| 03/27/2026 | PR Review         | commented and approved on Balanon's (component class) pr: #494                                                 | 2     | 37           |
+| 03/27/2026 | PR Review         | approved on Saan's (Folder add) pr:  #495                                                                      | 1     | 35           |
+| 03/27/2026 | PR Review         | commented and approved on Saan's (component class) pr: #496                                                    | 2     | 34           |
+| 03/24/2026 | PR Review         | approved Saan's (inheritance file): #448                                                                       | 1     | 32           |
+| 03/24/2026 | PR Review         | approved Sir Mon's (readme.md) pr: #449                                                                        | 1     | 31           |
+| 03/24/2026 | PR Review         | approved Sir Mon's (libag.java class) pr: #450                                                                 | 1     | 30           |
+| 03/24/2026 | PR Review         | request change, comment, and approve Javier's (encapsulation file) pr: #452                                    | 4     | 29           |
+| 03/24/2026 | PR Review         | request change, comment, and approve Quimpan's (update processor.java file) pr: #453                           | 4     | 25           |
+| 03/24/2026 | PR Review         | approve on Dolormente's (readme.md file creation) pr: #458                                                     | 1     | 21           |
+| 03/24/2026 | PR Review         | approve on Dolormente's (readme.md file creation) pr:  #459                                                    | 1     | 20           |
+| 03/24/2026 | PR Review         | comment and approve on Quimpan's (Objects class) pr:  #462                                                     | 2     | 19           |
+| 03/24/2026 | PR Review         | request change on Quimpan's object class pr: #454                                                              | 2     | 17           |
+| 03/13/2026 | Quiz/Recitation   | Quiz 1:OOP                                                                                                     | 5     | 15           |
+| 03/10/2026 | Quiz/Recitation   | Quiz 1:OOP                                                                                                     | 5     | 10           |
+| 03/06/2026 | Quiz/Recitation   | Quiz 1:OOP                                                                                                     | 5     | 5            |
 
 
 ---
@@ -90,6 +91,14 @@
 **\<04/16/2026\>** : I learned how to handle exceptions and how to create my custom exceptions, and I will integrate this knowledge more in my projects.
 
 **\<04/26/2026\>** : I learned how to use build tools like maven, and I will integrate this build tool in my future projects, I'll also try to learn about gradle
+
+**\<04/28/2026\>** : I learned about Springboot and some basic APIs, and next I will deep dive in this topic cause I find it interesting and useful for my future projects
+
+**\<04/28/2026\>** : I changed the repo yml to properly detect and build all Maven projects across the repo. I did it by searching the repository for any pom.xml, once found the workflow 
+                      treats each package as a maven project and runs maven build command on it, so dependencies and structure are correctly resolved. 
+
+**\<04/30/2026\>** : I learned about springboot, how to use it, and how to integrate it with databases, and next I will try to create a project using springboot and database to get more experience in this topic. 
+                        Also this is the hardest activity for me to do.
 
 ---
 ## Peer Feedback

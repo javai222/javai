@@ -30,6 +30,11 @@ Casapao, Jasmin Ann M
 
 **\<04/27/2026\>** : I learned the concept of building a tools and creating a packages and to improve, next time I will study more about creating a packages and build using a tool in marven and gradle.
 
+**\<04/29/2026\>** : I learned the concept of spring boot and and creating the controller and to improve, next time I will study more about spring boot and creating the controller.
+
+**\<05/1/2026\>** : I learned the concept of creating a database and spring boot and to improve, next time I will study more about spring boot so it is easy for me to create a data base.
+
+
 # Peer Feedback
 ---
 **\<03/11/2026\>** : Comment by: <Tismo, Yvette Germaine E.>; You did well in coding and collaborating, you made the activity a bit easier, and you can improve by learning more about github.
@@ -51,7 +56,6 @@ Casapao, Jasmin Ann M
 **\<04/21/2026\>** : Comment by: <Tismo, Yvette Germaine E.>; You did a great job in helping the team make the calculator by learning how to create and handle exceptions, and you can improve by learning more about exceptions and by being a bit more observing in using semi-colons when coding.
 
 **\<04/27/2026\>** : Comment by: <Tismo, Yvette Germaine E.>; You did well in using packages and using the gradle build tool, and you can improve by learning more about build tools and checking your code for errors.
-
 
 
 ## ➕ Plus Points
@@ -88,3 +92,18 @@ commented and approved on Tismo's Packages and build tools pr: **2 points** - #7
 commented and approved on Saan's Update Kenneth_saan md pr: **2 points** - #713\
 **Total: 4 points**
 
+<April 28, 2026>
+commented and approved on Cantela's Update Nelson_Cantela.md pr: **2 points** - #730\
+**Total: 2 points**
+
+<April 29, 2026>
+commented and approved on Javier's My changes pr: **2 points** - #734\
+commented and approved on Plantilla's Created Spring Boot REST API pr: **2 points** - #738\
+commented and approved on Tismo's Springboot api tismo pr: **2 points** - #737\
+commented and approved on Created Spring boot-lab exercise pr: **2 points** - #739\
+**Total: 8 points**
+
+<April 30, 2026>
+commented and approved on Tismo's OOP-Database lab files pr: **2 points** - #749\
+commented and approved on Tismo's Add answers to questions for reflection pr: **2 points** - #750\
+**Total: 4 points**

@@ -2,7 +2,7 @@ name: Build Java Files
 
 on:
   push:
-    branches: [ main,develop-* ]
+    branches: [ main, develop-* ]
   pull_request:
     branches: [ main, develop-* ]
 
@@ -20,9 +20,25 @@ jobs:
           distribution: temurin
           java-version: '21'
 
-      - name: Compile All Java Files
+      - name: Detect and Build Project
         run: |
-          set -e
-          mkdir -p bin
-          find . -name "*.java" > sources.txt
-          javac -d bin -cp bin @sources.txt
+          if find . -name "pom.xml" | grep -q .; then
+            echo "Maven project detected"
+            
+            for pom in $(find . -name "pom.xml"); do
+              dir=$(dirname "$pom")
+              echo "-----------------------------------"
+              echo "Building Maven project in: $dir"
+              cd "$dir"
+              
+              mvn clean install -DskipTests
+              
+              cd -
+            done
+
+          else
+            echo "Plain Java project detected"
+            mkdir -p bin
+            find . -name "*.java" > sources.txt
+            javac -d bin -cp bin @sources.txt
+          fi
