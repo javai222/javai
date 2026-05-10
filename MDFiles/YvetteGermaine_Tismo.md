@@ -33,6 +33,9 @@
 
 **\<04/30/2026\>** : I learned how to use sql and h2 console as well as how to use postman and other dependencies in coding, next time I would try to learn more about what dependencies to use and try to code more efficiently and learn about sql in general.
 
+**\<05/10/2026\>** : I learned how to use vite and react and typescript to make a frontend design for my code, next time I would try to learn more how to use said tools for a better front and backend design for my coding projects.
+
+
 # Peer Feedback
 ---
 **\<03/11/2026\>** : Comment by: <Casapao, Jasmin Ann M.>; You did well in coding and helping me in github, and you can improve by practicing and learning new in github.
