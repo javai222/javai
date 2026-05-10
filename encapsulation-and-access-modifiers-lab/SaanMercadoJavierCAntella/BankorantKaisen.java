@@ -6,7 +6,7 @@ public class BankorantKaisen {
     public static void main(String[] args) {
 
         // Create one Bank object
-        Bank acc1 = new Bank("Chris Nelson", 1234, true);
+        Bank_uppercase acc1 = new Bank_uppercase("Chris Nelson", 1234, true);
 
         // Create one Sorcerer object
         sorcerer s1 = new sorcerer("Kozth", 120, 80, 90, 110);
