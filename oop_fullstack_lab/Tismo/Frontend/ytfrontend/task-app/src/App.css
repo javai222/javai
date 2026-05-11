@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  overflow: hidden;
+}
+
+/* 🌌 SPACE BACKGROUND */
+.space-bg {
+  height: 100vh;
+  width: 100%;
+  background: radial-gradient(circle at top, #1b2735, #090a0f);
+  position: relative;
+}
+
+/* ✨ STAR LAYERS */
+.stars, .stars2, .stars3 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-repeat: repeat;
+  animation: moveStars 60s linear infinite;
+}
+
+.stars {
+  background-image: radial-gradient(white 1px, transparent 1px);
+  background-size: 100px 100px;
+  opacity: 0.3;
+}
+
+.stars2 {
+  background-image: radial-gradient(#a855f7 1px, transparent 1px);
+  background-size: 150px 150px;
+  opacity: 0.2;
+  animation-duration: 120s;
+}
+
+.stars3 {
+  background-image: radial-gradient(#38bdf8 1px, transparent 1px);
+  background-size: 200px 200px;
+  opacity: 0.15;
+  animation-duration: 180s;
+}
+
+@keyframes moveStars {
+  from { transform: translateY(0px); }
+  to { transform: translateY(-1000px); }
+}
+
+/* 📦 CENTER LAYOUT */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+  z-index: 2;
+}
+
+/* 💎 GLASS CARD */
+.glass-card {
+  width: 420px;
+  padding: 2rem;
+  border-radius: 20px;
+
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+
+  border: 1px solid rgba(255, 255, 255, 0.15);
+
+  box-shadow:
+          0 0 40px rgba(168, 85, 247, 0.3),
+          0 0 80px rgba(56, 189, 248, 0.2);
+}
+
+/* 🌟 TITLE */
+.title {
+  text-align: center;
+  color: white;
+  font-size: 1.8rem;
+  margin-bottom: 0.3rem;
+  text-shadow: 0 0 10px #a855f7;
+}
+
+/* ✨ SUBTITLE */
+.subtitle {
+  text-align: center;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+
+/* 📝 INPUT */
+input {
+  flex: 1;
+  padding: 0.6rem;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+}
+
+/* 🔘 BUTTON */
+button {
+  padding: 0.6rem 1rem;
+  border: none;
+  border-radius: 10px;
+
+  background: linear-gradient(135deg, #a855f7, #38bdf8);
+  color: white;
+
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px rgba(168, 85, 247, 0.6);
+}
+
+/* 📋 TASK LIST */
+ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 0.7rem;
+  margin-bottom: 0.5rem;
+
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.08);
+
+  color: white;
+
+  transition: 0.2s;
+}
+
+li:hover {
+  background: rgba(255, 255, 255, 0.15);
+  transform: translateX(3px);
+}
+
+/* ✔ COMPLETED TASK */
+.completed {
+  text-decoration: line-through;
+  color: rgba(255, 255, 255, 0.4);
+}
