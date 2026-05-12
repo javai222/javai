@@ -100,6 +100,10 @@
 **\<04/30/2026\>** : I learned about springboot, how to use it, and how to integrate it with databases, and next I will try to create a project using springboot and database to get more experience in this topic. 
                         Also this is the hardest activity for me to do.
 
+**\<05/08/2026\>** : I learned about fullstack development and how similar concepts are use in fullstack, and next time I will try to create a fullstack project to get more experience in this topic, and I will also try to learn more about frontend.
+
+**\<05/12/2026\>** : I learned about Unit testing and how to creat test cases, how important it is in development, and next I will integrate it more in my projects.
+
 ---
 ## Peer Feedback
 
