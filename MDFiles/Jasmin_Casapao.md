@@ -34,6 +34,8 @@ Casapao, Jasmin Ann M
 
 **\<05/1/2026\>** : I learned the concept of creating a database and spring boot and to improve, next time I will study more about spring boot so it is easy for me to create a data base.
 
+**\<05/10/2026\>** : I learned the concept of creating a full stack in oop and to improve, next time I will study more about full stack in oop and create the lab on time.
+
 
 # Peer Feedback
 ---
