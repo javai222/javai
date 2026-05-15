@@ -1,0 +1,90 @@
+
+
+
+<!DOCTYPE html>
+<html id="htmlId">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <title>Coverage Report > EmployeeFactory</title>
+  <style type="text/css">
+    @import "../../css/coverage.css";
+    @import "../../css/idea.min.css";
+  </style>
+  <script type="text/javascript" src="../../js/highlight.min.js"></script>
+  <script type="text/javascript" src="../../js/highlightjs-line-numbers.min.js"></script>
+</head>
+
+<body>
+<div class="content">
+<div class="breadCrumbs">
+Current scope:     <a href="../../index.html">all classes</a>
+    <span class="separator">|</span>
+    <a href="../index.html">com.grasp.cantela.service</a>
+</div>
+
+<h1>Coverage Summary for Class: EmployeeFactory (com.grasp.cantela.service)</h1>
+
+<table class="coverageStats">
+
+<tr>
+  <th class="name">Class</th>
+</tr>
+  <tr>
+    <td class="name">EmployeeFactory$MockitoMock$wJxAoNZv</td>
+  </tr>
+  <tr>
+    <td class="name">EmployeeFactory$MockitoMock$wJxAoNZv$auxiliary$miThP796</td>
+  </tr>
+  <tr>
+    <td class="name">EmployeeFactory$MockitoMock$wJxAoNZv$auxiliary$zz7Pl1lf</td>
+  </tr>
+<tr>
+  <td class="name"><strong>Total</strong></td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
+
+<pre>
+<code class="sourceCode" id="sourceCode">&nbsp;package com.grasp.cantela.service;
+&nbsp;
+&nbsp;import com.grasp.cantela.dto.EmployeeRequestDTO;
+&nbsp;import  com.grasp.cantela.Entity.Employee;
+&nbsp;
+&nbsp;// GRASP: Creator - Responsible for creating Employee objects
+&nbsp;// GRASP: Protected Variations - Interface allows different creation strategies
+&nbsp;// GRASP: High Cohesion - Single responsibility: employee object creation
+&nbsp;// SOLID: OCP — Alternate factories can be plugged in without modifying EmployeeServiceImpl.
+&nbsp;// SOLID: DIP — Service depends on this abstraction, not a concrete builder implementation.
+&nbsp;public interface EmployeeFactory {
+&nbsp;    Employee createEmp(EmployeeRequestDTO dto);
+&nbsp;}
+</code>
+</pre>
+</div>
+
+<script type="text/javascript">
+(function() {
+    var msie = false, msie9 = false;
+    /*@cc_on
+      msie = true;
+      @if (@_jscript_version >= 9)
+        msie9 = true;
+      @end
+    @*/
+
+    if (!msie || msie && msie9) {
+      hljs.highlightAll()
+      hljs.initLineNumbersOnLoad();
+    }
+})();
+</script>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2026-05-15 00:14</div>
+</div>
+</body>
+</html>
