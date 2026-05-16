@@ -1,7 +1,7 @@
 # Good design already present (no change required)
 # This md file is created by AI to identify and document good design areas. 
 
-These areas already satisfied the lab checklist; code was **not** reworked, only documented with SOLID/OOP comments.
+These areas already satisfied the lab checklist, documented with SOLID/OOP comments.
 
 ## Dependency inversion (DIP)
 
