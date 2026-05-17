@@ -104,6 +104,8 @@
 
 **\<05/12/2026\>** : I learned about Unit testing and how to creat test cases, how important it is in development, and next I will integrate it more in my projects.
 
+**\<05/14/2026\>** : I learned about TDD and and different important principles and how to use them in development, and next I will try to create a project using TDD to get more experience in this topic.
+
 ---
 ## Peer Feedback
 

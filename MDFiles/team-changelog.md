@@ -1,5 +1,29 @@
 # 📊 Team Changelog
+
+### SOLID TDD Lab
+Chris Nelson B. Cantela	2025-1020643	05/14/2026	SOLID TDD Lab	Completed! <br>
+**BONUSES APPLIED:** Parameterized Test, Integration Test, DTO Pattern, Custom Exception Handling, Better Package Organization
+
+### GRASP_UT Lab
+Chris Nelson B. Cantela	2025-1020643	05/12/2026	GRASP_UT Lab	Completed! <br>
+**BONUSES APPLIED:** DTO Pattern, Custom Exception Handling, Multiple Polymorphic implementations, Jacoco, Multiple Test Classes, 90% Coverage
+
+### OOP-Fullstack Lab
+Chris Nelson B. Canttela 2025-1020643 05/09/2026 OOP-Databases Lab Completed! <br>
+**BONUSES APPLIED:** Validation, Error Handling, Better UI Styling, Loading states
+
+### OOP-Databases Lab
+Chris Nelson B. Cantela	2025-1020643	05/2/2026	OOP-Databases Lab	Completed! <br>
+**BONUSES APPLIED:** Validation, and Exception Handling.
+
+
+### Spring-Boot Lab
+Chris Nelson B. Cantela	2025-1020643	04/25/2026	Spring-Boot Lab	Completed!
+
+<br>
+
 Calculator-Exceptions
+
 Ryan James M. Balanon	2025-1028936	04/21/2026	Exceptions	Completed
 
 Chris Nelson B. Cantela	2025-1020643	04/18/2026	Exceptions	Completed!
