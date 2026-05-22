@@ -18,3 +18,4 @@
 bin/
 out/
 build/
+.gradle/
