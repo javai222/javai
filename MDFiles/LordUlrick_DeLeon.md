@@ -5,11 +5,8 @@
 
 | Date       | Activity Type | Title       | Score | Total Points |
 |------------|----------------|-------------|--------|--------------|
-| 03/06/2026 | Quiz/Recitation           | Quiz 1:OOP      | 0      | 5            |
-| 03/11/2026 | Activity           | —      | —      | —            |
-| 03/13/2026 | Activity           | —      | —      | —            |
-| 03/17/2026 | Activity           | —      | —      | —            |
-| —          | —              | —           | —      | —            |
+| 03/06/2026 | Quiz/Recitation             | Quiz 1:OOP      | 0      | 5            |
+| 05/19/2025 | Quiz               | Quiz      | 21      | 25            |
 
 ---
 
@@ -30,6 +27,10 @@
 **\<04/19/2026\>** : I learned more about Exceptions and Errors and Java Packages in our lab and to improve, next time I will analyze the code betterto determine the causes of errors better and to deepen my understaning of OOP.
 
 **\<04/27/2026\>** : I learned about how Java Packages makes things more organized in our lab and to improve, next time I will use what I learned and apply it.
+
+**\<05/07/2026\>** : I learned about Springboot, next time I will study more and practice.
+
+**\<05/26/2026\>** : I learned about Database, next time I will apply it more when I practice using it.
 
 ---
 
@@ -117,6 +118,51 @@ Total = **6 points**
 Commented and approved Mercado's Add abstract class and interface pull request: **2 points** - #656
 
 Commented and approved Mercado's Add comments pull request: **2 points** - #657
+
+Commented and approved Saan's Update Team Changelog Pull Request: **2 points** - #677
+
+Commented and approved Saan's Update Team Changelog Pull Request: **2 points** - #678
+
+Total = **8 points**
+##
+
+**<04/25/2026>**
+
+Commented and approved Saan's Add Project Structure Guide pull request: **2 points** - #698
+
+Total = **2 points**
+##
+
+**<04/26/2026>**
+
+Commented and approved Cantela's Packages Build pull request: **2 points** - #703
+
+Total = **2 points**
+##
+
+**<04/27/2026>**
+
+Commented and approved Saan's Update Personal md pull request: **2 points** - #713
+
+Total = **2 points**
+##
+
+**<04/29/2026>**
+
+Commented and approved Cantela's Update build-java.yml pull request: **2 points** - #732
+
+Commented and approved Cantela's Update build-java.yml pull request: **2 points** - #733
+
+Commented and approved Cantela's Update build-java.yml pull request: **2 points** - #735
+
+Total = **6 points**
+##
+
+**<05/25/2026>**
+
+Commented and approved Tismo's Grasp Lab files pull request: **2 points** - #782
+
+Commented and approved Silva's Grasp ut pull request: **2 points** - #783
 
 Total = **4 points**
 ##
