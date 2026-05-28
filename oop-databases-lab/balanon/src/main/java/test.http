@@ -1,0 +1,59 @@
+### Create a user
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "name": "Juan dela Cruz",
+  "phoneNumber": "09171234567",
+  "email": "juan@example.com",
+  "isRegular": true,
+  "role": "ADMIN"
+}
+
+### Get all users
+GET http://localhost:8080/api/users
+
+### Get user by ID
+GET http://localhost:8080/api/users/1
+
+### Update user
+PUT http://localhost:8080/api/users/1
+Content-Type: application/json
+
+{
+  "name": "Juan Updated",
+  "role": "USER"
+}
+
+### Delete user
+DELETE http://localhost:8080/api/users/1
+
+### Create a product
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+  "name": "Laptop",
+  "description": "High-performance laptop",
+  "price": 49999.99,
+  "category": "Electronics",
+  "stock": 10
+}
+
+### Get all products
+GET http://localhost:8080/api/products
+
+### Get product by ID
+GET http://localhost:8080/api/products/1
+
+### Update product
+PUT http://localhost:8080/api/products/1
+Content-Type: application/json
+
+{
+  "name": "Laptop Pro",
+  "price": 59999.99
+}
+
+### Delete product
+DELETE http://localhost:8080/api/products/1

@@ -1,0 +1,97 @@
+
+
+
+<!DOCTYPE html>
+<html id="htmlId">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <title>Coverage Report > EmployeeService</title>
+  <style type="text/css">
+    @import "../../css/coverage.css";
+    @import "../../css/idea.min.css";
+  </style>
+  <script type="text/javascript" src="../../js/highlight.min.js"></script>
+  <script type="text/javascript" src="../../js/highlightjs-line-numbers.min.js"></script>
+</head>
+
+<body>
+<div class="content">
+<div class="breadCrumbs">
+Current scope:     <a href="../../index.html">all classes</a>
+    <span class="separator">|</span>
+    <a href="../index.html">com.grasp.cantela.service</a>
+</div>
+
+<h1>Coverage Summary for Class: EmployeeService (com.grasp.cantela.service)</h1>
+
+<table class="coverageStats">
+
+<tr>
+  <th class="name">Class</th>
+</tr>
+  <tr>
+    <td class="name">EmployeeService$MockitoMock$NrylXrGk</td>
+  </tr>
+  <tr>
+    <td class="name">EmployeeService$MockitoMock$NrylXrGk$auxiliary$2XobtC25</td>
+  </tr>
+  <tr>
+    <td class="name">EmployeeService$MockitoMock$NrylXrGk$auxiliary$Gz3R5N0W</td>
+  </tr>
+<tr>
+  <td class="name"><strong>Total</strong></td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
+
+<pre>
+<code class="sourceCode" id="sourceCode">&nbsp;package com.grasp.cantela.service;
+&nbsp;
+&nbsp;import com.grasp.cantela.dto.EmployeeRequestDTO;
+&nbsp;import com.grasp.cantela.dto.EmployeeResponseDTO;
+&nbsp;
+&nbsp;import java.util.List;
+&nbsp;
+&nbsp;// GRASP: Controller - Defines business operation contract for employee management
+&nbsp;// GRASP: Protected Variations - Interface allows multiple implementations without affecting clients
+&nbsp;// GRASP: High Cohesion - Single responsibility: defines employee business operations
+&nbsp;// SOLID: ISP — Small, client-focused surface (employee CRUD only); no unrelated operations forced on implementers.
+&nbsp;// SOLID: DIP — Controllers and tests depend on this contract instead of concrete service classes.
+&nbsp;public interface EmployeeService {
+&nbsp;
+&nbsp;    EmployeeResponseDTO createEmployee(EmployeeRequestDTO dto);
+&nbsp;    EmployeeResponseDTO getEmployeeById (Long id);
+&nbsp;    List&lt;EmployeeResponseDTO&gt; getAllEmployees();
+&nbsp;    EmployeeResponseDTO updateEmployee (Long id, EmployeeRequestDTO dto);
+&nbsp;    void deleteEmployee (Long id);
+&nbsp;}
+</code>
+</pre>
+</div>
+
+<script type="text/javascript">
+(function() {
+    var msie = false, msie9 = false;
+    /*@cc_on
+      msie = true;
+      @if (@_jscript_version >= 9)
+        msie9 = true;
+      @end
+    @*/
+
+    if (!msie || msie && msie9) {
+      hljs.highlightAll()
+      hljs.initLineNumbersOnLoad();
+    }
+})();
+</script>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2026-05-15 00:14</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,126 @@
+
+
+
+<!DOCTYPE html>
+<html id="htmlId">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <title>Coverage Report > CashPayment</title>
+  <style type="text/css">
+    @import "../../css/coverage.css";
+    @import "../../css/idea.min.css";
+  </style>
+  <script type="text/javascript" src="../../js/highlight.min.js"></script>
+  <script type="text/javascript" src="../../js/highlightjs-line-numbers.min.js"></script>
+</head>
+
+<body>
+<div class="content">
+<div class="breadCrumbs">
+Current scope:     <a href="../../index.html">all classes</a>
+    <span class="separator">|</span>
+    <a href="../index.html">com.grasp.cantela.PaymentPoly.Implementation</a>
+</div>
+
+<h1>Coverage Summary for Class: CashPayment (com.grasp.cantela.PaymentPoly.Implementation)</h1>
+
+<table class="coverageStats">
+<tr>
+  <th class="name">Class</th>
+<th class="coverageStat 
+">
+  Class, %
+</th>
+<th class="coverageStat 
+">
+  Method, %
+</th>
+<th class="coverageStat 
+">
+  Line, %
+</th>
+</tr>
+<tr>
+  <td class="name">CashPayment</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (2/2)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (2/2)
+  </span>
+</td>
+</tr>
+
+</table>
+
+<br/>
+<br/>
+
+
+<pre>
+<code class="sourceCode" id="sourceCode">&nbsp;package com.grasp.cantela.PaymentPoly.Implementation;
+&nbsp;
+&nbsp;import com.grasp.cantela.PaymentPoly.Payment;
+&nbsp;import org.springframework.context.annotation.Primary;
+&nbsp;import org.springframework.stereotype.Component;
+&nbsp;
+&nbsp;@Component
+&nbsp;@Primary
+&nbsp;// GRASP: Polymorphism - One of many Payment implementations
+&nbsp;// GRASP: Low Coupling - Depends only on Payment interface
+&nbsp;// GRASP: High Cohesion - Single responsibility: cash payment processing
+&nbsp;// SOLID: LSP — Can replace any other Payment where only processPayment(double) is required.
+&nbsp;// OOP: Composition-friendly — Spring injects this as a strategy bean, not via inheritance from other payment types.
+<b class="fc">&nbsp;public class CashPayment implements Payment {</b>
+&nbsp;
+&nbsp;    // GRASP: Information Expert - CashPayment knows how to process cash payments specifically
+&nbsp;    @Override
+&nbsp;    public String processPayment(double amount) {
+<b class="fc">&nbsp;        return &quot;Processing cash payment of php&quot; + amount;</b>
+&nbsp;    }
+&nbsp;
+&nbsp;}
+</code>
+</pre>
+</div>
+
+<script type="text/javascript">
+(function() {
+    var msie = false, msie9 = false;
+    /*@cc_on
+      msie = true;
+      @if (@_jscript_version >= 9)
+        msie9 = true;
+      @end
+    @*/
+
+    if (!msie || msie && msie9) {
+      hljs.highlightAll()
+      hljs.initLineNumbersOnLoad();
+    }
+})();
+</script>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2026-05-15 00:14</div>
+</div>
+</body>
+</html>

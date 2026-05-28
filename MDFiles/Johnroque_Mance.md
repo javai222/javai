@@ -1,0 +1,63 @@
+# John Roque R. Mance
+---
+
+## 📊 Scores
+
+| Date       | Activity Type | Title       | Score | Total Points |
+|------------|----------------|-------------|--------|--------------|
+| 03/06/2026 | Quiz/Recitation           | Quiz 1:OOP      | 5      | 5            |
+| —          | —              | —           | —      | —            |
+
+---
+
+## 📘 Journals
+
+**\<03/06/2026\>** : I learned the 4 pillars of OOP in our lab and to improve, next time I will listen more carefully and follow instruction properly.
+
+
+
+# John Roque R. Mance
+---
+
+## 📊 Scores
+
+| Date       | Activity Type | Title       | Score | Total Points |
+|------------|----------------|-------------|--------|--------------|
+| 03/06/2026 | Activity           | Quiz 1:OOP      | 5      | 5            |
+| —          | —              | —           | —      | —            |
+
+---
+
+## 📘 Journals
+
+**\<03/06/2026\>** : I learned the instances and constructors and github push and pull request and to improve, next time I will be more focus and listen carefully.
+
+**\<03/06/2026\>** : I learned to create classes and objects and realized the importance of teamwork. Next time, I will explore more GitHub features.
+
+**\<03/14/2026\>** : I learned to create better classes using encapsulation and objects. Next time, I will practice coding on my own. I also realized I need to improve in fixing compilation errors in Codespace and understanding how encapsulation protects data.
+
+**\<03/25/2026\>** : I learned how to make child class from other and to improve, next time I will listen more carefully and follow instruction properly.
+
+**\<03/28/2026\>** : I learned the concept of composition in coding and how different classes are connected, and to improve next time, I will study more about composition and review my work before submitting a PR.
+
+**\<04/19/2026\>** : I learned how to create abstraction and organize it well, and to improve i'll make it more cleaner next time.
+
+**\<04/21/2026\>** : I learned more about demo class and enhanced my coding ability, and to improve I should add more comments as guide.
+
+**\<04/27/2026\>** : I learned how to use gradle and how to organize my code I also learned how to run it, and to improve I will be more organize next time.
+
+# Peer Feedback
+
+03/17/2026> : Comment by: Rj Balanon ; You did well in constructing a class and creating objects in my code and you can improve by learning more ways to code.
+# John Roque R. Mance
+c
+
+03/11/2026> : Comment by: Heeroe Conel ; You did well in constructing a class and making objects in my code and you can improve by studying more in order to enhance ur knowledge.
+# John Roque R. Mance
+
+**<03/29/2026>** : Comment by: <Charles Justin Javier>; You did well in structuring your code and making it work correctly, and you can improve by focusing on creating more original solutions and relying less on copying from others to strengthen your understanding.
+
+**\<04/21/2026\>** : Comment by: <Rahzel Heeroe R. Conel>; U DID A GOOD GOOD AT MAKING A CALCULATOR
+---
+
+**<04/21/2026>\** : Comment by :<Balanon, Ryan James M.>; You did well on creating the demo class for our models (abstractclass) and exceptions, you can improve more by adding some more comments of explanation how the code works.
