@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Source+Sans+3:wght@400;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary: #003087;
+  --primary-dark: #001f5b;
+  --primary-light: #e8eef7;
+  --accent: #FDB913;
+  --accent-dark: #c9930a;
+  --white: #ffffff;
+}
+
+body {
+  background: var(--primary-dark);
+  font-family: 'Source Sans 3', sans-serif;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 32px 20px;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.4rem;
+  color: var(--accent);
+  text-align: center;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+}
+
+.subtitle {
+  text-align: center;
+  color: rgba(255,255,255,0.6);
+  font-size: 14px;
+  margin-bottom: 36px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.form {
+  background: var(--white);
+  border-radius: 12px;
+  padding: 28px;
+  margin-bottom: 32px;
+  border-top: 5px solid var(--accent);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+}
+
+.form h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.3rem;
+  color: var(--primary);
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid var(--primary-light);
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin-bottom: 16px;
+}
+
+input {
+  width: 100%;
+  padding: 11px 14px;
+  border: 1.5px solid #d0d8e8;
+  border-radius: 8px;
+  font-size: 14px;
+  font-family: 'Source Sans 3', sans-serif;
+  color: #222;
+  background: #f8faff;
+  transition: border 0.2s;
+}
+
+input:focus {
+  outline: none;
+  border-color: var(--primary);
+  background: white;
+}
+
+input::placeholder {
+  color: #aab;
+}
+
+.btn-row {
+  display: flex;
+  gap: 10px;
+}
+
+.btn-add {
+  flex: 1;
+  padding: 12px;
+  background: var(--primary);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: 'Source Sans 3', sans-serif;
+  transition: background 0.2s;
+}
+
+.btn-add:hover {
+  background: var(--primary-dark);
+}
+
+.btn-cancel {
+  padding: 12px 20px;
+  background: transparent;
+  color: #888;
+  border: 1.5px solid #ccc;
+  border-radius: 8px;
+  font-size: 14px;
+  cursor: pointer;
+  font-family: 'Source Sans 3', sans-serif;
+  transition: all 0.2s;
+}
+
+.btn-cancel:hover {
+  border-color: #999;
+  color: #555;
+}
+
+.table-wrapper {
+  background: var(--white);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+}
+
+.table-header {
+  background: var(--primary);
+  padding: 18px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.table-header h3 {
+  color: var(--accent);
+  font-family: 'Playfair Display', serif;
+  font-size: 1.1rem;
+}
+
+.table-header span {
+  background: var(--accent);
+  color: var(--primary-dark);
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead tr {
+  background: var(--primary-light);
+}
+
+th {
+  padding: 13px 18px;
+  text-align: left;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--primary);
+}
+
+td {
+  padding: 14px 18px;
+  font-size: 14px;
+  color: #333;
+  border-bottom: 1px solid #eef0f5;
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+tr:hover td {
+  background: #f5f8ff;
+}
+
+.price {
+  font-weight: 600;
+  color: var(--primary);
+}
+
+.qty-badge {
+  background: var(--primary-light);
+  color: var(--primary);
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.cat-badge {
+  background: #fff8e6;
+  color: #9a6e00;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.btn-edit {
+  padding: 6px 14px;
+  background: var(--accent);
+  color: var(--primary-dark);
+  border: none;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-right: 6px;
+  transition: background 0.2s;
+}
+
+.btn-edit:hover {
+  background: var(--accent-dark);
+}
+
+.btn-delete {
+  padding: 6px 14px;
+  background: transparent;
+  color: #cc3333;
+  border: 1.5px solid #cc3333;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-delete:hover {
+  background: #cc3333;
+  color: white;
+}
+
+.empty {
+  text-align: center;
+  padding: 48px;
+  color: #aaa;
+  font-size: 14px;
+}
