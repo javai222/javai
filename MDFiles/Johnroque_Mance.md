@@ -46,6 +46,10 @@
 
 **\<04/27/2026\>** : I learned how to use gradle and how to organize my code I also learned how to run it, and to improve I will be more organize next time.
 
+**\<05/7/2026\>** : I learned the how to create database and spring boot and to improve, next time I will listen more and follow step by step to make it less hassle.
+
+**\<05/10/2026\>** : I learned the concept of creating a full stack in oop and to improve, next time I will watch some tutorial outside class to gain more knowledge.
+
 # Peer Feedback
 
 03/17/2026> : Comment by: Rj Balanon ; You did well in constructing a class and creating objects in my code and you can improve by learning more ways to code.
