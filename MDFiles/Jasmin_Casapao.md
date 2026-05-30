@@ -36,6 +36,10 @@ Casapao, Jasmin Ann M
 
 **\<05/10/2026\>** : I learned the concept of creating a full stack in oop and to improve, next time I will study more about full stack in oop and create the lab on time.
 
+**\<05/29/2026\>** : I learned the concept of creating a grasp and how to create a order app code  and to improve, next time I will study more about grasp in oop and create the lab on time.
+
+**\<05/30/2026\>** : I learned the concept of Reusing my GRASP code + Unit Testing Spring Boot Project and to improve, next time I will study more about grasp and unit testing in oop and create the lab on time.
+
 
 # Peer Feedback
 ---
