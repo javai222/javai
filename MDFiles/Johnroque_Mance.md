@@ -46,6 +46,8 @@
 
 **\<04/27/2026\>** : I learned how to use gradle and how to organize my code I also learned how to run it, and to improve I will be more organize next time.
 
+**\<05/27/2026\>** : I learned how to create a database using Spring Boot. Next time, I want to improve by studying Spring Boot more so I can build databases more smoothly and with less difficulty.
+
 # Peer Feedback
 
 03/17/2026> : Comment by: Rj Balanon ; You did well in constructing a class and creating objects in my code and you can improve by learning more ways to code.
