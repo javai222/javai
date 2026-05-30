@@ -1,5 +1,7 @@
 package com.app.src.service;
 
+import org.springframework.web.server.ResponseStatusException;
+import org.springframework.http.HttpStatus;
 import com.app.src.entity.ClothingItem;
 import com.app.src.repository.ClothingItemRepository;
 import org.springframework.stereotype.Service;
@@ -24,7 +26,7 @@ public class ClothingItemService {
 
     public ClothingItem getClothingItem(Long id) {
         return clothingItemRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("Clothing item not found with id: " + id));
+            .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Clothing item not found with id: " + id));
     }
 
     public List<ClothingItem> getAllClothingItems() {

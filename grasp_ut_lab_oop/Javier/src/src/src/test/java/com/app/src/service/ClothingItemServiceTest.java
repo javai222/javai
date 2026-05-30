@@ -1,5 +1,6 @@
 package com.app.src.service;
 
+import org.springframework.web.server.ResponseStatusException;
 import com.app.src.entity.ClothingItem;
 import com.app.src.repository.ClothingItemRepository;
 import org.junit.jupiter.api.BeforeEach;
@@ -72,10 +73,10 @@ class ClothingItemServiceTest {
     @Test
     void testGetClothingItem_NonExistingId_ThrowsException() {
         when(clothingItemRepository.findById(99L)).thenReturn(Optional.empty());
-        RuntimeException exception = assertThrows(RuntimeException.class, () -> {
+        RuntimeException exception = assertThrows(ResponseStatusException.class, () -> {
             clothingItemService.getClothingItem(99L);
         });
-        assertEquals("Clothing item not found with id: 99", exception.getMessage());
+        assertEquals("404 NOT_FOUND \"Clothing item not found with id: 99\"", exception.getMessage());
     }
 
     @Test

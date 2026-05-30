@@ -1,5 +1,7 @@
 package com.app.src.controller;
 
+import org.springframework.web.server.ResponseStatusException;
+import org.springframework.http.HttpStatus;
 import com.app.src.dto.ClothingItemRequestDTO;
 import com.app.src.entity.ClothingItem;
 import com.app.src.service.ClothingItemService;
@@ -89,7 +91,7 @@ class ClothingItemControllerTest {
     @Test
     void testGetClothingItem_NonExistingId_Returns404() throws Exception {
         when(clothingItemService.getClothingItem(99L))
-                .thenThrow(new RuntimeException("Clothing item not found with id: 99"));
+                .thenThrow(new ResponseStatusException(HttpStatus.NOT_FOUND, "Clothing item not found with id: 99"));
         mockMvc.perform(get("/api/clothing-items/99"))
                 .andExpect(status().isNotFound());
     }
