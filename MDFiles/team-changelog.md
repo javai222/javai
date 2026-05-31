@@ -31,7 +31,8 @@ Deither Quimpan	2025-1022010	05/31/2026	SOLID TDD Lab	Did not participate!
 
 Vinz Joseph R. Silva	2025-1025218	05/31/2026	SOLID TDD Lab	!
 
-Yvette Germaine E. Tismo	2025-1027104	05/31/2026	SOLID TDD Lab	!
+Yvette Germaine E. Tismo	2025-1027104	05/31/2026	SOLID TDD Lab	Completed! <br>
+**BONUSES APPLIED:** DTO Pattern, Custom Exception Handling, Better Package Organization
 
 Vincent Christopher P. Torrefranca	2025-1029269	05/31/2026	SOLID TDD Lab	!
 
@@ -66,7 +67,8 @@ Deither Quimpan	2025-1022010	05/31/2026	GRASP_UT Lab	Did not participate!
 
 Vinz Joseph R. Silva	2025-1025218	05/31/2026	GRASP_UT Lab Completed !
 
-Yvette Germaine E. Tismo	2025-1027104	05/31/2026	GRASP_UT Lab
+Yvette Germaine E. Tismo	2025-1027104	05/25/2026	GRASP_UT Lab Completed! <br>
+**BONUSES APPLIED:** DTO Pattern (Partially), Custom Exception Handling, Multiple Polymorphic implementations
 
 Vincent Christopher P. Torrefranca	2025-1029269	05/31/2026	GRASP_UT Lab
 
@@ -100,7 +102,8 @@ Deither Quimpan	2025-1022010	05/31/2026	OOP-Fullstack Lab	Did not participate!
 
 Vinz Joseph R. Silva	2025-1025218	05/31/2026	OOP-Fullstack Lab	Completed!
 
-Yvette Germaine E. Tismo	2025-1027104	05/31/2026	OOP-Fullstack Lab	Completed!
+Yvette Germaine E. Tismo	2025-1027104	05/10/2026	OOP-Fullstack Lab	Completed! <br>
+**BONUSES APPLIED:** Error Handling (Partially), Better UI Styling
 
 Vincent Christopher P. Torrefranca	2025-1029269	05/31/2026	OOP-Fullstack Lab	Completed!
 
@@ -135,7 +138,7 @@ Deither Quimpan	2025-1022010	05/31/2026	OOP-Databases Lab	Did not participate!
 
 Vinz Joseph R. Silva	2025-1025218	05/31/2026	OOP-Databases Lab	Completed!
 
-Yvette Germaine E. Tismo	2025-1027104	05/31/2026	OOP-Databases Lab	Completed!
+Yvette Germaine E. Tismo	2025-1027104	04/30/2026	OOP-Databases Lab	Completed!
 
 Vincent Christopher P. Torrefranca	2025-1029269	05/31/2026	OOP-Databases Lab	Completed!
 
@@ -168,7 +171,7 @@ Deither Quimpan	2025-1022010	05/31/2026	Spring-Boot Lab	Did not participate!
 
 Vinz Joseph R. Silva	2025-1025218	05/31/2026	Spring-Boot Lab	Completed!
 
-Yvette Germaine E. Tismo	2025-1027104	05/31/2026	Spring-Boot Lab	Completed!
+Yvette Germaine E. Tismo	2025-1027104	04/29/2026	Spring-Boot Lab	Completed!
 
 Vincent Christopher P. Torrefranca	2025-1029269	05/31/2026	Spring-Boot Lab	Completed!
 
@@ -177,6 +180,10 @@ Vincent Christopher P. Torrefranca	2025-1029269	05/31/2026	Spring-Boot Lab	Compl
 ### Packages and Organization
 
 Chris Nelson B. Cantela	2025-1020643	04/26/2026	Packages and Organization Lab	Completed!
+
+
+
+Yvette Germaine E. Tismo	2025-1027104	04/27/2026	Packages and Organization Lab	Completed!
 
 
 <br>
