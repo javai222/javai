@@ -8,6 +8,7 @@
 | 03/06/2026 | Quiz/Recitation           | Quiz 1:OOP      | 5      | 5            |
 | 03/11/2026 | Recitation       | MVC          | 5      | 10            |
 | 03/31/2026 | Ice Breaker      | Fav Movie         | 10      | 20            |
+| 05/18/2026 | Quiz      | Quiz         | 28      | 30            |
 
 ---
 
@@ -34,6 +35,10 @@
 **\<04/30/2026\>** : I learned how to use sql and h2 console as well as how to use postman and other dependencies in coding, next time I would try to learn more about what dependencies to use and try to code more efficiently and learn about sql in general.
 
 **\<05/10/2026\>** : I learned how to use vite and react and typescript to make a frontend design for my code, next time I would try to learn more how to use said tools for a better front and backend design for my coding projects.
+
+**\<05/25/2026\>** : I learned what the grasp core concepts and learn a bit on how to use them, next time I would try to understand it in a more deeper level where in I can confidently create and say where I used it in my code.
+
+**\<05/31/2026\>** : I learned what TDD is for and how to implement or use it and refactor my code better while implementing the SOLID principles and OOP best practices, next time I would try to learn more about TDD, SOLID principles, and OOP best practices.
 
 
 # Peer Feedback
@@ -110,6 +115,23 @@
 | 2026-04-27 | Great job using build tools and proper packaging        | packages-and-organization lab activity (#706)                 | ✅ Approve             | 2      |
 | 2026-04-27 | Good job reflecting                                     | Update Henry_Dolormente.md (#708)                             | ✅ Approve             | 2      |
 | 2026-04-27 | Nice job in using packages and using build tool         | Update Packages and build tools (#709)                        | ✅ Approve             | 2      |
-| Total as of 2026-04-27  | -                                          | -                                                             | -                       | 98     |
+| 2026-04-27 | Good work using packages and build tool                 | Created Packages and Build Tool (#712)                        | ✅ Approve             | 2      |
+| 2026-04-27 | nicee                                                   | Update Kenneth_Saan.md (#713)                                 | ✅ Approve             | 2      |
+| 2026-04-27 | Nice code                                               | Completed Package Lab Activity  (#714)                        | ✅ Approve             | 2      |
+| 2026-04-27 | nice reflection                                         | Update Jasmin_Casapao.md  (#715)                              | ✅ Approve             | 2      |
+| 2026-04-27 | Nice approved                                           | Update Journal (#717)                                         | ✅ Approve             | 2      |
+| 2026-05-01 | Good job completing the lab!                            | Database complete  (#754)                                     | ✅ Approve             | 2      |
+| 2026-05-01 | approved                                                | Update Jasmin_Casapao.md  (#755)                              | ✅ Approve             | 2      |
+| 2026-05-01 | Great job doing the lab!                                | Created databases  (#756)                                     | ✅ Approve             | 2      |
+| 2026-05-02 | nice                                                    | Update RyanJames_Balanon.md  (#757)                           | ✅ Approve             | 2      |
+| 2026-05-06 | Great work                                              | testing kung gagana springboot  (#758)                        | ✅ Approve             | 2      |
+| 2026-05-07 | Nice job                                                | Finished Springboot Activity  (#759)                          | ✅ Approve             | 2      |
+| 2026-05-07 | Nice job! Approved                                      | Commit fullstack (761)                                        | ✅ Approve             | 2      |
+| 2026-05-10 | Good job ^-^                                            | Complete full-stack activity  (#768)                          | ✅ Approve             | 2      |
+| 2026-05-11 | nicee                                                   | put the readme to grasp folder  (#759)                        | ✅ Approve             | 2      |
+| 2026-05-25 | Good job!                                               | Grasp ut silva  (#783)                                        | ✅ Approve             | 2      |
+| 2026-05-31 | Good job adding unit tests!                             | Added testing  (#804)                                         | ✅ Approve             | 2      |
+| 2026-05-31 | Nice work!                                              | SOLID TTD LAB ACTIVITY AND UPDATING MD FILE (#814)            | ✅ Approve             | 2      |
+| Total as of 2026-05-31  | -                                          | -                                                             | -                       | 132    |
 
 
