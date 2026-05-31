@@ -23,8 +23,16 @@
 **<03/23/2026>** : I learned how inheritance works by creating parent and child classes, allowing me to reuse code and organize my program more efficiently. By using a parent class as a base and extending it with child classes, I was able to understand how shared attributes and methods can be inherited and customized. Next time, I will practice creating more parent and child classes to improve my understanding of inheritance and avoid mistakes.
 
 **<03/29/2026>** : I learned how composition uses “has-a” relationships to organize classes. Next time, I will practice building more composed classes to improve my coding skills.
+
 **<04/07/2026>** : I learned how abstraction and polymorphism was used in coding and next time I will practice a better dynamic binding on my code and also practice high cohesion, low coupling on every code I make.
+
 **<04/07/2026>** :I learned about exceptions and errors, and next time I will handle them properly to prevent program crashes.
+
+**<31/05/2026>** : I learned how front-end and back-end technologies work together to create complete web applications. Through this topic, I gained a better understanding of how different components communicate and contribute to the overall user experience. Next time, I will continue improving my skills in both front-end and back-end development to build more functional and user-friendly applications.
+
+**<31/05/2026>** : I learned about GRASP principles and how they help assign responsibilities to the right classes and objects in a system. This topic showed me the importance of creating organized, maintainable, and flexible software designs. Next time, I will apply GRASP principles more effectively when designing systems to improve code quality and structure.
+
+**<31/05/2026>** : I learned how Test-Driven Development encourages writing tests before implementing code. This approach helps identify issues early, ensures that requirements are met, and improves software reliability. Next time, I will practice writing meaningful test cases first so that I can develop applications with greater confidence and fewer bugs.
 
 ## Peer Evaluation
 **<04/21/2026>** : Comment by: <Saan, Kenneth>; you did great by completing the basic operations, you can improve by studying the exception handling.
