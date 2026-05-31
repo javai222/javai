@@ -10,7 +10,8 @@ Kenneth R. Saan	2025-1022880	05/31/2026	SOLID TDD Lab	Completed! <br>
 
 Ryan James M. Balanon	2025-1028936	05/31/2026	SOLID TDD Lab	!
 
-Jasmin Ann M. Casapao	2025-1020028	05/31/2026	SOLID TDD Lab	!
+Jasmin Ann M. Casapao	2025-1020028	05/31/2026	SOLID TDD Lab	Completed! <br>
+**BONUSES APPLIED:** DTO Pattern, Custom Exception Handling(Partial), Better Package Organization(Basic only)
 
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	SOLID TDD Lab	!
 
@@ -44,7 +45,7 @@ Kenneth R. Saan	2025-1022880	05/27/2026	GRASP_UT Lab	<br>
 
 Ryan James M. Balanon	2025-1028936	05/31/2026	GRASP_UT Lab
 
-Jasmin Ann M. Casapao	2025-1020028	05/31/2026	GRASP_UT Lab
+Jasmin Ann M. Casapao	2025-1020028	05/29/2026	GRASP_UT Lab Completed!
 
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	GRASP_UT Lab
 
