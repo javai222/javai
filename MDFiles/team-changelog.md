@@ -64,7 +64,7 @@ Jophel Mark P. Plantilla	2025-1026473	05/30/2026	GRASP_UT Lab Completed! <br>
 
 Deither Quimpan	2025-1022010	05/31/2026	GRASP_UT Lab	Did not participate!
 
-Vinz Joseph R. Silva	2025-1025218	05/31/2026	GRASP_UT Lab
+Vinz Joseph R. Silva	2025-1025218	05/31/2026	GRASP_UT Lab Completed !
 
 Yvette Germaine E. Tismo	2025-1027104	05/31/2026	GRASP_UT Lab
 
