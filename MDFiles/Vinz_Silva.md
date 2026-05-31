@@ -10,6 +10,7 @@
 | 03/06/2026 | Activity           | Quiz 1:OOP      | 5      | 5    |
 | 03/27/2026 | Recitation         | Quiz 1:OOP      | 10     | 10   |
 | 03/27/2026 | Recitation         | Quiz 1:OOP      | 5      | 5    |
+| 05/19/2026 | Quiz               | QUIZ : OOP      | 30     | 27   |
 
 ---
 
@@ -30,6 +31,24 @@
 \<04/21/2026\> : Exceptions teaches me how to detect a specific anomaly in the code in order for it to not crush, next time i will try to understand it comprehensively for a better and clean exception hanndling outcome of my code.
 
 \<04/27/2026\> : I have gained a new knowledge about creating packages and its function in your code, next tim I will try my best to master and understand the use of build tools (Maven and Gradle)
+
+\<04/29/2026\> : I have gained a new knowledge about setting up spring initializer as well as navigating creation of spring boot, next time, I will master it to completely understand its concept.
+
+\<04/30/2026\> : After spring boot, I eventually learned how database works and how it stores data, next time, I will try to have a deeper understanding about it so I can can navigate it completely.
+
+\<05/31/2026\> : I learned how to apply GRASP principles into my code and succesfully implements it, next time, I will properly apply it to my projects in order for it to be clean and efiicient.
+
+\<05/31/2026\> : I learned how to do a fullstack project as well as make it work using Vite. Also learned how frontend and backend are connected to each other. next time, I will understand it better to completely comprehend its full concept.
+
+
+
+
+
+
+
+
+
+
 
 
 # Peer Feedback
