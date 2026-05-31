@@ -1,6 +1,7 @@
 # 📊 Team Changelog
 
 ### SOLID TDD Lab
+
 Chris Nelson B. Cantela	2025-1020643	05/14/2026	SOLID TDD Lab	Completed! <br>
 **BONUSES APPLIED:** Parameterized Test, Integration Test, DTO Pattern, Custom Exception Handling, Better Package Organization
 
@@ -34,6 +35,7 @@ Yvette Germaine E. Tismo	2025-1027104	05/31/2026	SOLID TDD Lab	!
 Vincent Christopher P. Torrefranca	2025-1029269	05/31/2026	SOLID TDD Lab	!
 
 ### GRASP_UT Lab
+
 Chris Nelson B. Cantela	2025-1020643	05/12/2026	GRASP_UT Lab	<br>
 **BONUSES APPLIED:** DTO Pattern, Custom Exception Handling, Multiple Polymorphic implementations, Jacoco, Multiple Test Classes, 90% Coverage
 
@@ -102,6 +104,7 @@ Vincent Christopher P. Torrefranca	2025-1029269	05/31/2026	OOP-Fullstack Lab	Com
 
 
 ### OOP-Databases Lab
+
 Chris Nelson B. Cantela	2025-1020643	05/2/2026	OOP-Databases Lab	Completed! <br>
 **BONUSES APPLIED:** Validation, and Exception Handling.
 
@@ -136,6 +139,7 @@ Vincent Christopher P. Torrefranca	2025-1029269	05/31/2026	OOP-Databases Lab	Com
 
 
 ### Spring-Boot Lab
+
 Chris Nelson B. Cantela	2025-1020643	04/25/2026	Spring-Boot Lab	Completed!
 
 Kenneth R. Saan	2025-1022880	05/02/2026	Spring-Boot Lab	Completed!
