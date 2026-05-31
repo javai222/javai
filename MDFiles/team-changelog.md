@@ -97,7 +97,8 @@ John Roque R. Mance	2025-1024907	05/31/2026	OOP-Fullstack Lab	Completed!
 
 Dustin Elijah C. Mercado	2025-1020414	05/31/2026	OOP-Fullstack Lab	Completed!
 
-Jophel Mark P. Plantilla	2025-1026473	05/14/2026	OOP-Fullstack Lab	Completed!
+Jophel Mark P. Plantilla	2025-1026473	05/14/2026	OOP-Fullstack Lab	Completed! <br>
+**BONUSES APPLIED:** Validation, Error Handling, Better UI Styling, Loading states
 
 Deither Quimpan	2025-1022010	05/31/2026	OOP-Fullstack Lab	Did not participate!
 
@@ -184,6 +185,7 @@ Chris Nelson B. Cantela	2025-1020643	04/26/2026	Packages and Organization Lab	Co
 
 Jasmin Ann M. Casapao	2025-1020028	04/27/26	Packages and Organization Lab	Completed!
 
+Jophel Mark P. Plantilla	2025-1026473	04/27/2026	Packages and Organization Lab	Completed!
 
 Yvette Germaine E. Tismo	2025-1027104	04/27/2026	Packages and Organization Lab	Completed!
 
