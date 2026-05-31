@@ -10,7 +10,8 @@ Kenneth R. Saan	2025-1022880	05/31/2026	SOLID TDD Lab	Completed! <br>
 
 Ryan James M. Balanon	2025-1028936	05/31/2026	SOLID TDD Lab	!
 
-Jasmin Ann M. Casapao	2025-1020028	05/31/2026	SOLID TDD Lab	!
+Jasmin Ann M. Casapao	2025-1020028	05/31/2026	SOLID TDD Lab	Completed! <br>
+**BONUSES APPLIED:** DTO Pattern, Custom Exception Handling(Partial), Better Package Organization(Basic only)
 
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	SOLID TDD Lab	!
 
@@ -46,7 +47,7 @@ Kenneth R. Saan	2025-1022880	05/27/2026	GRASP_UT Lab	<br>
 
 Ryan James M. Balanon	2025-1028936	05/31/2026	GRASP_UT Lab
 
-Jasmin Ann M. Casapao	2025-1020028	05/31/2026	GRASP_UT Lab
+Jasmin Ann M. Casapao	2025-1020028	05/29/2026	GRASP_UT Lab Completed!
 
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	GRASP_UT Lab
 
@@ -82,7 +83,7 @@ Kenneth R. Saan	2025-1022880	05/20/2026	OOP-Fullstack Lab	Completed! <br>
 
 Ryan James M. Balanon	2025-1028936	05/31/2026	OOP-Fullstack Lab	Completed!
 
-Jasmin Ann M. Casapao	2025-1020028	05/31/2026	OOP-Fullstack Lab	Completed!
+Jasmin Ann M. Casapao	2025-1020028	05/10/2026	OOP-Fullstack Lab	Completed!
 
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	OOP-Fullstack Lab	Completed!
 
@@ -118,7 +119,7 @@ Kenneth R. Saan	2025-1022880	05/2/2026	OOP-Databases Lab	Completed! <br>
 
 Ryan James M. Balanon	2025-1028936	05/31/2026	OOP-Databases Lab	Completed!
 
-Jasmin Ann M. Casapao	2025-1020028	05/31/2026	OOP-Databases Lab	Completed!
+Jasmin Ann M. Casapao	2025-1020028	05/01/2026	OOP-Databases Lab	Completed!
 
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	OOP-Databases Lab	Completed!
 
@@ -151,7 +152,7 @@ Kenneth R. Saan	2025-1022880	05/02/2026	Spring-Boot Lab	Completed!
 
 Ryan James M. Balanon	2025-1028936	05/31/2026	Spring-Boot Lab	Completed!
 
-Jasmin Ann M. Casapao	2025-1020028	05/31/2026	Spring-Boot Lab	Completed!
+Jasmin Ann M. Casapao	2025-1020028	04/29/26	Spring-Boot Lab	Completed!
 
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	Spring-Boot Lab	Completed!
 
@@ -181,6 +182,7 @@ Vincent Christopher P. Torrefranca	2025-1029269	05/31/2026	Spring-Boot Lab	Compl
 
 Chris Nelson B. Cantela	2025-1020643	04/26/2026	Packages and Organization Lab	Completed!
 
+Jasmin Ann M. Casapao	2025-1020028	04/27/26	Packages and Organization Lab	Completed!
 
 
 Yvette Germaine E. Tismo	2025-1027104	04/27/2026	Packages and Organization Lab	Completed!
