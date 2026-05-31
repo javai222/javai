@@ -35,9 +35,9 @@
 
 **\<05/14/2026\>**  : I learned how to connect my frontend to my backend, and next time I will plan the folder structure first before coding so I don't get confused.
 
-**\<04/30/2026\>**  : I learned how to apply all 9 GRASP principles and how to write unit tests to prove that my design is correct, and next time I will improve my understanding of Low Coupling and High Cohesion since it is the hardest part for me.
+**\<05/30/2026\>**  : I learned how to apply all 9 GRASP principles and how to write unit tests to prove that my design is correct, and next time I will improve my understanding of Low Coupling and High Cohesion since it is the hardest part for me.
 
-**\<04/31/2026\>**  : I learned how to apply SOLID principles and improved the design of my Order Management System by separating validation logic into its own class, and next time I will write more unit tests to improve my code coverage.
+**\<05/31/2026\>**  : I learned how to apply SOLID principles and improved the design of my Order Management System by separating validation logic into its own class, and next time I will write more unit tests to improve my code coverage.
 
 
 ## Peer Feedback
