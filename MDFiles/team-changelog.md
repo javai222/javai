@@ -1,6 +1,7 @@
 # 📊 Team Changelog
 
 ### SOLID TDD Lab
+
 Chris Nelson B. Cantela	2025-1020643	05/14/2026	SOLID TDD Lab	Completed! <br>
 **BONUSES APPLIED:** Parameterized Test, Integration Test, DTO Pattern, Custom Exception Handling, Better Package Organization
 
@@ -8,20 +9,33 @@ Kenneth R. Saan	2025-1022880	05/31/2026	SOLID TDD Lab	Completed! <br>
 **BONUSES APPLIED:** Parameterized Test, Integration Test, DTO Pattern, Custom Exception Handling, Better Package Organization
 
 Ryan James M. Balanon	2025-1028936	05/31/2026	SOLID TDD Lab	!
+
 Jasmin Ann M. Casapao	2025-1020028	05/31/2026	SOLID TDD Lab	!
+
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	SOLID TDD Lab	!
+
 Lord Ulrick A. De Leon	2025-1025177	05/31/2026	SOLID TDD Lab	!
+
 Henry S. Dolormente II	2025-1023364	05/31/2026	SOLID TDD Lab	!
+
 Charles Justin D. Javier	2025-1023752	05/31/2026	SOLID TDD Lab	!
+
 John Roque R. Mance	2025-1024907	05/31/2026	SOLID TDD Lab	!
+
 Dustin Elijah C. Mercado	2025-1020414	05/31/2026	SOLID TDD Lab	!
+
 Jophel Mark P. Plantilla	2025-1026473	05/31/2026	SOLID TDD Lab	!
+
 Deither Quimpan	2025-1022010	05/31/2026	SOLID TDD Lab	Did not participate!
+
 Vinz Joseph R. Silva	2025-1025218	05/31/2026	SOLID TDD Lab	!
+
 Yvette Germaine E. Tismo	2025-1027104	05/31/2026	SOLID TDD Lab	!
+
 Vincent Christopher P. Torrefranca	2025-1029269	05/31/2026	SOLID TDD Lab	!
 
 ### GRASP_UT Lab
+
 Chris Nelson B. Cantela	2025-1020643	05/12/2026	GRASP_UT Lab	<br>
 **BONUSES APPLIED:** DTO Pattern, Custom Exception Handling, Multiple Polymorphic implementations, Jacoco, Multiple Test Classes, 90% Coverage
 
@@ -29,40 +43,68 @@ Kenneth R. Saan	2025-1022880	05/27/2026	GRASP_UT Lab	<br>
 **BONUSES APPLIED:** DTO Pattern, Custom Exception Handling, Multiple Polymorphic implementations, Jacoco, Multiple Test Classes, 90% Coverage
 
 Ryan James M. Balanon	2025-1028936	05/31/2026	GRASP_UT Lab
+
 Jasmin Ann M. Casapao	2025-1020028	05/31/2026	GRASP_UT Lab
+
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	GRASP_UT Lab
+
 Lord Ulrick A. De Leon	2025-1025177	05/31/2026	GRASP_UT Lab
+
 Henry S. Dolormente II	2025-1023364	05/31/2026	GRASP_UT Lab
+
 Charles Justin D. Javier	2025-1023752	05/31/2026	GRASP_UT Lab
+
 John Roque R. Mance	2025-1024907	05/31/2026	GRASP_UT Lab
+
 Dustin Elijah C. Mercado	2025-1020414	05/31/2026	GRASP_UT Lab
+
 Jophel Mark P. Plantilla	2025-1026473	05/31/2026	GRASP_UT Lab
+
 Deither Quimpan	2025-1022010	05/31/2026	GRASP_UT Lab	Did not participate!
+
 Vinz Joseph R. Silva	2025-1025218	05/31/2026	GRASP_UT Lab
+
 Yvette Germaine E. Tismo	2025-1027104	05/31/2026	GRASP_UT Lab
+
 Vincent Christopher P. Torrefranca	2025-1029269	05/31/2026	GRASP_UT Lab
 
 ### OOP-Fullstack Lab
+
 Chris Nelson B. Canttela	2025-1020643	05/09/2026	OOP-Fullstack Lab	Completed! <br>
 **BONUSES APPLIED:** Validation, Error Handling, Better UI Styling, Loading states
+
 Kenneth R. Saan	2025-1022880	05/20/2026	OOP-Fullstack Lab	Completed! <br>
 **BONUSES APPLIED:** Validation, Error Handling, Better UI Styling, Loading states
+
 Ryan James M. Balanon	2025-1028936	05/31/2026	OOP-Fullstack Lab	Completed!
+
 Jasmin Ann M. Casapao	2025-1020028	05/31/2026	OOP-Fullstack Lab	Completed!
+
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	OOP-Fullstack Lab	Completed!
+
 Lord Ulrick A. De Leon	2025-1025177	05/31/2026	OOP-Fullstack Lab	Completed!
+
 Henry S. Dolormente II	2025-1023364	05/31/2026	OOP-Fullstack Lab	Completed!
+
 Charles Justin D. Javier	2025-1023752	05/31/2026	OOP-Fullstack Lab	Completed!
+
 John Roque R. Mance	2025-1024907	05/31/2026	OOP-Fullstack Lab	Completed!
+
 Dustin Elijah C. Mercado	2025-1020414	05/31/2026	OOP-Fullstack Lab	Completed!
+
 Jophel Mark P. Plantilla	2025-1026473	05/31/2026	OOP-Fullstack Lab	Completed!
+
 Deither Quimpan	2025-1022010	05/31/2026	OOP-Fullstack Lab	Did not participate!
+
 Vinz Joseph R. Silva	2025-1025218	05/31/2026	OOP-Fullstack Lab	Completed!
+
 Yvette Germaine E. Tismo	2025-1027104	05/31/2026	OOP-Fullstack Lab	Completed!
+
 Vincent Christopher P. Torrefranca	2025-1029269	05/31/2026	OOP-Fullstack Lab	Completed!
 
 
 ### OOP-Databases Lab
+
 Chris Nelson B. Cantela	2025-1020643	05/2/2026	OOP-Databases Lab	Completed! <br>
 **BONUSES APPLIED:** Validation, and Exception Handling.
 
@@ -70,40 +112,72 @@ Kenneth R. Saan	2025-1022880	05/2/2026	OOP-Databases Lab	Completed! <br>
 **BONUSES APPLIED:** Validation, and Exception Handling.
 
 Ryan James M. Balanon	2025-1028936	05/31/2026	OOP-Databases Lab	Completed!
+
 Jasmin Ann M. Casapao	2025-1020028	05/31/2026	OOP-Databases Lab	Completed!
+
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	OOP-Databases Lab	Completed!
+
 Lord Ulrick A. De Leon	2025-1025177	05/31/2026	OOP-Databases Lab	Completed!
+
 Henry S. Dolormente II	2025-1023364	05/31/2026	OOP-Databases Lab	Completed!
+
 Charles Justin D. Javier	2025-1023752	05/31/2026	OOP-Databases Lab	Completed!
+
 John Roque R. Mance	2025-1024907	05/31/2026	OOP-Databases Lab	Completed!
+
 Dustin Elijah C. Mercado	2025-1020414	05/31/2026	OOP-Databases Lab	Completed!
+
 Jophel Mark P. Plantilla	2025-1026473	05/31/2026	OOP-Databases Lab	Completed!
+
 Deither Quimpan	2025-1022010	05/31/2026	OOP-Databases Lab	Did not participate!
+
 Vinz Joseph R. Silva	2025-1025218	05/31/2026	OOP-Databases Lab	Completed!
+
 Yvette Germaine E. Tismo	2025-1027104	05/31/2026	OOP-Databases Lab	Completed!
+
 Vincent Christopher P. Torrefranca	2025-1029269	05/31/2026	OOP-Databases Lab	Completed!
 
 
 ### Spring-Boot Lab
+
 Chris Nelson B. Cantela	2025-1020643	04/25/2026	Spring-Boot Lab	Completed!
+
 Kenneth R. Saan	2025-1022880	05/02/2026	Spring-Boot Lab	Completed!
 
 Ryan James M. Balanon	2025-1028936	05/31/2026	Spring-Boot Lab	Completed!
+
 Jasmin Ann M. Casapao	2025-1020028	05/31/2026	Spring-Boot Lab	Completed!
+
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	Spring-Boot Lab	Completed!
+
 Lord Ulrick A. De Leon	2025-1025177	05/31/2026	Spring-Boot Lab	Completed!
+
 Henry S. Dolormente II	2025-1023364	05/31/2026	Spring-Boot Lab	Completed!
+
 Charles Justin D. Javier	2025-1023752	05/31/2026	Spring-Boot Lab	Completed!
+
 John Roque R. Mance	2025-1024907	05/31/2026	Spring-Boot Lab	Completed!
+
 Dustin Elijah C. Mercado	2025-1020414	05/31/2026	Spring-Boot Lab	Completed!
+
 Jophel Mark P. Plantilla	2025-1026473	05/31/2026	Spring-Boot Lab	Completed!
+
 Deither Quimpan	2025-1022010	05/31/2026	Spring-Boot Lab	Did not participate!
+
 Vinz Joseph R. Silva	2025-1025218	05/31/2026	Spring-Boot Lab	Completed!
+
 Yvette Germaine E. Tismo	2025-1027104	05/31/2026	Spring-Boot Lab	Completed!
+
 Vincent Christopher P. Torrefranca	2025-1029269	05/31/2026	Spring-Boot Lab	Completed!
 
 <br>
 
+### Packages and Organization
+
+Chris Nelson B. Cantela	2025-1020643	04/26/2026	Packages and Organization Lab	Completed!
+
+
+<br>
 Calculator-Exceptions
 
 Ryan James M. Balanon	2025-1028936	04/21/2026	Exceptions	Completed
@@ -139,6 +213,7 @@ Vincent Christopher P. Torrefranca	2025-1029269	04/21/2026	Exceptions
 _________________________________________________________________________
 
 Abspoly
+
 Ryan James M. Balanon	2025-1028936	04/17/2026	Abspoly	Completed!
 
 Chris Nelson B. Cantela	2025-1020643	04/14/2026	Abspoly	Completed!

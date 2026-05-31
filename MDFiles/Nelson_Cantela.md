@@ -5,6 +5,9 @@
 
 | Date       | Activity Type     | Title                                                                                                          | Score | Total Points |
 |------------|-------------------|----------------------------------------------------------------------------------------------------------------|-------|--------------|
+| 05/31/2026 | PR Review         | commented and request change on Saan's (added an evidence) pr: #810                                            | 2     | 168          |
+| 05/31/2026 | PR Review         | commented and request change on Saan's (TDD and Teamchangelog) pr: #809                                        | 2     | 166          |
+| 05/31/2026 | PR Review         | commented and request change on Silva's (Personal md file) pr: 808                                             | 2     | 164          |
 | 05/30/2026 | PR Review         | commented and request change on Torefranca's (GRASP activity) pr: #795                                         | 2     | 162          |
 | 05/30/2026 | PR Review         | commented and request change on Torefranca's (Fullstack activity) pr: #794                                     | 2     | 160          |
 | 05/30/2026 | PR Review         | commented and request change on Mance's (SOLID activity) pr: #793                                              | 3     | 158          |
@@ -112,7 +115,7 @@
 
 **\<05/08/2026\>** : I learned about fullstack development and how similar concepts are use in fullstack, and next time I will try to create a fullstack project to get more experience in this topic, and I will also try to learn more about frontend.
 
-**\<05/12/2026\>** : I learned about Unit testing and how to creat test cases, how important it is in development, and next I will integrate it more in my projects.
+**\<05/12/2026\>** : I learned about Unit testing, GRASP Principle and how to create test cases, how important it is in development, and next I will integrate it more in my projects.
 
 **\<05/14/2026\>** : I learned about TDD and and different important principles and how to use them in development, and next I will try to create a project using TDD to get more experience in this topic.
 
@@ -299,6 +302,7 @@ commented and approved on Javier's (packages-and-organization act) pr 2pt - #726
 commented and approved on Saan's (Added code analysis) pr 2pt - #727
 
 **<5/30/26>**
+
 commented and approved on Mance's (Database activity) pr 2pt - #786
 
 commented and approved on Plantilla's (fullstack activity) pr 2pt - #786
@@ -318,3 +322,14 @@ commented and request change on Mance's (SOLID activity) pr 3pt - #793
 commented and approve on Torefranca's (Fullstack activity) pr 2pt - #794
 
 commented and approve on Torefranca's (GRASP activity) pr 2pt - #795
+
+**<5/31/26>**
+
+commented and approve on Saan's (Added evidence) pr 2pt - #810
+
+commented and approve on Saan's (TDD and Teamchangelog) pr 2pt - #809
+
+commented and approve on Silva's (update personal md file) pr 2pt - #808
+
+
+
