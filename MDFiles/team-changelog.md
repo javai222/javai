@@ -24,7 +24,8 @@ John Roque R. Mance	2025-1024907	05/31/2026	SOLID TDD Lab	!
 
 Dustin Elijah C. Mercado	2025-1020414	05/31/2026	SOLID TDD Lab	!
 
-Jophel Mark P. Plantilla	2025-1026473	05/31/2026	SOLID TDD Lab	!
+Jophel Mark P. Plantilla	2025-1026473	05/31/2026	SOLID TDD Lab	Completed! <br>
+**BONUSES APPLIED:** DTO Pattern, Custom Exception Handling, Better Package Organization
 
 Deither Quimpan	2025-1022010	05/31/2026	SOLID TDD Lab	Did not participate!
 
@@ -58,7 +59,8 @@ John Roque R. Mance	2025-1024907	05/31/2026	GRASP_UT Lab
 
 Dustin Elijah C. Mercado	2025-1020414	05/31/2026	GRASP_UT Lab
 
-Jophel Mark P. Plantilla	2025-1026473	05/31/2026	GRASP_UT Lab
+Jophel Mark P. Plantilla	2025-1026473	05/30/2026	GRASP_UT Lab Completed! <br>
+**BONUSES APPLIED:** DTO Pattern, Custom Exception Handling, Multiple Polymorphic Implementations
 
 Deither Quimpan	2025-1022010	05/31/2026	GRASP_UT Lab	Did not participate!
 
@@ -92,7 +94,7 @@ John Roque R. Mance	2025-1024907	05/31/2026	OOP-Fullstack Lab	Completed!
 
 Dustin Elijah C. Mercado	2025-1020414	05/31/2026	OOP-Fullstack Lab	Completed!
 
-Jophel Mark P. Plantilla	2025-1026473	05/31/2026	OOP-Fullstack Lab	Completed!
+Jophel Mark P. Plantilla	2025-1026473	05/14/2026	OOP-Fullstack Lab	Completed!
 
 Deither Quimpan	2025-1022010	05/31/2026	OOP-Fullstack Lab	Did not participate!
 
@@ -127,7 +129,7 @@ John Roque R. Mance	2025-1024907	05/31/2026	OOP-Databases Lab	Completed!
 
 Dustin Elijah C. Mercado	2025-1020414	05/31/2026	OOP-Databases Lab	Completed!
 
-Jophel Mark P. Plantilla	2025-1026473	05/31/2026	OOP-Databases Lab	Completed!
+Jophel Mark P. Plantilla	2025-1026473	05/01/2026	OOP-Databases Lab	Completed!
 
 Deither Quimpan	2025-1022010	05/31/2026	OOP-Databases Lab	Did not participate!
 
@@ -160,7 +162,7 @@ John Roque R. Mance	2025-1024907	05/31/2026	Spring-Boot Lab	Completed!
 
 Dustin Elijah C. Mercado	2025-1020414	05/31/2026	Spring-Boot Lab	Completed!
 
-Jophel Mark P. Plantilla	2025-1026473	05/31/2026	Spring-Boot Lab	Completed!
+Jophel Mark P. Plantilla	2025-1026473	04/29/2026	Spring-Boot Lab	Completed!
 
 Deither Quimpan	2025-1022010	05/31/2026	Spring-Boot Lab	Did not participate!
 
