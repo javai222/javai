@@ -36,6 +36,9 @@ Casapao, Jasmin Ann M
 
 **\<05/10/2026\>** : I learned the concept of creating a full stack in oop and to improve, next time I will study more about full stack in oop and create the lab on time.
 
+**\<05/29/2026\>** : I learned the concept of creating grasp in oop to improve, next time I will study more about grasp in oop and create the lab on time.
+
+**\<05/31/2026\>** : I learned the concept using my old lab which is the grasp and adding a test units and to improve, next time I will study more about oop and create the lab on time.
 
 # Peer Feedback
 ---
