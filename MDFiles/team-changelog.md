@@ -89,7 +89,8 @@ Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	OOP-Fullstack Lab	Completed!
 
 Lord Ulrick A. De Leon	2025-1025177	05/31/2026	OOP-Fullstack Lab	Completed!
 
-Henry S. Dolormente II	2025-1023364	05/31/2026	OOP-Fullstack Lab	Completed!
+Henry S. Dolormente II	2025-1023364	05/31/2026	OOP-Fullstack Lab	Completed! <br>
+**BONUSES APPLIED:** Validation, Error Handling, Better UI Styling, Loading states
 
 Charles Justin D. Javier	2025-1023752	05/31/2026	OOP-Fullstack Lab	Completed!
 
@@ -125,7 +126,8 @@ Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	OOP-Databases Lab	Completed!
 
 Lord Ulrick A. De Leon	2025-1025177	05/31/2026	OOP-Databases Lab	Completed!
 
-Henry S. Dolormente II	2025-1023364	05/31/2026	OOP-Databases Lab	Completed!
+Henry S. Dolormente II	2025-1023364	05/31/2026	OOP-Databases Lab	Completed! <br>
+**BONUSES APPLIED:** Validation, and Exception Handling.
 
 Charles Justin D. Javier	2025-1023752	05/31/2026	OOP-Databases Lab	Completed!
 
