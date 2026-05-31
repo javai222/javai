@@ -1,3 +1,14 @@
+## 📊 Scores
+
+| Date       | Points Type    | Title       | Score | Total Points |
+|------------|----------------|-------------|--------|--------------|
+| 03/06/2026 | Quiz/Recitation| Quiz 1:OOP  | 5      | 5            |
+| 03/10/2026 | Quiz/Recitation| Recitation  | 5      | 5            |
+| 03/13/2026 | Quiz/Recitation| Recitation  | 5      | 5            |
+| 05/19/2026 | Quiz/ | Grasp, SOLID, Design Patterns	  | 28      | 28            |
+
+---
+
 ## 📘 Journals
 
 <03/06/2026> : The main point of today's lesson on OOP is the 4 pillars of it. For the activity I noticed that communication is really the main point of teamwork
@@ -25,6 +36,12 @@ time I would try to add more variable to expand my knowledge on this.
 <04/27/2026> : I learned how to make use of packages and how it organizes things that may happen in real world simulations. I would try to learn more on how packages works
 so that I can maximize its usage for my next upcoming projects.
 
+<05/31/2026> : I learned how to improve the structure of my Spring Boot applications by applying better coding practices and organizing backend components more clearly, and next time I will practice creating larger REST APIs with cleaner architecture.
+
+<05/31/2026> : I learned how databases work together with Spring Boot using JPA and PostgreSQL to perform CRUD operations more efficiently, and next time I will study more advanced database relationships and query methods.
+
+<05/31/2026> : I learned how frontend and backend systems communicate with each other and how important project organization is during development, and next time I will design the application flow and folder structure before starting the implementation
+
 ---
 
 ## Peer Feedback
@@ -42,16 +59,6 @@ so that I can maximize its usage for my next upcoming projects.
 <04/21/2026> : Comment by: <Tismo, Yvette Germaine E.>; You did a great job in helping the team make the calculator by communicating your ideas/thoughts and fixing the errors, and you can improve by learning more about exceptions and how to handle them.
 
 <04/27/2026> : Comment by: <Tismo, Yvette Germaine E.>; You did a good in helping teammates identify errors in their code for the package organization lab, and you can improve by learning more about build tools and double checking your code before pushing to main or closing github.
-
----
-
-## 📊 Scores
-
-| Date       | Points Type    | Title       | Score | Total Points |
-|------------|----------------|-------------|--------|--------------|
-| 03/06/2026 | Quiz/Recitation| Quiz 1:OOP  | 5      | 5            |
-| 03/10/2026 | Quiz/Recitation| Recitation  | 5      | 5            |
-| 03/13/2026 | Quiz/Recitation| Recitation  | 5      | 5            |
 
 ---
 
