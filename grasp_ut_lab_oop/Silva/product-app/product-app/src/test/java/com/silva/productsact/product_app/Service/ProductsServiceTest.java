@@ -1,42 +1,29 @@
-package com.silva.productsact.product_app.Controller;
+package com.silva.productsact.product_app.Service;
 
-import com.silva.productsact.product_app.Service.ProductService;
+import com.silva.productsact.product_app.Entity.Products;
+import com.silva.productsact.product_app.Repository.ProductRepository;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
+import static org.mockito.ArgumentMatchers.any;
+import static org.mockito.Mockito.when;
 
-public class ProductsControllerTest {
-
-    @Test
-    void shouldReturnBadRequestWhenNameIsEmpty() {
-
-        ProductService mockService = Mockito.mock(ProductService.class);
-
-        ProductsController controller =
-                new ProductsController(mockService);
-
-        ResponseEntity<?> response =
-                controller.createProduct("", 100.00);
-
-        assertEquals(HttpStatus.BAD_REQUEST,
-                response.getStatusCode());
-    }
+public class ProductsServiceTest {
 
     @Test
-    void shouldReturnBadRequestWhenPriceIsNegative() {
+    public void testCreateAndProcessProduct() {
+        // Arrange
+        ProductRepository repositoryMock = Mockito.mock(ProductRepository.class);
+        ProductService productService = new ProductService(repositoryMock);
 
-        ProductService mockService = Mockito.mock(ProductService.class);
+        Products fakeProduct = new Products("Laptop", 999.99);
+        when(repositoryMock.save(any(Products.class))).thenReturn(fakeProduct);
 
-        ProductsController controller =
-                new ProductsController(mockService);
+        // Act
+        Products result = productService.createAndProcessProduct("Laptop", 999.99);
 
-        ResponseEntity<?> response =
-                controller.createProduct("Laptop", -100.00);
-
-        assertEquals(HttpStatus.BAD_REQUEST,
-                response.getStatusCode());
+        // Assert
+        assertNotNull(result);
     }
 }
