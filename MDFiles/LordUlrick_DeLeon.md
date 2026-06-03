@@ -36,6 +36,8 @@
 
 **\<06/03/2026\>** : I learned about 9 GRASP Principles and how they help make the code organized, maintainable, and flexible, next time I will apply it more for a cleaner code.
 
+**\<06/03/2026\>** : I learned about SOLID Principles and how they help create flexible and maintainable software by promoting good object-oriented design practices and reducing code complexity, next time I will follow these principles when practicing.
+
 ---
 
 ## 👥 Peer feedback
