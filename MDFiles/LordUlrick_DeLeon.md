@@ -32,6 +32,10 @@
 
 **\<05/26/2026\>** : I learned about Database, next time I will apply it more when I practice using it.
 
+**\<05/29/2026\>** : I learned about Fullstack, next time I will practice more and deepen my understanding of it.
+
+**\<06/03/2026\>** : I learned about 9 GRASP Principles and how they help make the code organized, maintainable, and flexible, next time I will apply it more for a cleaner code.
+
 ---
 
 ## 👥 Peer feedback
