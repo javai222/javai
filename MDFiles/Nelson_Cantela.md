@@ -5,19 +5,20 @@
 
 | Date       | Activity Type     | Title                                                                                                          | Score | Total Points |
 |------------|-------------------|----------------------------------------------------------------------------------------------------------------|-------|--------------|
-| 05/31/2026 | PR Review         | commented and request change on Saan's (added an evidence) pr: #810                                            | 2     | 168          |
-| 05/31/2026 | PR Review         | commented and request change on Saan's (TDD and Teamchangelog) pr: #809                                        | 2     | 166          |
-| 05/31/2026 | PR Review         | commented and request change on Silva's (Personal md file) pr: 808                                             | 2     | 164          |
-| 05/30/2026 | PR Review         | commented and request change on Torefranca's (GRASP activity) pr: #795                                         | 2     | 162          |
-| 05/30/2026 | PR Review         | commented and request change on Torefranca's (Fullstack activity) pr: #794                                     | 2     | 160          |
-| 05/30/2026 | PR Review         | commented and request change on Mance's (SOLID activity) pr: #793                                              | 3     | 158          |
-| 05/30/2026 | PR Review         | commented and request change on Saan's (GRASP activity) pr: #792                                               | 2     | 155          |
-| 05/30/2026 | PR Review         | commented and approve on De Leon's (Fullstack activity) pr: #791                                               | 2     | 153          |
-| 05/30/2026 | PR Review         | commented and request change on Mance's (GRASP activity) pr: #790                                              | 3     | 151          |
-| 05/30/2026 | PR Review         | commented and approved on Mance's (Fullstack activity) pr: #789                                                | 2     | 148          |
-| 05/30/2026 | PR Review         | commented and approved on Casapao's (GRASP activity) pr: #788                                                  | 2     | 146          |
-| 05/30/2026 | PR Review         | commented and approved on Plantilla's (fullstack activity) pr: #787                                            | 2     | 144          |
-| 05/30/2026 | PR Review         | commented and approved on Mance's (Database activity) pr: #786                                                 | 2     | 142          |
+| 05/31/2026 | PR Review         | commented and request change on Saan's (added an evidence) pr: #810                                            | 2     | 196          |
+| 05/31/2026 | PR Review         | commented and request change on Saan's (TDD and Teamchangelog) pr: #809                                        | 2     | 194          |
+| 05/31/2026 | PR Review         | commented and request change on Silva's (Personal md file) pr: 808                                             | 2     | 192          |
+| 05/30/2026 | PR Review         | commented and request change on Torefranca's (GRASP activity) pr: #795                                         | 2     | 190          |
+| 05/30/2026 | PR Review         | commented and request change on Torefranca's (Fullstack activity) pr: #794                                     | 2     | 188          |
+| 05/30/2026 | PR Review         | commented and request change on Mance's (SOLID activity) pr: #793                                              | 3     | 186          |
+| 05/30/2026 | PR Review         | commented and request change on Saan's (GRASP activity) pr: #792                                               | 2     | 184          |
+| 05/30/2026 | PR Review         | commented and approve on De Leon's (Fullstack activity) pr: #791                                               | 2     | 182          |
+| 05/30/2026 | PR Review         | commented and request change on Mance's (GRASP activity) pr: #790                                              | 3     | 180          |
+| 05/30/2026 | PR Review         | commented and approved on Mance's (Fullstack activity) pr: #789                                                | 2     | 177          |
+| 05/30/2026 | PR Review         | commented and approved on Casapao's (GRASP activity) pr: #788                                                  | 2     | 175          |
+| 05/30/2026 | PR Review         | commented and approved on Plantilla's (fullstack activity) pr: #787                                            | 2     | 173          |
+| 05/30/2026 | PR Review         | commented and approved on Mance's (Database activity) pr: #786                                                 | 2     | 171          |
+| 05/14/2026 | Quiz              | QUIZ OOP LAB TIME                                                                                              | 29    | 169          |
 | 04/28/2026 | YML configuration | change the yml file to detect maven projects and build it properly                                             | --    | 140          |
 | 04/28/2026 | PR Review         | commented and appproved on Saan's (Added code analysis) pr: #727                                               | 2     | 140          |
 | 04/28/2026 | PR Review         | commented and appproved on Javier's (package-build act) pr: #726                                               | 2     | 138          |
