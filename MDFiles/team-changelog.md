@@ -15,7 +15,7 @@ Jasmin Ann M. Casapao	2025-1020028	05/31/2026	SOLID TDD Lab	Completed! <br>
 
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	SOLID TDD Lab	!
 
-Lord Ulrick A. De Leon	2025-1025177	05/31/2026	SOLID TDD Lab	!
+Lord Ulrick A. De Leon	2025-1025177	06/03/2026	SOLID TDD Lab	!
 
 Henry S. Dolormente II	2025-1023364	05/31/2026	SOLID TDD Lab	!
 
@@ -51,7 +51,7 @@ Jasmin Ann M. Casapao	2025-1020028	05/29/2026	GRASP_UT Lab Completed!
 
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	GRASP_UT Lab
 
-Lord Ulrick A. De Leon	2025-1025177	05/31/2026	GRASP_UT Lab
+Lord Ulrick A. De Leon	2025-1025177	06/03/2026	GRASP_UT Lab
 
 Henry S. Dolormente II	2025-1023364	05/31/2026	GRASP_UT Lab
 
@@ -87,7 +87,7 @@ Jasmin Ann M. Casapao	2025-1020028	05/10/2026	OOP-Fullstack Lab	Completed!
 
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	OOP-Fullstack Lab	Completed!
 
-Lord Ulrick A. De Leon	2025-1025177	05/31/2026	OOP-Fullstack Lab	Completed!
+Lord Ulrick A. De Leon	2025-1025177	05/29/2026	OOP-Fullstack Lab	Completed!
 
 Henry S. Dolormente II	2025-1023364	05/31/2026	OOP-Fullstack Lab	Completed! <br>
 **BONUSES APPLIED:** Validation, Error Handling, Better UI Styling, Loading states
@@ -125,7 +125,7 @@ Jasmin Ann M. Casapao	2025-1020028	05/01/2026	OOP-Databases Lab	Completed!
 
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	OOP-Databases Lab	Completed!
 
-Lord Ulrick A. De Leon	2025-1025177	05/31/2026	OOP-Databases Lab	Completed!
+Lord Ulrick A. De Leon	2025-1025177	05/26/2026	OOP-Databases Lab	Completed!
 
 Henry S. Dolormente II	2025-1023364	05/31/2026	OOP-Databases Lab	Completed! <br>
 **BONUSES APPLIED:** Validation, and Exception Handling.
@@ -159,7 +159,7 @@ Jasmin Ann M. Casapao	2025-1020028	04/29/26	Spring-Boot Lab	Completed!
 
 Rahzel Heeroe R. Conel	2025-1025122	05/31/2026	Spring-Boot Lab	Completed!
 
-Lord Ulrick A. De Leon	2025-1025177	05/31/2026	Spring-Boot Lab	Completed!
+Lord Ulrick A. De Leon	2025-1025177	05/07/2026	Spring-Boot Lab	Completed!
 
 Henry S. Dolormente II	2025-1023364	05/31/2026	Spring-Boot Lab	Completed!
 
@@ -186,6 +186,8 @@ Vincent Christopher P. Torrefranca	2025-1029269	05/31/2026	Spring-Boot Lab	Compl
 Chris Nelson B. Cantela	2025-1020643	04/26/2026	Packages and Organization Lab	Completed!
 
 Jasmin Ann M. Casapao	2025-1020028	04/27/26	Packages and Organization Lab	Completed!
+
+Lord Ulrick A. De Leon	2025-1025177	04/27/2026	Packages and Organization Lab	Completed!
 
 Jophel Mark P. Plantilla	2025-1026473	04/27/2026	Packages and Organization Lab	Completed!
 
